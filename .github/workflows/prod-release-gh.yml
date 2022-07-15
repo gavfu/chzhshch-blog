@@ -1,0 +1,31 @@
+name: Github Pages Deploy
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    if: github.repository == 'gavfu/chzhshch-blog'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+        
+      - name: Install dependencies
+        uses: Borales/actions-yarn@v2.3.0
+        with:
+          cmd: install
+
+      - name: Build for production
+        uses: Borales/actions-yarn@v2.3.0
+        with:
+          cmd: build
+
+      - name: Deploy Gh-Pages 🚀
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          cname: chzhshch.blog
