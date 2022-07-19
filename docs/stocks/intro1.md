@@ -1,6 +1,7 @@
 ---
 id: intro1
 title: ''
+hide_table_of_contents: true
 ---
 
 # 引言之一：群狼争肉--国有股流通与国有资产蚕食、瓜分游戏！

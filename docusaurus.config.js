@@ -64,15 +64,15 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'confucius/confucius1',
+            docId: 'confucius/01',
             position: 'left',
-            label: '《论语》详解',
+            label: '文史哲学（《论语》详解）',
           },
-          // {
-          //   href: 'https://github.com/gavfu/chzhshch-blog',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://github.com/gavfu/chzhshch-blog',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       colorMode: {

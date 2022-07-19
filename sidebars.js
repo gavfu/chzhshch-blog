@@ -19,7 +19,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'stocks/intro1',
-      label: '引言之一：群狼争肉--国有股流通与国有资产蚕食、瓜分游戏！'
+      label: '引言之一：群狼争肉--国有股流通与国有资产蚕食、瓜分游戏！（2006/3/10 0:11:53）'
     },
     {
       type: 'doc',
@@ -580,13 +580,173 @@ const sidebars = {
   confuciusSidebar: [
     {
       type: 'doc',
-      id: 'confucius/confucius1',
-      label: '《论语》详解：给所有曲解孔子的人（一）'
+      id: 'confucius/misc01',
+      label: '外国人为什么产生不了哲学和哲学家？ (2006/2/4 11:54:32)'
     },
     {
       type: 'doc',
-      id: 'confucius/confucius2',
-      label: '《论语》详解：给所有曲解孔子的人（二）'
+      id: 'confucius/misc02',
+      label: '必须重新确立蒋介石在抗战中不可替代的历史功绩 (2006/2/6 17:15:32)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc03',
+      label: '旧中国尚有“清史稿”，新中国的“民国史”呢？ (2006/2/9 16:19:05)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc04',
+      label: '不管怎样，民国就是二战的战胜国！！！ (2006/2/11 11:34:24)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc05',
+      label: '民国，是也只是中华民族历史上的一个朝代！ (2006/2/13 21:53:53)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc06',
+      label: '右派，“毛泽东神话”的真正制造者。 (2006/2/25 15:00:24)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc07',
+      label: '用股票技术分析的方法考察毛泽东现象！ (2006/3/11 22:02:02)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc08',
+      label: '必须对南怀瑾“大师”的流毒进行定点清除！ (2006/3/15 18:59:29)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc09',
+      label: '何新，宗门事大，莫乱统！ (2006/3/15 19:49:03)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc10',
+      label: '抹杀阶级斗争就是真正的阶级斗争！ (2006/3/16 11:29:13)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc11',
+      label: '蒋介石当然有权利和必要对杨虎城、张学良采取强制措施 (2006/3/17 20:06:26)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc12',
+      label: '人民战争，月经般的错误，护舒宝般的粉饰！ (2006/3/19 13:22:40)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc13',
+      label: '“天人合一”学说，一切中国式伪科学滋生的最大温床！ (2006/3/28 14:21:38)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc14',
+      label: '从为人民服务到为人民币服务是历史的巨大进步！ (2006/4/1 23:28:02)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc15',
+      label: '必要的民族主义，单纯、裸露地问题了！ (2006/4/2 22:05:52)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc16',
+      label: '打倒《红楼梦》，凭什么为一本破书大量耗费资源？ (2006/4/11 21:23:37)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc17',
+      label: '阉割伪全面！ (2006/4/17 16:55:57)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc18',
+      label: '大救星，比救世主还要救世主的救世主！ (2006/4/18 21:29:10)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc19',
+      label: '布什，当今世界的大救星！ (2006/4/19 21:42:50)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc20',
+      label: '“五四”，中国历史发展的巨大陷阱！ (2006/5/7 23:00:07)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc21',
+      label: '将如来打杀了喂狗！ (2006/7/9 17:51:50)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc22',
+      label: '别把儒家的“人性自赋、佛性人成”栽赃给佛家！ (2006/7/26 12:42:56)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc23',
+      label: '强盗逻辑也是逻辑，历史不相信眼泪！ (2006/8/8 14:18:12)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc24',
+      label: '普通话里带着汉语被强暴的哀号！ (2006/8/15 13:29:56)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc25',
+      label: '鲁迅也能成大师的时代，有的只能是人屁大师！ (2006/10/3 14:24:17)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/01',
+      label: '《论语》详解：给所有曲解孔子的人（一） (2006/10/13 21:28:22)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/02',
+      label: '《论语》详解：给所有曲解孔子的人（二） (2006/10/14 12:23:01)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/03',
+      label: '《论语》详解：给所有曲解孔子的人（三） (2006/10/14 22:55:17)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/04',
+      label: '《论语》详解：给所有曲解孔子的人（四） (2006/10/15 12:45:12)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/05',
+      label: '《论语》详解：给所有曲解孔子的人（五） (2006/10/16 12:05:01)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/06',
+      label: '《论语》详解：给所有曲解孔子的人（六） (2006/10/17 12:07:07)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/07',
+      label: '《论语》详解：给所有曲解孔子的人（七） (2006/10/18 12:17:29)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/08',
+      label: '《论语》详解：给所有曲解孔子的人（八） (2006/10/19 12:02:21)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/announcement',
+      label: '公告 (2006/10/19 16:37:53)'
     },
   ]
 

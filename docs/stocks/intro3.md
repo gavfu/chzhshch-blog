@@ -1,6 +1,7 @@
 ---
 id: intro3
 title: ''
+hide_table_of_contents: true
 ---
 
 # 引言之三：收购中国，从宝邯之争说起！

@@ -1,6 +1,7 @@
 ---
 id: intro4
 title: ''
+hide_table_of_contents: true
 ---
 
 # 引言之四：长虹，老子变孙子，只要三亿美圆！
