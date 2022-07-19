@@ -65,12 +65,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'stocks/introduction1',
             position: 'left',
             label: '教你炒股票',
           },
           {
-            to: '/blog',
+            type: 'doc',
+            docId: 'confucius/confucius1',
             position: 'left',
             label: '《论语》详解',
           },
