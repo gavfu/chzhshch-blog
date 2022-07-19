@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '缠中说禅',
+  title: '全球第一博客——缠中说禅',
   tagline: 'Dinosaurs are cool',
   url: 'https://chzhshch.blog',
   baseUrl: '/',
@@ -36,15 +36,8 @@ const config = {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/gavfu/chzhshch-blog/edit/main/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/gavfu/chzhshch-blog/edit/main/',
+          // editUrl:
+          //   'https://github.com/gavfu/chzhshch-blog/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -75,11 +68,11 @@ const config = {
             position: 'left',
             label: '《论语》详解',
           },
-          {
-            href: 'https://github.com/gavfu/chzhshch-blog',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/gavfu/chzhshch-blog',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       colorMode: {
