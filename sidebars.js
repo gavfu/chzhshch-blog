@@ -18,13 +18,563 @@ const sidebars = {
   stocksSidebar: [
     {
       type: 'doc',
-      id: 'stocks/introduction1',
-      label: '引言一'
+      id: 'stocks/intro1',
+      label: '引言之一：群狼争肉--国有股流通与国有资产蚕食、瓜分游戏！'
     },
     {
       type: 'doc',
-      id: 'stocks/introduction2',
-      label: '引言二'
+      id: 'stocks/intro2',
+      label: '引言之二：股市闲谈：G股是G点，大牛不用套！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/intro3',
+      label: '引言之三：收购中国，从宝邯之争说起！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/intro4',
+      label: '引言之四：长虹，老子变孙子，只要三亿美圆！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/001',
+      label: '教你炒股票1：不会赢钱的经济人，只是废人'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/002',
+      label: '教你炒股票2：没有庄家，有的只是赢家和输家'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/003',
+      label: '教你炒股票3：你的喜好，你的死亡陷阱！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/004',
+      label: '教你炒股票4：什么是理性？今早买N中工就是理性！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/005',
+      label: '教你炒股票5：市场无须分析，只要看和干！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/006',
+      label: '教你炒股票6：本ID如何在五粮液、包钢权证上提款的！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/007',
+      label: '教你炒股票7：给赚了指数亏了钱的一些忠告'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/008',
+      label: '教你炒股票8：投资如选面首，G点为中心，拒绝ED男'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/009',
+      label: '教你炒股票9：甄别“早泄”男的数学原则！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/010',
+      label: '教你炒股票10：2005年6月，本ID为何时隔四年后重看股票'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/011',
+      label: '教你炒股票11：不会吻，无以高潮！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/012',
+      label: '教你炒股票12：一吻何能消魂？'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/013',
+      label: '教你炒股票13：不带套的操作不是好操作！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/014',
+      label: '教你炒股票14：喝茅台的高潮程序！'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/015',
+      label: '教你炒股票15：没有趋势，没有背驰。'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/016',
+      label: '教你炒股票16：中小资金的高效买卖法。'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/017',
+      label: '教你炒股票17：走势终完美'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/018',
+      label: '教你炒股票18：不被面首的雏男是不完美的。'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/019',
+      label: '教你炒股票19：学习缠中说禅技术分析理论的关键'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/020',
+      label: '教你炒股票20：缠中说禅走势中枢级别扩张及第三类买卖点'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/021',
+      label: '教你炒股票21：缠中说禅买卖点分析的完备性'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/022',
+      label: '教你炒股票22：将8亿的大米装到5个庄家的肚里。'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/023',
+      label: '教你炒股票23：市场与人生'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/024',
+      label: '教你炒股票24：MACD对背弛的辅助判断'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/025',
+      label: '教你炒股票25：吻，MACD、背弛、中枢'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/026',
+      label: '教你炒股票26：市场风险如何回避'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/027',
+      label: '教你炒股票27： 盘整背驰与历史性底部'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/028',
+      label: '教你炒股票28：下一目标：摧毁基金'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/029',
+      label: '教你炒股票29：转折的力度与级别'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/030',
+      label: '教你炒股票30：缠中说禅理论的绝对性'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/031',
+      label: '教你炒股票31：资金管理的最稳固基础'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/032',
+      label: '教你炒股票32：走势的当下与投资者的思维方式'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/033',
+      label: '教你炒股票33：走势的多义性'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/034',
+      label: '教你炒股票34：宁当面首，莫成怨男'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/035',
+      label: '教你炒股票35：给基础差的同学补补课'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/036',
+      label: '教你炒股票36：走势类型连接结合性的简单运用'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/037',
+      label: '教你炒股票37：背驰的再分辨'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/038',
+      label: '教你炒股票38：走势类型连接的同级别分解'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/039',
+      label: '教你炒股票39：同级别分解再研究'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/040',
+      label: '教你炒股票40：同级别分解的多重赋格'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/041',
+      label: '教你炒股票41：没有节奏，只有死'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/042',
+      label: '教你炒股票42：有些人是不适合参与市场的'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/043',
+      label: '教你炒股票43：有关背驰的补习课'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/044',
+      label: '教你炒股票44：小级别背驰引发大级别转折'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/045',
+      label: '教你炒股票45：持股与持币，两种最基本的操作'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/046',
+      label: '教你炒股票46：每日走势的分类'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/047',
+      label: '教你炒股票47：一夜情行情分析'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/048',
+      label: '教你炒股票48：暴跌，牛市行情的一夜情'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/049',
+      label: '教你炒股票49：利润率最大的操作模式'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/050',
+      label: '教你炒股票50：操作中的一些细节问题'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/051',
+      label: '教你炒股票51：短线股评荐股者的传销把戏'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/052',
+      label: '教你炒股票52：炒股票就是真正的学佛'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/053',
+      label: '教你炒股票53：三类买卖点的再分辨'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/054',
+      label: '教你炒股票54：一个具体走势的分析'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/055',
+      label: '教你炒股票55：买之前戏，卖之高潮'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/056',
+      label: '教你炒股票56：530印花税当日行情图解'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/057',
+      label: '教你炒股票57：当下图解分析再示范'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/058',
+      label: '教你炒股票58：图解分析示范三'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/059',
+      label: '教你炒股票59：图解分析示范四'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/060',
+      label: '教你炒股票60：图解分析示范五'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/061',
+      label: '教你炒股票61：区间套定位标准图解（分析示范六）'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/062',
+      label: '教你炒股票62：分型、笔与线段'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/063',
+      label: '教你炒股票63：替各位理理基本概念'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/064',
+      label: '教你炒股票64：去机场路上给各位补课'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/065',
+      label: '教你炒股票65：再说说分型、笔、线段'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/066',
+      label: '教你炒股票66：主力资金的食物链'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/067',
+      label: '教你炒股票67：线段的划分标准'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/068',
+      label: '教你炒股票68：走势预测的精确意义'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/069',
+      label: '教你炒股票69：月线分段与上海大走势分析、预判'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/070',
+      label: '教你炒股票70：一个教科书式走势的示范分析'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/071',
+      label: '教你炒股票71：线段划分标准的再分辨'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/072',
+      label: '教你炒股票72：本ID已有课程的再梳理'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/073',
+      label: '教你炒股票73：市场获利机会的绝对分类'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/074',
+      label: '教你炒股票74：如何躲避政策性风险'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/075',
+      label: '教你炒股票75：逗庄家玩的一些杂史1'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/076',
+      label: '教你炒股票76：逗庄家玩的一些杂史2'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/077',
+      label: '教你炒股票77：一些概念的再分辨'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/078',
+      label: '教你炒股票78：继续说线段的划分'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/079',
+      label: '教你炒股票79：分型的辅助操作与一些问题的再解答'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/080',
+      label: '教你炒股票80：市场没有同情、不信眼泪'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/081',
+      label: '教你炒股票81：图例、更正及分型、走势类型的哲学本质'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/082',
+      label: '教你炒股票82：分型结构的心理因素'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/083',
+      label: '教你炒股票83：笔-线段与线段-最小中枢结构的不同心理意义1'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/084',
+      label: '教你炒股票84：本ID理论一些必须注意的问题'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/085',
+      label: '教你炒股票85：逗庄家玩的一些杂史3'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/086',
+      label: '教你炒股票86：走势分析中必须杜绝一根筋思维'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/087',
+      label: '教你炒股票87：逗庄家玩的一些杂史4'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/088',
+      label: '教你炒股票88：图形生长的一个具体案例'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/089',
+      label: '教你炒股票89：中阴阶段的具体分析'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/090',
+      label: '教你炒股票90：中阴阶段结束时间的辅助判断'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/091',
+      label: '教你炒股票91：走势结构的两重表里关系1'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/092',
+      label: '教你炒股票92：中枢震荡的监视器'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/093',
+      label: '教你炒股票93：走势结构的两重表里关系2'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/094',
+      label: '教你炒股票94：当机立断'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/095',
+      label: '教你炒股票95：修炼自己'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/096',
+      label: '教你炒股票96：无处不在的赌徒心理'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/097',
+      label: '教你炒股票97：中医、兵法、诗歌、操作1'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/098',
+      label: '教你炒股票98：中医、兵法、诗歌、操作2'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/099',
+      label: '教你炒股票99：走势结构的两重表里关系3'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/100',
+      label: '教你炒股票100：中医、兵法、诗歌、操作3'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/101',
+      label: '教你炒股票101：答疑1'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/102',
+      label: '教你炒股票102：再说走势必完美'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/103',
+      label: '教你炒股票103：学屠龙术前先学好防狼术'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/104',
+      label: '教你炒股票104：几何结构与能量动力结构1'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/105',
+      label: '教你炒股票105：远离聪明、机械操作'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/106',
+      label: '教你炒股票106：均线、轮动与缠中说禅板块强弱指标'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/107',
+      label: '教你炒股票107：如何操作短线反弹'
+    },
+    {
+      type: 'doc',
+      id: 'stocks/108',
+      label: '教你炒股票108：何谓底部？从月线看中期走势演化'
     },
   ],
   confuciusSidebar: [
