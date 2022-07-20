@@ -1028,6 +1028,101 @@ const sidebars = {
       id: 'confucius/63',
       label: '《论语》详解：给所有曲解孔子的人（63） (2007/4/11 15:36:09)'
     },
+    {
+      type: 'doc',
+      id: 'confucius/chitchat',
+      label: '今天扯点闲话。 (2007/4/13 15:31:25)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/64',
+      label: '《论语》详解：给所有曲解孔子的人（64） (2007/4/19 15:34:58)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/65',
+      label: '《论语》详解：给所有曲解孔子的人（65） (2007/5/22 8:48:56)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/66',
+      label: '《论语》详解：给所有曲解孔子的人（66） (2007/6/13 8:22:58)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/67',
+      label: '《论语》详解：给所有曲解孔子的人（67） (2007/8/20 22:36:24)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/68',
+      label: '《论语》详解：给所有曲解孔子的人（68） (2007/8/28 21:57:19)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/69',
+      label: '《论语》详解：给所有曲解孔子的人（69） (2007/9/9 18:34:12)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/70',
+      label: '《论语》详解：给所有曲解孔子的人（70） (2007/9/19 21:22:55)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc27',
+      label: '和谐世界的真义 (2007/11/21 23:00:35)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/71',
+      label: '《论语》详解：给所有曲解孔子的人（71） (2007/12/18 21:02:26)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc28',
+      label: '毛泽东与周树人 (2008/1/2 19:58:17)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc29',
+      label: '自古以来超第一英明神武的政治高手 (2008/1/3 16:33:13)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc30',
+      label: '中神通，周翔宇。 (2008/1/8 16:53:58)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc31',
+      label: '本ID与癌症的第一次亲密接触 (2008/4/24 19:37:32)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc32',
+      label: '该如何评价历史人物(附录解盘) (2008/6/5 9:41:51)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc33',
+      label: '21世纪依然担心言论自由的中国人是可耻的(附录解盘) (2008/6/6 9:52:47)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc34',
+      label: '今年诸多灾难与妖蛾子事的历史性解释 (2008/6/10 16:40:36)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc35',
+      label: '解盘、治癌及周末与下周本ID动态预告 (2008/6/12 15:23:31)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc36',
+      label: '阉割 (2008/6/23 18:52:18)'
+    },
   ]
 
   // But you can create a sidebar manually
