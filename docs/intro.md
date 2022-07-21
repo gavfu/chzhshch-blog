@@ -9,3 +9,4 @@ hide_table_of_contents: true
 
 ### [文史哲学（《论语》详解）](confucius/20060204)
 
+### [缠中说禅](zen/intro)

@@ -69,6 +69,12 @@ const config = {
             label: '文史哲学（《论语》详解）',
           },
           {
+            type: 'doc',
+            docId: 'zen/intro',
+            position: 'left',
+            label: '缠中说禅',
+          },
+          {
             href: 'https://github.com/gavfu/chzhshch-blog',
             label: 'GitHub',
             position: 'right',
