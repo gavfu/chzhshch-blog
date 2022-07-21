@@ -64,7 +64,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'confucius/01',
+            docId: 'confucius/20060204',
             position: 'left',
             label: '文史哲学（《论语》详解）',
           },

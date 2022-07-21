@@ -580,127 +580,127 @@ const sidebars = {
   confuciusSidebar: [
     {
       type: 'doc',
-      id: 'confucius/misc01',
+      id: 'confucius/20060204',
       label: '外国人为什么产生不了哲学和哲学家？ (2006/2/4 11:54:32)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc02',
+      id: 'confucius/20060206',
       label: '必须重新确立蒋介石在抗战中不可替代的历史功绩 (2006/2/6 17:15:32)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc03',
+      id: 'confucius/20060209',
       label: '旧中国尚有“清史稿”，新中国的“民国史”呢？ (2006/2/9 16:19:05)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc04',
+      id: 'confucius/20060211',
       label: '不管怎样，民国就是二战的战胜国！！！ (2006/2/11 11:34:24)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc05',
+      id: 'confucius/20060213',
       label: '民国，是也只是中华民族历史上的一个朝代！ (2006/2/13 21:53:53)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc06',
+      id: 'confucius/20060225',
       label: '右派，“毛泽东神话”的真正制造者。 (2006/2/25 15:00:24)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc07',
+      id: 'confucius/20060311',
       label: '用股票技术分析的方法考察毛泽东现象！ (2006/3/11 22:02:02)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc08',
+      id: 'confucius/20060315',
       label: '必须对南怀瑾“大师”的流毒进行定点清除！ (2006/3/15 18:59:29)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc09',
+      id: 'confucius/200603151949',
       label: '何新，宗门事大，莫乱统！ (2006/3/15 19:49:03)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc10',
+      id: 'confucius/20060316',
       label: '抹杀阶级斗争就是真正的阶级斗争！ (2006/3/16 11:29:13)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc11',
+      id: 'confucius/20060317',
       label: '蒋介石当然有权利和必要对杨虎城、张学良采取强制措施 (2006/3/17 20:06:26)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc12',
+      id: 'confucius/20060319',
       label: '人民战争，月经般的错误，护舒宝般的粉饰！ (2006/3/19 13:22:40)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc13',
+      id: 'confucius/20060328',
       label: '“天人合一”学说，一切中国式伪科学滋生的最大温床！ (2006/3/28 14:21:38)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc14',
+      id: 'confucius/20060401',
       label: '从为人民服务到为人民币服务是历史的巨大进步！ (2006/4/1 23:28:02)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc15',
+      id: 'confucius/20060402',
       label: '必要的民族主义，单纯、裸露地问题了！ (2006/4/2 22:05:52)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc16',
+      id: 'confucius/20060411',
       label: '打倒《红楼梦》，凭什么为一本破书大量耗费资源？ (2006/4/11 21:23:37)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc17',
+      id: 'confucius/20060417',
       label: '阉割伪全面！ (2006/4/17 16:55:57)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc18',
+      id: 'confucius/20060418',
       label: '大救星，比救世主还要救世主的救世主！ (2006/4/18 21:29:10)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc19',
+      id: 'confucius/20060419',
       label: '布什，当今世界的大救星！ (2006/4/19 21:42:50)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc20',
+      id: 'confucius/20060507',
       label: '“五四”，中国历史发展的巨大陷阱！ (2006/5/7 23:00:07)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc21',
+      id: 'confucius/20060709',
       label: '将如来打杀了喂狗！ (2006/7/9 17:51:50)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc22',
+      id: 'confucius/20060726',
       label: '别把儒家的“人性自赋、佛性人成”栽赃给佛家！ (2006/7/26 12:42:56)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc23',
+      id: 'confucius/20060808',
       label: '强盗逻辑也是逻辑，历史不相信眼泪！ (2006/8/8 14:18:12)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc24',
+      id: 'confucius/20060815',
       label: '普通话里带着汉语被强暴的哀号！ (2006/8/15 13:29:56)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc25',
+      id: 'confucius/20061003',
       label: '鲁迅也能成大师的时代，有的只能是人屁大师！ (2006/10/3 14:24:17)'
     },
     {
@@ -925,7 +925,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'confucius/misc26',
+      id: 'confucius/20061228',
       label: '非问题之“我是谁？从哪里来？到哪里去？” (2006/12/28 15:30:28)'
     },
     {
@@ -1070,7 +1070,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'confucius/misc27',
+      id: 'confucius/20071121',
       label: '和谐世界的真义 (2007/11/21 23:00:35)'
     },
     {
@@ -1080,47 +1080,47 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'confucius/misc28',
+      id: 'confucius/20080102',
       label: '毛泽东与周树人 (2008/1/2 19:58:17)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc29',
+      id: 'confucius/20080103',
       label: '自古以来超第一英明神武的政治高手 (2008/1/3 16:33:13)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc30',
+      id: 'confucius/20080108',
       label: '中神通，周翔宇。 (2008/1/8 16:53:58)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc31',
+      id: 'confucius/20080424',
       label: '本ID与癌症的第一次亲密接触 (2008/4/24 19:37:32)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc32',
+      id: 'confucius/20080605',
       label: '该如何评价历史人物(附录解盘) (2008/6/5 9:41:51)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc33',
+      id: 'confucius/20080606',
       label: '21世纪依然担心言论自由的中国人是可耻的(附录解盘) (2008/6/6 9:52:47)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc34',
+      id: 'confucius/20080610',
       label: '今年诸多灾难与妖蛾子事的历史性解释 (2008/6/10 16:40:36)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc35',
+      id: 'confucius/20080612',
       label: '解盘、治癌及周末与下周本ID动态预告 (2008/6/12 15:23:31)'
     },
     {
       type: 'doc',
-      id: 'confucius/misc36',
+      id: 'confucius/20080623',
       label: '阉割 (2008/6/23 18:52:18)'
     },
     {
@@ -1130,7 +1130,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'confucius/misc37',
+      id: 'confucius/20080810',
       label: '为何既得利益者一致热捧如此无耻堕落的开幕式? (2008/8/10 7:50:26)'
     },
     {
