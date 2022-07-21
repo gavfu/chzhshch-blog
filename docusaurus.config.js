@@ -58,7 +58,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'stocks/intro1',
+            docId: 'stocks/001',
             position: 'left',
             label: '教你炒股票',
           },
