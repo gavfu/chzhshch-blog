@@ -1123,6 +1123,31 @@ const sidebars = {
       id: 'confucius/misc36',
       label: '阉割 (2008/6/23 18:52:18)'
     },
+    {
+      type: 'doc',
+      id: 'confucius/disease01',
+      label: '给所有会生病的人（一） (2008/6/29 9:44:41)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/misc37',
+      label: '为何既得利益者一致热捧如此无耻堕落的开幕式? (2008/8/10 7:50:26)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/concert',
+      label: '什么才是真正的“和”？ (2008/8/14 8:03:14)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/20080824',
+      label: '病好后一定清算中国目前霸权的西医体系 (2008/8/24 18:06:51)'
+    },
+    {
+      type: 'doc',
+      id: 'confucius/chanmedicine',
+      label: '严重预告:本周开讲缠中说禅中医学 (2008/8/27 15:45:46)'
+    },
   ]
 
   // But you can create a sidebar manually
