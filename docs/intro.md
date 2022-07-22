@@ -5,7 +5,11 @@ slug: /
 hide_table_of_contents: true
 ---
 
+<div style={{textAlign:'center'}}>
+
 # 本站宗旨
+
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', display: 'inline-block', textAlign: 'left'}}>
 
 1、取 [新浪缠博](http://blog.sina.com.cn/chzhshch) 而代之，破除知识垄断、篡改与阉割
 
@@ -16,8 +20,8 @@ hide_table_of_contents: true
 4、借助Web3技术，实现站点的永久存储与访问
 
 5、收集相关资料，成为 `缠中说禅` 的 `Single Source of Truth`
-
-<br/>
+</div>
+<br/><br/>
 
 # 文章分类
 
@@ -28,3 +32,5 @@ hide_table_of_contents: true
 ## [缠中说禅](zen/intro)
 
 ## [诗词曲赋](poems/linjiangxian)
+
+</div>
