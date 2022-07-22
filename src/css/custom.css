@@ -16,6 +16,7 @@
   --ifm-code-font-size: 95%;
   --ifm-table-stripe-background: none !important;
   --ifm-table-border-width: 0px;
+  --ifm-h1-font-size: 2.5rem;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -30,5 +31,11 @@
   --ifm-color-primary-lightest: #4fddbf;
   --ifm-table-stripe-background: none !important;
   --ifm-table-border-width: 0px;
+  --ifm-h1-font-size: 2.5rem;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.5rem;
+  margin-bottom: calc( var(--ifm-h1-vertical-rhythm-bottom) * var(--ifm-leading) );
 }

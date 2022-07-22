@@ -75,6 +75,12 @@ const config = {
             label: '缠中说禅',
           },
           {
+            type: 'doc',
+            docId: 'poems/linjiangxian',
+            position: 'left',
+            label: '诗词曲赋',
+          },
+          {
             href: 'https://github.com/gavfu/chzhshch-blog',
             label: 'GitHub',
             position: 'right',

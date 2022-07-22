@@ -341,7 +341,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/swanpoem',
+    id: 'zen/swansong',
     label: '明天开始化疗 (2008/5/10 17:00:19)'
   },
   {

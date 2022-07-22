@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 # 本站宗旨
 
-1、取[新浪缠博](http://blog.sina.com.cn/chzhshch)而代之，破除知识垄断、篡改与阉割
+1、取 [新浪缠博](http://blog.sina.com.cn/chzhshch) 而代之，破除知识垄断、篡改与阉割
 
 2、保留原汁原味的博文与评论，反对任何形式的夹带私货、贩卖牟利
 
@@ -15,7 +15,7 @@ hide_table_of_contents: true
 
 4、借助Web3技术，实现站点的永久存储与访问
 
-5、收集相关资料，成为`缠中说禅`的`Single Source of Truth`
+5、收集相关资料，成为 `缠中说禅` 的 `Single Source of Truth`
 
 <br/>
 
@@ -26,3 +26,5 @@ hide_table_of_contents: true
 ## [文史哲学（《论语》详解）](confucius/20060204)
 
 ## [缠中说禅](zen/intro)
+
+## [诗词曲赋](poems/linjiangxian)
