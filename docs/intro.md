@@ -19,13 +19,15 @@ hide_table_of_contents: true
 
 4、借助Web3技术，实现站点的永久存储与访问
 
-5、收集相关资料，成为 `缠中说禅` 的 `Single Source of Truth`
+5、收集相关资料，成为 `缠中说禅` 的 `Single Source of Truth`。[点此下载](download)
 </div>
 <br/><br/>
 
 # 文章分类
 
 ## [教你炒股票](stocks/001)
+
+## [时政经济（缠中说禅经济学）](economics/stockschat)
 
 ## [文史哲学（《论语》详解）](confucius/20060204)
 

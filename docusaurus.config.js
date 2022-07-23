@@ -64,6 +64,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'economics/stockschat',
+            position: 'left',
+            label: '时政经济（缠中说禅经济学）',
+          },
+          {
+            type: 'doc',
             docId: 'confucius/20060204',
             position: 'left',
             label: '文史哲学（《论语》详解）',
@@ -79,6 +85,12 @@ const config = {
             docId: 'poems/linjiangxian',
             position: 'left',
             label: '诗词曲赋',
+          },
+          {
+            type: 'doc',
+            docId: 'download',
+            position: 'right',
+            label: '下载',
           },
           {
             href: 'https://github.com/gavfu/chzhshch-blog',
