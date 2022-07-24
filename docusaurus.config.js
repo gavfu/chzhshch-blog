@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '全球第一博客—缠中说禅',
+  title: '全球第一博客 — 缠中说禅',
   tagline: 'Dinosaurs are cool',
   url: 'https://chzhshch.blog',
   baseUrl: '/',
@@ -85,6 +85,12 @@ const config = {
             docId: 'poems/linjiangxian',
             position: 'left',
             label: '诗词曲赋',
+          },
+          {
+            type: 'doc',
+            docId: 'fluid/01',
+            position: 'left',
+            label: '那一夜，他的体液喷了我一身',
           },
           {
             type: 'doc',
