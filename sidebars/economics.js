@@ -11,6 +11,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'economics/xianghuoju',
+    label: '偶见湘火炬广告牌，口占五绝。 (2007/5/15 15:14:19)'
+  },
+  {
+    type: 'doc',
     id: 'economics/warning',
     label: '请远离所有借股票收费者！ (2007/5/25 8:52:29)'
   },
