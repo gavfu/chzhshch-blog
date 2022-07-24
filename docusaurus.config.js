@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '全球第一博客——缠中说禅',
+  title: '全球第一博客—缠中说禅',
   tagline: 'Dinosaurs are cool',
   url: 'https://chzhshch.blog',
   baseUrl: '/',
