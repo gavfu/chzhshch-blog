@@ -64,7 +64,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'economics/stockschat',
+            docId: 'economics/20060225',
             position: 'left',
             label: '时政经济（缠中说禅经济学）',
           },

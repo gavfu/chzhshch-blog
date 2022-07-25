@@ -27,7 +27,7 @@ hide_table_of_contents: true
 
 ## [教你炒股票](stocks/001)
 
-## [时政经济（缠中说禅经济学）](economics/stockschat)
+## [时政经济（缠中说禅经济学）](economics/20060225)
 
 ## [文史哲学（《论语》详解）](confucius/20060204)
 
