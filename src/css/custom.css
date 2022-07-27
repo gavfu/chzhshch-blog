@@ -39,3 +39,10 @@
   --ifm-h1-font-size: 2.5rem;
   margin-bottom: calc( var(--ifm-h1-vertical-rhythm-bottom) * var(--ifm-leading) );
 }
+
+.blog-comment {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-pagination-nav-border-radius);
+  padding: var(--ifm-global-spacing);
+  margin: 20px 0px;
+}
