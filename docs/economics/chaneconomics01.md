@@ -27,12 +27,12 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red'}}>缠中说禅</span> 2006/7/21 16:26:57 <br/>
+<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/7/21 16:26:57 <br/>
 这就是正文，没有笔误。如果觉得这不是正文，那是受毒太深！
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red'}}>缠中说禅</span> 2006/7/21 16:29:41 <br/>
+<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/7/21 16:29:41 <br/>
 风流禅 <br/><br/>
 
 2006-07-21 14:09:22 <br/>

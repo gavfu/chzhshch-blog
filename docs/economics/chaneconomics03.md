@@ -30,6 +30,6 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red'}}>缠中说禅</span> 2006/7/24 20:45:35 <br/>
+<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/7/24 20:45:35 <br/>
 已经写得相对通俗，再通俗就没法写了。理论的创立和普及是两回事，理论要普及，自然有大把人将之通俗化，这好象不是本ID要干的事情。
 </div>

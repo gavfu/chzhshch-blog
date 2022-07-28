@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《怨妇词》下：故事非故事，怨妇非怨妇，几人能懂
 
 > 2006/3/6 11:28:55
@@ -15,7 +17,9 @@ hide_table_of_contents: true
                                                                  
 （续上）
 
-[TODO:PIC]
+<div style={{textAlign: 'center'}}>
+<img src={useBaseUrl('/img/poems/housewife2/1.jpeg')} /><br/><br/>
+</div>
 
 ## 三十四
 
