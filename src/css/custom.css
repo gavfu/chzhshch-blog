@@ -45,4 +45,5 @@
   border-radius: var(--ifm-pagination-nav-border-radius);
   padding: var(--ifm-global-spacing);
   margin: 20px 0px;
+  line-height: 200%
 }
