@@ -45,5 +45,11 @@
   border-radius: var(--ifm-pagination-nav-border-radius);
   padding: var(--ifm-global-spacing);
   margin: 20px 0px;
-  line-height: 200%
+  line-height: 200%;
+}
+
+.blog-comment-chan {
+  color: red;
+  font-weight: bold;
+  margin-right: 5px;
 }

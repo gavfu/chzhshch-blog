@@ -19,12 +19,12 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/10/18 17:09:40<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/10/18 17:09:40<br/>
 这和地域无关，别往上面扯！
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/10/19 15:49:16<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/10/19 15:49:16<br/>
 公告<br/><br/>
 
 本ID所写“《论语》详解-----给所有曲解孔子的人”皆发人所未发，已联系好写完后要出版，所以有关连载将只在本ID博客进行。请最好不要转载，如要转载，务必注明，免得以后要打版权官司。<br/><br/>

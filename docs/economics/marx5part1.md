@@ -23,23 +23,23 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/9/19 15:36:50<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/9/19 15:36:50<br/>
 公告<br/><br/>
 
 这是一个从哲学角度讨论马克思的论稿，用半文半白的古文，一般人都应该能看懂！
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span>  2006/9/19 15:38:56<br/>
+<span class='blog-comment-chan'>缠中说禅</span>  2006/9/19 15:38:56<br/>
 连载，待续。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/9/20 18:01:13<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/9/20 18:01:13<br/>
 本ID不删帖子，但与新浪无关的广告帖子会被新浪删的，各位注意！
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/9/20 18:04:02<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/9/20 18:04:02<br/>
 本ID不删帖子，但与新浪无关的广告帖子会被新浪删的，各位注意！
 </div>

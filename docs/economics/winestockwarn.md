@@ -34,17 +34,17 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 10:55:40<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 10:55:40<br/>
 新浪今天是不是有问题了,总打不开。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:00:16<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:00:16<br/>
 严重注意,本ID从来不推荐任何具体股票,更从来反对追高,要买就在第一类买点里买,不要搞糊涂了.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:07:24<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:07:24<br/>
 [匿名] GG <br/><br/>
 
  
@@ -59,7 +59,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:11:31<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:11:31<br/>
 [匿名] 小明 <br/><br/>
 
  
@@ -73,7 +73,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:21:57<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:21:57<br/>
 [匿名] 小明 <br/><br/>
 
  
@@ -88,12 +88,12 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:36:12<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:36:12<br/>
 打仗就会飞沙走石,谢绝散户参与,参观无妨,别到时候伤着,来本ID这里吵闹,本ID没这时间接待.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:40:31<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:40:31<br/>
 [匿名] 外科医生 <br/><br/>
 
  
@@ -106,7 +106,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:47:20<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:47:20<br/>
 [匿名] 淡定 <br/><br/>
 
  
@@ -121,7 +121,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:57:26<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:57:26<br/>
 [匿名] 小溪 <br/><br/>
 
  
@@ -154,14 +154,14 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 11:59:39<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 11:59:39<br/>
 <div style={{textAlign: 'center'}}>公告</div>
 
 今天就不写文章,本ID建立的那个圈子，已经有人在上面发表自己的文章,这个圈子欢迎所有人把自己的文章贴在上面互相交流。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 12:01:41<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 12:01:41<br/>
 [匿名] 妄语 <br/><br/>
 
  
@@ -174,7 +174,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 12:06:02<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 12:06:02<br/>
 [匿名] jeep2500 <br/><br/>
 
  
@@ -189,12 +189,12 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 12:07:05<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 12:07:05<br/>
 下了,再见.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 15:06:20<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 15:06:20<br/>
 <div style={{textAlign: 'center'}}>公告</div><br/>
 
 以后本ID这里不准备对具体个股与大盘走势发表任何具体意见,免得各位狐疑.所有走势与本ID无关,别瞎闹了.
@@ -210,11 +210,11 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 15:18:17<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 15:18:17<br/>
 对不起,你看上面,已经在说本ID是大盘的庄家还有个股的庄家,这种事情在本ID这里怎么可能会有答案,说了也白说,本ID不希望在这些无聊问题上纠缠,所以所有具体走势的问题暂时谢绝回答.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 15:22:49<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 15:22:49<br/>
 这个帖子就这样了，有问题请到新帖子里,但请不要问具体的个股问题,论语\技术\音乐\数学\科学\哲学\艺术\哲学\宗教等等都可以,就是不要问具体个股的可能走势.
 </div>

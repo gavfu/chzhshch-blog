@@ -31,7 +31,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:18:55<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:18:55<br/>
 今天的反复折腾在上周已经明确指出<br/><br/>
 
 2006-11-24 15:00:18 <br/>
@@ -41,14 +41,14 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:19:44<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:19:44<br/>
 还是那话，短线继续板块轮动，没动的都要动。调整是短线高手的天堂，当然，中线的也可以打点短差，技术一般的就看着吧，<br/>
 
 这“上上下下”的享受，也可以继续享受享受。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:23:33<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:23:33<br/>
 [匿名] 打死你我也不说 <br/><br/>
 
  
@@ -63,7 +63,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:33:23<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:33:23<br/>
 [匿名] 请教 <br/><br/>
 
 2006-11-27 09:12:21 <br/>
@@ -78,7 +78,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:36:43<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:36:43<br/>
 [匿名] 数妹fans <br/><br/>
 
  
@@ -93,7 +93,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:39:23<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:39:23<br/>
 [匿名] 青皮六 <br/><br/>
 
  
@@ -106,7 +106,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:40:57<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:40:57<br/>
 [匿名] 老无用 <br/><br/>
 
  
@@ -119,7 +119,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:47:46<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:47:46<br/>
 [匿名] 博主 <br/><br/>
 
  
@@ -133,7 +133,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:49:57<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:49:57<br/>
 [匿名] nlittle <br/><br/>
 
  
@@ -148,7 +148,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:54:29<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:54:29<br/>
 [匿名] 国平 <br/><br/>
 
  
@@ -163,7 +163,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 12:55:28<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 12:55:28<br/>
 [匿名] 海子 <br/><br/>
 
  
@@ -176,14 +176,14 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 缠中说禅 2006/11/27 15:10:23<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 缠中说禅 2006/11/27 15:10:23<br/>
 今天大盘的走势十分规范，最终就刚好收在本ID所强调的5日线上，其实，目前大盘并不太重要，关键是把握好个股轮动，本ID每次都反复强调这一点，强调不用怕调整，调整就是机会。<br/><br/>
 
 大盘结束调整后的这次上攻一旦完成，下一轮的调整将比较大，是全面性的，大多数个股都会跟着调，而不像这次，就大盘股调，这点是必须注意的，本ID事先告诉各位了。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:15:12<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:15:12<br/>
 [匿名] 是非 <br/><br/>
 
  
@@ -196,7 +196,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:17:51<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:17:51<br/>
 [匿名] 瞎鼓捣 <br/><br/>
 
  
@@ -209,7 +209,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:24:30<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:24:30<br/>
 [匿名] 外科医生 <br/><br/>
 
  
@@ -223,7 +223,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:27:25<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:27:25<br/>
 [匿名] mm <br/><br/>
 
  
@@ -236,7 +236,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:30:39<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:30:39<br/>
 [匿名] 想发财 <br/><br/>
 
  
@@ -251,7 +251,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:35:28<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:35:28<br/>
 [匿名] 冰火 <br/><br/>
 
  
@@ -272,7 +272,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:47:16<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:47:16<br/>
 [匿名] 7nt <br/><br/>
 
  
@@ -288,7 +288,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:50:07<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:50:07<br/>
 [匿名] 圆无边无实虚 <br/><br/>
 
  
@@ -305,7 +305,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:50:51<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:50:51<br/>
 [匿名] 真冰火 <br/><br/>
 
  
@@ -318,7 +318,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 15:53:23<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 15:53:23<br/>
 [匿名] 炼铁设备 <br/><br/>
 
  
@@ -330,12 +330,12 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 16:03:43<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 16:03:43<br/>
 有事先下，晚上有时间再上来，再见。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 21:39:46<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 21:39:46<br/>
 [匿名] 急等钱用 <br/><br/>
 
  
@@ -348,7 +348,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 21:43:15<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 21:43:15<br/>
 [匿名] 无言 <br/><br/>
 
  
@@ -362,7 +362,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 21:48:25<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 21:48:25<br/>
 [匿名] 想飞 <br/><br/>
 
  
@@ -377,7 +377,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 21:56:07<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 21:56:07<br/>
 [匿名] 炼铁设备 <br/><br/>
 
  
@@ -398,7 +398,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 21:58:09<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 21:58:09<br/>
 [匿名] lran <br/><br/>
 
  
@@ -412,7 +412,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 22:02:03<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 22:02:03<br/>
 [匿名] 面首 <br/><br/>
 
  
@@ -425,7 +425,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 22:04:55<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 22:04:55<br/>
 [匿名] 清 <br/><br/>
 
  
@@ -436,7 +436,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 22:10:42<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 22:10:42<br/>
 [匿名] 狼 <br/><br/>
 
  
@@ -450,7 +450,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 22:13:34<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 22:13:34<br/>
 [匿名] 关于有色股 <br/><br/>
 
  
@@ -464,7 +464,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 22:22:29<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 22:22:29<br/>
 [匿名] 小股民 <br/><br/>
 
  
@@ -479,7 +479,7 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 22:24:36<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 22:24:36<br/>
 [匿名] xuesheng <br/><br/>
 
  
@@ -493,12 +493,12 @@ LZ,请问600036调到位了吗 <br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/27 22:25:58<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/27 22:25:58<br/>
 晚了，下了，再见。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/28 9:04:17<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/28 9:04:17<br/>
 yahwang <br/><br/>
 
  
@@ -511,7 +511,7 @@ yahwang <br/><br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/28 9:07:54<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/28 9:07:54<br/>
 [匿名] LIVERPOOL <br/><br/>
 
  
@@ -529,7 +529,7 @@ yahwang <br/><br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/28 9:09:32<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/28 9:09:32<br/>
 [匿名] 密码 <br/><br/>
 
  
@@ -543,7 +543,7 @@ yahwang <br/><br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/11/28 12:54:39<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/11/28 12:54:39<br/>
 以后有新帖请到新帖子问。
 
 回答也在新帖子。

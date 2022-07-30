@@ -29,7 +29,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/9/14 12:00:39<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/9/14 12:00:39<br/>
 [匿名] 士敏 <br/><br/>
 
 2006-09-14 10:54:42 <br/>

@@ -21,12 +21,12 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/8/15 9:59:34<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/8/15 9:59:34<br/>
 楼上,你既然知道本ID要灭掉所有男人,为什么还一直围着本ID转?你发这么多留言,是想当本ID的面首?和本ID一起死?<br/>
 不过,本ID可不会用药渣陪葬
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/8/15 12:11:19<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/8/15 12:11:19<br/>
 只有你在楼上么？ 本ID说的是谁,难道还不明确么？你又何必做贼心虚？
 </div>

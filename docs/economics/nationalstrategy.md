@@ -71,6 +71,6 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/9/23 21:49:21<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/9/23 21:49:21<br/>
 谢绝与本帖无关回复，关于孔庆东之类的回复请到相应帖子。
 </div>

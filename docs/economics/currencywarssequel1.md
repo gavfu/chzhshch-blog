@@ -49,19 +49,19 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 11:53:17<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 11:53:17<br/>
 如果有文章要交流的,可以到本ID开的圈子里,现在已经有不少人发了不少文章,各位除了来看本ID的,也可以去看看其他人的,更可以自己发文章互相交流. 
 
 方法:点击本ID首页"我的圈子",然后按新浪提示操作就可以.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 11:55:39<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 11:55:39<br/>
 大概新浪博客和IE7.0有冲突，最近本ID装了IE7.0后，新浪博客连版都排不了了，各位就将就看吧。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 12:04:06<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 12:04:06<br/>
 [匿名] 摄影之友 <br/><br/>
 
  
@@ -75,7 +75,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 12:09:58<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 12:09:58<br/>
 [匿名] 罗布 <br/><br/>
 
  
@@ -92,7 +92,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 12:16:08<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 12:16:08<br/>
 [匿名] 清 <br/><br/>
 
  
@@ -116,7 +116,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 12:21:32<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 12:21:32<br/>
 [匿名] 想飞 <br/>
 
  
@@ -129,7 +129,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 12:28:56<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 12:28:56<br/>
 [匿名] 清 <br/><br/>
 
 ============<br/>
@@ -140,7 +140,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 12:33:02<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 12:33:02<br/>
 [匿名] 摄影之友 <br/><br/>
 
  
@@ -156,24 +156,24 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 12:53:33<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 12:53:33<br/>
 开盘，先下，再见。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 13:44:29<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 13:44:29<br/>
 抗议！抗议！抗议！
 
 为了不影响散户操作，抗议什么暂且不说，明天就知道了。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 15:06:11<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 15:06:11<br/>
 收盘了，本ID说过不评论个股、大盘，也没什么说的，和大家打个招呼。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 15:16:25<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 15:16:25<br/>
 [匿名] 中银国际 <br/><br/>
 
  
@@ -192,7 +192,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 15:20:34<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 15:20:34<br/>
 [匿名] 淡定 <br/><br/>
 
  
@@ -204,7 +204,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 15:25:14<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 15:25:14<br/>
 [匿名] 摄影之友 <br/><br/>
 
  
@@ -224,7 +224,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 15:33:33<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 15:33:33<br/>
 [匿名] 清 <br/><br/>
 
  
@@ -244,7 +244,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 缠中说禅 2006/12/11 15:35:52<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 缠中说禅 2006/12/11 15:35:52<br/>
 心禅 <br/><br/>
 
  
@@ -260,7 +260,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 15:44:11<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 15:44:11<br/>
 [匿名] 摄影之友 <br/><br/>
 
  
@@ -280,7 +280,7 @@ LZ,除权的位置该如何分析
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/11 15:45:21<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/11 15:45:21<br/>
 小明 <br/><br/>
 
  

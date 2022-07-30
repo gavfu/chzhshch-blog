@@ -23,22 +23,22 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 15:12:20<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 15:12:20<br/>
 希望各位来这里是共同研究,不是来依靠本ID这拐杖.本ID不希望演化成这样一种局面:本ID说一句话就对大盘走势影响巨大,本ID反对任何上帝式的人,包括本ID自己.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 15:20:29<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 15:20:29<br/>
 对不起,你看下面,已经在说本ID是大盘的庄家还有个股的庄家,这种事情在本ID这里怎么可能会有答案,说了也白说,本ID不希望在这些无聊问题上纠缠,所以所有具体走势的问题暂时谢绝回答,盘中也不再提示,免得认为震荡也是本ID设计好的.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 15:24:34<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 15:24:34<br/>
 有问题可以问,但请不要问具体的个股或大盘问题,股票分析\论语\技术\音乐\数学\科学\哲学\艺术\哲学\宗教等等都可以,就是不要问具体个股的可能走势问题.
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/7 15:56:56<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/7 15:56:56<br/>
 [匿名] 小鸟 <br/><br/>
 
  
@@ -53,7 +53,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 缠中说禅 2006/12/7 15:58:07<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 缠中说禅 2006/12/7 15:58:07<br/>
 本ID要去弄弄头发,晚上要去腐败一下.明天继续说背驰.
 
 再见了,先下.

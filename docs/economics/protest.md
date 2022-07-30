@@ -81,7 +81,7 @@ http://blog.sina.com.cn/m/chzhshch
 ### 回复
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 11:45:57<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 11:45:57<br/>
 [匿名] 悠悠悠哉 <br/><br/>
 
  
@@ -93,7 +93,7 @@ http://blog.sina.com.cn/m/chzhshch
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 11:52:05<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 11:52:05<br/>
 [匿名] aQ <br/><br/>
 
  
@@ -112,7 +112,7 @@ http://blog.sina.com.cn/m/chzhshch
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 11:57:06<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 11:57:06<br/>
 这事没完，还有一个就是这个
 
 还有中国一个最大的药厂之一正被国外最大药厂之一收购,方案在报批中
@@ -123,7 +123,7 @@ http://blog.sina.com.cn/m/chzhshch
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 12:06:44<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 12:06:44<br/>
 [匿名] 悠悠悠哉 <br/><br/>
 
  
@@ -137,7 +137,7 @@ http://blog.sina.com.cn/m/chzhshch
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 12:08:14<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 12:08:14<br/>
 [匿名] 炼铁设备 <br/><br/>
 
  
@@ -152,7 +152,7 @@ http://blog.sina.com.cn/m/chzhshch
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 12:28:10<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 12:28:10<br/>
 [匿名] 中间体 <br/><br/>
 
  
@@ -170,7 +170,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 12:30:21<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 12:30:21<br/>
 陈老邪学禅 <br/><br/>
 
  
@@ -183,12 +183,12 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 13:00:04<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 13:00:04<br/>
 开盘了，先下。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 15:16:15<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 15:16:15<br/>
 [匿名] 帅猪如花 <br/><br/>
 
  
@@ -201,7 +201,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 15:19:29<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 15:19:29<br/>
 小明 <br/><br/>
 
  
@@ -215,7 +215,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 15:34:24<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 15:34:24<br/>
 [匿名] 雨中荷 <br/><br/>
 
  
@@ -229,7 +229,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 15:48:59<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 15:48:59<br/>
 心禅 <br/><br/>
 
  
@@ -242,7 +242,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 15:54:35<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 15:54:35<br/>
 [匿名] 见习者 <br/><br/>
 
  
@@ -257,12 +257,12 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 15:54:55<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 15:54:55<br/>
 有事，先下，再见。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 19:29:44<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 19:29:44<br/>
 [匿名] 然然 <br/><br/>
 
  
@@ -281,7 +281,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 19:31:21<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 19:31:21<br/>
 [匿名] 获益匪浅 <br/><br/>
 
  
@@ -294,7 +294,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 19:53:57<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 19:53:57<br/>
 [匿名] 炼铁设备 <br/><br/>
 
  
@@ -317,7 +317,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 19:59:07<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 19:59:07<br/>
 [匿名] 舞者 <br/><br/>
 
  
@@ -339,7 +339,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:11:39<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:11:39<br/>
 [匿名] 雨中荷 <br/><br/>
 
  
@@ -356,7 +356,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:16:23<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:16:23<br/>
 [匿名] 可惜 <br/><br/>
 
  
@@ -369,7 +369,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:33:13<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:33:13<br/>
 [匿名] 我已潜水好久 <br/><br/>
 
  
@@ -381,7 +381,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:38:09<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:38:09<br/>
 [匿名] 一样一样 <br/><br/>
 
  
@@ -393,7 +393,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:39:37<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:39:37<br/>
 [匿名] 路过 <br/><br/>
 
  
@@ -408,7 +408,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:43:30<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:43:30<br/>
 [匿名] 一样一样 <br/><br/>
 
  
@@ -422,7 +422,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:45:00<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:45:00<br/>
 [匿名] 上海三毛 <br/><br/>
 
  
@@ -435,7 +435,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:52:35<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:52:35<br/>
 [匿名] 摄影之友 <br/><br/>
 
  
@@ -452,7 +452,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:55:52<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:55:52<br/>
 [匿名] 学生 <br/><br/>
 
  
@@ -466,7 +466,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 20:58:01<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 20:58:01<br/>
 [匿名] 一样一样 <br/><br/>
 
  
@@ -479,7 +479,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 21:02:31<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 21:02:31<br/>
 [匿名] caiyd <br/><br/>
 
 
@@ -491,7 +491,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 21:05:13<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 21:05:13<br/>
 wy1499 <br/><br/>
 
  
@@ -504,7 +504,7 @@ wy1499 <br/><br/>
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 21:14:35<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 21:14:35<br/>
 各位注意<br/><br/>
 
 对背驰的判断是实际操作中最大的难点之一，一下子把握是有困难的，所以要耐心。
@@ -523,7 +523,7 @@ MACD关键是处理好红绿柱子的一波，与一波中的高点转折的关�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 21:19:21<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 21:19:21<br/>
 心禅 <br/><br/>
 
  
@@ -539,13 +539,13 @@ MACD关键是处理好红绿柱子的一波，与一波中的高点转折的关�
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 21:29:01<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 21:29:01<br/>
 给大家一个图，结合本ID上面的“各位注意”，自己分析一下。这就是038004，五粮液认沽。这东西本ID上市时搞过一次了，最近这次是第二次，就是按照这个标准进入的，各位猜猜本ID是如何进入的，又在什么地方加码买入的。明天告诉各位答案。<br/><br/>
 
 该权证风险极大，最终要变成废纸，本ID说它只是为了和各位上课，绝对不要买，而且现在买点都早过了，更不能买。
 </div>
 
 <div class='blog-comment'>
-<span style={{color: 'red', fontWeight: 'bold'}}>缠中说禅</span> 2006/12/12 21:30:16<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/12/12 21:30:16<br/>
 好了，今天就到这了，先下，再见。
 </div>
