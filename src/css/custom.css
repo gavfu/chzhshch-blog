@@ -18,6 +18,7 @@
   --ifm-table-border-width: 0px;
   --ifm-h1-font-size: 2.5rem;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  line-height: 200%;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -33,6 +34,7 @@
   --ifm-table-border-width: 0px;
   --ifm-h1-font-size: 2.5rem;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  line-height: 200%;
 }
 
 .markdown h1:first-child {
