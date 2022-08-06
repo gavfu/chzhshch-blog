@@ -17,7 +17,7 @@ hide_table_of_contents: true
 今天偶然在这里看到湘火炬广告牌，想起97年就提醒唐家兄弟的老皇历，感触良多，这种废人，不听好人言，死了活该。忙，马上有谈判，先下，再见。 
 
 <div style={{textAlign: 'center'}}>偶见湘火炬广告，口占五绝。 </div><br/>
-<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '180%'}}>
 曾经湘火炬<br/>
 今已鲁潍柴<br/>
 十载风云客<br/>
