@@ -590,6 +590,511 @@ exports.sidebar = [
     label: '周末，用股票长沙各位一把 (2007/6/23 16:15:21)'
   },
   {
+    type: 'doc',
+    id: 'economics/hiking',
+    label: '索道复栈道,风雨XX行(解盘附录) (2007/6/25 19:03:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/backtohotel',
+    label: '对不起刚回宾馆，解盘洗澡后附录上 (2007/6/27 0:20:58)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070627',
+    label: '离开某地前解解今日的盘 (2007/6/27 15:29:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/deadhead',
+    label: '一根筋是不适合玩震荡行情的 (2007/6/28 15:53:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070629',
+    label: '解盘并说说中短线走势 (2007/6/29 15:45:10)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/consensuswar',
+    label: '必须和企图捣毁共和国基础的舆论进行坚决斗争 (2007/7/1 12:06:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070702',
+    label: '解盘：今天看不明白的都请严重补课。 (2007/7/2 15:32:58)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070703',
+    label: '今日解盘：3919颈线折磨你 (2007/7/3 15:30:02)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/buckthetrend',
+    label: '有些市是必须逆着而为的。 (2007/7/4 15:45:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/catchrockfall',
+    label: '凭空接坠石，依然开弓没有回头箭 (2007/7/5 15:43:43)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/currentsituation',
+    label: '和散户网友说说现在的形势与任务 (2007/7/5 23:04:16)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/strikeback',
+    label: '以黄河名字展开的绝地反击 (2007/7/6 15:50:50)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070708',
+    label: '大盘长中短走势略说 (2007/7/8 22:16:44)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/decisivebattle',
+    label: '中国股市前途的大决战 (2007/7/9 15:35:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/trueconfucius',
+    label: '什么才是真《论语》？ (2007/7/9 22:34:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3919points',
+    label: '3919点继续折磨你 (2007/7/10 15:43:11)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3850points',
+    label: '3850点，残酷的多空无量鏖战 (2007/7/11 15:41:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/chinastocksvalue',
+    label: '为中国股票的投资价值正名 (2007/7/11 23:47:16)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/lightsaber',
+    label: '坠石化光剑，兵临3919点颈线 (2007/7/12 15:38:28)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/floorvolume',
+    label: '私募变乌龟，制造成交地量 (2007/7/13 15:36:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/stepback',
+    label: '无论多空，都必须要退的一步。 (2007/7/16 15:43:17)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/popularity',
+    label: '人气，在震荡中汇聚。 (2007/7/17 15:40:05)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/quiz',
+    label: '出题考考各位，有空的都请进来。 (2007/7/17 22:34:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/stepforth',
+    label: '无论多空，都必须要进的一步。 (2007/7/18 15:47:50)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/waiting',
+    label: '在等待利空落地的日子里 (2007/7/19 15:29:28)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070720',
+    label: '刚起来，下午解不了盘。 (2007/7/20 8:26:20)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/200707202133',
+    label: '该来的都来了,你还需要什么? (2007/7/20 21:33:08)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/singlespark',
+    label: '打狗棒下，星火正燎原。 (2007/7/23 15:25:57)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070724',
+    label: '对不起，今天收盘后解不了盘。 (2007/7/24 8:46:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/yesterdaymarket',
+    label: '说说昨天的走势 (2007/7/25 8:54:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/todaymarket',
+    label: '应酬前，说说今天的大盘 (2007/7/25 18:31:21)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/4cases',
+    label: '大盘周线上的四种演化分析 (2007/7/27 8:01:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070727',
+    label: '对不起，刚回，说两句。 (2007/7/27 23:09:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070730',
+    label: '先扬后抑，酝酿震荡。 (2007/7/30 15:19:35)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070731',
+    label: '完美的震荡制造完美的月线收盘 (2007/7/31 16:03:53)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070801',
+    label: '该来的调整，必须且及时。 (2007/8/1 15:33:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070802',
+    label: '明天才是大盘短线的关键 (2007/8/2 16:06:21)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070803',
+    label: '醉生梦死疯一回游戏正式开始 (2007/8/3 15:57:58)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bubblestarts',
+    label: '成分股行情的泡沫化阶段正式开始 (2007/8/6 15:58:43)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070807',
+    label: '因迎奥运一周年而延迟的震荡只是延迟了 (2007/8/7 22:18:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070808',
+    label: '当工行都发疯后，轿夫们还有什么把戏？ (2007/8/8 15:44:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070809',
+    label: '顶住明天，第四拨人才可能解脱。 (2007/8/9 16:04:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070810',
+    label: '热点在震荡中蔓延 (2007/8/10 15:56:27)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070813',
+    label: '公募基金经理“快男”发展模式的不可持续 (2007/8/13 8:29:07)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/200708131538',
+    label: '热点，如期蔓延中 (2007/8/13 15:38:41)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/41vs1',
+    label: '41与1，本ID对二级市场兴趣已失 (2007/8/13 21:26:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070814',
+    label: '热点蔓延，阳光下没有新鲜事。 (2007/8/14 15:49:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070815',
+    label: '外围因素引发今日震荡 (2007/8/15 15:49:33)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070816',
+    label: '全球化，没有市场可与世隔绝 (2007/8/16 15:41:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070817',
+    label: '来自大洋彼岸的暗算 (2007/8/17 15:58:48)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070820',
+    label: '总市值超GDP后的泡沫化生存 (2007/8/20 8:22:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/200708201548',
+    label: '两年最大涨幅拉开泡沫化生存大幕 (2007/8/20 15:48:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070821',
+    label: '热点蔓延渐成潮流 (2007/8/21 15:59:25)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070822',
+    label: '一次值得鼓掌的加息 (2007/8/22 8:37:19)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/200708221610',
+    label: '加息难阻热点蔓延 (2007/8/22 16:10:16)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070823',
+    label: '行情只会在一地鸡毛中高潮 (2007/8/23 16:08:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070824',
+    label: '不是每个收盘都需要一个题目 (2007/8/24 15:24:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070827',
+    label: '资金分歧日益严重的面子与里子 (2007/8/27 16:15:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/punishmentofimpulsion',
+    label: '冲动的惩罚，基金将成为毁掉市场的那只手 (2007/8/27 20:45:41)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/gambling',
+    label: '市场与政策的博弈全面展开 (2007/8/28 16:10:20)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/goodboy',
+    label: '有时候，当乖孩子并不是丢人的事。 (2007/8/29 15:54:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/windrising',
+    label: '还你漂漂拳之风再起时 (2007/8/30 16:05:43)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bladewalking',
+    label: '刀锋上的行走 (2007/8/31 16:04:19)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/marketstage',
+    label: '目前市场所处阶段 (2007/9/3 8:49:53)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/saltedfish',
+    label: '吃得咸鱼抵得渴 (2007/9/3 15:38:43)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070904',
+    label: '技术、心理引发震荡 (2007/9/4 15:12:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20070905',
+    label: '程式化补缺口震荡如期上演 (2007/9/5 16:10:28)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ccb',
+    label: '建行引领大盘前行 (2007/9/6 15:55:55)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/goodslump',
+    label: '值得鼓掌的下跌 (2007/9/7 15:29:09)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/strangecircle',
+    label: '市场继续进入530前的怪圈 (2007/9/10 15:58:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/applaudforslump',
+    label: '要来的总要来---为下跌热烈鼓掌 (2007/9/11 15:59:25)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/livedemo',
+    label: '本ID理论的现场教科书演示 (2007/9/12 15:42:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/somemoney',
+    label: '有些钱不是适合每个人赚的 (2007/9/13 16:00:16)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/seriousstatement',
+    label: '各位注意，严重更正 (2007/9/13 20:55:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/focusofnextweek',
+    label: '下周焦点：能否破坏周K线顶分型 (2007/9/14 15:33:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/marketoflate2007',
+    label: '2007年末，资金与政策博弈下的走势分析 (2007/9/17 0:41:48)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/anotherchallenge',
+    label: '资金向政策发起新一轮挑衅 (2007/9/17 15:46:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/weekslump',
+    label: '等待那万众期盼的每周一跌 (2007/9/18 15:53:21)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/fightback',
+    label: '政策对资金挑衅的反击 (2007/9/19 15:42:03)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shortfail',
+    label: '空头完败：必须让预测者出丑 (2007/9/20 15:40:19)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/messy',
+    label: '迷踪步舞乱多空头 (2007/9/21 16:07:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/marx7',
+    label: '捍卫马克思7：那被淫乱的女佣 (2007/9/23 11:25:48)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/hkstockconnect',
+    label: '“港股直通车”难以背负的使命 (2007/9/24 8:52:17)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bullbeardoublekill',
+    label: '震荡前行、多空齐杀 (2007/9/24 15:26:30)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/trustinthemoon',
+    label: '可以不相信月饼，但一定要相信月亮 (2007/9/26 15:56:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/newbluechips',
+    label: '新蓝筹成多方利器，市场调控彻底失败。 (2007/9/27 15:31:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3fourthsline',
+    label: '资金乘胜追击，破圆顶兵临3/4线 (2007/9/28 15:51:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/againstbigstick',
+    label: '与大棒争分夺秒 (2007/10/8 15:35:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shortsellingstatement',
+    label: '3600点满江红后首次宣布中期做空 (2007/10/8 21:46:52)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/mediumtermadvice',
+    label: '给散户的中期建议 (2007/10/9 8:03:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/sectorrotation',
+    label: '板块如期轮动 (2007/10/9 15:26:41)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/realestatebubble',
+    label: '房地产泡沫，经济发展的真正毒瘤 (2007/10/9 20:57:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/firstshort',
+    label: '空头，熊刀小试 (2007/10/10 15:27:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/arepost',
+    label: '一个转帖 (2007/10/10 21:58:41)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20071011',
+    label: '为让多头更高更快更强地替股票站岗而继续努力 (2007/10/11 15:32:44)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/stockindexfutures',
+    label: '谨防A股被挟持，股指期货应缓行。 (2007/10/12 8:20:11)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/20071013',
+    label: '刚忙完回酒店,就说上两句 (2007/10/13 21:07:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/chinaeconomics',
+    label: '中国经济，已需治理整顿。 (2007/10/15 8:32:52)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/nonews',
+    label: '没有消息，继续把多头哨位架高 (2007/10/15 15:15:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/mrcheng',
+    label: '成老先生，请慎言 (2007/10/16 7:49:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/6100points',
+    label: '6100点终破，无憾矣！ (2007/10/16 15:29:29)'
+  },
+  {
 
   },
 ]
