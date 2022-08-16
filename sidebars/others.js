@@ -5,6 +5,11 @@ exports.sidebar = [
     label: '阴符经注（徐大椿）'
   },
   {
+    type: 'doc',
+    id: 'others/heartsutra',
+    label: '摩诃般若波罗蜜多心经'
+  },
+  {
     type: 'category',
     label: '重返兜率天：禅定坐禅实践概论',
     collapsed: false,
