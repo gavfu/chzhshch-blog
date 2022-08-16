@@ -17,6 +17,7 @@ const { sidebar: confuciusSidebar } = require('./sidebars/confucius');
 const { sidebar: zenSidebar } = require('./sidebars/zen');
 const { sidebar: poemsSidebar } = require('./sidebars/poems');
 const { sidebar: fluidSidebar } = require('./sidebars/fluid');
+const { sidebar: othersSidebar } = require('./sidebars/others');
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
@@ -27,7 +28,8 @@ const sidebars = {
   confuciusSidebar,
   zenSidebar,
   poemsSidebar,
-  fluidSidebar
+  fluidSidebar,
+  othersSidebar
 
   // But you can create a sidebar manually
   /*

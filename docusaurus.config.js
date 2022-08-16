@@ -94,6 +94,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'others/yinfujing',
+            position: 'left',
+            label: '其他',
+          },
+          {
+            type: 'doc',
             docId: 'download',
             position: 'right',
             label: '下载',
