@@ -98,11 +98,11 @@ const config = {
             position: 'right',
             label: '下载',
           },
-          {
-            href: 'https://github.com/gavfu/chzhshch-blog',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/gavfu/chzhshch-blog',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       colorMode: {
