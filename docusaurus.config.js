@@ -94,8 +94,14 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'identity/photos',
+            position: 'right',
+            label: '缠师其人',
+          },
+          {
+            type: 'doc',
             docId: 'others/yinfujing',
-            position: 'left',
+            position: 'right',
             label: '其他',
           },
           {

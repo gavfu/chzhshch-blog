@@ -31,6 +31,7 @@ hide_table_of_contents: true
 # 其他
 
 - [缠版时间简史-暨缠游历网络的ID和马甲大观.doc](https://gw.crustapps.net/ipfs/QmXmvJnE2BBtrSttyPzc2p7H5ArcidFgMETDWkJmPkC1U6/%E7%BC%A0%E7%89%88%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2-%E6%9A%A8%E7%BC%A0%E6%B8%B8%E5%8E%86%E7%BD%91%E7%BB%9C%E7%9A%84ID%E5%92%8C%E9%A9%AC%E7%94%B2%E5%A4%A7%E8%A7%82.doc)
+- [《私募江湖》（关于缠师的部分参考本书第四章）](https://gw.crustapps.net/ipfs/QmXmvJnE2BBtrSttyPzc2p7H5ArcidFgMETDWkJmPkC1U6/%E7%A7%81%E5%8B%9F%E6%B1%9F%E6%B9%96--%E4%BB%87%E6%99%93%E6%85%A7.pdf)
 - [《基金分析》木子观点](https://gw.crustapps.net/ipfs/QmXmvJnE2BBtrSttyPzc2p7H5ArcidFgMETDWkJmPkC1U6/%E5%9F%BA%E9%87%91%E5%88%86%E6%9E%90--%E6%9C%A8%E5%AD%90%E8%A7%82%E7%82%B9.pdf)
 
 </div>
