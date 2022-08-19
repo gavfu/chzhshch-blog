@@ -26,6 +26,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'identity/3meets',
+    label: '往事浮沉：我和《缠中说禅》李彪的三次会面经历'
+  },
+  {
+    type: 'doc',
     id: 'identity/dfdaily1',
     label: '名博缠中说禅谜局: 疑似亿安科技操盘手李彪（东方早报）'
   },
@@ -34,16 +39,6 @@ exports.sidebar = [
     id: 'identity/dfdaily2',
     label: '主治医生讲缠的最后时光：那晚一直听到他呓语（东方早报）'
   },
-  // {
-  //   type: 'doc',
-  //   id: 'identity/guangzhoutrip',
-  //   label: '广州之殇'
-  // },
-  // {
-  //   type: 'doc',
-  //   id: 'identity/requiem',
-  //   label: '追思一代奇才李彪同学'
-  // },
   {
     type: 'doc',
     id: 'identity/tianyapost',
