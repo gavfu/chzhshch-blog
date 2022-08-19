@@ -34,16 +34,16 @@ exports.sidebar = [
     id: 'identity/dfdaily2',
     label: '主治医生讲缠的最后时光：那晚一直听到他呓语（东方早报）'
   },
-  {
-    type: 'doc',
-    id: 'identity/guangzhoutrip',
-    label: '广州之殇'
-  },
-  {
-    type: 'doc',
-    id: 'identity/requiem',
-    label: '追思一代奇才李彪同学'
-  },
+  // {
+  //   type: 'doc',
+  //   id: 'identity/guangzhoutrip',
+  //   label: '广州之殇'
+  // },
+  // {
+  //   type: 'doc',
+  //   id: 'identity/requiem',
+  //   label: '追思一代奇才李彪同学'
+  // },
   {
     type: 'doc',
     id: 'identity/tianyapost',
