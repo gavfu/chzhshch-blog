@@ -19,4 +19,9 @@ exports.sidebar = [
     id: 'poems/housewife2',
     label: '《怨妇词》下：故事非故事，怨妇非怨妇，几人能懂 (2006/3/6 11:28:55)'
   },
+  {
+    type: 'doc',
+    id: 'poems/windstorm',
+    label: '忽闻台风可休市，聊赋七律说《风灾》 (2007/9/18 22:53:57)'
+  },
 ];
