@@ -100,15 +100,21 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'download',
+            position: 'right',
+            label: '下载',
+          },
+          {
+            type: 'doc',
             docId: 'others/yinfujing',
             position: 'right',
             label: '其他',
           },
           {
             type: 'doc',
-            docId: 'download',
+            docId: 'donate',
             position: 'right',
-            label: '下载',
+            label: '捐赠',
           },
           // {
           //   href: 'https://github.com/gavfu/chzhshch-blog',
