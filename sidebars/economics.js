@@ -1095,6 +1095,506 @@ exports.sidebar = [
     label: '6100点终破，无憾矣！ (2007/10/16 15:29:29)'
   },
   {
+    type: 'doc',
+    id: 'economics/completebubble',
+    label: '确实存在全面泡沫化的潜在风险 (2007/10/17 8:44:44)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shortsellerwin',
+    label: '不费吹灰之力，空头完胜 (2007/10/18 15:39:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shamelongbuyers',
+    label: '多头，没种，有屁用！ (2007/10/19 15:33:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/longbuyerstohell',
+    label: '让今天要拉大阳的多头见鬼去 (2007/10/22 15:25:35)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/rebounceasexpected',
+    label: '上升通道下轨支持如期反弹 (2007/10/23 15:40:39)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/justchat',
+    label: '太累了，没时间写帖子，说两句闲话 (2007/10/23 22:37:58)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ma10',
+    label: '10日线如期阻截 (2007/10/24 15:14:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/macrocontrol',
+    label: '终于再次强调宏观调控，中国希望大大的。 (2007/10/25 15:43:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/brightfuture',
+    label: '中国经济和股市的未来依然美好 (2007/10/25 21:04:33)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/rebounce5555',
+    label: '5555点守住，反弹酝酿ing (2007/10/26 15:13:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/aboutstocks',
+    label: '今天不得不破例说股票 (2007/10/27 16:44:21)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/feelingstones',
+    label: '摸着石头过河辨 (2007/10/28 11:46:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/pressuretomorrow',
+    label: '明天面临下降通道上轨压力 (2007/10/29 15:25:18)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/rebounceafterbreak',
+    label: '突破上轨，反弹空间如期打开。 (2007/10/30 15:26:44)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/1minrange',
+    label: '1分钟中枢如期形成ing (2007/10/31 15:13:50)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/matters',
+    label: '借点酒力，来首七律：即事 (2007/10/31 22:33:19)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/cnpc',
+    label: '震荡等待中石油 (2007/11/1 15:16:39)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shocking',
+    label: '调整形态保持，震荡级别加大 (2007/11/2 15:25:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/belovedcnpc',
+    label: '宠爱之便宜且昂贵的中石油 (2007/11/5 15:52:07)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/mediumtermtransitions',
+    label: '说说大盘中期走势的演化 (2007/11/6 8:38:52)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/5555fighting',
+    label: '5555点争夺战 (2007/11/6 15:37:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/5555fightingclosing',
+    label: '5555点决战即将进入临界点 (2007/11/7 15:26:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/justifylinbiao',
+    label: '历史将为林彪元帅平反 (2007/11/8 12:51:08)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/longbuyerscrash',
+    label: '如期决战，多头不堪一击 (2007/11/8 22:21:05)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ma5ambush',
+    label: '5月均线大埋伏剧本如期上演 (2007/11/9 15:20:08)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/statewill',
+    label: '略论国家经济意志的市场化体现 (2007/11/11 17:13:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/1000pointsfalling',
+    label: '1000点小康跌幅胜利完成 (2007/11/12 15:28:57)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/fewwin',
+    label: '市场总是少数人成功 (2007/11/13 8:27:42)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/blockedbyma5',
+    label: '5日线受阻，多头仍需努力。 (2007/11/13 15:06:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/goodpace',
+    label: '节奏爽了才是真的爽 (2007/11/14 15:17:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/latemarketanalyse',
+    label: '对不起，解盘晚了。 (2007/11/15 21:47:45)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/zhongguancun',
+    label: '多头，不要争当中关村的货。 (2007/11/16 15:25:28)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/classstruggle',
+    label: '阶级斗争，打土豪分田地。 (2007/11/19 15:13:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/currencywarssequel7',
+    label: '《货币战争和人民币战略》续七：和谐世界存在的N种可能 (2007/11/20 9:05:23)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/quickmarketanalyse',
+    label: '快点解盘，否则要爽约。 (2007/11/20 23:44:07)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/rightagain',
+    label: '管理层终于又做对了一次 (2007/11/21 15:36:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/moontroublemaker',
+    label: '又是月亮惹的祸 (2007/11/22 15:32:48)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/stamptax',
+    label: '过高的股票交易印花税已到必须调整时 (2007/11/22 21:30:42)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/latemarketanalysis',
+    label: '对不起，晚到的解盘 (2007/11/25 22:00:34)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/backlate',
+    label: '抱歉，刚回家，还要忙。 (2007/11/26 23:59:35)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/timedisorder',
+    label: '时间错乱还有两天，抱歉了。 (2007/11/27 23:54:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/baseplatformrange',
+    label: '大盘进入基本支持区域 (2007/11/28 23:16:09)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ma120line',
+    label: '120天支持终显威力 (2007/11/29 23:53:11)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/weekendeffect',
+    label: '周末继续效应 (2007/11/30 15:20:29)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/marketchange',
+    label: '短线面临变盘 (2007/12/3 15:26:04)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/fallafterbreak',
+    label: '突破回抽，明后是关键 (2007/12/4 15:29:26)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/breakma10',
+    label: '长阳突破10日线，大反抽确立。 (2007/12/5 15:20:16)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/confirm5010points',
+    label: '5010点的回抽确认 (2007/12/6 15:17:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/standfirm5010points1',
+    label: '5010点站稳，行情继续展开 (2007/12/7 15:17:09)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/standfirm5010points2',
+    label: '5010点站稳，行情继续展开 (2007/12/7 15:17:09)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/standfirm5010points3',
+    label: '5010点站稳，行情继续展开。 (2007/12/7 15:22:50)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/not530',
+    label: '今天不是530 (2007/12/10 15:29:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/learnchinesemedicinefirst',
+    label: '请中国的经济管理层先学会中医吧 (2007/12/10 21:16:19)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/firstgoalachived',
+    label: '反弹剧本第一目标胜利完成 (2007/12/11 15:33:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/restafterfirstgoal',
+    label: '第一目标达到后的例行休整 (2007/12/12 15:33:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/topfractal',
+    label: '顶分型确立显威力 (2007/12/14 0:49:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/weekbottomfractal',
+    label: '周底分型构成待确立 (2007/12/14 15:48:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/icefire',
+    label: '抛弃指数，冰火两重天。 (2007/12/17 15:30:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/dieorfight',
+    label: '多头，早死早投胎还是背水一战。 (2007/12/18 15:31:11)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bullfight',
+    label: '多头绝地反击，仍需努力。 (2007/12/19 15:15:39)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/conquer5032',
+    label: '攻克5032，完成初步任务。 (2007/12/20 15:15:02)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/2008forcast',
+    label: '2008年行情展望 (2007/12/20 15:59:05)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/interestratesrise',
+    label: '加息再为市场打鸡血 (2007/12/21 15:17:26)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/behonest',
+    label: '老老实实做人 (2007/12/22 15:26:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/necklinebreak',
+    label: '做账行情，突破颈线待确认 (2007/12/24 15:24:04)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/5209shocking',
+    label: '5209点，教科书式震荡 (2007/12/25 15:16:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/breakchoice',
+    label: '面临短线突破选择 (2007/12/26 15:12:23)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/breakasexpected',
+    label: '教科书式突破如期而至 (2007/12/27 15:15:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/lowkeymarketclose',
+    label: '2007年低调收盘预示明年行情性格 (2007/12/28 15:27:45)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/happy2008',
+    label: '赋《沁园春》兼祝各位2008新年好 (2007/12/28 15:56:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/2008firstpriority',
+    label: '08年证券市场的头等大事：尚主席，该高升了。 (2008/1/1 17:38:18)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/stockshigh',
+    label: '指数疲软下的个股高潮不断 (2008/1/2 15:12:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/headto5600',
+    label: '向5600高地攻击前进 (2008/1/3 15:18:39)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/impulseyell',
+    label: '多头，有了冲动就要喊。 (2008/1/4 15:12:12)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/somersaultcloud',
+    label: '勇戴金箍大翻筋斗云 (2008/1/7 15:12:36)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/5462shocking',
+    label: '5462点如期较大震荡 (2008/1/8 15:21:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/purgetorise',
+    label: '上涨动力，来自清洗。 (2008/1/9 15:12:50)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/followingscript',
+    label: '把下面的指数剧本告诉你 (2008/1/10 15:19:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/macrocontrolcaution',
+    label: '2008年，谨防宏观调控过度 (2008/1/10 17:33:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/hungrycrazy',
+    label: '因为饿，所以疯狂。 (2008/1/11 15:10:16)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/laggardrise',
+    label: '指数犹疑，个股补涨 (2008/1/14 15:10:28)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bullstrategy',
+    label: '大盘压力期下的多头策略 (2008/1/15 15:09:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shinystocks',
+    label: '大盘又见亮晶晶 (2008/1/16 15:17:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/enjoyshocking',
+    label: '不会享受大震荡的人股票就没入门 (2008/1/17 15:14:57)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/4fates',
+    label: '今年投资者的四种命运 (2008/1/18 11:45:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/uptunnel',
+    label: '多头能否构建缓升通道？ (2008/1/19 10:31:53)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/doubtonbull',
+    label: '又被暗算的多头尚能饭否？ (2008/1/21 15:18:54)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/rebouncecoming',
+    label: '超短线反弹在即 (2008/1/22 15:12:04)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/4778pressure',
+    label: '如期反弹后的4778点压力 (2008/1/23 15:16:53)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/battlelineof4778',
+    label: '4778点，多空抉择线。 (2008/1/24 15:17:30)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/fillgapnextweek',
+    label: '下周补缺，多头别无选择 (2008/1/25 15:17:34)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/about580989',
+    label: '580989完美地达到理论要求的第一目标。 (2008/1/28 15:20:28)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/chinesestyleglobalization',
+    label: '中国，需要的是中国式的全球化 (2008/1/28 15:48:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/chatafterdinner',
+    label: '吃完饭上来说两句 (2008/1/28 18:54:02)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/yearlybottom',
+    label: '年线支持初显现 (2008/1/29 15:19:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/liveonanothersfavour',
+    label: '看别人脸色的日子总是不好过的 (2008/1/30 15:23:08)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/donotpayforamerica',
+    label: '合格政府的第一标准：不给美国佬埋单 (2008/1/30 15:57:44)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/havefaith',
+    label: '没有信心，一切瞎掰。 (2008/1/31 15:13:08)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/mediumperiodanalysis',
+    label: '大盘中线技术分析 (2008/1/31 18:44:04)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/tripleups',
+    label: '节前连涨三天？就不许！ (2008/2/1 15:17:48)'
+  },
+  {
 
   },
 ]
