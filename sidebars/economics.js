@@ -1246,7 +1246,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/latemarketanalyse',
+    id: 'economics/sorryforlatemarketanalysis',
     label: '对不起，解盘晚了。 (2007/11/15 21:47:45)'
   },
   {
@@ -1266,7 +1266,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/quickmarketanalyse',
+    id: 'economics/quickmarketanalysis',
     label: '快点解盘，否则要爽约。 (2007/11/20 23:44:07)'
   },
   {
@@ -1406,7 +1406,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/interestratesrise',
+    id: 'economics/invigorated',
     label: '加息再为市场打鸡血 (2007/12/21 15:17:26)'
   },
   {
