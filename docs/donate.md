@@ -8,13 +8,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{textAlign:'center'}}>
 
-# <span style={{color: '#FF0000'}}>注意</span>
+<!-- # <span style={{color: '#FF0000'}}>注意</span>
 
 <div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', display: 'inline-block', textAlign: 'left'}}>
 
 捐赠行为完全自愿，且不附带任何权益要求，请三思而后行
 
-</div>
+</div> -->
 <br/><br/>
 
 <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
