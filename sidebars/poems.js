@@ -24,4 +24,9 @@ exports.sidebar = [
     id: 'poems/windstorm',
     label: '忽闻台风可休市，聊赋七律说《风灾》 (2007/9/18 22:53:57)'
   },
+  {
+    type: 'doc',
+    id: 'poems/recorddream',
+    label: '步老杜《登高》韵记梦 (2008/1/26 10:23:21)'
+  },
 ];
