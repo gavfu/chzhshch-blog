@@ -1,5 +1,5 @@
 ---
-id: stepback 
+id: selfknowledge 
 title: ''
 hide_table_of_contents: true
 ---

@@ -1595,6 +1595,663 @@ exports.sidebar = [
     label: '节前连涨三天？就不许！ (2008/2/1 15:17:48)'
   },
   {
-
+    type: 'doc',
+    id: 'economics/goodtrader',
+    label: '没有幽默感与修养成不了好的操作者 (2008/2/1 19:17:37)'
   },
+  {
+    type: 'doc',
+    id: 'economics/chinesecomedy',
+    label: '年线上的中国式喜剧 (2008/2/4 15:20:02)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/negativeline',
+    label: '阴线迎春给一根筋上了生动一课 (2008/2/5 15:09:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/notgoodstart',
+    label: '开门不红又何妨？ (2008/2/13 15:15:42)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/next3daysmarket',
+    label: '后三日是技术上最关键时刻 (2008/2/14 15:25:29)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/backyearline',
+    label: '回试年线暂显支持 (2008/2/15 15:39:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/macdredbars',
+    label: 'MACD红柱子终现待确认 (2008/2/18 15:18:26)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/cpipublished',
+    label: 'CPI公布成突破契机 (2008/2/19 15:16:27)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/massiveadditionalissue',
+    label: '大规模增发猛于虎 (2008/2/20 15:27:33)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ecologicalbalance',
+    label: '资本市场必须维持生态平衡 (2008/2/20 16:27:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/makemoneyonstocks',
+    label: '赚钱是靠个股而不是指数 (2008/2/21 15:18:25)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/earlynextweek',
+    label: '下周初决定大盘中线形态 (2008/2/22 15:18:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/newstocks',
+    label: '新基金难敌乱增发 (2008/2/25 15:23:55)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/futilebailout',
+    label: '无技术含量救市已审美疲劳 (2008/2/26 15:14:39)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/4391points',
+    label: '4391点决定短线走势 (2008/2/27 15:19:36)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/marx8',
+    label: '捍卫马克思8：马克思意义社会主义实现的唯一渠道 (2008/2/27 16:19:03)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/spdb',
+    label: '穷疯浦发让大盘再陷彷徨 (2008/2/28 15:12:30)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/inflationoreconomicgrowth',
+    label: '要通胀还是要经济增长 (2008/2/28 15:53:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/allready',
+    label: '大盘已具备上攻的所有技术条件 (2008/2/29 15:18:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/towarding4695',
+    label: '站稳4391，剑指4695点。 (2008/3/3 15:22:53)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/marx9',
+    label: '捍卫马克思9：共产主义需要被信仰吗？ (2008/3/3 16:13:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/additionalissueagain',
+    label: '增发再成行情杀手 (2008/3/4 15:18:09)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/politicallystockselecting',
+    label: '选股首先要讲政治 (2008/3/5 15:16:02)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/pinganfarse',
+    label: '平安粉饰性护盘闹剧如期上演 (2008/3/6 15:13:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/pingansuspension',
+    label: '平安应停牌以维护市场稳定 (2008/3/7 15:12:32)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/followpingan',
+    label: '紧跟平安将破罐破摔进行到底 (2008/3/10 15:15:31)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/chinainstitutions',
+    label: '夜郎自大的中国大机构 (2008/3/10 16:21:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/weeklinegapfilled',
+    label: '回补周线缺口引发反弹 (2008/3/11 15:22:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/managementboard',
+    label: '让人无话可说的管理层 (2008/3/11 16:23:53)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/usbailout',
+    label: '美国救市救不了中国股市 (2008/3/12 15:20:52)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/aboutmanagementboard',
+    label: '我们需要怎样的管理层 (2008/3/12 16:25:29)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bullskillbulls',
+    label: '信心危机引发多杀多 (2008/3/13 15:18:28)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/aboutinvestors',
+    label: '我们需要怎样的投资者 (2008/3/13 16:18:46)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/confidence',
+    label: '信心不是“应该有”就能有的 (2008/3/14 15:12:11)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shortbottomcoming',
+    label: '多杀多蔓延加速短期底部来临 (2008/3/17 15:17:29)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/startbuying',
+    label: '今天尾盘开始买入股票 (2008/3/18 15:16:32)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/selfknowledge',
+    label: '自知之明 (2008/3/18 16:23:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3775points',
+    label: '3775点决定反弹能否延续 (2008/3/19 15:21:35)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/2008forcastagain',
+    label: '2008年行情再展望 (2008/3/20 11:13:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3780points',
+    label: '3780点，短线生命线。 (2008/3/21 15:29:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3780lifelinebroken',
+    label: '3780生命线失守再次探底 (2008/3/24 15:16:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/nodailyposts',
+    label: '抱歉，以后不能保证每天都有帖子 (2008/3/24 15:33:03)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/allreadyexceptpingan',
+    label: '万事具备只待平安事了 (2008/3/25 15:09:37)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key3616points',
+    label: '3616点，短线关键。 (2008/3/26 15:15:26)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/marketemotions',
+    label: '破发竞赛宣泄市场情绪 (2008/3/27 15:17:41)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3424points',
+    label: '3424点初显威力 (2008/3/28 15:12:27)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3499points',
+    label: '3499点继续决定短线命运 (2008/3/31 15:16:35)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/nextshortopportunity',
+    label: '下一个短线机会又将来临 (2008/4/1 15:16:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/capitalmarketstatus',
+    label: '现阶段中国资本市场的地位 (2008/4/1 15:59:39)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key3462points',
+    label: '3462点成短线关键位置 (2008/4/2 15:17:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3462pointsworks',
+    label: '3462点如期发挥神奇作用 (2008/4/3 15:24:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key3613points',
+    label: '3613点成中短线关键位置 (2008/4/7 15:21:25)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/standup',
+    label: '中国人，不要习惯性当政府的奴才。 (2008/4/7 16:05:58)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/3613pointsworks',
+    label: '3613点如期发挥神奇作用 (2008/4/8 15:19:39)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/powerful3613points',
+    label: '3613点威力尽显 (2008/4/9 15:16:57)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key3533points',
+    label: '3533点成短线关键位置 (2008/4/10 15:25:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key3840points',
+    label: '周底分型成立令3840点成中线关键 (2008/4/11 15:10:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/anothershortopportunity',
+    label: '又一短线机会扑面而来 (2008/4/14 15:22:10)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key3311points',
+    label: '如约反弹，3311点成短线关键 (2008/4/15 15:14:35)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/fightagain',
+    label: 'CPI让多空有了再次较劲的理由 (2008/4/16 15:15:02)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/yetnothershortopportunity',
+    label: '破底再给短线机会 (2008/4/17 15:05:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/irregularposts',
+    label: '告示：以后的帖子可能极端没规律 (2008/4/17 20:16:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/technicalforcast',
+    label: '后市纯技术分析展望 (2008/4/18 15:24:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/midnightcockcrow',
+    label: '多头版“半夜鸡叫”闹剧收场 (2008/4/21 15:09:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bigrebounce',
+    label: '小分型顶起大反弹 (2008/4/22 18:20:45)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/sectordifferentiation',
+    label: '普涨后注意板块分化 (2008/4/24 15:15:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/techanalysisdignity',
+    label: '3656点的神奇捍卫技术分析的尊严 (2008/4/28 15:06:21)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ma5lineshocking',
+    label: '5日线支持产生震荡 (2008/4/29 15:02:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key3840points',
+    label: '3840点成中线关键 (2008/4/30 15:17:52)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/cautionshocking',
+    label: '走势趋弱，小心震荡 (2008/5/5 16:54:42)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/trapconfirmed',
+    label: '该强不强小心陷阱终被验证 (2008/5/7 15:06:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/choicearound3656',
+    label: '3656点上下的艰苦选择 (2008/5/8 14:45:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/mournforthedeath',
+    label: '为地震死难者默哀 (2008/5/12 20:59:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/universalcompassion',
+    label: '同体大悲 (2008/5/15 16:28:10)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/reportsafe',
+    label: '报平安 (2008/5/18 17:52:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/chemo',
+    label: '刚完成化疗 (2008/5/20 7:09:51)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/vietnamcrisis',
+    label: '关于越南危机，中国责无旁贷该负起应有的大国责任！ (2008/6/9 19:50:44)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/savevietnam',
+    label: '救越南无需一兵一钱 (2008/6/11 16:25:48)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/realestatecrash',
+    label: '中国的楼市大概真要崩一次盘了 (2008/6/16 12:49:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/quickwords',
+    label: '扯皮给了快速说两句的机会 (2008/6/17 10:10:03)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/gotangry',
+    label: '今早发了点小火 (2008/6/19 8:11:01)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/mrwang',
+    label: '王先生，能虚竹否？ (2008/6/24 17:25:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/dualeconomicstructure',
+    label: '二元经济结构，中国经济的核心竞争力。 (2008/7/2 15:35:56)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/capitalismdualstructure',
+    label: '资本主义社会形态的二元经济结构 (2008/7/3 15:42:51)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/whatisdualstructure',
+    label: '何谓二元经济结构(后部分内容少儿与外星人不宜) (2008/7/4 16:04:21)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/welltrainedbrains',
+    label: '看来受过严密数学推理训练的头脑还是少 (2008/7/6 8:13:22)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/stocksandmantra',
+    label: '说说股票和咒语 (2008/7/11 11:46:05)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/reviewanoldpost',
+    label: '重温一老帖 (2008/7/16 6:12:17)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/rulesbyhuman',
+    label: '市场经济的规则从来都是人为的 (2008/7/17 6:01:04)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/tcmdoctors',
+    label: '现在的好中医都到哪里去了？ (2008/7/18 3:46:53)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/sorryforfewposts',
+    label: '对不起，最近没太多时间写帖子 (2008/7/19 5:57:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/fewwordsaboutstocks',
+    label: '说两句股票 (2008/7/29 7:13:02)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/retreat',
+    label: '临阵退缩了 (2008/7/31 15:04:59)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/healthrecovered',
+    label: '体力恢复不少 (2008/8/1 19:01:13)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/chitchats',
+    label: '一堆闲话 (2008/8/3 8:25:09)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bigfallafterolympic1',
+    label: '谨防奥运后经济出现断崖走势（一） (2008/8/3 21:23:54)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/simplestockshardlife',
+    label: '股市简单人难做 (2008/8/5 15:40:44)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bigfallafterolympic2',
+    label: '谨防奥运后经济出现断崖走势（二） (2008/8/7 8:14:49)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/critical2762points',
+    label: '2762点，大盘短线已到临界点 (2008/8/8 8:23:58)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/bigfallpreview',
+    label: '苦口良药，预演后奥运断崖走势 (2008/8/8 15:20:58)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/waitingbuypoint',
+    label: '密切关注买点出现 (2008/8/11 7:54:18)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/buypointcoming',
+    label: '断崖走势继续让短线买点逼近 (2008/8/11 15:07:35)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/respectmarket',
+    label: '任何人在市场面前只能低头 (2008/8/12 7:58:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/relaxmacrocontrol',
+    label: '经济基本面给了调控下台阶的机会 (2008/8/12 15:21:43)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ensurehighgrowth',
+    label: '确保经济高增长已刻不容缓 (2008/8/13 8:28:09)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/2ndlevelrebounce',
+    label: '第二级别反弹教科书般降临 (2008/8/13 15:23:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key2484points',
+    label: '2484点，短线关键位置。 (2008/8/15 15:27:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/fractaltop',
+    label: '分型上边沿再起神奇作用 (2008/8/18 15:09:52)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key2455and2656points',
+    label: '2455、2656成短线上下关键位置 (2008/8/20 15:11:18)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ma5orma13',
+    label: '超短线抉择:5天还是13天线 (2008/8/21 15:23:00)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shockingaroundma5',
+    label: '博消息，于5日线震荡 (2008/8/22 15:32:30)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/olympicsopen',
+    label: '以北京奥运为新标杆的面子工程运动会隆重开幕 (2008/8/25 15:38:43)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/puretechnicalanalysis',
+    label: '大盘短期走势纯技术分析 (2008/8/26 14:59:52)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/waitingresonance',
+    label: '等待政策与技术产生共振效应 (2008/8/28 15:10:21)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/nextmondayand2403points',
+    label: '超短线就看周一及2403点 (2008/8/29 15:11:47)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/stepback',
+    label: '退一步海阔天空 (2008/9/1 15:56:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/ultrashortmarkets',
+    label: '5日线控制超短线走势 (2008/9/2 15:15:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/rebounceinprospect',
+    label: '不破不立，反弹可期 (2008/9/3 15:14:03)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/economicseverity',
+    label: '对经济调整的严酷性决不能掉以轻心 (2008/9/4 15:30:25)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/key2220points',
+    label: '2220点决定最终反弹级别高度 (2008/9/10 11:18:07)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/shortperiodmarkets',
+    label: '5日线继续主宰大盘短线 (2008/9/11 16:14:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/biggerlevelrebounce',
+    label: '直面更大级别反探 (2008/9/12 12:59:29)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/1987marketcrash',
+    label: '请记住1987年的股灾发生在10月19日 (2008/9/18 10:26:15)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/haveconscience',
+    label: '做人是要讲良心的 (2008/9/19 12:57:06)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/potentialpitfalls',
+    label: '中美联手后的潜在陷阱 (2008/9/21 14:16:40)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/markettrendlevel',
+    label: '行情级别分析 (2008/9/22 15:13:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/realshocking',
+    label: '真正的震荡还在后面 (2008/9/23 15:40:14)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/sawgodtoday',
+    label: '今天见到了神 (2008/9/24 14:38:08)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/relieved',
+    label: '最终解脱了 (2008/9/25 20:14:17)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/usbrake',
+    label: '不当美国佬的刹车片 (2008/9/26 10:32:38)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/usbailout',
+    label: '美国救市，闹剧一场。 (2008/10/5 17:01:24)'
+  },
+  {
+    type: 'doc',
+    id: 'economics/nowords',
+    label: '无话可说 (2008/10/10 9:24:36)'
+  }
 ]
