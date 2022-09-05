@@ -1656,7 +1656,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/newstocks',
+    id: 'economics/newfunds',
     label: '新基金难敌乱增发 (2008/2/25 15:23:55)'
   },
   {
