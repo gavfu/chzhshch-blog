@@ -1896,7 +1896,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/yetnothershortopportunity',
+    id: 'economics/yetanothershortopportunity',
     label: '破底再给短线机会 (2008/4/17 15:05:56)'
   },
   {
@@ -1936,7 +1936,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/key3840points',
+    id: 'economics/key3840pointsagain',
     label: '3840点成中线关键 (2008/4/30 15:17:52)'
   },
   {
