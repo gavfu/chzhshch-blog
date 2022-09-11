@@ -2151,7 +2151,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/olympicsopen',
+    id: 'economics/facejobsports',
     label: '以北京奥运为新标杆的面子工程运动会隆重开幕 (2008/8/25 15:38:43)'
   },
   {
@@ -2171,7 +2171,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/stepback',
+    id: 'economics/takeastepback',
     label: '退一步海阔天空 (2008/9/1 15:56:14)'
   },
   {
@@ -2246,7 +2246,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/usbailout',
+    id: 'economics/usbailoutfarce',
     label: '美国救市，闹剧一场。 (2008/10/5 17:01:24)'
   },
   {
