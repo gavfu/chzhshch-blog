@@ -11,15 +11,13 @@ hide_table_of_contents: true
 
 <div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', display: 'inline-block', textAlign: 'left'}}>
 
-1、取 [新浪缠博](http://blog.sina.com.cn/chzhshch) 而代之，破除知识垄断、篡改与阉割
+1、取 [<font style={{color: '#FF0000', textDecoration: 'underline', fontStyle: 'italic'}}>新浪缠博</font>](http://blog.sina.com.cn/chzhshch) 而代之，破除知识垄断、篡改与阉割
 
-2、保留原汁原味的博文与评论，反对任何形式的夹带私货、贩卖牟利
+2、保留原汁原味的博文与评论，让缠师的思想和文字，以其本来面目，在世间广泛地流传
 
-3、让所有人都能随时随地地学习缠文化（注意：本站支持手机端访问）
+3、借助 *Web3* 等技术，实现站点的 *Permanant Storage* 与 *Unstoppable Access*
 
-4、借助Web3技术，实现站点的永久存储与访问
-
-5、收集相关资料，成为 `缠中说禅` 的 `Single Source of Truth`。[点此下载](download)
+4、收集相关资料，成为 *缠中说禅* 的 *Single Source of Truth*
 </div>
 <br/><br/>
 
