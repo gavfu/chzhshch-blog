@@ -19,6 +19,14 @@ const config = {
   organizationName: 'gavfu', // Usually your GitHub org/user name.
   projectName: 'chzhshch-blog', // Usually your repo name.
 
+  // scripts: [
+  //   {
+  //     src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6801150303211532',
+  //     crossorigin: 'anonymous',
+  //     async: true
+  //   }
+  // ],
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -132,7 +140,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-6801150303211532',
+      },
     }),
+  
+  plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;
