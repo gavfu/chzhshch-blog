@@ -94,12 +94,12 @@ const config = {
             position: 'left',
             label: '诗词曲赋',
           },
-          // {
-          //   type: 'doc',
-          //   docId: 'fluid/01',
-          //   position: 'left',
-          //   label: '那一夜，他的体液喷了我一身',
-          // },
+          {
+            type: 'doc',
+            docId: 'fluid/01',
+            position: 'left',
+            label: '那一夜，他的体液喷了我一身',
+          },
           {
             type: 'doc',
             docId: 'identity/photos',
@@ -140,12 +140,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      googleAdsense: {
-        dataAdClient: 'ca-pub-6801150303211532',
-      },
+      // googleAdsense: {
+      //   dataAdClient: 'ca-pub-6801150303211532',
+      // },
     }),
   
-  plugins: ['docusaurus-plugin-google-adsense'],
+  // plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;
