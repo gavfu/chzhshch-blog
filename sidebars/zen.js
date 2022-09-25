@@ -146,7 +146,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20070119',
+    id: 'zen/onehourtoself',
     label: '周末，给自己一小时只属于自己。 (2007/1/19 14:50:11)'
   },
   {
