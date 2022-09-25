@@ -1,5 +1,5 @@
 ---
-id: 20080612
+id: marketcancerandnextweekagenda
 title: ''
 hide_table_of_contents: true
 ---
@@ -36,7 +36,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#CC0000', fontSize: 'x-large', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: 'x-large', fontWeight: 'bold', lineHeight: '180%'}}>
 
 虽然理论是本ID个人发现发明的，但本ID的理念从来都是知识是全人类的，个人不应当藏着掖着，所以本ID把理论逐步公开，只是为了知识是全人类这个信念，和任何的同情或怜悯无关，因此学习得益的也不需要感谢本ID，就像你学会了平面几何，也不需要去感谢欧几里德。至于有人要千方百计去证明平面几何的错误，那也是无所谓的，这总比打麻将和傻忽忽跑到股市中亏钱强，对本ID的理论也是一样的。
 

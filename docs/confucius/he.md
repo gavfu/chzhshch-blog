@@ -1,5 +1,5 @@
 ---
-id: concert
+id: he
 title: ''
 hide_table_of_contents: true
 ---
@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/14 8:03:14
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
 
 学东西，必须搞清楚细节。就像现在，依然有N多人把分型上边沿站稳作为最好的买入点，却搞不清楚，恰好相反，这只不过是判断是否延伸为笔的一个简单判断法，如果说买点，必须从走势类型去判别，分型上下边沿之类的东西，最多就类似于第三买卖点，因此以这当成买卖的根据，将不时面临买后第二根K线就是转折的尴尬。道理很简单，如果抛去包含关系，6根K线就可以构成笔，而确认站稳上下边沿的那至少是第4根，而转折在第5根，这意味着什么，不是很简单的问题吗？
 

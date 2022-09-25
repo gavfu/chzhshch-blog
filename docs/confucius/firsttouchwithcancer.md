@@ -1,5 +1,5 @@
 ---
-id: 20080424
+id: firsttouchwithcancer
 title: ''
 hide_table_of_contents: true
 ---
@@ -20,4 +20,13 @@ hide_table_of_contents: true
 
 说这些，只是把本ID经历的一些真实说出来，大概对有心人是有益的。
 
+</div>
+
+### 回复
+
+<div class='blog-comment'>
+<span class='blog-comment-chan'>缠中说禅</span> 2008/4/24 19:57:55<br/>
+
+想知道老师为何在早期没有治好癌症，现在到了晚期？<br/>
+老师是在为发明治疗癌症的方法做试验吗？
 </div>

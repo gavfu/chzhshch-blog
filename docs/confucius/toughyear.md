@@ -1,5 +1,5 @@
 ---
-id: 20080610
+id: toughyear
 title: ''
 hide_table_of_contents: true
 ---
@@ -26,7 +26,7 @@ hide_table_of_contents: true
 
 </div> 
 
-<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 而世界的神秘性使得历史出现比上面这种沪深轮回更值得关注的循环现象，今年就是其中32年的循环点，历史的神秘性再次无情地呈现。
 

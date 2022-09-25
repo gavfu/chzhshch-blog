@@ -1,5 +1,5 @@
 ---
-id: 20071121
+id: harmoniousworld
 title: ''
 hide_table_of_contents: true
 ---
@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/21 23:00:35
 
-<div style={{color: 'red', fontWeight: 'bold'}}>
+<div style={{color: 'red', fontSize: '18px', fontWeight: 'bold'}}>
 
 晕，下午到现在，竟然谈了三拨人，本ID现在真有点喜欢和新认识的人谈判。本ID发现，从419的角度，本ID这段时间谈过的这么多人，竟然没有一个能让人眼前稍微提高点亮度的，是不是搞企业的人都属于歪瓜裂枣型的？
  

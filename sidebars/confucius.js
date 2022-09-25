@@ -491,7 +491,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'confucius/20071121',
+    id: 'confucius/harmoniousworld',
     label: '和谐世界的真义 (2007/11/21 23:00:35)'
   },
   {
@@ -501,47 +501,47 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'confucius/20080102',
+    id: 'confucius/maoandluxun',
     label: '毛泽东与周树人 (2008/1/2 19:58:17)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080103',
+    id: 'confucius/superiormaster',
     label: '自古以来超第一英明神武的政治高手 (2008/1/3 16:33:13)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080108',
+    id: 'confucius/zhouxiangyu',
     label: '中神通，周翔宇。 (2008/1/8 16:53:58)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080424',
+    id: 'confucius/firsttouchwithcancer',
     label: '本ID与癌症的第一次亲密接触 (2008/4/24 19:37:32)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080605',
+    id: 'confucius/historicalevaluation',
     label: '该如何评价历史人物(附录解盘) (2008/6/5 9:41:51)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080606',
+    id: 'confucius/freedomofexpression',
     label: '21世纪依然担心言论自由的中国人是可耻的(附录解盘) (2008/6/6 9:52:47)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080610',
+    id: 'confucius/toughyear',
     label: '今年诸多灾难与妖蛾子事的历史性解释 (2008/6/10 16:40:36)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080612',
+    id: 'confucius/marketcancerandnextweekagenda',
     label: '解盘、治癌及周末与下周本ID动态预告 (2008/6/12 15:23:31)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080623',
+    id: 'confucius/castration',
     label: '阉割 (2008/6/23 18:52:18)'
   },
   {
@@ -551,17 +551,17 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'confucius/20080810',
+    id: 'confucius/shamelessopeningceremony',
     label: '为何既得利益者一致热捧如此无耻堕落的开幕式? (2008/8/10 7:50:26)'
   },
   {
     type: 'doc',
-    id: 'confucius/concert',
+    id: 'confucius/he',
     label: '什么才是真正的“和”？ (2008/8/14 8:03:14)'
   },
   {
     type: 'doc',
-    id: 'confucius/20080824',
+    id: 'confucius/westernmedicine',
     label: '病好后一定清算中国目前霸权的西医体系 (2008/8/24 18:06:51)'
   },
   {

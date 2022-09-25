@@ -1,5 +1,5 @@
 ---
-id: 20080623
+id: castration
 title: ''
 hide_table_of_contents: true
 ---
@@ -15,7 +15,7 @@ hide_table_of_contents: true
 </div>
  
 
-<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold'}}> 
+<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold', lineHeight: '180%'}}> 
 
 股市不想说了，说阉割吧。
 
