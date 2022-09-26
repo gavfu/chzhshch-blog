@@ -6,11 +6,16 @@ hide_table_of_contents: true
 
 # 教你打坐10：不要相信任何你能看到想到感觉到的
 
-<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center'}}>
-内部装修<br/>
-停业九天<br/>
+<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+
+内部装修
+
+停业九天
+
 特此公告
 </div><br/>
+
+<div style={{fontSize : '18px'}}>
 
 见见之时，见非是见。这里的见，当然不单单说的见，包括任何六识范围里的东西。你的所见、所闻、所想、所感、所味、所嗅，一切的东西，都是不可信的，都是不可依赖的。
 
@@ -59,3 +64,4 @@ hide_table_of_contents: true
 谈到因果报应问题，这是现代人绝少相信的。但，这也如同太阳，你爱信不信，明天该升起来也就谁都挡不住。
 
 于社会关系而自由，同样道理，要于身体而自由、于思想而自由，于生死而自由，这四重网要一一解开。所谓自由，是不离系缚而自由，不离烦恼而自由。那种企图逃离系缚的正是大系缚；逃离烦恼的正是大烦恼。
+</div>

@@ -8,9 +8,11 @@ hide_table_of_contents: true
 
 > 2007/11/3 16:59:48
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px'}}>
 刚回家，写上一段，晚了，抱歉了。
 </div><br/>
+
+<div style={{fontSize : '18px'}}>
 
 由于一般人、包括科学，多被业报、共业所造的六识境界所困，所以无论对人身或者宇宙的认识，都是极端狭隘的。
 
@@ -31,3 +33,4 @@ hide_table_of_contents: true
 究竟如何？不需要你飞跃什么无尽世界海，穿越人的生死、宇宙的成灭，无尽世界海不过你心中一尘，无尽的生死劫不过你心中一尘。
 
 究竟如何？参！
+</div>

@@ -1,5 +1,5 @@
 ---
-id: 20080608
+id: knowpeople
 title: ''
 hide_table_of_contents: true
 ---
@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/8 10:16:37
 
-<div style={{color: '#FF0000', fontSize: '24px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '24px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 辩市不易，识人大难。一场大病，所得良多，其中一项，就在这识人更多上。死生时刻，一切虚情假意都褪去伪装，是什么花花肠子，大分明矣。这次，不少人在本ID只有三月性命的通告中原形毕露.这里说的都是现实中人，一场好戏，扒尽人间假面具。假面具褪尽，真心友、生死交自然呈现，不识而识矣。
 

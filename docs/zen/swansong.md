@@ -26,19 +26,30 @@ hide_table_of_contents: true
 
 </div>
  
-<div style={{color: '#CC0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center'}}>
 
-<div style={{fontSize: '56px'}}>或是绝命诗</div>
+<div style={{color: '#CC0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+或是绝命诗
+</div>
 
+<div style={{color: '#CC0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '500%'}}>
 缠中说禅
+</div>
 
-残阳堕海血倾盆<br/>
-满目鲸涛今古翻<br/>
-梦作乾坤空有影<br/>
-心成岁月了无痕<br/>
-余生不入香巴国<br/>
-下世再逃伊甸园<br/>
-漏底方舟横怒水<br/>
+<div style={{color: '#CC0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '120%'}}>
+
+残阳堕海血倾盆
+
+满目鲸涛今古翻
+
+梦作乾坤空有影
+
+心成岁月了无痕
+
+余生不入香巴国
+
+下世再逃伊甸园
+
+漏底方舟横怒水
+
 孤峰顶上白云屯
-
 </div>

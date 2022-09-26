@@ -8,17 +8,30 @@ hide_table_of_contents: true
 
 > 2008/5/25 15:13:09
 
-<div style={{color: '#000066', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#000066', fontSize: '22px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 这次的病，说实话，并不是本ID预计中的事情。本ID又没有神通，不过平凡人一个，只是一个永远只愿意站立的人，而且希望探索、展示人的所有潜能、可能的人。
 
 曾经说过，只要一切顺利，40岁以后，本ID会为文化的建构贡献点力量，当然，真实的本ID与虚拟的本ID就会对应起来。所以，本ID这些经历，都在真实地记录着，以后，就成了本ID真实传记的一部分了。
 
+</div>
+
+<div style={{color: '#000066', fontSize: '14px', fontWeight: 'bold'}}>
+
 40岁以后，人才会真正而立。本ID并非好为人师，只是看到很多现象、理论都过于荒谬，而知识是全人类的，本ID有不同的见解，当然可以提供出来。
+</div>
+
+<div style={{color: '#000066', fontSize: '22px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 本ID从来只觉得自己说的不过是一家之言，言、行合一，本ID将自己的生命记录下来，也是言的一部分。
+</div>
+
+<div style={{color: '#000066', fontSize: '14px', fontWeight: 'bold'}}>
 
 实证，一切必须如此。人，生而受骗中，你的文化、生存前提都构成你生命系统的所谓公理。而公理，往往就是骗局。
+</div>
+
+<div style={{color: '#000066', fontSize: '22px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 人生，真要活明白，前面30、40年，都要破这骗局，当然，有历史以来，真能办到这事的人，估计也没几个。绝大多数的人，不过在受骗中终其一生。
 
@@ -43,8 +56,14 @@ hide_table_of_contents: true
 告诉每个成为人的人，例如，在大学的第一堂课里，你的人生，只可能有两种选择，一种是审美化地，这包括经济动物式、革命式到逍遥天地式各种活法，但这都是人的审美式生存；另一种，穿越人的公理系统的实践，并不是每个人都需要选择。
 
 当然，既然为人，就要负起人的责任。本ID现在所作，连法布施都算不上，只是在世间法的公理系统里，把自己的一点实验结果进行现场展示。
+</div>
+
+<div style={{color: '#000066', fontSize: '14px', fontWeight: 'bold'}}>
 
 这个展示，完全可以精确地记录其真实。如果有兴趣的，可以记录下一个本ID的活动变化，就是明天本ID要出中医院，到外面走走，以后当真实的本ID对应之时，可以来查医院的记录。
+</div>
+
+<div style={{color: '#000066', fontSize: '22px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 本ID是以数学的严谨对待这次实验。
 

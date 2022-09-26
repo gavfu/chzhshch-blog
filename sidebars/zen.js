@@ -166,7 +166,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20070715',
+    id: 'zen/lionworm',
     label: '谨防穿袈裟的狮子虫。 (2007/7/15 22:42:12)'
   },
   {
@@ -301,7 +301,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20080219',
+    id: 'zen/sourceofdisease',
     label: '病从何来1 (2008/2/19 15:59:06)'
   },
   {
@@ -326,17 +326,17 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20080426',
+    id: 'zen/ctreport',
     label: '本ID部分CT扫描结果 (2008/4/26 12:38:33)'
   },
   {
     type: 'doc',
-    id: 'zen/20080502',
+    id: 'zen/whynottreatbyzazen',
     label: '本ID的病为什么不打坐去治 (2008/5/2 9:45:16)'
   },
   {
     type: 'doc',
-    id: 'zen/20080509',
+    id: 'zen/blindcatdeadmouse',
     label: '瞎猫撞上了死耗子 (2008/5/9 8:46:29)'
   },
   {
@@ -346,12 +346,12 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20080511',
+    id: 'zen/bodymachine',
     label: '人体机器的一面 (2008/5/11 18:51:56)'
   },
   {
     type: 'doc',
-    id: 'zen/20080524',
+    id: 'zen/almostrecovered',
     label: '今天基本恢复 (2008/5/24 8:09:16)'
   },
   {
@@ -361,12 +361,12 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20080603',
+    id: 'zen/woollyheaded',
     label: '难得糊涂，难得有病 (2008/6/3 12:13:16)'
   },
   {
     type: 'doc',
-    id: 'zen/20080608',
+    id: 'zen/knowpeople',
     label: '大病识人 (2008/6/8 10:16:37)'
   },
   {
@@ -381,7 +381,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20080701',
+    id: 'zen/backtoblog',
     label: '忍着没去桌球，赶回来写帖子。 (2008/7/1 22:56:39)'
   },
   {
@@ -396,22 +396,22 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'zen/20080817',
+    id: 'zen/finallymet',
     label: '终于接上头了 (2008/8/17 17:29:35)'
   },
   {
     type: 'doc',
-    id: 'zen/20080827',
+    id: 'zen/somewords',
     label: '说点闲话 (2008/8/27 8:15:37)'
   },
   {
     type: 'doc',
-    id: 'zen/20080830',
+    id: 'zen/sufferingsciatica',
     label: '太对不起了，被坐骨神经折腾了一晚。 (2008/8/30 19:14:19)'
   },
   {
     type: 'doc',
-    id: 'zen/20080920',
+    id: 'zen/hiddenscars',
     label: '结大概要到最坏时才解开 (2008/9/20 16:26:21)'
   },
 ];

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/16 9:45:07
 
-<div style={{color: '#660000', fontSize: '24px', fontWeight: 'bold'}}>
+<div style={{color: '#660000', fontSize: '24px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 <span style={{fontSize: '56px'}}>注意，</span>补充一句，刚和奇人通上电话，真是好事多磨，原来当时别人转发的电话就搞错了一个数字，他说明早找人接本ID去他家，他家就在附近，所以明天肯定没帖子了，后面怎么安排，本ID也不清楚。
 

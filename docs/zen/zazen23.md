@@ -33,3 +33,23 @@ hide_table_of_contents: true
 参！
 
 </div>
+
+### 回复
+
+<div class='blog-comment'>
+<span class='blog-comment-chan'>缠中说禅</span> 2008/2/3 10:11:44<br/>
+
+[匿名] 缠中解禅 删除此人所有评论 
+  
+2008-02-03 10:09:31 <br/>
+请老师有时间讲讲《金刚经》，谢谢老师。
+
+--<br/>
+
+你是希望听文字上的《金刚经》还是真正的《金刚经》，如果是后者，本ID天天都在讲。
+</div>
+
+<div class='blog-comment'>
+<span class='blog-comment-chan'>缠中说禅</span> 2008/2/3 10:12:06<br/>
+先下，再见。
+</div>

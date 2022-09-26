@@ -1,5 +1,5 @@
 ---
-id: 20080426
+id: ctreport
 title: ''
 hide_table_of_contents: true
 ---
@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/26 12:38:33
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
 
 鼻咽顶壁，双侧壁见软组织肿物，向上侵犯蝶窦、后组筛窦、向前达双侧后鼻孔，向两侧侵犯双侧咽旁间隙，向后侵犯双侧头长肌，向下侵达口咽壁，局部咽腔狭窄。
 

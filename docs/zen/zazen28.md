@@ -31,3 +31,10 @@ hide_table_of_contents: true
 但即使不退转，依然在无知之中。只是，已经达到那无知的中心，不退转正是退转之根，必须连根拔起。
 
 </div>
+
+### 回复
+
+<div class='blog-comment'>
+<span class='blog-comment-chan'>缠中说禅</span> 2008/3/22 18:29:02<br/>
+有些东西是见不得阳光的
+</div>

@@ -1,5 +1,5 @@
 ---
-id: 20080920
+id: hiddenscars
 title: ''
 hide_table_of_contents: true
 ---
@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/20 16:26:21
 
-<div style={{color: '#CC0000', fontSize: '24px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '24px', fontWeight: 'bold', lineHeight: '180%'}}>
 
 本要写的东西，要换了。今早6点，弟大概也觉得过分了，主动过来长谈。很多东西都解开了，我们很仔细地交流了人体的事情，本ID体系性地补了其未贯通处，当然，只和他谈了世间法，有些东西要靠缘分的。
 
