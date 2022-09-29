@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/2/1 9:15:39
 
-<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{fontSize: '14px', fontWeight: 'normal', textAlign: 'center'}}>
 
 新居落成，新春将至，聊赋《临江仙》以记之
  
