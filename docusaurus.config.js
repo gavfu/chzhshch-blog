@@ -71,40 +71,57 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'stocks/001',
+            // type: 'doc',
+            // docId: 'stocks/001',
+            type: 'docSidebar',
+            sidebarId: 'stocksSidebar',
             position: 'left',
             label: '教你炒股票',
           },
           {
-            type: 'doc',
-            docId: 'economics/20060225',
-            position: 'left',
-            label: '时政经济（缠中说禅经济学）',
-          },
-          {
-            type: 'doc',
-            docId: 'confucius/20060204',
+            // type: 'doc',
+            // docId: 'confucius/20060204',
+            type: 'docSidebar',
+            sidebarId: 'confuciusSidebar',
             position: 'left',
             label: '文史哲学（《论语》详解）',
           },
           {
-            type: 'doc',
-            docId: 'zen/intro',
+            // type: 'doc',
+            // docId: 'zen/intro',
+            type: 'docSidebar',
+            sidebarId: 'zenSidebar',
             position: 'left',
             label: '缠中说禅',
           },
           {
-            type: 'doc',
-            docId: 'poems/linjiangxian',
-            position: 'left',
+            // type: 'doc',
+            // docId: 'poems/linjiangxian',
+            type: 'docSidebar',
+            sidebarId: 'poemsSidebar',
             label: '诗词曲赋',
+            position: 'left',
           },
           {
-            type: 'doc',
-            docId: 'fluid/01',
+            type: 'dropdown',
+            label: '其他分类',
             position: 'left',
-            label: '那一夜，他的体液喷了我一身',
+            items: [
+              {
+                // type: 'doc',
+                // docId: 'economics/20060225',
+                type: 'docSidebar',
+                sidebarId: 'economicsSidebar',
+                label: '时政经济（缠中说禅经济学）',
+              },
+              {
+                // type: 'doc',
+                // docId: 'fluid/01',
+                type: 'docSidebar',
+                sidebarId: 'fluidSidebar',
+                label: '那一夜，他的体液喷了我一身',
+              },
+            ]
           },
           {
             type: 'doc',
@@ -136,6 +153,11 @@ const config = {
           //   position: 'right',
           // },
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
       },
       colorMode: {
         defaultMode: 'light',
