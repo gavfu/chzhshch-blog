@@ -50,6 +50,12 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: [],
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],
@@ -140,6 +146,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
+      ],
       // googleAdsense: {
       //   dataAdClient: 'ca-pub-6801150303211532',
       // },
