@@ -124,8 +124,10 @@ const config = {
             ]
           },
           {
-            type: 'doc',
-            docId: 'identity/photos',
+            // type: 'doc',
+            // docId: 'identity/photos',
+            type: 'docSidebar',
+            sidebarId: 'identitySidebar',
             position: 'right',
             label: '缠师其人',
           },
@@ -136,8 +138,10 @@ const config = {
             label: '下载',
           },
           {
-            type: 'doc',
-            docId: 'others/yinfujing',
+            // type: 'doc',
+            // docId: 'others/yinfujing',
+            type: 'docSidebar',
+            sidebarId: 'othersSidebar',
             position: 'right',
             label: '其他',
           },
