@@ -141,7 +141,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'poems/konqdreply',
+    id: 'poems/kongqdreply',
     label: '本ID一帖子，孔庆东气急败坏给了两回复。 (2006/9/24 9:55:02)'
   },
   {
