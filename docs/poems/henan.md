@@ -42,7 +42,7 @@ hide_table_of_contents: true
 ### 回复
 
 <div class='blog-comment'>
-<span class='blog-comment-chan'>缠中说禅</span>  2007/5/7 12:44:18<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2007/5/7 12:44:18<br/>
 
 各位好，明天又要股票，有很多事情需要处理，先下了。
 

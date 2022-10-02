@@ -30,7 +30,7 @@ hide_table_of_contents: true
 </div>
 
 <div class='blog-comment'>
-<span class='blog-comment-chan'>缠中说禅</span>  2006/9/19 15:38:56<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2006/9/19 15:38:56<br/>
 连载，待续。
 </div>
 

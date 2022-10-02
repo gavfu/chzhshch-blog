@@ -115,6 +115,11 @@ const config = {
                 label: '时政经济（缠中说禅经济学）',
               },
               {
+                type: 'docSidebar',
+                sidebarId: 'essaysSidebar',
+                label: '白话杂文',
+              },
+              {
                 // type: 'doc',
                 // docId: 'fluid/01',
                 type: 'docSidebar',

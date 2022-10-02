@@ -323,7 +323,7 @@ a+A+b+B+c = (17-22)+(22-27)+(27-32)+(32-35)+(35-38) <br/>
 </div>
 
 <div class='blog-comment'>
-<span class='blog-comment-chan'>缠中说禅</span>  2007/9/10 17:03:22<br/>
+<span class='blog-comment-chan'>缠中说禅</span> 2007/9/10 17:03:22<br/>
 [匿名] 新浪网友 删除此人所有评论 <br/><br/>
   
 2007-09-10 16:23:28 <br/>
