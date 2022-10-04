@@ -471,7 +471,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'poems/earylymidautumnpoem',
+    id: 'poems/earlymidautumnpoem',
     label: '早到一天的中秋诗 (2008/9/13 13:57:41)'
   }
 ];
