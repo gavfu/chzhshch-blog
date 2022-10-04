@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center'}}>
 
-## 郑和
+郑和
 
 郑和七下卅万里，
 
@@ -29,9 +29,9 @@ hide_table_of_contents: true
 宝船不见尽楼船。
 
 
-## 金沙
+金沙
 
-天泻长江波万里,
+天泻长江波万里，
 
 缺山开野流不止。
 
@@ -48,7 +48,7 @@ hide_table_of_contents: true
 白雾青烟朝夕诡。
 
 
-## 东南
+东南
 
 东南万里海浮天，
 
