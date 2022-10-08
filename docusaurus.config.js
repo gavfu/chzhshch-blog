@@ -180,9 +180,9 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
-      // googleAdsense: {
-      //   dataAdClient: 'ca-pub-6801150303211532',
-      // },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-5686832782200002',
+      },
     }),
   
     themes: [
@@ -203,7 +203,7 @@ const config = {
       ],
     ],
 
-  // plugins: ['docusaurus-plugin-google-adsense'],
+  plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;
