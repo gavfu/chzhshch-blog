@@ -1966,7 +1966,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/reportsafe',
+    id: 'economics/reportsafe0518',
     label: '报平安 (2008/5/18 17:52:06)'
   },
   {

@@ -154,7 +154,7 @@ const config = {
             type: 'doc',
             docId: 'donate',
             position: 'right',
-            label: '捐赠',
+            label: '赞赏',
           },
           // {
           //   href: 'https://github.com/gavfu/chzhshch-blog',

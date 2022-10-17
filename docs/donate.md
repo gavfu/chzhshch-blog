@@ -6,17 +6,34 @@ hide_table_of_contents: true
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-<div style={{textAlign:'center'}}>
+<div style={{textAlign:'center', marginTop: '20px'}}>
 
-<!-- # <span style={{color: '#FF0000'}}>注意</span>
+# <span style={{color: '#FF0000'}}>整理不易，赞赏作者，助力传播缠文化</span>
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', display: 'inline-block', textAlign: 'left'}}>
+<img src={useBaseUrl('/img/donate/alipay.jpeg')} /><br/>
+
+<img src={useBaseUrl('/img/donate/wechatpay.jpeg')} style={{marginTop: '50px'}} /><br/><br/>
+
+<!-- <div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', display: 'inline-block', textAlign: 'left'}}>
 
 捐赠行为完全自愿，且不附带任何权益要求，请三思而后行
 
 </div> -->
 <br/><br/>
 
+<!-- <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'center'}}> -->
+
+<!-- - <span style={{fontWeight: 'bold'}}>支付宝</span> -->
+
+<!-- <img src={useBaseUrl('/img/donate/alipay.jpeg')} style={{maxWidth: '50%'}} /><br/><br/> -->
+
+<!-- - <span style={{fontWeight: 'bold'}}>微信</span> -->
+
+<!-- <img src={useBaseUrl('/img/donate/wechatpay.jpeg')} style={{maxWidth: '50%'}} /><br/><br/> -->
+
+<!-- </div> -->
+
+<!-- 
 <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - <span style={{fontWeight: 'bold'}}>ETH / BSC / Polygon</span>
@@ -43,6 +60,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   15DD2gvwVSV5ncTRG9nSCGdQaQdaPyqDR2VA34Q8M9xMWJ2w
   ```
 
-</div>
+</div> -->
 
 </div>
