@@ -8,7 +8,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# <span style={{color: '#FF0000'}}>整理不易，赞赏作者，助力传播缠文化</span>
+# <span style={{color: '#FF0000'}}>为传播缠师思想尽一份力</span>
 
 <img src={useBaseUrl('/img/donate/alipay.jpeg')} /><br/>
 
