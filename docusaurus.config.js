@@ -136,12 +136,12 @@ const config = {
             position: 'right',
             label: '缠师其人',
           },
-          {
-            type: 'doc',
-            docId: 'download',
-            position: 'right',
-            label: '下载',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'download',
+          //   position: 'right',
+          //   label: '下载',
+          // },
           {
             // type: 'doc',
             // docId: 'others/yinfujing',
@@ -150,12 +150,12 @@ const config = {
             position: 'right',
             label: '其他',
           },
-          {
-            type: 'doc',
-            docId: 'donate',
-            position: 'right',
-            label: '赞赏',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'donate',
+          //   position: 'right',
+          //   label: '赞赏',
+          // },
           // {
           //   href: 'https://github.com/gavfu/chzhshch-blog',
           //   label: 'GitHub',

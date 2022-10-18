@@ -18,6 +18,8 @@ hide_table_of_contents: true
 3、借助 *Web3* 等技术，实现站点的 *Permanant Storage* 与 *Unstoppable Access*
 
 4、收集相关资料，成为 *缠中说禅* 的 *Single Source of Truth*
+
+5、适配电脑、手机等多种设备终端
 </div>
 <br/><br/>
 
