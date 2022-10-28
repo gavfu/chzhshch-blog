@@ -14,6 +14,7 @@
 const { sidebar: stocksSidebar } = require('./sidebars/stocks');
 const { sidebar: economicsSidebar } = require('./sidebars/economics');
 const { sidebar: essaysSidebar } = require('./sidebars/essays');
+const { sidebar: mathSidebar } = require('./sidebars/math');
 const { sidebar: confuciusSidebar } = require('./sidebars/confucius');
 const { sidebar: zenSidebar } = require('./sidebars/zen');
 const { sidebar: poemsSidebar } = require('./sidebars/poems');
@@ -28,6 +29,7 @@ const sidebars = {
   stocksSidebar,
   economicsSidebar,
   essaysSidebar,
+  mathSidebar,
   confuciusSidebar,
   zenSidebar,
   poemsSidebar,

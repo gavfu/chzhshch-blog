@@ -120,6 +120,11 @@ const config = {
                 label: '白话杂文',
               },
               {
+                type: 'docSidebar',
+                sidebarId: 'mathSidebar',
+                label: '数理科技（缠中说禅医学）',
+              },
+              {
                 // type: 'doc',
                 // docId: 'fluid/01',
                 type: 'docSidebar',
@@ -150,12 +155,12 @@ const config = {
             position: 'right',
             label: '其他',
           },
-          // {
-          //   type: 'doc',
-          //   docId: 'donate',
-          //   position: 'right',
-          //   label: '赞赏',
-          // },
+          {
+            type: 'doc',
+            docId: 'donate',
+            position: 'right',
+            label: '捐赠',
+          },
           // {
           //   href: 'https://github.com/gavfu/chzhshch-blog',
           //   label: 'GitHub',
