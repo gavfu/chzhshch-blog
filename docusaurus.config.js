@@ -134,6 +134,11 @@ const config = {
               },
               {
                 type: 'docSidebar',
+                sidebarId: 'musicSidebar',
+                label: '音乐艺术',
+              },
+              {
+                type: 'docSidebar',
                 sidebarId: 'entertainmentSidebar',
                 label: '流行娱乐',
               },
