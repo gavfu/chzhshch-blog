@@ -26,8 +26,6 @@ jobs:
       - name: Deploy Gh-Pages 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: gavfu/chzhshch-blog-deploy
-          publish_branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           cname: chzhshch.blog

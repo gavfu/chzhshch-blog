@@ -173,17 +173,17 @@ const config = {
             position: 'right',
             label: '其他',
           },
-          // {
-          //   type: 'doc',
-          //   docId: 'donate',
-          //   position: 'right',
-          //   label: '捐赠',
-          // },
-          // {
-          //   href: 'https://github.com/gavfu/chzhshch-blog',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            type: 'doc',
+            docId: 'donate',
+            position: 'right',
+            label: '捐赠',
+          },
+          {
+            href: 'https://github.com/gavfu/chzhshch-blog',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       docs: {
@@ -203,9 +203,9 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
-      googleAdsense: {
-        dataAdClient: 'ca-pub-5686832782200002',
-      },
+      // googleAdsense: {
+      //   dataAdClient: 'ca-pub-5686832782200002',
+      // },
     }),
   
     themes: [
@@ -226,7 +226,7 @@ const config = {
       ],
     ],
 
-  plugins: ['docusaurus-plugin-google-adsense'],
+  // plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;

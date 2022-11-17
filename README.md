@@ -1,41 +1,7 @@
-# Website
+## 关于本站
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+搭建本站的目的，一是方便自己学习，二是回馈缠师，将缠师的思想和理论传承下去。
 
-### Installation
+当然，能顺便帮助到更多的人学习缠论，那是极好的。
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+如果你有所获益，或者使用缠论在投资中有所斩获，不妨考虑[捐赠](https://chzhshch.blog/donate)一下，请站长喝杯咖啡。

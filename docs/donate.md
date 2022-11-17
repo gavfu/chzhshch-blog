@@ -8,26 +8,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# <span style={{color: '#FF0000'}}>捐赠一下，让本站运行得更长久一些</span>
-
-<!-- <div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', display: 'inline-block', textAlign: 'left'}}>
-
-捐赠行为完全自愿，且不附带任何权益要求，请三思而后行
-
-</div> -->
-
-<!-- <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'center'}}> -->
-
-<!-- - <span style={{fontWeight: 'bold'}}>支付宝</span> -->
-
-<!-- <img src={useBaseUrl('/img/donate/alipay.jpeg')} style={{maxWidth: '50%'}} /><br/><br/> -->
-
-<!-- - <span style={{fontWeight: 'bold'}}>微信</span> -->
-
-<!-- <img src={useBaseUrl('/img/donate/wechatpay.jpeg')} style={{maxWidth: '50%'}} /><br/><br/> -->
-
-<!-- </div> -->
-
+# <span style={{color: '#FF0000'}}>捐赠一下，请站长喝杯咖啡</span>
 
 <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
