@@ -46,7 +46,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'essays/womanrightsdeclaration',
+    id: 'essays/femalerightsdeclaration',
     label: '女权宣言：科技发展使男人这臭玩意的存在变得可有可无 (2006/3/8 11:44:25)'
   },
   {

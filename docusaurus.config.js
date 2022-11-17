@@ -19,21 +19,21 @@ const config = {
   organizationName: 'gavfu', // Usually your GitHub org/user name.
   projectName: 'chzhshch-blog', // Usually your repo name.
 
-  stylesheets: [
-    {
-      rel: "preconnect",
-      href: "https://fonts.googleapis.com",
-    },
-    {
-      rel: "preconnect",
-      href: "https://fonts.gstatic.com",
-      crossorigin: "anonymous",
-    },
-    {
-      rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700;900&display=swap",
-    },
-  ],
+  // stylesheets: [
+  //   {
+  //     rel: "preconnect",
+  //     href: "https://fonts.googleapis.com",
+  //   },
+  //   {
+  //     rel: "preconnect",
+  //     href: "https://fonts.gstatic.com",
+  //     crossorigin: "anonymous",
+  //   },
+  //   {
+  //     rel: "stylesheet",
+  //     href: "https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700;900&display=swap",
+  //   },
+  // ],
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
