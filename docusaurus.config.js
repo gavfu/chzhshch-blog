@@ -179,11 +179,11 @@ const config = {
             position: 'right',
             label: '捐赠',
           },
-          {
-            href: 'https://github.com/gavfu/chzhshch-blog',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/gavfu/chzhshch-blog',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       docs: {
