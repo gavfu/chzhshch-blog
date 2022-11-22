@@ -84,6 +84,12 @@ const config = {
             position: 'left',
             label: '全部博文 (时间顺序，1094缺40)',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'byCategorySidebar',
+            position: 'left',
+            label: '博文分类',
+          },
           // {
           //   type: 'dropdown',
           //   label: '博文分类',
