@@ -101,6 +101,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'maopoetry',
+    label: '一家之言----毛氏润之诗词简评 (2006/2/9 15:03:30)'
+  },
+  {
+    type: 'doc',
     id: 'confucius/20060209',
     label: '旧中国尚有“清史稿”，新中国的“民国史”呢？ (2006/2/9 16:19:05)'
   },
@@ -108,6 +113,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'fluid/04',
     label: '连载4：那一夜，他的体液喷了我一身 (2006/2/10 15:03:56)'
+  },
+  {
+    type: 'doc',
+    id: 'legalityofrc',
+    label: '民国的合法性是中国联合国地位合法性的前提 (2006/2/10 20:37:57)'
   },
   {
     type: 'doc',
@@ -128,6 +138,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'essays/kingkong',
     label: '“金刚”*美国*GAY1号*男性霸权主义*胡萝卜大棒 (2006/2/12 8:59:57)'
+  },
+  {
+    type: 'doc',
+    id: 'maopoetry2',
+    label: '一家之言----毛氏润之诗词简评 (2006/2/12 22:39:19)'
   },
   {
     type: 'doc',
@@ -166,6 +181,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'challengemen',
+    label: '挑战全世界男人，本女败，马上戒网！ (2006/2/19 9:11:18)'
+  },
+  {
+    type: 'doc',
     id: 'music/menconsumed1',
     label: '连载1：“睡过”或“消费过”的男人们！ (2006/2/20 10:04:35)'
   },
@@ -183,6 +203,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'music/menconsumed2',
     label: '连载2：“睡过”或“消费过”的男人们！ (2006/2/21 21:17:51)'
+  },
+  {
+    type: 'doc',
+    id: 'maddo',
+    label: '连载1：男人进来，教你“馒头”的N种用法 (2006/2/22 16:15:03)'
   },
   {
     type: 'doc',
@@ -291,6 +316,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'lvshi',
+    label: '回应本女七律“东南”的应和，以及律诗写作的一些问题 (2006/3/3 17:30:17)'
+  },
+  {
+    type: 'doc',
     id: 'poems/qilv3',
     label: '七律三首：郑和、金沙、东南 (2006/3/3 17:56:28)'
   },
@@ -308,6 +338,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'essays/yellowsms',
     label: '本女强烈要求成为因发黄色短信而被拘留的第一人！ (2006/3/5 15:06:24)'
+  },
+  {
+    type: 'doc',
+    id: 'englandteam',
+    label: '英格兰，丢弃贝壳，赢取金杯！ (2006/3/5 17:22:06)'
   },
   {
     type: 'doc',
@@ -398,6 +433,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'poems/deathsubwaygrave',
     label: '白话诗三首：死亡、地铁、坟墓！ (2006/3/13 15:48:01)'
+  },
+  {
+    type: 'doc',
+    id: 'chzhshchonline',
+    label: '声明：“喜欢数学的女孩” 退市，“缠中说禅”接盘！ (2006/3/13 21:48:34)'
   },
   {
     type: 'doc',
