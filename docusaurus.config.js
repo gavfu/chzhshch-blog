@@ -79,78 +79,70 @@ const config = {
         },
         items: [
           {
-            // type: 'doc',
-            // docId: 'stocks/001',
             type: 'docSidebar',
-            sidebarId: 'stocksSidebar',
+            sidebarId: 'timelineSidebar',
             position: 'left',
-            label: '教你炒股票',
+            label: '全部博文 (时间顺序，1094缺40)',
           },
-          {
-            // type: 'doc',
-            // docId: 'confucius/20060204',
-            type: 'docSidebar',
-            sidebarId: 'confuciusSidebar',
-            position: 'left',
-            label: '文史哲学（《论语》详解）',
-          },
-          {
-            // type: 'doc',
-            // docId: 'zen/intro',
-            type: 'docSidebar',
-            sidebarId: 'zenSidebar',
-            position: 'left',
-            label: '缠中说禅',
-          },
-          {
-            // type: 'doc',
-            // docId: 'poems/linjiangxian',
-            type: 'docSidebar',
-            sidebarId: 'poemsSidebar',
-            label: '诗词曲赋',
-            position: 'left',
-          },
-          {
-            type: 'dropdown',
-            label: '其他分类',
-            position: 'left',
-            items: [
-              {
-                // type: 'doc',
-                // docId: 'economics/20060225',
-                type: 'docSidebar',
-                sidebarId: 'economicsSidebar',
-                label: '时政经济（缠中说禅经济学）',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'essaysSidebar',
-                label: '白话杂文',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'mathSidebar',
-                label: '数理科技（缠中说禅医学）',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'musicSidebar',
-                label: '音乐艺术',
-              },
-              {
-                type: 'docSidebar',
-                sidebarId: 'entertainmentSidebar',
-                label: '流行娱乐',
-              },
-              {
-                // type: 'doc',
-                // docId: 'fluid/01',
-                type: 'docSidebar',
-                sidebarId: 'fluidSidebar',
-                label: '那一夜，他的体液喷了我一身',
-              },
-            ]
-          },
+          // {
+          //   type: 'dropdown',
+          //   label: '博文分类',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'stocksSidebar',
+          //       label: '教你炒股票 (108缺？)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'confuciusSidebar',
+          //       label: '文史哲学（《论语》详解）(114全)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'zenSidebar',
+          //       label: '缠中说禅 (83全)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'poemsSidebar',
+          //       label: '诗词曲赋 (95全)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'economicsSidebar',
+          //       label: '时政经济（缠中说禅经济学）(451缺？)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'essaysSidebar',
+          //       label: '白话杂文 (106全)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'mathSidebar',
+          //       label: '数理科技（缠中说禅医学）(15全)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'musicSidebar',
+          //       label: '音乐艺术 (66缺1)',
+          //     },
+          //     {
+          //       type: 'docSidebar',
+          //       sidebarId: 'entertainmentSidebar',
+          //       label: '流行娱乐 (36全)',
+          //     },
+          //     {
+          //       // type: 'doc',
+          //       // docId: 'fluid/01',
+          //       type: 'docSidebar',
+          //       sidebarId: 'fluidSidebar',
+          //       label: '那一夜，他的体液喷了我一身 (20缺?)',
+          //     },
+          //   ]
+          // },
           {
             // type: 'doc',
             // docId: 'identity/photos',
@@ -203,9 +195,9 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
-      // googleAdsense: {
-      //   dataAdClient: 'ca-pub-5686832782200002',
-      // },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-5686832782200002',
+      },
     }),
   
     themes: [
@@ -226,7 +218,7 @@ const config = {
       ],
     ],
 
-  // plugins: ['docusaurus-plugin-google-adsense'],
+  plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;

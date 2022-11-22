@@ -2,7 +2,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'math/basics1',
-    label: '连载1：数学，世界之王：闲谈现代数学的基础问题！'
+    label: '连载1：数学，世界之王：闲谈现代数学的基础问题！ (2006/3/4 16:26:18)'
   },
   {
     type: 'doc',
