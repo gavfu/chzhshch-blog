@@ -82,7 +82,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'timelineSidebar',
             position: 'left',
-            label: '全部博文 (时间顺序，1102缺29)',
+            label: '全部博文 (时间顺序，1131缺3)',
           },
           {
             type: 'docSidebar',

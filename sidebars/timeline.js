@@ -437,7 +437,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'chzhshchonline',
-    label: '声明：“喜欢数学的女孩” 退市，“缠中说禅”接盘！ (2006/3/13 21:48:34)'
+    label: '声明：“喜欢数学的女孩” 退市，“缠中说禅”接盘！ (2006/3/13 21:48:34)'
   },
   {
     type: 'doc',
@@ -476,8 +476,28 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'equalitystory',
+    label: '扒了“平等神话”的内裤！ (2006/3/17 21:50:13)'
+  },
+  {
+    type: 'doc',
+    id: 'nohumanity',
+    label: '人，不能没性，但可以没人性！ (2006/3/18 14:24:12)'
+  },
+  {
+    type: 'doc',
     id: 'confucius/20060319',
     label: '人民战争，月经般的错误，护舒宝般的粉饰！ (2006/3/19 13:22:40)'
+  },
+  {
+    type: 'doc',
+    id: 'cduploads',
+    label: '好消息：CD上传问题终于解决！ (2006/3/20 11:38:48)'
+  },
+  {
+    type: 'doc',
+    id: 'schubert',
+    label: '一诺千金，先送极少人听过Schubert最后最牛的交响乐 (2006/3/20 16:33:41)'
   },
   {
     type: 'doc',
@@ -516,6 +536,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'someteacher',
+    label: '有些老师就该打！ (2006/3/25 12:25:56)'
+  },
+  {
+    type: 'doc',
     id: 'essays/monogamy',
     label: '一妻一夫婚姻制度土崩瓦解的历史必然性！ (2006/3/26 16:05:57)'
   },
@@ -538,6 +563,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'economics/realestatemarket',
     label: '按中国目前的经济管理水平，楼市必然股市化！ (2006/3/29 11:01:52)'
+  },
+  {
+    type: 'doc',
+    id: 'playissue',
+    label: '播放解难：无法加载此文件的源筛选器 (2006/3/29 16:12:38)'
   },
   {
     type: 'doc',
@@ -641,6 +671,16 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'newbgmusic',
+    label: '新背景音乐说明。 (2006/4/15 20:59:43)'
+  },
+  {
+    type: 'doc',
+    id: 'bgmusicusage',
+    label: '背景音乐的用法说明！ (2006/4/16 23:28:38)'
+  },
+  {
+    type: 'doc',
     id: 'confucius/20060417',
     label: '阉割伪全面！ (2006/4/17 16:55:57)'
   },
@@ -653,6 +693,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'confucius/20060419',
     label: '布什，当今世界的大救星！ (2006/4/19 21:42:50)'
+  },
+  {
+    type: 'doc',
+    id: 'democracy',
+    label: '民主，政治之避孕套！ (2006/4/20 22:04:14)'
   },
   {
     type: 'doc',
@@ -686,6 +731,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'publicexpense',
+    label: '左派，资本家剥削的最大罪证竟然成为你们的公费？ (2006/4/24 20:11:43)'
+  },
+  {
+    type: 'doc',
     id: 'economics/saviour2',
     label: '中国楼市股市的闹剧，都是“大救星”思维流毒所致！ (2006/4/24 21:08:18)'
   },
@@ -693,6 +743,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'poems/911andafghanwars',
     label: '诗词十六首回顾911事件与阿富汗战争 (2006/4/24 22:54:50)'
+  },
+  {
+    type: 'doc',
+    id: 'culturalrevolution',
+    label: '文/革，“大救星”思维导致的人间闹剧！ (2006/4/25 22:01:00)'
   },
   {
     type: 'doc',
@@ -713,6 +768,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'poems/taiwan',
     label: '台湾问题相关律诗四首！ (2006/4/30 15:07:47)'
+  },
+  {
+    type: 'doc',
+    id: 'pauseduring51holiday',
+    label: '公告：五一期间应酬太多，停写几天！ (2006/4/30 21:26:35)'
   },
   {
     type: 'doc',
@@ -773,6 +833,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'essays/chinesecultureregression',
     label: '从鲁迅、胡适等都国学大师了，看中华文化的衰败！ (2006/5/18 22:44:30)'
+  },
+  {
+    type: 'doc',
+    id: 'heidegger',
+    label: '海德格尔就是海德格尔，即使他是一个纳粹！ (2006/5/19 21:55:04)'
   },
   {
     type: 'doc',
@@ -982,7 +1047,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'entertainment/huangjx',
-    label: '张靓颖附灵魂体 黄健翔飙海豚音 (2006/6/27 12:34:16)'
+    label: '张靓颖附灵魂体 黄健翔飙海豚音 (2006/6/27 12:34:16)'
   },
   {
     type: 'doc',
@@ -1021,6 +1086,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'earthquake',
+    label: '地震？北京附近应该地震了！ (2006/7/4 12:00:48)'
+  },
+  {
+    type: 'doc',
     id: 'economics/redapricot',
     label: '红杏出墙，中国强大之利器！ (2006/7/4 22:46:08)'
   },
@@ -1033,6 +1103,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'poems/midautumn',
     label: '七律：出差南昌恰逢中秋 (2006/7/5 21:14:59)'
+  },
+  {
+    type: 'doc',
+    id: 'femalerightsdeclaration2',
+    label: '女权宣言2：颠覆男权统治，从“女上位”开始！！！ (2006/7/6 17:42:04)'
   },
   {
     type: 'doc',
@@ -1233,6 +1308,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'music/weekendconcert03',
     label: '周末音乐会3：勃拉姆斯最好的交响乐，向古典主义的致敬！ (2006/8/4 18:06:37)'
+  },
+  {
+    type: 'doc',
+    id: 'statement0804',
+    label: '公告： (2006/8/4 18:18:15)'
   },
   {
     type: 'doc',
@@ -1576,6 +1656,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'vernacularchinese',
+    label: '白话文，国之大贼、国之大耻，必剿之灭之而吾国方可大兴矣！ (2006/10/9 12:06:27)'
+  },
+  {
+    type: 'doc',
     id: 'entertainment/statement1009',
     label: '公告：出差一周，博客只能回来再更新了。 (2006/10/9 18:26:36)'
   },
@@ -1857,7 +1942,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'stocks/011',
-    label: '教你炒股票11：不会吻，无以高潮！ (2006/11/29 12:00:00)！'
+    label: '教你炒股票11：不会吻，无以高潮！ (2006/11/29 12:00:00)'
   },
   {
     type: 'doc',
@@ -2041,6 +2126,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'mindset',
+    label: '心态 (2007/1/10 15:49:21)'
+  },
+  {
+    type: 'doc',
     id: 'stocks/022',
     label: '教你炒股票22：将8亿的大米装到5个庄家的肚里。 (2007/1/11 15:10:32)'
   },
@@ -2137,7 +2227,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'stocks/027',
-    label: '教你炒股票27： 盘整背驰与历史性底部 (2007/2/2 15:11:27)'
+    label: '教你炒股票27： 盘整背驰与历史性底部 (2007/2/2 15:11:27)'
   },
   {
     type: 'doc',
@@ -2268,6 +2358,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'stocks/035',
     label: '教你炒股票35：给基础差的同学补补课 (2007/3/9 11:51:34)'
+  },
+  {
+    type: 'doc',
+    id: 'sorryforleaving',
+    label: '对不起，太忙，马上要外出。 (2007/3/11 11:15:55)'
   },
   {
     type: 'doc',
@@ -2503,6 +2598,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'economics/earlybullmarket',
     label: '大牛市的序幕，还未真正拉开。 (2007/5/10 15:56:10)'
+  },
+  {
+    type: 'doc',
+    id: 'noticeofleave',
+    label: '请假公告 (2007/5/11 15:26:45)'
   },
   {
     type: 'doc',
@@ -2983,6 +3083,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'economics/bubblestarts',
     label: '成分股行情的泡沫化阶段正式开始 (2007/8/6 15:58:43)'
+  },
+  {
+    type: 'doc',
+    id: 'wulv',
+    label: '五律：席间口占（附几段闲言语） (2007/8/6 22:56:55)'
   },
   {
     type: 'doc',
@@ -3926,6 +4031,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'failtopost',
+    label: '为什么发不出帖子？ (2007/12/7 15:31:43)'
+  },
+  {
+    type: 'doc',
     id: 'poems/snowland',
     label: '没雪的日子，赋七律：雪域 (2007/12/8 10:16:40)'
   },
@@ -4811,6 +4921,16 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: '3305points',
+    label: '纯技术化的走势如期遭受3305点考验 (2008/4/23 17:58:56)'
+  },
+  {
+    type: 'doc',
+    id: 'marketanalysisasusual',
+    label: '正常解盘只是没有值得不正常的 (2008/4/23 19:54:24)'
+  },
+  {
+    type: 'doc',
     id: 'economics/sectordifferentiation',
     label: '普涨后注意板块分化 (2008/4/24 15:15:00)'
   },
@@ -4821,6 +4941,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: '3656points',
+    label: '3656点如期发挥神奇作用 (2008/4/25 15:15:22)'
+  },
+  {
+    type: 'doc',
     id: 'zen/ctreport',
     label: '本ID部分CT扫描结果 (2008/4/26 12:38:33)'
   },
@@ -4828,6 +4953,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'economics/techanalysisdignity',
     label: '3656点的神奇捍卫技术分析的尊严 (2008/4/28 15:06:21)'
+  },
+  {
+    type: 'doc',
+    id: 'diseasesummary',
+    label: '本ID病情现状的总体汇报 (2008/4/28 15:17:51)'
   },
   {
     type: 'doc',
@@ -4848,6 +4978,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'economics/cautionshocking',
     label: '走势趋弱，小心震荡 (2008/5/5 16:54:42)'
+  },
+  {
+    type: 'doc',
+    id: 'fluctuating',
+    label: '大盘如期震荡 (2008/5/6 13:25:02)'
   },
   {
     type: 'doc',
@@ -4898,6 +5033,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'economics/chemo',
     label: '刚完成化疗 (2008/5/20 7:09:51)'
+  },
+  {
+    type: 'doc',
+    id: 'suffering',
+    label: '煎熬了两天 (2008/5/22 12:16:27)'
   },
   {
     type: 'doc',
@@ -5027,7 +5167,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'poems/poetgallery5',
-    label: '诗人画廊（五) ：陶渊明/李贺 (2008/6/22 8:34:43)'
+    label: '诗人画廊（五) ：陶渊明/李贺 (2008/6/22 8:34:43)'
   },
   {
     type: 'doc',
@@ -5102,7 +5242,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'essays/stocksmusicetc',
-    label: '侃侃股票音乐房价病情 (2008/7/9 16:06:27)'
+    label: '侃侃股票\\音乐\\房价\\病情 (2008/7/9 16:06:27)'
   },
   {
     type: 'doc',
@@ -5438,6 +5578,11 @@ exports.sidebar = [
     type: 'doc',
     id: 'poems/earlymidautumnpoem',
     label: '早到一天的中秋诗 (2008/9/13 13:57:41)'
+  },
+  {
+    type: 'doc',
+    id: '1weekleave',
+    label: '请假一周 (2008/9/16 12:11:02)'
   },
   {
     type: 'doc',
