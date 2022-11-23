@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 文史哲学（《论语》详解） (114)
+# 文史哲学（《论语》详解）
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [外国人为什么产生不了哲学和哲学家？ (2006/2/4 11:54:32)](../confucius/20060204.md)

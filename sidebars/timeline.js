@@ -251,6 +251,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'heritagedestruction',
+    label: '毁坏遗产方面，非文革与文革只是五十笑一百！(2006-02-26 15:38:03)'
+  },
+  {
+    type: 'doc',
     id: 'essays/mayingjeou',
     label: '本女，第一个扒了“小马哥”的内裤！ (2006/2/26 18:28:52)'
   },
@@ -403,6 +408,16 @@ exports.sidebar = [
     type: 'doc',
     id: 'essays/hushi',
     label: '连胡适都国学大师了，馒头终于有了更馒头的！ (2006/3/9 13:01:36)'
+  },
+  {
+    type: 'doc',
+    id: 'zhouxiaochuan',
+    label: '强烈质疑周小川先生掌管人民银行的能力！(2006-03-09 16:02:12)'
+  },
+  {
+    type: 'doc',
+    id: 'biggestmistake',
+    label: '改革最大失误：未对“六?四残余”斩草除根！(2006-03-09 21:59:16)'
   },
   {
     type: 'doc',

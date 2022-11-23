@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 数理科技（缠中说禅医学） (15)
+# 数理科技（缠中说禅医学）
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [连载1：数学，世界之王：闲谈现代数学的基础问题！ (2006/3/4 16:26:18)](../math/basics1.md)

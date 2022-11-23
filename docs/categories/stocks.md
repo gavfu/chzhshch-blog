@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 教你炒股票 (108)
+# 教你炒股票
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [教你炒股票1：不会赢钱的经济人，只是废人！ (2006/6/7 18:08:15)](../stocks/001.md)

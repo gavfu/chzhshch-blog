@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 那一夜，他的体液喷了我一身 (20)
+# 那一夜，他的体液喷了我一身
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [连载1：那一夜，他的体液喷了我一身 (2006/2/7 17:55:55)](../fluid/01.md)

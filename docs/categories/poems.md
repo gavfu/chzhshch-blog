@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 诗词曲赋 (95)
+# 诗词曲赋
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [新居落成，新春将至，聊赋《临江仙》以记之 (2006/2/1 9:15:39)](../poems/linjiangxian.md)

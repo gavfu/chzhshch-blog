@@ -82,7 +82,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'timelineSidebar',
             position: 'left',
-            label: '全部博文 (时间顺序，1131缺3)',
+            label: '全部博文',
           },
           {
             type: 'docSidebar',
@@ -201,9 +201,9 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
-      googleAdsense: {
-        dataAdClient: 'ca-pub-5686832782200002',
-      },
+      // googleAdsense: {
+      //   dataAdClient: 'ca-pub-5686832782200002',
+      // },
     }),
   
     themes: [
@@ -224,7 +224,7 @@ const config = {
       ],
     ],
 
-  plugins: ['docusaurus-plugin-google-adsense'],
+  // plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;

@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 音乐艺术 (66)
+# 音乐艺术
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [连载1：“睡过”或“消费过”的男人们！ (2006/2/20 10:04:35)](../music/menconsumed1.md)

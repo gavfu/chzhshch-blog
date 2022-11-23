@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 白话杂文 (106)
+# 白话杂文
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [“金刚”*美国*GAY1号*男性霸权主义*胡萝卜大棒 (2006/2/12 8:59:57)](../essays/kingkong.md)

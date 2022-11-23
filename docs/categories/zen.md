@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 缠中说禅 (83)
+# 缠中说禅
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [缠中说禅：缠非缠、禅非禅，枯木龙吟照大千（序） (2006/2/1 10:16:25)](../zen/intro.md)

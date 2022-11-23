@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 流行娱乐 (36)
+# 流行娱乐
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [网络消费男人经典实录大全 (2006/2/22 21:09:10)](../entertainment/menconsumption.md)

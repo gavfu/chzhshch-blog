@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# 时政经济（缠中说禅经济学） (451)
+# 时政经济（缠中说禅经济学）
 <div style={{fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
 - [即使破产的市场经济也比完美的计划经济强上一万倍 (2006/2/25 12:53:45)](../economics/20060225.md)
