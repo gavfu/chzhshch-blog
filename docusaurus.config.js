@@ -90,6 +90,18 @@ const config = {
             position: 'left',
             label: '博文分类',
           },
+          {
+            type: 'dropdown',
+            label: '缠师其他作品',
+            position: 'right',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'qiangguoSidebar',
+                label: '缠于强国兴华凯迪等论坛作品',
+              },
+            ]
+          },
           // {
           //   type: 'dropdown',
           //   label: '博文分类',

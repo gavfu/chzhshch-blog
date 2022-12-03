@@ -24,6 +24,9 @@ const { sidebar: byCategorySidebar } = require('./sidebars/byCategory');
 // const { sidebar: zenSidebar } = require('./sidebars/zen');
 // const { sidebar: poemsSidebar } = require('./sidebars/poems');
 // const { sidebar: fluidSidebar } = require('./sidebars/fluid');
+
+const { sidebar: qiangguoSidebar } = require('./sidebars/qiangguo');
+
 const { sidebar: othersSidebar } = require('./sidebars/others');
 const { sidebar: identitySidebar } = require('./sidebars/identity');
 
@@ -44,6 +47,8 @@ const sidebars = {
   // zenSidebar,
   // poemsSidebar,
   // fluidSidebar,
+  qiangguoSidebar,
+  
   othersSidebar,
   identitySidebar
 
