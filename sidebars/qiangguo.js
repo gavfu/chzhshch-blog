@@ -136,11 +136,6 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'qiangguo/rateraiseconsequence',
-    label: '在目前环境下加息将重蹈覆辙，陷入93、94年般的困局，最终将使中国经济出现大萧条'
-  },
-  {
-    type: 'doc',
     id: 'qiangguo/shamanism',
     label: '女孩一家之言：中华古文明的历史源流始自古萨满教，也就是巫教'
   },
