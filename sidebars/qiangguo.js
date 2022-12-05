@@ -351,6 +351,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'qiangguo/delongfaction',
+    label: '在德隆系问题的处理上，中国政府将面临重大考验 '
+  },
+  {
+    type: 'doc',
     id: 'qiangguo/overthrowintellectuals',
     label: '打倒学术规范的性保护伞，打倒比妓女、舞男都不如的知识分子'
   },
