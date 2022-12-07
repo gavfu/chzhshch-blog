@@ -110,6 +110,11 @@ const config = {
                 sidebarId: 'tianyaSidebar',
                 label: '缠的天涯作品',
               },
+              {
+                type: 'docSidebar',
+                sidebarId: 'y2002postsSidebar',
+                label: '缠于2002年的诗与文',
+              },
             ]
           },
           // {
