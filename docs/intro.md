@@ -28,13 +28,21 @@ hide_table_of_contents: true
 
 - [缠师其人](./identity/photos.md)
 
+- [缠于强国兴华凯迪等论坛作品](./qiangguo/makefuss.md)
+
+- [缠用[唐粉]ID发的作品](./tangfen/hegel.md)
+
+- [缠的天涯作品](./tianya/privacy.md)
+
+- [缠于2002年的诗与文](./2002posts/sketch.md)
+
 <div style={{marginTop: '30px'}}>
 
 # 本站 Timeline
 </div>
 
 - 2022.12.7
-  - 缠于天涯、强国等论坛作品收集完成
+  - 缠于天涯、强国等论坛作品收集完毕
 
 - 2022.11.23
   - 新浪博客全部博文、缠师回复、及原文配图，基本收集完毕。收集时力求原汁原味，包括博文排版、配色、等等
