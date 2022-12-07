@@ -100,6 +100,11 @@ const config = {
                 sidebarId: 'qiangguoSidebar',
                 label: '缠于强国兴华凯迪等论坛作品',
               },
+              {
+                type: 'docSidebar',
+                sidebarId: 'tangfenSidebar',
+                label: '缠用[唐粉]ID发的作品',
+              },
             ]
           },
           // {
@@ -213,9 +218,9 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
-      // googleAdsense: {
-      //   dataAdClient: 'ca-pub-5686832782200002',
-      // },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-5686832782200002',
+      },
     }),
   
     themes: [
@@ -236,7 +241,7 @@ const config = {
       ],
     ],
 
-  // plugins: ['docusaurus-plugin-google-adsense'],
+  plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;
