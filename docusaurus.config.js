@@ -105,6 +105,11 @@ const config = {
                 sidebarId: 'tangfenSidebar',
                 label: '缠用[唐粉]ID发的作品',
               },
+              {
+                type: 'docSidebar',
+                sidebarId: 'tianyaSidebar',
+                label: '缠的天涯作品',
+              },
             ]
           },
           // {
