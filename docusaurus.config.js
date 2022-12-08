@@ -98,7 +98,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: '缠师其他作品',
+            label: '缠博以外作品',
             position: 'right',
             items: [
               {

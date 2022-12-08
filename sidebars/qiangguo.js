@@ -87,12 +87,12 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'qiangguo/applaudforshfl',
-    label: '为尚福林鼓掌-------不会挑逗各方利益战争的不是一个好的调控者'
+    label: '为尚福林鼓掌-------不会挑逗各方利益战争的不是一个好的调控者 (2005-6-20)'
   },
   {
     type: 'doc',
     id: 'qiangguo/applaudforshfl2',
-    label: '为尚福林鼓掌-------必须对企图用股权分置问题要挟政府的用法律制裁之'
+    label: '为尚福林鼓掌-------必须对企图用股权分置问题要挟政府的用法律制裁之 (2005-5-16)'
   },
   {
     type: 'doc',
@@ -107,12 +107,12 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'qiangguo/justifyspeculation',
-    label: '必须为投机正名，中国的强大同样需要自己的索罗斯、量子基金'
+    label: '必须为投机正名，中国的强大同样需要自己的索罗斯、量子基金 (2004-9-15)'
   },
   {
     type: 'doc',
     id: 'qiangguo/normalfall',
-    label: '股市目前的下跌只是正常的市场规律，多头最后的哀鸣，企图制造舆论要挟政府，究竟意欲何为？'
+    label: '股市目前的下跌只是正常的市场规律，多头最后的哀鸣，企图制造舆论要挟政府，究竟意欲何为？ (2004-9-10)'
   },
   {
     type: 'doc',
@@ -127,7 +127,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'qiangguo/timetowean',
-    label: '现在已到了市场各参与者必须要彻底断奶的时候了--------再论华融全面介入德隆重组'
+    label: '现在已到了市场各参与者必须要彻底断奶的时候了--------再论华融全面介入德隆重组 (2004-9-3)'
   },
   {
     type: 'doc',
@@ -192,12 +192,12 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'qiangguo/millionaires',
-    label: '人只不过是人-------本女所交往的亿万富豪们！（共14篇）'
+    label: '人只不过是人-------本女所交往的亿万富豪们！（共14篇）(2005-9-11)'
   },
   {
     type: 'doc',
     id: 'qiangguo/officials',
-    label: '人只不过是人－－本女所交往的省部官员们！（共7篇）'
+    label: '人只不过是人－－本女所交往的省部官员们！（共7篇）(2005-9-12)'
   },
   {
     type: 'doc',
@@ -312,7 +312,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'qiangguo/moderneconomics',
-    label: '必须全面解构西方现代经济学---------经济学实质上只是政治学加心理学'
+    label: '必须全面解构西方现代经济学---------经济学实质上只是政治学加心理学 (2004-9-14)'
   },
   {
     type: 'doc',
