@@ -467,7 +467,7 @@ exports.sidebar = [
   {
     type: 'doc',
     id: 'qiangguo/crazynight',
-    label: '911第2天，本女第一次与一个中年男人经历的疯狂一夜。'
+    label: '911第2天，本女第一次与一个中年男人经历的疯狂一夜。 (2005-9-23)'
   },
   {
     type: 'doc',

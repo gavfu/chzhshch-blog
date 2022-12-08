@@ -1,7 +1,7 @@
 ---
 id: marx
 title: ''
-hide_table_of_contents: false
+hide_table_of_contents: true
 ---
 
 # 马克思，时代的精神、世界的良心！（连载）（共9篇）

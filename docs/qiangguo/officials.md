@@ -1,10 +1,10 @@
 ---
 id: officials
 title: ''
-hide_table_of_contents: false
+hide_table_of_contents: true
 ---
 
-# 人只不过是人－－本女所交往的省部官员们！（共7篇）(2005-9-12)'
+# 人只不过是人－－本女所交往的省部官员们！（共7篇）(2005-9-12)
 
 ### （一）
 
