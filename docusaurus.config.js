@@ -80,6 +80,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'stocksSidebar',
+            position: 'left',
+            label: '教你炒股票相关',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'timelineSidebar',
             position: 'left',
             label: '全部博文',

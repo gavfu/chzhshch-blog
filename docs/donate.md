@@ -30,13 +30,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   TYhD4v2GxUi5BBBNXaSppatq35DDFhDspt
   ```
 
-<!-- - <span style={{fontWeight: 'bold'}}>支付宝</span><br/>
+- <span style={{fontWeight: 'bold'}}>支付宝</span><br/>
 
   <img src={useBaseUrl('/img/donate/alipay.jpeg')} /><br/>
 
 - <span style={{fontWeight: 'bold'}}>微信</span><br/>
 
-  <img src={useBaseUrl('/img/donate/wechatpay.jpeg')} style={{marginTop: '0px'}} /><br/><br/> -->
+  <img src={useBaseUrl('/img/donate/wechatpay.jpeg')} style={{marginTop: '0px'}} /><br/><br/>
 
 </div>
 

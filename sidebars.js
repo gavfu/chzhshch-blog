@@ -14,7 +14,7 @@
 const { sidebar: timelineSidebar } = require('./sidebars/timeline');
 const { sidebar: byCategorySidebar } = require('./sidebars/byCategory');
 
-// const { sidebar: stocksSidebar } = require('./sidebars/stocks');
+const { sidebar: stocksSidebar } = require('./sidebars/stocks');
 // const { sidebar: economicsSidebar } = require('./sidebars/economics');
 // const { sidebar: essaysSidebar } = require('./sidebars/essays');
 // const { sidebar: mathSidebar } = require('./sidebars/math');
@@ -40,7 +40,7 @@ const sidebars = {
   timelineSidebar,
   byCategorySidebar,
 
-  // stocksSidebar,
+  stocksSidebar,
   // economicsSidebar,
   // essaysSidebar,
   // mathSidebar,

@@ -1,6 +1,26 @@
 exports.sidebar = [
   {
     type: 'doc',
+    id: 'stocks/wolves',
+    label: '群狼争肉----国有股流通与国有资产蚕食、瓜分游戏！ (2006/3/10 0:11:53)'
+  },
+  {
+    type: 'doc',
+    id: 'stocks/stockschat',
+    label: '股市闲谈：G股是G点，大牛不用套！ (2006/5/12 19:02:25)'
+  },
+  {
+    type: 'doc',
+    id: 'stocks/baohan',
+    label: '收购中国，从宝邯之争说起！ (2006/6/2 21:44:58)'
+  },
+  {
+    type: 'doc',
+    id: 'stocks/changhong',
+    label: '长虹，老子变孙子，只要三亿美圆！ (2006/6/6 21:09:45)'
+  },
+  {
+    type: 'doc',
     id: 'stocks/001',
     label: '教你炒股票1：不会赢钱的经济人，只是废人！ (2006/6/7 18:08:15)'
   },
