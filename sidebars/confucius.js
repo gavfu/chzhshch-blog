@@ -346,7 +346,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'confucius/20061228',
+    id: 'confucius/whoami',
     label: '非问题之“我是谁？从哪里来？到哪里去？” (2006/12/28 15:30:28)'
   },
   {

@@ -11,24 +11,26 @@ hide_table_of_contents: true
 
 # 关于本站
 
-搭建本站的目的，一是方便自己学习，二是回馈缠师，将缠师的思想和理论传承下去。
+知识是全人类的，缠的理论和思想，无疑是人类知识宝库中独一无二的存在。
 
-当然，能顺便帮助到更多的人学习缠论，那是极好的。
+本站收集了缠在新浪博客、强国、天涯、《基金分析》等各个论坛和刊物发表的全部文章及本人回复。
 
-如果你有所获益，或者使用缠论在投资中有所斩获，不妨考虑[捐赠](./donate.md)一下，请站长喝杯咖啡。
+在一切都被货币化的资本主义社会，知识的收集与传播自然也需要货币，欢迎 <span style={{fontWeight: 'bold', fontSize: '24px'}}>[捐赠](./donate.md)</span> 以助力。
 
 <div style={{marginTop: '30px'}}>
 
 # 链接
 </div>
 
-- [教你炒股票相关](./stocks/001.md)
+- [教你炒股票相关](./stocks/wolves.md)
 
-- [新浪博客全部博文及回复 (1134全)](./poems/linjiangxian.md)
+- [新浪博客全部博文及回复 (1134全)](./timeline/poems/linjiangxian.md)
 
-- [新浪博客博文分类](./categories/economics.md)
+<!-- - [新浪博客博文分类](./categories/economics.md) -->
 
-- [缠师其人](./identity/photos.md)
+- [缠师其人](./identity/simujianghu.md)
+
+- [《基金分析》木子观点](./fundanalysis/liquiditysurplus.md)
 
 - [缠于强国兴华凯迪等论坛作品](./qiangguo/makefuss.md)
 
@@ -38,12 +40,16 @@ hide_table_of_contents: true
 
 - [缠于2002年的诗与文](./2002posts/sketch.md)
 
+
 <div style={{marginTop: '30px'}}>
 
 # 本站 Timeline
 </div>
 
-- 2022.12.7
+- 2022.12.18
+  - 《基金分析》“木子观点” 文章收集完毕
+
+- 2022.12.8
   - 缠于天涯、强国等论坛作品收集完毕
 
 - 2022.11.23

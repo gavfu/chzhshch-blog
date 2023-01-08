@@ -391,7 +391,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/wipeout',
+    id: 'economics/whipsawing',
     label: '就算是摇头丸也该洗洗盘了。 (2007/1/24 15:40:48)'
   },
   {
@@ -601,7 +601,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/20070627',
+    id: 'economics/market20070627',
     label: '离开某地前解解今日的盘 (2007/6/27 15:29:56)'
   },
   {
@@ -611,7 +611,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/20070629',
+    id: 'economics/market20070629',
     label: '解盘并说说中短线走势 (2007/6/29 15:45:10)'
   },
   {
@@ -621,12 +621,12 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/20070702',
+    id: 'economics/market20070702',
     label: '解盘：今天看不明白的都请严重补课。 (2007/7/2 15:32:58)'
   },
   {
     type: 'doc',
-    id: 'economics/20070703',
+    id: 'economics/market20070703',
     label: '今日解盘：3919颈线折磨你 (2007/7/3 15:30:02)'
   },
   {
@@ -651,7 +651,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/20070708',
+    id: 'economics/market20070708',
     label: '大盘长中短走势略说 (2007/7/8 22:16:44)'
   },
   {
@@ -716,7 +716,7 @@ exports.sidebar = [
   },
   {
     type: 'doc',
-    id: 'economics/20070720',
+    id: 'economics/market20070720',
     label: '刚起来，下午解不了盘。 (2007/7/20 8:26:20)'
   },
   {

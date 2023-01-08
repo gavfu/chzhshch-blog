@@ -8,7 +8,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{textAlign:'center', marginTop: '20px'}}>
 
-# <span style={{color: '#FF0000'}}>捐赠一下，请站长喝杯咖啡</span>
+# <span style={{color: '#FF0000'}}>捐赠本站，助力人类知识传播</span>
 
 <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 

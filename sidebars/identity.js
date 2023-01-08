@@ -1,13 +1,13 @@
 exports.sidebar = [
   {
     type: 'doc',
-    id: 'identity/photos',
-    label: '网传图片区'
+    id: 'identity/simujianghu',
+    label: '《私募江湖》相关节选'
   },
   {
     type: 'doc',
-    id: 'identity/simujianghu',
-    label: '《私募江湖》相关节选'
+    id: 'identity/photos',
+    label: '网络流传图片收集'
   },
   {
     type: 'doc',

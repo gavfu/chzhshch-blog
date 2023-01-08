@@ -28,7 +28,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.2.0",
     "@tsconfig/docusaurus": "^1.0.5",
-    "docusaurus-plugin-google-adsense": "^0.3.1",
+    "docusaurus2-plugin-google-adsense": "^1.1.0",
     "typescript": "^4.7.4"
   },
   "browserslist": {

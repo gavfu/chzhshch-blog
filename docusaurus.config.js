@@ -80,7 +80,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'stocksSidebar',
+            sidebarId: 'stocksExtendedSidebar',
             position: 'left',
             label: '教你炒股票相关',
           },
@@ -88,13 +88,72 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'timelineSidebar',
             position: 'left',
-            label: '全部博文',
+            label: '全部博文 (时间线)',
           },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'byCategorySidebar',
+          //   position: 'left',
+          //   label: '博文分类',
+          // },
           {
-            type: 'docSidebar',
-            sidebarId: 'byCategorySidebar',
-            position: 'left',
+            type: 'dropdown',
             label: '博文分类',
+            position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'stocksExtendedSidebar',
+                label: '教你炒股票相关',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'confuciusSidebar',
+                label: '文史哲学（《论语》详解）',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'zenSidebar',
+                label: '缠中说禅',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'poemsSidebar',
+                label: '诗词曲赋',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'economicsSidebar',
+                label: '时政经济（缠中说禅经济学）',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'essaysSidebar',
+                label: '白话杂文',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'mathSidebar',
+                label: '数理科技（缠中说禅医学）',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'musicSidebar',
+                label: '音乐艺术',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'entertainmentSidebar',
+                label: '流行娱乐',
+              },
+              {
+                // type: 'doc',
+                // docId: 'fluid/01',
+                type: 'docSidebar',
+                sidebarId: 'fluidSidebar',
+                label: '那一夜，他的体液喷了我一身',
+              },
+            ]
           },
           {
             type: 'dropdown',
@@ -103,13 +162,18 @@ const config = {
             items: [
               {
                 type: 'docSidebar',
+                sidebarId: 'fundAnalysisSidebar',
+                label: '《基金分析》木子观点',
+              },
+              {
+                type: 'docSidebar',
                 sidebarId: 'qiangguoSidebar',
                 label: '缠于强国兴华凯迪等论坛作品',
               },
               {
                 type: 'docSidebar',
                 sidebarId: 'tangfenSidebar',
-                label: '缠用[唐粉]ID发的作品',
+                label: '缠用[唐粉]ID发表的作品',
               },
               {
                 type: 'docSidebar',
@@ -123,65 +187,6 @@ const config = {
               },
             ]
           },
-          // {
-          //   type: 'dropdown',
-          //   label: '博文分类',
-          //   position: 'left',
-          //   items: [
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'stocksSidebar',
-          //       label: '教你炒股票 (108缺？)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'confuciusSidebar',
-          //       label: '文史哲学（《论语》详解）(114全)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'zenSidebar',
-          //       label: '缠中说禅 (83全)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'poemsSidebar',
-          //       label: '诗词曲赋 (95全)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'economicsSidebar',
-          //       label: '时政经济（缠中说禅经济学）(451缺？)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'essaysSidebar',
-          //       label: '白话杂文 (106全)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'mathSidebar',
-          //       label: '数理科技（缠中说禅医学）(15全)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'musicSidebar',
-          //       label: '音乐艺术 (66缺1)',
-          //     },
-          //     {
-          //       type: 'docSidebar',
-          //       sidebarId: 'entertainmentSidebar',
-          //       label: '流行娱乐 (36全)',
-          //     },
-          //     {
-          //       // type: 'doc',
-          //       // docId: 'fluid/01',
-          //       type: 'docSidebar',
-          //       sidebarId: 'fluidSidebar',
-          //       label: '那一夜，他的体液喷了我一身 (20缺?)',
-          //     },
-          //   ]
-          // },
           {
             // type: 'doc',
             // docId: 'identity/photos',
@@ -210,11 +215,11 @@ const config = {
             position: 'right',
             label: '捐赠',
           },
-          // {
-          //   href: 'https://github.com/gavfu/chzhshch-blog',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://github.com/gavfu/chzhshch-blog',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       docs: {
@@ -234,9 +239,9 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
-      googleAdsense: {
-        dataAdClient: 'ca-pub-5686832782200002',
-      },
+      // googleAdsense: {
+      //   dataAdClient: 'ca-pub-5686832782200002',
+      // },
     }),
   
     themes: [
@@ -252,12 +257,21 @@ const config = {
           language: ["en", "zh"],
           // ```
           docsRouteBasePath: '/',
+          ignoreFiles: [/^stocks\/*/, /^economics\/*/, /^essays\/*/, /^math\/*/, /^music\/*/, /^entertainment\/*/, /^confucius\/*/, /^zen\/*/, /^poems\/*/, /^fluid\/*/],
           searchBarPosition: 'right',
         },
       ],
     ],
 
-  plugins: ['docusaurus-plugin-google-adsense'],
+  // plugins: ['docusaurus-plugin-google-adsense'],
+  plugins: [
+    // [
+    //   'docusaurus2-plugin-google-adsense',
+    //   {
+    //     dataAdClient: 'ca-pub-5686832782200002'
+    //   },
+    // ],
+  ],
 };
 
 module.exports = config;
