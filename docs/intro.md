@@ -17,6 +17,10 @@ hide_table_of_contents: true
 
 在一切都被货币化的资本主义社会，知识的收集与传播自然也需要货币，欢迎 <span style={{fontWeight: 'bold', fontSize: '24px'}}>[捐赠](./donate.md)</span> 以助力。
 
+如果您发现本站有任何错误或者疏漏，欢迎提交 **[PR](https://github.com/gavfu/chzhshch-blog/issues)** 或者通过 **[TG群](https://t.me/chzhshchblog)** 反馈。
+
+最后，感谢所有以各种方式为整理、传播缠师文字与资料做出贡献的朋友们，不管是否与本站直接相关。
+
 <div style={{marginTop: '30px'}}>
 
 # 链接

@@ -239,6 +239,11 @@ const config = {
             label: '捐赠',
           },
           {
+            href: 'https://t.me/chzhshchblog',
+            label: '反馈',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/gavfu/chzhshch-blog',
             label: 'GitHub',
             position: 'right',
