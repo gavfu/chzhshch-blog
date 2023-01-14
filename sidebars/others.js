@@ -12,7 +12,7 @@ exports.sidebar = [
   {
     type: 'category',
     label: '重返兜率天：禅定坐禅实践概论',
-    collapsed: false,
+    collapsed: true,
     items: [
       {
         type: 'doc',
@@ -120,5 +120,15 @@ exports.sidebar = [
         label: '第二十节 永恒的涅盘（大结局）'
       },
     ]
+  },
+  {
+    type: 'doc',
+    id: 'others/distantsavior',
+    label: '遥远的救世主（摘抄）'
+  },
+  {
+    type: 'doc',
+    id: 'others/reddust',
+    label: '天幕红尘（摘抄）'
   },
 ];

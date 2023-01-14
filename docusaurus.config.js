@@ -73,23 +73,23 @@ const config = {
    * https://github.com/facebook/docusaurus/issues/4765
    * https://johnnyreilly.com/2022/09/29/faster-docusaurus-build-swc-loader
    */
-  webpack: {
-    jsLoader: (isServer) => ({
-      loader: require.resolve('swc-loader'),
-      options: {
-        jsc: {
-          parser: {
-            syntax: 'typescript',
-            tsx: true,
-          },
-          target: 'es2017',
-        },
-        module: {
-          type: isServer ? 'commonjs' : 'es6',
-        },
-      },
-    }),
-  },
+  // webpack: {
+  //   jsLoader: (isServer) => ({
+  //     loader: require.resolve('swc-loader'),
+  //     options: {
+  //       jsc: {
+  //         parser: {
+  //           syntax: 'typescript',
+  //           tsx: true,
+  //         },
+  //         target: 'es2017',
+  //       },
+  //       module: {
+  //         type: isServer ? 'commonjs' : 'es6',
+  //       },
+  //     },
+  //   }),
+  // },
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
