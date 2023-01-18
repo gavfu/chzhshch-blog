@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/6/20 11:51:24
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/economics/newzg2/1.gif')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/newzg2/1.png')} /><br/><br/>
 </div>
 
 如今盛行网络舆论暴力，最近那闹得沸沸扬扬的某事件只不过一个很普通的事例。昨天N中工走势引发网络暴民一阵喧嚣，本ID不愿意看到这种暴力哲学得逞，收市后马上写了“鄙视所有对N中工15元不敢买50元就吃醋的人！”，里面强烈呼吁必须以法律和现行规则来评价该走势，不能重回诸如327之类的老路。
