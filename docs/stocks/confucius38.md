@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（38）
 
 > 2006/12/6 11:49:11
@@ -416,6 +418,10 @@ LZ,帮忙看看600376,<br/>
 周线上不存在背驰,日线上将演化为MACD的双头形态,该形态在昨天的回帖里有所讲述,就是先下跌靠近0轴,然后再上涨形成真正的日线背驰.
 
 当然,如果按照短线,在30分钟图可以找到精确的卖点在1日13点30分,然后今天下午MACD回抽0轴时可以回补.不过这都太短了,但对资金少的完全可以按照这样去操作.
+
+<div style={{textAlign: 'center'}}>
+<img src={useBaseUrl('/img/stocks/confucius38/600519.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -460,6 +466,10 @@ LZ,看来,600376我要短线变中线了,希望尽快解套,这可能就是学�
 ============<br/>
 
 短线最多就看30分钟图,你看1日1030分,是不是一个典型的第一类卖点,好好研究一下图.
+
+<div style={{textAlign: 'center'}}>
+<img src={useBaseUrl('/img/stocks/confucius38/600376.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -507,6 +517,14 @@ LZ,看来,600376我要短线变中线了,希望尽快解套,这可能就是学�
 1日10.30分的9.7元附近30分钟背驰卖出,5日10点25分的低一级别5分钟图上9.2元第一类买点回补,除了差价,还节约出两天的交易时间去干别的活,这个操作完全符合本ID所指出的操作程序.
 
 一定短线能有这样的效果,大概不会有任何其他的系统有如此高效了.
+
+<div style={{textAlign: 'center'}}>
+<img src={useBaseUrl('/img/stocks/confucius38/000503_30f.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'center'}}>
+<img src={useBaseUrl('/img/stocks/confucius38/000503_5f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -529,6 +547,14 @@ LZ,请看600050的周线,2005/10/21周与2005/6/3周构成背驰,其后的走势
 该股在30分钟图上,11月14日13点30,2.68元构成最近一个标准的短线(30分钟图上的)第一买点.
 
 好好分析,如果按照本ID的原则,即使用30分钟图,该股也应该在11月14日13点30,2.68元出现后买入,到今天为止,该股在30分钟图上也没出现第一类卖点,所以即使看30分钟图,也应该持有.
+
+<div style={{textAlign: 'center'}}>
+<img src={useBaseUrl('/img/stocks/confucius38/600050_d.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'center'}}>
+<img src={useBaseUrl('/img/stocks/confucius38/600050_30f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>

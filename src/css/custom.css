@@ -43,6 +43,7 @@
 
 .col {
   --ifm-col-width: 100%;
+  --ifm-spacing-horizontal: 3%;
 }
 
 .markdown h1:first-child {
