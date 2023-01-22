@@ -4,6 +4,49 @@
  * work well for content-centric websites.
  */
 
+ @font-face {
+  font-family: NotoSansSC;
+  font-weight: 100;
+  src: url('/static/font/NotoSansSC/NotoSansSC-Thin.otf') format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  font-weight: 300;
+  src: url('/static/font/NotoSansSC/NotoSansSC-Light.otf') format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  font-weight: 400;
+  src: url('/static/font/NotoSansSC/NotoSansSC-Regular.otf') format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  font-weight: 500;
+  src: url('/static/font/NotoSansSC/NotoSansSC-Medium.otf') format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  font-weight: 700;
+  src: url('/static/font/NotoSansSC/NotoSansSC-Bold.otf') format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  font-weight: 900;
+  src: url('/static/font/NotoSansSC/NotoSansSC-Black.otf') format("opentype");
+  font-display: swap;
+}
+
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
@@ -17,6 +60,7 @@
   --ifm-table-stripe-background: none !important;
   --ifm-table-border-width: 0px;
   --ifm-h1-font-size: 2rem;
+  --ifm-font-family-base: NotoSansSC;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   line-height: 200%;
   font-size: 18px;
@@ -38,7 +82,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   line-height: 200%;
   font-size: 18px;
-  font-weight: 400;
+  /* font-weight: 400; */
 }
 
 .col {
