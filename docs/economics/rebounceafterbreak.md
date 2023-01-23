@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/30 15:26:44
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天说了，突破下降通道上轨后，反弹空间打开。今天走势极端规范，下午那次跳水，就是对上轨突破后的回抽，这些最基本的技术语言，如果都看不明白，就必须补课了。
  
@@ -32,7 +32,7 @@ hide_table_of_contents: true
  
 现在，站在本ID的立场，很简单，就是该反弹就反弹，该疯狂就疯狂，在5555跌破之前，进行大幅度的震荡操作去吸血。而在市场之外，该有的努力一定不会少，最终的结果如何，只要心到了、力到了，本ID也无怨无悔了。
  
-<p style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px', lineHeight: '150%'}}>但相信，管理层对目前点位风险会有足够的认识，一旦市场进入不可自我调节的状态，管理层一定不会袖手旁观。</p>
+<p style={{color: '#FF0000', fontWeight: '500', fontSize: '32px', lineHeight: '150%'}}>但相信，管理层对目前点位风险会有足够的认识，一旦市场进入不可自我调节的状态，管理层一定不会袖手旁观。</p>
  
 好了，最近确实事多，明天要出差，还有很多事要忙，先下，再见。
 

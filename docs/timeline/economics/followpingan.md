@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/10 15:15:31
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 现在最大的问题是什么，用脚指头都能想明白。但管理层那已经成为滑稽表演的基金新发依然如故。那么，大盘也只好紧跟平安将破罐破摔进行到底了，没有比今天创新底更能配合管理层基金连发的滑稽与幽默了。
  

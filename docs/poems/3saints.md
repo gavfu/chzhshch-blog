@@ -8,32 +8,32 @@ hide_table_of_contents: true
 
 > 2008/6/4 15:14:21
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 昨天突发奇想，为周伯伯七律一首，并将与前面依次所写毛爷爷、林叔叔合为国朝三圣，如此，国朝人物已尽，无人堪写。这三首七律，如殿堂、如神庙，各位现在可以开始出入烧香礼拜矣。
 </div>
  
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 国朝三圣
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '350%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '350%'}}>
 
 文武圣:万世泽东
 </div>
 
 　　　　
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 润之年少傲王侯，意气激扬凌九州。
 
@@ -45,12 +45,12 @@ hide_table_of_contents: true
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '350%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '350%'}}>
 
 武圣:千迷祚大
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 
 神州万里遍旗林，河汉遥传鬼魅音。
@@ -63,12 +63,12 @@ hide_table_of_contents: true
 
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '350%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '350%'}}>
 
 文圣:百年恩来
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 十全生命十全魂，百载中华独此人。
 
@@ -80,7 +80,7 @@ hide_table_of_contents: true
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'left', lineHeight: '180%', marginTop: '50px'}}>
 
 前两天乌鸦嘴了一把，让各位注意布林通道，小心最近先破位，现在，最坏的情况是走最后一跌，破3000而下，如果大盘足够肾水，那么也可能皆大欢喜一把，双底而起，后面就是如此这般了，散去吧。 
 

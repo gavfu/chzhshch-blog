@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/31 15:04:59
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 这虽然很不本ID，但依然本ID了。经过对放疗的充分了解，本ID决定即使放疗，也以后专门进行，现在开始太匆忙。
 

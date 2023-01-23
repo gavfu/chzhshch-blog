@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/1 22:56:39
 
-<div style={{color: '#0000FF', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#0000FF', fontSize: '18px', fontWeight: '500'}}>
 
 虽然本ID对各位并没有任何的责任与承诺，但这么多日子，毕竟有了感情。说实在，本ID现在应该和朋友在玩桌球的，想着如果今天没有帖子不太好，就匆忙赶回来了。
 
@@ -16,7 +16,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#669900', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#669900', fontSize: '18px', fontWeight: '500'}}>
 
 大概还有很多人关心市场的走势，其实现在市场的走势，在N周前已经明确说过，而市场也一直按部就班走着。如果不明白的，就多看看课程，就知道什么是第二中枢后再走背驰这种走势为什么是最标准的，现在，这种最标准的走势就如同教科书一样走着，看过本ID课程，都应该对这种按部就班的走势有所了解，所以本ID确实没有太多可说的。
 
@@ -38,7 +38,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 不说股票了，股票这么简单的东西，浪费本ID珍贵的玩乐时间，简直是罪过。本ID在医院憋屈了这么长时间，放肆几天是天经地义的，至于有人对本ID去夜总会有意见，似乎说论语的人就不应该去夜总会，这是脑子有水的想法。
 

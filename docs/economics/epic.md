@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/3/19 8:52:42
 
-<div style={{color: '#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center'}}>
 
 西海东瀛涨落潮，商林股道冷炎飙。
 
@@ -32,13 +32,13 @@ hide_table_of_contents: true
 
 正是：西海东瀛涨落潮，商林股道冷炎飙。神州自有中天日，万国衣冠舞九韶。
 
-<div style={{color: '#FF0000', fontSize: '24px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '24px', fontWeight: '500'}}>
 
 相对流动性过剩与经济转型及金融重构
 
 </div>
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 方便各位阅读，附录在这里：
 

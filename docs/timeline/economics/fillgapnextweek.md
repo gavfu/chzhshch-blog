@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/25 15:17:34
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 4778点，其实就是一张纸，但现在人的心理，比纸都脆弱，看来风险教育还是太少，股灾见得还不够多。看看人家恒生指数，上窜下跳地，A股的投资者还是少历练。
  

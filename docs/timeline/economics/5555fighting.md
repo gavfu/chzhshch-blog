@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/6 15:37:47
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天的走势，就是一个5555点争夺战，一般这样的战斗，胜负至少看3天，上下还有一个3%的缓冲区域，5555X97%是多少，自己去算吧。
  

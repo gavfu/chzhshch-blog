@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/8/11 16:59:11
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', textAlign: 'left', lineHeight: '180%'}}>
 
 公元2007年8月11日16时47分，经过多次复查，本ID确信，本ID于哥德巴赫猜想已取得重大进展。本ID的兴趣是研究一个新的领域，为此研究出一套新的方法，无意中发现，这套方法对一些整数方面的问题有新的视角，对此进行了零星但不间断的研究。该方法不仅对哥德巴赫猜想有效，对3X+1等问题也有效。
  

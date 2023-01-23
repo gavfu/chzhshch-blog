@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/30 15:57:44
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 这不是针对任何具体的政府的，而是一般性的表述。这句话，显然是武断的，但在这样一个时刻，必须有这样的武断。
  

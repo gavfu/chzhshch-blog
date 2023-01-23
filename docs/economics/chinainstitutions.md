@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/10 16:21:13
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 本来想写课程，不过还是先写写这个。
  

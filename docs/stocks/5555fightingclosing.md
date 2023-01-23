@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/7 15:26:47
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 这个题目有点名不副实，因为这决战，对于空头来说，只是小战役，结果并不重要；但对于多头来说，就是决定生死存亡的。从6124点开始的行情转折中阴阶段，对于多头是垂死挣扎一下，还是干脆破罐子破摔，早死早投胎，很快，准确地说，最迟下周一前后就有答案了。
  

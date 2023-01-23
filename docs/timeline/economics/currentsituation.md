@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/5 23:04:16
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 首先，必须要明确，各位的状况和本ID有很多本质的不同。各位也知道，本ID6月后就忙于PE的事情，可以很明确地说，本ID一部分资金已经分流到PE上去，也就是说，就算本ID这次大败，依然有翻身重来的机会，而且一定可以翻身重来。正因为有这样的背景，所以各位第一不用为本ID担心，第二必须知道，本ID这样干并不是不顾后果的意气之举，而是进退有度的。
  
@@ -30,7 +30,7 @@ hide_table_of_contents: true
  
 光有热血，当义和团，是打不赢汉奸鬼子的。先下，再见。
  
-<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', marginTop: '50px', marginBottom: '50px'}}>
+<div style={{color: '#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', marginTop: '50px', marginBottom: '50px'}}>
 散户三大纪律
 </div>
  

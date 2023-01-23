@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/27 8:55:57
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#990000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 这次热闹了。首先N多亲人朋友都知道这地方，连我弟都知道，所以那次这么狠，大概是说我在上面说他坏话，本ID所说都发自肺腑了，说了就是给任何人看了，无所谓。
 

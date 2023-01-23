@@ -13,12 +13,12 @@ hide_table_of_contents: true
 刚到北京，把早上酒醒后步“牛、流、秋、愁”韵所成五律六首抄录如下：
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 酒醒步“牛、流、秋、愁”韵成五律六首
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
  

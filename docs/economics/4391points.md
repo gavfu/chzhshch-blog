@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/27 15:19:36
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天说了，今天不创新低且冲上4331点就构成底分型，今天的走势也很争气地达到了最基本的目标。但是，站在严格的意义上，这不是最强的走势，因为整个底分型的上边沿在4391点，也就是前天的高点，最强的走势就是今天直接攻上这点上。
  

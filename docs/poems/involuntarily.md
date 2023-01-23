@@ -23,17 +23,17 @@ hide_table_of_contents: true
 闲话不想说了，胡诌一首七律打发各位，抱歉了。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 流落
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '180%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '180%'}}>
 
 流落红尘终是苦<br/>
 断无真乐可拈提<br/>

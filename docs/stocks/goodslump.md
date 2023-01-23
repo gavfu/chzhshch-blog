@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/9/7 15:29:09
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 今天的准备金本不是大事，但尚老先生的风险提示，可不能说是小事。最近天天报上风险提示，但尚老先生，是力主市场调节的，如果没这老先生，530大概早已不再被提起，因为已经有了更新的被各位口水一番了。
  

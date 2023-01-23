@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/13 16:18:46
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 显然，注定绝大多数投资者都是被市场愚弄的。而所有被愚弄的，都是陷在市场中，被自己所迷糊。这些人，所有的行为都被分类为多空两种形式，当自己拿着股票时，思维就被多头所控制，反之，就是空头的奴隶。
  

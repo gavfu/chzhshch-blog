@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/19 15:59:06
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 人身难得，因此，使得人身尽其天年，是每个人都应该做的。而影响这个目标的，一个很大的因素，就是病了。
  

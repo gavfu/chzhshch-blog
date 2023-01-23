@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/21 15:37:35
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 这事其实昨天已完成，今早打了第一针，大有故友重逢的感觉。化疗很快重新开始，这次要来3周，奥运开幕时肯定在医院了。
 

@@ -8,12 +8,12 @@ hide_table_of_contents: true
 
 > 2008/9/5 15:08:42
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 这文章适合所有人，特别是都市忙碌的一群。
 </div>
  
-<div style={{color: '#666600', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#666600', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 不过还是先说股市，外围因素使得前两天强调的加速过程得以实现，因此，下周出现一定力度的反弹极为正常，但这种纯技术反弹的折腾意义更大，就以折腾对折腾，看谁更像牙买加人了。
 
@@ -26,7 +26,7 @@ hide_table_of_contents: true
 大概本轮调整最终还是以道指的暴跌为最终的高潮，好戏可能还在后头，之前，还是继续牙买加。
 </div>
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 股市不说了，说说坐骨神经。这大概是一个通行有效的办法，因为本ID亲身探索而来，各位请先听其过程。奇人还是起了一点作用，虽然几天按那一次，但基本把尾椎部分按好了，否则本ID也不会轻易发现这简单的方法。
 

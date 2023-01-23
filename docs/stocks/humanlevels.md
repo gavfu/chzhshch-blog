@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/2 9:13:24
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 人，是分不同层次的，而且，是金字塔分布的，这点，绝对不需要讳言。以任何指标为选项，这种层次都是存在的。当然，一般人更注重财富、美貌、才华之类外在的东西，这里，是从人的思维惯性进行一些考察。
  

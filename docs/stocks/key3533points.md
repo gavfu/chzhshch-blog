@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/10 15:25:06
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 网络超级慢，登陆就用了10几分钟，什么写东西的心情都没有了。随便说两句。
  

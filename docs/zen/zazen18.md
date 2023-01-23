@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/9 12:51:20
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 后面的内容，越来越难。之所以难，并不是说道理上有什么难的，而是纯粹的道理上、语言上的谈论，甚至连黄叶止啼都算不上。
 

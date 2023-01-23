@@ -14,7 +14,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <img src={useBaseUrl('/img/economics/chaneconomics05/1.jpeg')} /><br/><br/>
 </div>
 
-<div style={{fontSize: 'large', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{fontSize: 'large', fontWeight: '500', textAlign: 'center'}}>
 五
 </div><br/> 
 

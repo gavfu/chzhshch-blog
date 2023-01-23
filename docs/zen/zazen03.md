@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/8/14 22:42:24
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 先给下午那两个问题的答案：
  

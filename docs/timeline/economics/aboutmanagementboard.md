@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/12 16:25:29
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 首先，现在讨论这些问题，并不是本ID的个人问题，而是现在的问题，将严重威胁我们的大局，而这个大局，是全体中国人的。
  

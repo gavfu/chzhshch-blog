@@ -8,9 +8,9 @@ hide_table_of_contents: true
 
 > 2007/7/18 15:47:50
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
-前几天，本ID写了“[<span style={{color: '#FF0000', fontWeight: 'bold', textDecoration: 'underline'}}>无论多空，都必须要退的一步。</span>](stepback)”，今天却要写“无论多空，都必须要进的一步。”这一进一退间，正好说明了本ID所说的路之艰难。而今天的走势，就是现在多空对战的一个最好演绎。
+前几天，本ID写了“[<span style={{color: '#FF0000', fontWeight: '500', textDecoration: 'underline'}}>无论多空，都必须要退的一步。</span>](stepback)”，今天却要写“无论多空，都必须要进的一步。”这一进一退间，正好说明了本ID所说的路之艰难。而今天的走势，就是现在多空对战的一个最好演绎。
  
 由于在多方的反复努力下，昨天在技术面上出现日MACD的金叉，使得今天的突破成了必然。现在，不妨让本ID换了身份，如果本ID是空头，本ID要阻击多方的进攻，最简单的就是先让一步，利用4000点和60天线的心理屏障，通过震荡，破坏日MACD的金叉信号，最终让金叉变死叉，如果本ID是空头，一定是这样干。否则，在技术面金叉情况下一味在3919点颈线下打压，只能让多方高兴，空头最不利的，当然就是在技术面转向多方时在低位损失打压的筹码。
  

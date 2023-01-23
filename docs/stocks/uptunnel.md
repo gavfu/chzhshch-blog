@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/19 10:31:53
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 对不起，昨天忙于开会，没时间解盘，现在补上。
  

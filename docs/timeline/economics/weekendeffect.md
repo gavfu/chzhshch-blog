@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/30 15:20:29
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天开始正常。
  

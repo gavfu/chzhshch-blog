@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/18 3:46:53
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#990000', fontWeight: '500', fontSize: '18px'}}>
 
 一些简单的理疗，竟然弄得本ID异常痛苦，要念“药师咒”来止疼，简直成了笑话。现在的好中医都到哪里去了？
 

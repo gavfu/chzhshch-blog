@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 名实不符，并不意味着作品一定不好，只是让重名轻实的人多犯点糊涂。对于一般的音乐爱好者来说，最熟悉的音乐流派就是古典与浪漫了。而音乐历史上，恰好有两部著名的交响乐是用《古典》与《浪漫》命名，而实际上和真正的古典与浪漫无关。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
 
 普罗可菲夫D大调第一交响曲《古典》
 </div>
@@ -23,7 +23,7 @@ hide_table_of_contents: true
 他成为他，非此开始
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
 
 布鲁克纳降E大调第四交响乐《浪漫》
 </div>

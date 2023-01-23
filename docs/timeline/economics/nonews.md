@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/15 15:15:15
 
-<div style={{fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{fontWeight: '500', fontSize: '18px'}}>
 
 <div style={{color: '#009900'}}>
 
@@ -38,9 +38,9 @@ hide_table_of_contents: true
 6、如果政策也被热度化，那就意味着第一轮的走势有走到尾声的风险，那么就低价革命，比投机还要投机一把。
 </div>
 
-<p><span style={{fontSize: '14px', fontWeight: 'bold'}}>7、本ID只能是分力之一，不是合力，最终，一切决定于合力。而本ID成功与否，就是能否按自己的节奏，把合力引导出来。</span></p>
+<p><span style={{fontSize: '14px', fontWeight: '500'}}>7、本ID只能是分力之一，不是合力，最终，一切决定于合力。而本ID成功与否，就是能否按自己的节奏，把合力引导出来。</span></p>
 
-<p><span style={{fontSize: '18px', fontWeight: 'bold'}}>8、对于散户，操作上，技术不好的，逢高逐步把仓位减下来；技术好的，就在震荡中游戏那多多的机会，但必须要注意节奏。那些追涨杀跌的，没资格玩震荡游戏。</span></p>
+<p><span style={{fontSize: '18px', fontWeight: '500'}}>8、对于散户，操作上，技术不好的，逢高逐步把仓位减下来；技术好的，就在震荡中游戏那多多的机会，但必须要注意节奏。那些追涨杀跌的，没资格玩震荡游戏。</span></p>
 
  
 <div style={{color: '#009900'}}>

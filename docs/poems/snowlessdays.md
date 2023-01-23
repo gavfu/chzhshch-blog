@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/8/26 16:24:47
 
-<div style={{fontSize: 'large', fontWeight: 'bold', textAlign: 'left', lineHeight: '350%'}}>
+<div style={{fontSize: 'large', fontWeight: '500', textAlign: 'left', lineHeight: '350%'}}>
 北方十二月没有冰雪的日子
 </div>
 
@@ -38,7 +38,7 @@ hide_table_of_contents: true
 他们说<br/>
 今天有雾
 
-<div style={{fontSize: 'large', fontWeight: 'bold', textAlign: 'left', lineHeight: '350%'}}>
+<div style={{fontSize: 'large', fontWeight: '500', textAlign: 'left', lineHeight: '350%'}}>
 每条都是通向死亡的路
 </div>
 

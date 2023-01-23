@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/31 15:13:08
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 3点半有一无聊人从大连专程过来要谈一香港市场收壳的事情，谈完以后回来会写一篇纯技术分析后面走势的帖子。本ID现在的心情已经完全过年化了，想起还要有事情干就头疼。
  

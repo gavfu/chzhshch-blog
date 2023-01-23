@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/12 15:23:31
 
-<div style={{color: '#990000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#990000', fontSize: '18px', fontWeight: '500'}}>
 
 解盘前先说点最基本的常识，因为世上糊涂蛋太多，特别还有些中文都说不利索的有任务的所谓中国人，因此如此常识也必须费时间说说。
 
@@ -24,7 +24,7 @@ hide_table_of_contents: true
 
 </div> 
 
-<div style={{color: '#000066', fontSize: '20px', fontWeight: 'bold'}}> 
+<div style={{color: '#000066', fontSize: '20px', fontWeight: '500'}}> 
 
 至于股票的运行，在本ID的理论观照下同样是很科学的，该怎么样就怎么样，没有任何含糊的地方。这几天一直没有出现有力度的反弹，而只要你看看30分钟以上图的MACD，就知道这是理所当然的，因为真正大点级别的背驰根本没出现，60分钟上甚至连背驰段都说不上，这样怎么可能有大的反抽？
 
@@ -36,7 +36,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#CC0000', fontSize: 'x-large', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontSize: 'x-large', fontWeight: '500', lineHeight: '180%'}}>
 
 虽然理论是本ID个人发现发明的，但本ID的理念从来都是知识是全人类的，个人不应当藏着掖着，所以本ID把理论逐步公开，只是为了知识是全人类这个信念，和任何的同情或怜悯无关，因此学习得益的也不需要感谢本ID，就像你学会了平面几何，也不需要去感谢欧几里德。至于有人要千方百计去证明平面几何的错误，那也是无所谓的，这总比打麻将和傻忽忽跑到股市中亏钱强，对本ID的理论也是一样的。
 

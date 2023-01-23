@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/17 15:05:56
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 3311站不住，自然就要破底，这没什么可说的，但这就又成就新一轮419，一个新的短线机会又到面前。
  

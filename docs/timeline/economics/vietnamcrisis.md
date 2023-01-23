@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/9 19:50:44
 
-<div style={{color: '#660099', fontWeight: 'bold', fontSize: '20px'}}>
+<div style={{color: '#660099', fontWeight: '500', fontSize: '20px'}}>
 
 中国是一个大国，大国就该有大国的样子，一个大国，无论出自什么目的，人道的、责任的、经济的，干出来的事情都应该有大国风范，否则，不仅会被黑社会的大哥大姐耻笑，更会被其他弱小的国家所逐渐抛弃，离心而去了。
 

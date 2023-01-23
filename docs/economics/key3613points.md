@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/7 15:21:25
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 大盘今天突破短线关键位置3462点后一马平川，60分钟上N个月来第一次延伸出向上笔走势，显然了大盘的短线强势。
  

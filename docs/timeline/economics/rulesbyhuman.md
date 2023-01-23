@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/17 6:01:04
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 这题目其实是一句废话，人的事情，无论被吹嘘者忽悠成如何，都不过是人为的玩意，和吃喝拉撒没什么区别，包括被众多所谓高层人士顶礼膜拜的市场经济。
 

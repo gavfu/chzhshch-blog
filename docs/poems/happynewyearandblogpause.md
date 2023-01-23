@@ -8,17 +8,17 @@ hide_table_of_contents: true
 
 > 2008/2/5 15:35:31
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 恭贺新禧
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 花炮声声喜辞旧<br/>
 桃符户户始更新<br/>

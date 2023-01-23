@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/5/2 9:45:16
 
-<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: '500'}}>
 
 如果本ID一直按照打坐所需要的生活规范进行生活，又怎么会有这样的病。正因为本ID十分过分地去耗费原有的福德资粮，所以才会有这样的事情。
 

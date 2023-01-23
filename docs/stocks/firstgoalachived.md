@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/11 15:33:37
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 前面4800点说要反弹时，给了一个剧本，第一目标就是回补5200点这个缺口，今天总算胜利完成了。下一个目标是什么，前面可也说了，如果不知道，那是看帖子不认真，本ID可没有义务重复说。
  

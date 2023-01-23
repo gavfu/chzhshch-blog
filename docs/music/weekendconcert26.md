@@ -14,7 +14,7 @@ hide_table_of_contents: true
 
 <div style={{flineHeight: '180%', textAlign: 'center'}}>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', marginBottom: '10px'}}>罗西尼《威廉退尔》序曲</div>
+<div style={{color: '#FF0000', fontWeight: '500', marginBottom: '10px'}}>罗西尼《威廉退尔》序曲</div>
  
 为他最好的大歌剧所写的序曲，也是最有名的序曲之一，<br/>
 其中最出名也是最出色的并不是关于暴风雨的描写，<br/>
@@ -25,13 +25,13 @@ hide_table_of_contents: true
 正当壮年的他此后归隐，留下席卷欧洲后无穷的争论。<br/>
 罗西尼，一个天才，一个没有达到应有高度的天才。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '10px', marginBottom: '10px'}}>贝多芬钢琴奏鸣曲《暴风雨》</div>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '10px', marginBottom: '10px'}}>贝多芬钢琴奏鸣曲《暴风雨》</div>
  
 钢琴上的暴风雨，是无须模拟也无法模拟的，<br/>
 这里只有内心，只有莎士比亚的灵感与这位狂暴的天才间的碰撞。<br/>
 这最纯粹的风雨，来自生命低层最暴虐的无名。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '10px', marginBottom: '10px'}}>苏佩《诗人与农夫》序曲</div>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '10px', marginBottom: '10px'}}>苏佩《诗人与农夫》序曲</div>
  
 一段圆舞曲被当成风雨天气的预告配乐，<br/>
 这正好说明了这段音乐的非纯粹性。<br/>
@@ -40,7 +40,7 @@ hide_table_of_contents: true
 唯一值得感叹的是，这十九世纪的流行音乐，<br/>
 在如今的喧嚣中，已经相当古典了。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '10px', marginBottom: '10px'}}>贝多芬第六《田园》交响乐</div>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '10px', marginBottom: '10px'}}>贝多芬第六《田园》交响乐</div>
  
 这里，一切都是自然的，一切都是内心的，<br/>
 被内心所照亮的自然与被自然所清凉的内心，<br/>

@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2007/11/20 9:05:23
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px'}}>
 
 今天解盘在晚上，抱歉。
 
 </div>
 
-<div style={{fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{fontWeight: '500', fontSize: '18px'}}>
 
 和谐世界存在的N种可能：
 

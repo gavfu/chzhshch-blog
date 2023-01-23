@@ -13,15 +13,15 @@ hide_table_of_contents: true
 对不起，在京郊腐败，没在家里，不能上传音乐，承诺的音乐会没法开了。聊赋七律一首替之，请原谅。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 醉夜
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 一樽倾洒大千尘<br/>
 半榻清凉不系身<br/>

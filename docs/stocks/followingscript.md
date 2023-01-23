@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/10 15:19:00
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 剧本早写好了，本来瓜田李下，不想八卦。但本ID只是想证明一件事情，就是在资本市场里，就算把剧本告诉你了，绝大多数人最后还是要在井里的，好一点的，就是上上下下去为电梯卖广告，不信？走着瞧。
  

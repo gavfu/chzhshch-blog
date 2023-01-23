@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2007/10/22 15:25:35
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '56px', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '56px', lineHeight: '150%'}}>
 
 首先，以最热烈的掌声祝贺从此股市北大了。
 
 </div>
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 听说，多头要今天拉大阳，就如同上次有空头说要9月20时间之窗，就要这些人丢脸，世界很北大，后果北大了，本ID高兴ing。
  

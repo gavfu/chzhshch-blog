@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/3/14 8:58:13
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 附录：
  

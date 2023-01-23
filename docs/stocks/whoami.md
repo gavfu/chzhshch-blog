@@ -8,15 +8,15 @@ hide_table_of_contents: true
 
 > 2006/12/28 15:30:28
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '200%', textAlign: 'right'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '200%', textAlign: 'right'}}>
 我是谁？
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xx-large', lineHeight: '200%', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xx-large', lineHeight: '200%', textAlign: 'center'}}>
 从哪里来？
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xxx-large', lineHeight: '200%', textAlign: 'left'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xxx-large', lineHeight: '200%', textAlign: 'left'}}>
 到哪里去？
 </div>
 

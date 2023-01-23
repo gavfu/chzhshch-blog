@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/26 10:32:38
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '200%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '200%'}}>
 
 美国佬的把戏在本ID关于联手后陷阱的帖子中已经揭示，显然，王先生这次真的虚竹了一把，不过是太嫩那种，被美国佬耍了把。但美国佬的把戏还是蒙骗不了本ID，美国佬送的钱本ID要了，中国政府以后死顶如十几年前777的闹剧，那种伤心钱就算了。
 

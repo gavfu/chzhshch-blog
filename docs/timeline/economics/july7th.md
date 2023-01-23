@@ -16,7 +16,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
  <br/><br/>
 </div>
 
-<div style={{fontSize: 'x-large', fontWeight: 'bold'}}>
+<div style={{fontSize: 'x-large', fontWeight: '500'}}>
 老帖
 </div><br/>
      

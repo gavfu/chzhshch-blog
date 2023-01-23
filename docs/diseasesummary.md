@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/28 15:17:51
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px', lineHeight: '180%'}}>
 
 本ID写这些，就是要真实地记录一个操作，同时，可以告诉所有人，生命是可以用操作的角度从容地面对的。
 

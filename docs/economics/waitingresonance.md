@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/28 15:10:21
 
-<div style={{color: '#669900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#669900', fontWeight: '500', fontSize: '18px'}}>
 
 现在，政策与技术，单纯一面，都不足以构造真正的中期底部，而是必须等待两者产生共振效应。政策面上，效率不高；技术面上，最简单的均线系统都没修正好，因此，硬来没多大意义。
 

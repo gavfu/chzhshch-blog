@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/8 8:43:12
 
-<div style={{color: '#000066', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#000066', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 今天下午，有N个楼盘需要去看，一收盘车子就过来接，所以写不了帖子，只能一大早起来先把任务完成，也是为了兑现诺言。
 
@@ -30,7 +30,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 如果真理就是基督教化的那种上帝式的玩意，那这种玩意从来不曾存在过。当然，你可以把“基督教化的那种上帝式的真理从来不曾存在过”作为一个命题，同时，你当然也可以严重地反对这个命题，为此，你必须至少找出一个例子去否认这样一个命题，也就是说你必须至少找出一个“基督教化的那种上帝式的真理”来，而实际上，世界上没有人能找出这样的玩意。
 

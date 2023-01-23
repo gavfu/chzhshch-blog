@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/1 15:16:38
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 别让本ID看不起，每次短线，本ID都把最后的走人位说得一清二楚，就象这次的3499，今天早上连续冲了两次不行，就开始大幅度下行，如果你这你都看不明白，还是去孔男人那里吧，你这样的水平在这里只有丢人的份。或者就自知之明一点，在自己额头上写好永不短线，因为自己无能。
  

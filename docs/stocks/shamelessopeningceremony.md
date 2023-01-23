@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/10 7:50:26
 
-<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '20px', fontWeight: '500', lineHeight: '180%'}}>
 
 一个如此无耻堕落的开幕式，不出意外地受到既得利益者的一致热捧，为什么？这大概是开幕式后最值得思考的问题。本ID不想给出所谓的答案，因为任何还有一点良知的人，一切良心还是人的、还没把良心喂狗的都心如明镜地有了答案。
 

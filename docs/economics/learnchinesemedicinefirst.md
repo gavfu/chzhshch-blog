@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/10 21:16:19
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 10月的时候，本ID写了这样一个帖子“[<font style={{color:'#FF0000', textDecoration:'underline'}}>中国经济，已需治理整顿。</font>](chinaeconomics)”，其实，懒得说的缘故，写的时间已经够晚了，但那时候对于某些人来说还是太超前了。那么，两个月后的今天，这一切已经逐步成为现实。
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/27 15:47:33
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 为什么英格兰队特别值得关注？一个很重要的原因，就是这世界上真没有一个队这么像英格兰如此地有特点，又如此地神经刀，如此地人性一样有趣而不可信任。如同具有一堆很有特点的零件，如何连接成一个有机的整体，这成了全世界最顶级教练都感兴趣的事情。
  

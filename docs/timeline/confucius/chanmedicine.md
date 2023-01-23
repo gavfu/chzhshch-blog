@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2008/8/27 15:45:46
 
-<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '32px', fontWeight: '500', lineHeight: '180%'}}>
 
 严重预告:本周开讲缠中说禅中医学，注意，是缠中说禅中医学，而不是中医学。
 
 </div>
  
-<div style={{color: '#0033FF', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#0033FF', fontSize: '18px', fontWeight: '500'}}>
 
 本打算去理疗，现在已经没必要，本ID昨晚让人过来手动推按一些关键部位，加上一西药的针，已经完全起作用，昨天只对严重的一边下了重手，另一边现在反而仿佛变得比治疗的这边严重，看来效果不错。
 
@@ -32,13 +32,13 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#336600', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#336600', fontSize: '18px', fontWeight: '500'}}>
 
 大盘没什么可说的，一切都在昨天的分析中，有些自以为是之辈连本ID的理论是什么都没闹明白就断言本ID的理论被目前的走势所破坏，对这种人，唯一的选择就是少管，让愚蠢继续愚蠢下去就是对愚蠢最好的惩罚。至于对于已经有所把握的，当然看得到目前走势的规范。注意，昨天分析提到的那种情况，在底部构造中超经常出现的，一定要注意研究，这个是无上利器，因为反过来，就是顶的构造，这在历史性大顶的构造中太常见了。
 
 </div> 
 
-<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '20px', fontWeight: '500'}}>
 
 好了，现在本ID要出去大购买，现在体内<span style={{fontSize:'32px'}}>大兴土木</span>的感觉越来越强劲，不要浪费了这机缘。
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/1 15:16:39
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天的走势极端教科书，早上背驰后形成1分钟中枢的第二段，然后回跌构成第三段，这样1分钟的中枢就构成了，紧接着就是围绕这个中枢的震荡，下面需要等待的只是第三类买卖点问题。
  

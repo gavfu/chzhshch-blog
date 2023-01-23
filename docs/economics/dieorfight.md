@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/18 15:31:11
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 现在对于多头来说，形势十分明确，就是两个选择：早死早投胎还是背水一战。技术上，本ID已经分析得很清楚，周线上是（-1，0），日线上两种选择，在4778点上制造（-1，0），这样多头还有背水一战的机会，否则就早死早投胎。
  

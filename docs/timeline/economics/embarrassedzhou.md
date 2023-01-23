@@ -14,7 +14,7 @@ hide_table_of_contents: true
 
 人民银行也就一部级单位，不当龟孙子已经很好，想当格老子是彻底没门了，不过，这更构不成尴尬的原因，从来就是这样，看来，本ID要开始同情周行长了。既然这样，本ID知错就改，债转股银行没贱卖般宣布，本文题目改成“周行长的无可尴尬”。
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 附录：
 

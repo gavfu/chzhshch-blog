@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/22 0:17:39
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 刚回酒店，南方的冬夜，下着寒雨，和北京真是大不同。外面是这个城市最大的广场，子夜时分，依然灯火璀璨，车流涌动。城市总是令人生厌，特别在这样一个遥远的夜晚，世界如此遥远，城市多余地忙碌着。
  

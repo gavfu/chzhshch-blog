@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/8 15:35:47
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 今天的走势，完全在理所当然之中，节前，在纯技术的角度已经对节后走势进行明确的分析，就是先完成139开始这一线段，然后再完成137开始的线段的类上涨，然后就是1分钟中枢的形成，走势如此正常地按本ID理论所框定的节奏走，所以也没什么可说的了。（今天图就不要帖了，没有任何新的标记）
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/8 15:19:39
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天给了短线的关键位置3613点，今天全天就是围绕着震荡，连收盘就在3612.5就知道，该点确实如期发挥了作用。
  

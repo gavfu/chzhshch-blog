@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/26 15:15:26
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天让各位注意5分钟MACD站稳0轴后上攻的情况，结果今天早上走出一个标准的盘整背驰，红柱子小于前面一组，而也只带动了15分钟MACD回拉0轴受阻，因此其后的回落就理所当然了。
  

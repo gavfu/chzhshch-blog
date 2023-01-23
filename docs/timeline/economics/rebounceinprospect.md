@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/3 15:14:03
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 大盘终于破底，这使得月线底分型最快也要到10月才能构成，但站在短线的角度，反弹反而有了技术基础。当然，这类反弹都是纯技术性质的，属于短跑型，能否参与就看各自的技术了。
 
@@ -18,7 +18,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#CC3300', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#CC3300', fontWeight: '500', fontSize: '18px'}}>
 
 大盘真没什么可说的，本ID这几天状态一般，主要是要和坐骨神经斗争，暂时是棋逢对手，还没分胜负。人生中最难熬的大概就是这种状态了，首先你不知道平衡什么时候打破，而你又不能松懈，否则平衡马上就破了，所以只能熬着。这就如同现在的大盘，就是熬着，谁能最终熬出头，就是胜利者。
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/24 15:17:30
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天，在昨天所说的4778点受到压制产生震荡。4778点，在技术上十分重要，因为这是前期低点，能否出现上去站住，决定了这次下跌的性质与最终完成形式。说句直接的，就是一条多空抉择线。
  

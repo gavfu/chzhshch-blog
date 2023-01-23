@@ -13,17 +13,17 @@ hide_table_of_contents: true
 下午4点开始，折腾到现在才到家，够无聊的。也没写任何东西的兴趣了，就用旧作一首敷衍一下各位，愿各位都能好梦一把。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 星灯
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '200%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '200%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 星灯万点湛天街<br/>
 银汉舒波日月崖<br/>

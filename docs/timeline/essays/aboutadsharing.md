@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/9/21 8:36:58
 
-<div style={{color: '#0000FF', fontWeight: 'bold', fontSize: '16px'}}>
+<div style={{color: '#0000FF', fontWeight: '500', fontSize: '16px'}}>
 
 
 新浪提供了场地、设备，通过广告收取应得的利益，这无可厚非，本ID也支持。<br/>

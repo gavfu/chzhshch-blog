@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2007/9/18 15:53:21
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 首先，必须声明，本ID昨天说的是驴，和任何股票无关。至于有些无聊股票，走出例如涨停那种很无聊的走势，可和本ID一点关系都没有。本ID这里可从不推荐任何股票，最多就是梦里胡言乱语一把，本ID要推荐，也推荐驴肉火烧实在点。
  

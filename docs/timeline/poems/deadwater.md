@@ -26,17 +26,17 @@ hide_table_of_contents: true
 
 无聊间，用“死水”胡诌七律一首。
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 死水
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '120%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '120%'}}>
 
 一潭死水一乌瞳
 
@@ -55,13 +55,13 @@ hide_table_of_contents: true
 乾坤刹那摄无穷
 </div>
 
-<div style={{fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%', marginTop: '80px'}}>
+<div style={{fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%', marginTop: '80px'}}>
 
 附录
 </div>
 
  
-<div style={{fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 死水
 </div>

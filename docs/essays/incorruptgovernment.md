@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 最近这事闹得挺欢，说什么都有，还是看看真实版本，别傻了！
  
-<div style={{fontSize: 'x-large', fontWeight: 'bold', color: '#FF0000', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{fontSize: 'x-large', fontWeight: '500', color: '#FF0000', textAlign: 'center', lineHeight: '150%'}}>
 
 周公恐惧流言日，王莽谦恭未篡时。   
  

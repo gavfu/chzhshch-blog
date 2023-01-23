@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2008/8/3 8:25:09
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px'}}>
 
 周日，无事。最近针比原来少了，每天750毫升，大概3小时就能打完。
  

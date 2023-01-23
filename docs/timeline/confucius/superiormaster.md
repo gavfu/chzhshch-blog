@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/3 16:33:13
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 今晚有事，早点把文章扔上来。下了，再见。
  

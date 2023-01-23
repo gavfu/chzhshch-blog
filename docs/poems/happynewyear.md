@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/2/17 19:27:41
 
-<div style={{color:'#FF0000', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '120%'}}>
+<div style={{color:'#FF0000', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center', lineHeight: '120%'}}>
 
 阆苑银花碧桃
 

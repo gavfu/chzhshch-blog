@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/4 15:18:09
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天说了，大盘由于没有出现真正的第三类买点，技术依然可以跌回原来4331点中枢，基本面上的相应配合就是平安通过增发。不过今天一开始的消息面，已经等不到明天平安的开会了，深发展的增发传闻使得大盘立刻转折向下，一举实现再回原来中枢的壮举。
  

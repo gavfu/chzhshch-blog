@@ -11,7 +11,7 @@ hide_table_of_contents: true
 上周刚回来，忙着写孔二爷了，落了一周的周末音乐会。本周来一个大会餐，把维也纳四牛人请来弄一个颠峰决战。在现实的音乐会中这种安排是不可能的，在周末音乐会里，一切皆可能。出场顺序按年代，海顿没被邀请，总觉得这老兄有点分量轻了。当然，这只是和他的这四位牛人后辈相比，和其余后人比，海顿还是足够牛的。
  
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%', marginBottom: '10px'}}>
 莫扎特C大调第41交响乐
 </div>
  
@@ -21,7 +21,7 @@ hide_table_of_contents: true
 </div>
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
 贝多芬降B大调槌子键琴奏鸣曲
 </div>
  
@@ -29,7 +29,7 @@ hide_table_of_contents: true
 </div>
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
 舒伯特C大调弦乐五重奏
 </div>
  
@@ -39,7 +39,7 @@ hide_table_of_contents: true
 </div>
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
 勃拉姆斯e小调第四交响乐
 </div>
  

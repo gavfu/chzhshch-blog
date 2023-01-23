@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2007/7/19 15:29:28
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 其实，无论本ID出差还是在北京，和各位的距离都是相等的，也就是一层网络而已。所以，虽然每次本ID出差，大盘就有病一般，但本ID利用战事的空闲处，也要干点别的事情，二级市场的事情，不是光二级市场决定的，所谓工夫在诗外矣。
  

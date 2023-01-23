@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/29 15:11:47
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 今天，继续周末消息市，由于外围造好，就有了比较强的盘面。现在，最基本的，超短线就看周一能否站住2403点，能就极大机会延伸出日线图上的向上笔，2523点是下一个重要位置。更大时间的分析，请看今早的文章。
 
@@ -34,7 +34,7 @@ hide_table_of_contents: true
 
 </div>
  
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px'}}>
 
 周末中医一把，本ID的绝对前无古人，有时间可以先把抽象代数复习一下，本ID的中医是以抽象代数为基础展开的，当然其中不会用到相关术语，但思路是一样的，这才能构造真正的中医基础。
 

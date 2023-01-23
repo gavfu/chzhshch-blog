@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/25 15:15:22
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px', lineHeight: '180%'}}>
 
 大盘如此气势汹汹，结果还是在本ID一早提示的3656点上被迎头痛击而出现跳水，显然，大盘因此将进入震荡，该震荡平台如果最终只能出现第三类卖点，那么大盘甚至有再次探底的可能。
 
@@ -25,7 +25,7 @@ hide_table_of_contents: true
 个股如所说地出现分化，好好观察调整中有新资金介入的，一旦还有新一波，这就是黑马了。
 </div>
  
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%'}}>
 
 另外，本ID极端鄙视那些拿本ID的病到处招摇的，这些不配做人。人的尊严，就在生命的残酷中的从容，整天鬼哭狼嚎，把一个帖子贴上几百上千，还是人吗？
 
@@ -38,7 +38,7 @@ hide_table_of_contents: true
 周末了，让我们去体验不一样的生命。
 </div>
  
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px', lineHeight: '180%'}}>
 
 先下，再见。
 </div>

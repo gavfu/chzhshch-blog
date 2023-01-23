@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2007/9/13 16:00:16
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 看完下面文章，请务必看
  

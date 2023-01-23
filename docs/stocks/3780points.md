@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/21 15:29:38
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 电话太多，晚点，抱歉。
  
@@ -36,15 +36,15 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '200%'}}>
+<div style={{color: '#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '200%'}}>
 东南
 </div>
 
-<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '200%'}}>
+<div style={{color: '#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '200%'}}>
 缠中说禅
 </div>
 
-<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 东南万里海浮天，<br/>
 一裂金瓯百五年。<br/>
 未葬鱼龙今古血，<br/>

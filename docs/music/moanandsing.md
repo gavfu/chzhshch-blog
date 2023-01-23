@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/1/7 15:15:06
 
-<div style={{color: '#FF0000', fontWeight: 'bold', lineHeight: '180%', textAlign: 'center', marginTop: '30px', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', lineHeight: '180%', textAlign: 'center', marginTop: '30px', marginBottom: '20px'}}>
 
 <span style={{fontSize: 'xxx-large'}}>Woo--------</span><span style={{fontSize: 'xx-large'}}>Woo--------Woo------</span><span style={{fontSize: 'x-large'}}>Woo-----Woo----</span><span style={{fontSize: 'large'}}>Woo----Woo---</span><span style={{fontSize: 'medium'}}>Woo---Woo--</span><span style={{fontSize: 'small'}}>Woo---Woo--</span><span style={{fontSize: 'x-small'}}>Woo---</span>
 

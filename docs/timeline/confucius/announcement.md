@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/10/19 16:37:53
 
-<div style={{color: 'red', fontWeight: 'bold', fontSize: 'large'}}>
+<div style={{color: 'red', fontWeight: '500', fontSize: 'large'}}>
 
 公告
 

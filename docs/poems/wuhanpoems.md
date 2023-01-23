@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/19 6:01:07
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 早起无事，将这几天写的与武汉相关律诗两首搬上来。新帖子可能要等明早，下午有事，抱歉。
 
@@ -17,17 +17,17 @@ hide_table_of_contents: true
  
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 夜赴江城
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 不思犹八万
 
@@ -50,19 +50,19 @@ hide_table_of_contents: true
  
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 南岸咀
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
  
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 江汉汇流天地走
 

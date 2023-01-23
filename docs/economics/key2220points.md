@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/10 11:18:07
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 下午收盘就要走。所以先说两句。
 

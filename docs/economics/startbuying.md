@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/18 15:16:32
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 很多人好象很想知道本ID的操作，今天可以公开宣告，今天尾盘，本ID开始买入股票。
  

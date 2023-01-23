@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/11 16:25:48
 
-<div style={{color: '#660066', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#660066', fontWeight: '500', fontSize: '18px'}}>
 
 先说大盘，今天的大盘走出一个小型中枢，由于没破底，因此这种盘整的能量有限，若能走出小的第三类买点，则有向昨天缺口方向攻击的进一步行动，否则将转化为大跌后的休整式盘整，后面还有进一步探底。即使是前面好的情况，由于昨天长阴杀伤过强，人心浮动，如果没有大的消息配合，最终将无功而返，再考验3000点。
 
@@ -22,7 +22,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '20px'}}>
 
 而越南问题不解决好，美国这僵尸就会来中国继续尸变，这么简单的问题就不用再多说了。
 

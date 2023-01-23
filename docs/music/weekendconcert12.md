@@ -19,7 +19,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 但舒伯特也有很阳光的瞬间，当然，这更多的是反映在他25岁前的作品中。在那里，舒伯特很莫扎特，但又有着舒伯特自己的特色，因此更加的动人。这里选择的三部作品分别是：
  
 <div style={{textAlign: 'center'}}>
-<div style={{fontWeight: 'bold', fontSize: '18px', lineHeight: '180%', marginBottom: '10px'}}>
+<div style={{fontWeight: '500', fontSize: '18px', lineHeight: '180%', marginBottom: '10px'}}>
 A大调钢琴五重奏
 </div>
  
@@ -34,7 +34,7 @@ A大调钢琴五重奏
  
 
 <div style={{textAlign: 'center'}}>
-<div style={{fontWeight: 'bold', fontSize: '18px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
+<div style={{fontWeight: '500', fontSize: '18px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
 D大调钢琴奏鸣曲
 </div>
  
@@ -43,7 +43,7 @@ D大调钢琴奏鸣曲
 </div>
 
 <div style={{textAlign: 'center'}}>
-<div style={{fontWeight: 'bold', fontSize: '18px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
+<div style={{fontWeight: '500', fontSize: '18px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
 降B大调第五交响乐
 </div>
  

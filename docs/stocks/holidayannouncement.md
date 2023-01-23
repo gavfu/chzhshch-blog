@@ -8,14 +8,14 @@ hide_table_of_contents: true
 
 > 2007/2/16 15:21:37
 
-<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center'}}>
 过 年好
 </div>
-<div style={{color: '#FF0000', fontSize: 'large', fontWeight: 'bold', textAlign: 'center', marginTop: '20px'}}>
+<div style={{color: '#FF0000', fontSize: 'large', fontWeight: '500', textAlign: 'center', marginTop: '20px'}}>
 24日重新开博
 </div>
 
-<div style={{color: '#FF0000', fontSize: 'large', fontWeight: 'bold', textAlign: 'left', marginTop: '10px'}}>
+<div style={{color: '#FF0000', fontSize: 'large', fontWeight: '500', textAlign: 'left', marginTop: '10px'}}>
 
 汉奸之所以如此昌盛，就是因为国人习惯于一团散沙，今天尾市给汉奸借泄露消息偷袭，而其他大盘股纷纷弃守，就是一个好的证明，但联通已经干了他该干的事情，没有丢人。除了本周的联通，本ID以前说过的14只股票，除了2只，全部今天都见到过本轮行情的新高，而那没见新高的两只，都和一个有着汉奸名字的基金有关，本ID不待见他们。前面说过，就算突破3000点，震荡还是必须的，这场多空的绞杀战，依然要继续。
  

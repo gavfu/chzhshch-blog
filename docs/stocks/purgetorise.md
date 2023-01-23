@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/9 15:12:50
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 其实，不仅是股票，这世界游戏的一个基本玩法，就是“上涨动力，来自清洗。”没有清洗，所有人都成功，所有人都吃香喝辣的，那就不是全球化资本的美丽新世界了。
  

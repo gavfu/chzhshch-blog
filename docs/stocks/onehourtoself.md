@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/1/19 14:50:11
 
-<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center'}}>
 
 周末了，各位好好休息
 

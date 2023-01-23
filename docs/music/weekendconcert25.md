@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/1/21 12:50:57
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
 
 各位注意了
 </div>
@@ -19,7 +19,7 @@ hide_table_of_contents: true
 </div>
  
  
-<div style={{fontWeight: 'bold', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{fontWeight: '500', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
 
 [缠中说禅的音乐播客](http://www.crboo.com/podcast.asp?domain=chzhshch)
 </div>

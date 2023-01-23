@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/7 9:55:19
 
-<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 装修完工
 

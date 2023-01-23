@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/4/1 10:55:14
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '56px', lineHeight: '150%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '56px', lineHeight: '150%', textAlign: 'center', marginBottom: '20px'}}>
 
 生命独白 <br/>
 比大海还宽广的 <br/>

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/4 15:20:02
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 第一次碰年线要上演<font style={{color: '#FF0000', fontSize: '24px'}}>喜剧</font>，这在去年12月已说。当然，真到上演时，相信的人就不会多了，不相信的人多了自然就更喜剧了，市场总是如此。所以，就算把剧本告诉你，绝大多数还是不行，这点，已说多次。不过，经过这次，大概各位对本ID上周所说的“哀景写乐倍增其乐”应该会有点切实的体会了。
  
@@ -38,13 +38,13 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '32px', lineHeight: '180%'}}>
 
 最后，如果有对平安特别熟悉，或有其强力罪证的，可以提供点在跟帖或留言里，节后，要来一次对平安的<font style={{fontSize: '56px'}}>清算</font>，子弹已经收集了不少，不过如果有更猛的，不妨可以多提供。
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 有些事情，要是需要有人干的。干，就有了分力。如果分力都没有，如何改变合力呢？
  

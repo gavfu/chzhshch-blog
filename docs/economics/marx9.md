@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/3 16:13:24
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 这世界上自以为是的蠢人太多，例如，这些蠢人会提这样的质问：如果大家都不信仰共产主义，或者不信仰的比信仰的多，共产主义还能实现吗？
 

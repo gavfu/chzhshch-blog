@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/5/14 15:23:24
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 马上要离开深圳去长沙,然后有人在机场接本ID去某市,临走前,按承诺,对今天的走势说两句.
  

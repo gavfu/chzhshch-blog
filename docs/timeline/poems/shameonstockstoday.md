@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 <div style={{fontSize: '18px', fontWeight: 'normal', textAlign: 'left', lineHeight: '150%'}}>
 
-今天，不说股票，今天说股票是无耻的，<font style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold'}}>要说明早说。</font>
+今天，不说股票，今天说股票是无耻的，<font style={{color:'#FF0000', fontSize: '24px', fontWeight: '500'}}>要说明早说。</font>
  
 今晚，有朋自东南而来，二锅头已备好，亦可“何以解忧，惟有杜康”一番矣。
  
@@ -20,17 +20,17 @@ hide_table_of_contents: true
 </div>
  
  
-<div style={{fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 南京大屠杀七十年祭
 </div>
 
-<div style={{fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 一
  

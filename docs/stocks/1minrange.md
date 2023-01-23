@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/31 15:13:50
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 马上要去赶飞机，只能快速说两句。
  

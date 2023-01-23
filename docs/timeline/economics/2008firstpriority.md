@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/1 17:38:18
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '20px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '20px', lineHeight: '180%'}}>
 
 本ID是严重反对“中国大妓院”这样的名字的，因为这里存在着严重的男权思维，但这样的称呼，至少在北京私底下已早不新鲜。这么多血汗钱，如果能搞出个真玩意，那还算是个玩意；但连个玩意都没搞太好，那究竟是什么玩意那就不用再玩意了。
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/25 20:32:12
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 心情好，继续挑逗五四小儿的兔子兔孙。
  

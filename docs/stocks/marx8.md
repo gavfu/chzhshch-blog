@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/27 16:19:03
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 这里说的是马克思意义上的社会主义，而不是那些阿猫阿狗的所谓社会主义。当然，你可以抓着一根鸡毛说，这就是社会主义，但这和马克思无关，这里只探讨马克思意义上的社会主义。
 

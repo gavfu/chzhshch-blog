@@ -14,7 +14,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <img src={useBaseUrl('/img/poems/2vernacularpoetry/1.jpeg')} /><br/><br/>
 </div>
 
-<div style={{fontSize: 'x-large', fontWeight: 'bold', textAlign: 'left', lineHeight: '250%'}}>
+<div style={{fontSize: 'x-large', fontWeight: '500', textAlign: 'left', lineHeight: '250%'}}>
 十月
 </div>
 
@@ -52,7 +52,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 時間瘟疫  最後的矜持<br/>
 文明的十字架上經典斑斑  
  
-<div style={{fontSize: 'x-large', fontWeight: 'bold', textAlign: 'left', lineHeight: '250%'}}>
+<div style={{fontSize: 'x-large', fontWeight: '500', textAlign: 'left', lineHeight: '250%'}}>
 慣於手淫的人類
 </div>
 

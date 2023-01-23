@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/24 14:38:08
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 中国烧钱，美国画饼，这叫中美联手，现在唯一值得看的闹剧是，美国会不会顺便把这些整持的套在这个位置。5日线，股票就这样了。
 

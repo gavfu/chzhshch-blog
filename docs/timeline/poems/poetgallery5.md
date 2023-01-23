@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2008/6/22 8:34:43
 
-<div style={{color: '#990000', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#990000', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 昨天就去看楼了，但关心的还是那东西消的情况。现在的病灶主要在颈部淋巴，所以都用尺子量着，看消的结果，结果是早上和晚上差了近5厘米的周长，看来到外面走走效果更好，现在那主要病灶已经裂成上下两部分，看看后面的进展如何。昨天开始，看化疗效果一般，又加料进行治疗，功劳可以归西医，但关键是病要好，加料的东西并不需要功劳。
 
 </div>
 
-<div style={{color: '#CC0000', fontSize: '20px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontSize: '20px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 
 今天的画廊描画的是两位纯粹的诗人：陶是客观角度中国第一位纯粹的诗人；而小李则是中国第一位主观成为一个纯粹诗人的人，这点比李白走得更远，李白的心里可能还有功名仙道一些东西，但在小李那里，人的主体意识无限高涨，直与天地为准，而且还要凌驾于天地之上笔补造化。
@@ -29,7 +29,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#990000', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#990000', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 今天早上打完500CC后继续看楼去。
 
@@ -44,19 +44,19 @@ hide_table_of_contents: true
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 陶渊明
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 采菊东篱死心难
 
@@ -77,19 +77,19 @@ hide_table_of_contents: true
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 李贺
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 造化人名我补之
 

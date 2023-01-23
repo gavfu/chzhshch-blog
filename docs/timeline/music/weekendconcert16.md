@@ -8,15 +8,15 @@ hide_table_of_contents: true
 
 > 2006/11/11 11:11:11
 
-<div style={{fontWeight: 'bold', fontSize: 'large', lineHeight: '180%', textAlign: 'center'}}>
+<div style={{fontWeight: '500', fontSize: 'large', lineHeight: '180%', textAlign: 'center'}}>
 当
 </div>
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: 'xx-large', lineHeight: '180%', textAlign: 'center'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: 'xx-large', lineHeight: '180%', textAlign: 'center'}}>
 男人的柔弱
 </div>
 
-<div style={{color: '#660099', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '180%', textAlign: 'center'}}>
+<div style={{color: '#660099', fontWeight: '500', fontSize: 'x-large', lineHeight: '180%', textAlign: 'center'}}>
 遇上
 </div>
 
@@ -32,7 +32,7 @@ hide_table_of_contents: true
 
 这波兰男子的FANS比起俄罗斯同志只多不少，话就点到为止。作品不介绍了，学钢琴的人、听钢琴的人、玩钢琴以及被钢琴玩的人，大概没有不熟悉的了。
 
-<div style={{fontWeight: 'bold', fontSize: 'x-large', lineHeight: '180%', textAlign: 'left'}}>
+<div style={{fontWeight: '500', fontSize: 'x-large', lineHeight: '180%', textAlign: 'left'}}>
 请把其他背景音乐关闭
 </div>
 

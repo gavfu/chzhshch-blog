@@ -9,7 +9,7 @@ hide_table_of_contents: true
 > 2008/10/5 17:01:24
 
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px'}}>
 
 中国放假七天，美国参众两院来回折腾，引得旁观者一惊一乍，终于通过了一个饮鸠止渴的救市方案。但世界金融市场并没有太领情，当天多以暴跌报收，且不管本次救市效益如何，现在必须追问的是这就是说8500亿的救市基金难道是天上掉下来的馅饼？
 

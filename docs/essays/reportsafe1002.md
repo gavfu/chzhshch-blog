@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/10/2 8:25:48
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 情况比想象的好，新生活总是困难的，但已经基本解决。现在一医院疗养中，竟然又碰到一中学同学，给予极大帮助。
 

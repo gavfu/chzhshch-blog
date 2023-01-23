@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/29 9:44:41
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 如果你觉得你是神仙，那这帖子不需要看。
 

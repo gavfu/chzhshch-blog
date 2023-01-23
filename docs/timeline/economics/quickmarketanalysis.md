@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/20 23:44:07
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 严重对不起，事情太多，忙到现在才回来。还好，赶得上24点，至少今天晚上解盘这个承诺能够实现。
  

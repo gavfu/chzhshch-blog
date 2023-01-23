@@ -8,14 +8,14 @@ hide_table_of_contents: true
 
 > 2008/1/9 15:41:51
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 晚上有事，帖子写好先扔上来。
 </div>
 
 <div style={{fontSize: '18px', fontWeight: 'normal', textAlign: 'left', lineHeight: '180%'}}>
 
-很对不起，要令毛大爷的粉丝极端<font style={{fontSize: '32px', color:'#009900', fontWeight: 'bold'}}>失望</font>，他们眼里的第一军事天才、统帅，在这位牛人面前，就算不了什么了。
+很对不起，要令毛大爷的粉丝极端<font style={{fontSize: '32px', color:'#009900', fontWeight: '500'}}>失望</font>，他们眼里的第一军事天才、统帅，在这位牛人面前，就算不了什么了。
  
 一切以结果为依据，其他都是废话。那么，结果是什么呢？这位白手起家的牛人，在不可想象的超短时间内，横扫N大高级得多的所谓文明，N的平方多的所谓强国，在人类历史上，展开空前绝后的大征服，而他所依靠的军队，不超过20万。
  
@@ -44,17 +44,17 @@ hide_table_of_contents: true
 最后，为这牛人赋七律一首。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 成吉思汗
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 天纵英雄草莽间<br/>
 扶摇六合扫尘寰<br/>

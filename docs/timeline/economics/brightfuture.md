@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/25 21:04:33
 
-<div style={{fontWeight: 'bold', fontSize: '20px', lineHeight: '200%'}}>
+<div style={{fontWeight: '500', fontSize: '20px', lineHeight: '200%'}}>
 
 <div style={{color: '#FF0000'}}>
 

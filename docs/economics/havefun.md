@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2007/5/16 15:26:10
 
-<div style={{color: '#FF0000', fontWeight: 'bold', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginBottom: '10px'}}>
 各位,今天爽了吗?
 </div>
 
 如果10点17添补周线缺口的底背驰你竟然还看不明白,还不会操作,那么就必须继续挑灯学习去.中枢震荡,直到出现第三类买卖点,这就是5月以后一直的说法,一个不会中枢震荡的操作者,注定是蹩脚的.一个完美的中枢震荡,会让多头空头同时挨嘴巴,当多头兴奋时,就让他痛苦,当空头要把419天长地久时,就让他哭,这就是中枢震荡,一个完美的中枢震荡,要多头和空头的血同时抽干,这就是中枢震荡.
 
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '10px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '10px', marginBottom: '10px'}}>
 中枢震荡的操作要领在课程里都有,不会的学,不熟练的继续练习.
 </div>
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/13 15:18:28
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 反复强调，现在已经是信心问题。信心危机下，今天引发多杀多，4000点成了纸糊的。不过，下午关于3G的利好引发联通快速上涨冲击涨停，使得大盘不至于收得过分难看。
  

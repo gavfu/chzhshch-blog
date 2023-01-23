@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/20 11:13:56
 
-<div style={{color: '#0000FF', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#0000FF', fontWeight: '500', fontSize: '18px'}}>
 
 抱歉，由于一西南地区上市公司的股权收购问题需要和法院和银行接触，下午可能等不到收盘就要去开会，所以今天的解盘和后面的帖子都没有了。现在用昨天写好的一个行情展望替代，要把握大的方向，请好好研究。
 
@@ -28,7 +28,7 @@ hide_table_of_contents: true
 
  
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 2008年行情再展望
 

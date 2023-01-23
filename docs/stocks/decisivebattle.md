@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/9 15:35:37
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 大决战的第一目标，今天已经达到，就是用比下跌更低级别、更猛烈的方式重新回来前面3900点下的中枢里。只要回到该中枢里，一切都可以下回分解了，多空都将有一个喘息的时间去思考下一步的走法。
  

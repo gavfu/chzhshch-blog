@@ -7,15 +7,15 @@ hide_table_of_contents: true
 # 周末音乐会23：二十世纪的保守主义
 
 > 2007/1/6 11:06:35
-<div style={{color: '#FF0000', fontWeight: 'bold', fontStyle: 'italic', fontSize: 'xx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontStyle: 'italic', fontSize: 'xx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
 二十世纪
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontStyle: 'italic', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontStyle: 'italic', fontSize: 'x-large', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
 的
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontStyle: 'italic', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontStyle: 'italic', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
 保守主义
 </div>
 

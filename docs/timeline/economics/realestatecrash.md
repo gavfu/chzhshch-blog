@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/16 12:49:59
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#990000', fontWeight: '500', fontSize: '18px'}}>
 
 周末两天，大肆看房，把城里可看的盘基本都蜻蜓点水了一遍，以后就重点要去有点兴趣的盘子里仔细考察了。这点水不重要，不过确实发现大问题。本ID已经N年没去买房子了，对房子的问题没什么切身感受，这次一走，感受颇深，大概这中国楼市真要劫数难逃了。
 
@@ -22,7 +22,7 @@ hide_table_of_contents: true
 
 </div>
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 有人好象对本ID上一篇问各位找什么人写序跋很有意见，其实，本ID之所以问各位，是把各位当家里人了，例如上面说这些装修的事情，也完全是以家里人的口吻说的，当然，如果有人觉得一定要把本ID捧得高高在上才舒服，那本ID也没意见。对真心的朋友，本ID从来以亲人对待，有事就可以商量。
 
@@ -36,13 +36,13 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 至于这股市，该说的上周末已经说了，就好好操作这次小反弹，并为最后一跌的最终完成做好一切相应的准备。不过，一定要注意，由于6124点下来的第一段已经一定是下跌类型而不是一个中枢的盘整类型，因此，这最后一跌后的反弹也很难有太出色的表现，后面还有极大机会去面临一个更恐怖的锯齿型第二段的下跌，该怎么处理，各位就根据自己能力来设计了。
 
 </div>
 
-<div style={{color: '#660099', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#660099', fontWeight: '500', fontSize: '18px'}}>
 
 明天开始正式水疗，但具体方案还没全部给出，下午几个科的主任好象要来最后会诊一次。本ID对这次化疗一点都不热心，他们爱干什么是什么，本ID是来了不拒绝，但决不主动邀请，能晚一天是一天，早了也无所谓，就是这个态度了。
 

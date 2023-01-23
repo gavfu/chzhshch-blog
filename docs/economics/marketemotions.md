@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/27 15:17:41
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天的走势，昨天已经说得很清楚了，就是上次580989从0.4下启动时的翻版，那次同时带动了大盘的破位，这次如出一辙。各位可以对比一下上次的走势，后面的走势是否继续一样，这是一个很值得关注的问题。
  

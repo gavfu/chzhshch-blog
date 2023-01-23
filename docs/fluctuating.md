@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/5/6 13:25:02
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '32px', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '32px', lineHeight: '180%'}}>
 
 大盘如期震荡,没什么可说的,、
 

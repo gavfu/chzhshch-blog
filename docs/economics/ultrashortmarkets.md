@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/2 15:15:15
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 今天差点没破底，然后扭捏了一天，但深圳破了，只要没有半夜鸡叫之类突发事件，破是迟早的事情，快的明天开盘就实现。上海现在的超短线走势就看5日线了，5日线站不住，这轮杀跌就没完。所以，如果懒的，就看5日线足够。
 
@@ -18,7 +18,7 @@ hide_table_of_contents: true
 
 </div>
  
-<div style={{color: '#000066', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#000066', fontWeight: '500', fontSize: '18px'}}>
 
 本ID很高兴能一直写这博客，例如现在，孤身一人，在这每天写两句，总有一种温暖的感觉。十分感谢各位的建议，这让本ID感到和各位同在经历一些事情的感觉，很好。
 

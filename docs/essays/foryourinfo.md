@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/15 6:00:25
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 本ID现在南方，而且至少有N年都要居住于此，当然没有任何理由去歧视任何人，昨天的例子只是说世间存在一股楞劲，明知道是别人错误造成的状况改变也没有分辩与算计，只会按诺言从容赴死，理由不为任何民族、道义、清白等，只为一句话，这种人大概还是北方的气候中能产生多点吧。
 

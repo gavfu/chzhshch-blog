@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/28 15:12:30
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天已经说了，这两天本来是大盘短线很关键的时间，也就是MACD红柱子能否再度出现的时间，这时候任何风吹草动都会让脆弱大盘受到惊吓。
  

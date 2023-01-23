@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/17 15:30:15
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天，并没有构成日的底分型，只是制造了一个典型的包含关系。由于离周五低位很近，所以只要明天比周五低，那么就意味着5209点开始的下跌笔依然要延续。
  

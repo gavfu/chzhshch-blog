@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2007/10/25 15:43:22
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '56px', lineHeight: '150%'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '56px', lineHeight: '150%'}}>
 
 请问，今晚的月亮圆吗？
 
 </div>
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '20px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '20px'}}>
 
 今天最大的消息，就是关于强调宏观调控的，这是本ID最希望看到了。这点，本ID在“[<font style={{color:'#009900', textDecoration:'underline'}}>中国经济，已需治理整顿。</font>](chinaeconomics) 2007-10-15 08:32:52”中已经强调，很高兴今天看到回应。
  

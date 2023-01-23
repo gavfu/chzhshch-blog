@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/22 19:06:38
 
-<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 其实，这东西对本ID没什么奇怪的，本ID一直都知道，但只是被好朋友们一致要求必须去进行全面检查，得到最权威的医学确认。
 

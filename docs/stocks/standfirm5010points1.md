@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/7 15:17:09
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天真没什么可说的，早上再次回试5010点，结果在5021点就被拉起，而且还是在周五，说明市场心态还是比较反弹行情的继续展开的，其后的走势，就是理所当然的事情了。
  

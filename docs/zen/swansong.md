@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/5/10 17:00:19
 
-<div style={{color: '#000000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#000000', fontSize: '18px', fontWeight: '500'}}>
 
 明天是水化，连续十几小时的注射，听说是几千毫升的量。后天开始上药，最开始就是那最危险的药，三小时。
 
@@ -27,15 +27,15 @@ hide_table_of_contents: true
 </div>
  
 
-<div style={{color: '#CC0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color: '#CC0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 或是绝命诗
 </div>
 
-<div style={{color: '#CC0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '500%'}}>
+<div style={{color: '#CC0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '500%'}}>
 缠中说禅
 </div>
 
-<div style={{color: '#CC0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '120%'}}>
+<div style={{color: '#CC0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '120%'}}>
 
 残阳堕海血倾盆
 

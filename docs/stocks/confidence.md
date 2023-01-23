@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/14 15:12:11
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天，某副主席又发宏论，说应该对市场有信心。但信心不是无条件的，不是想有“应该有”就能有的，市场的信心更不是靠画饼就能有的，市场的信心来自实实在在的市场环境的改善。
  

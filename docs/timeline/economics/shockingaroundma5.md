@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/22 15:32:30
 
-<div style={{color: '#336633', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336633', fontWeight: '500', fontSize: '18px'}}>
 
 由于前几次周末搏消息都以失败告终，所以这次似乎热情不高，但依然没有死心，所以就构成今天围绕5日线震荡的两难局面，因此，周一开盘就决定短线突破方向，技术上一旦5日线走平再张口向下，那么大盘新低就是理所当然了。
 

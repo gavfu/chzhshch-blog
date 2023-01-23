@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/22 15:13:38
 
-<div style={{color: '#33FF00', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#33FF00', fontWeight: '500', fontSize: '18px'}}>
 
 快速说两句。
 

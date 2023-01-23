@@ -13,7 +13,7 @@ hide_table_of_contents: true
 不是本ID自吹自擂：能让你八卦的博客，不能让你有品位；能让有品位的，不能让你智慧；能让你智慧的，不能让你挣钱；能让你挣钱的，不能让你明心。而能让你八卦、品位、智慧、挣钱、明心，一个都不少的博客，全球只有一个，那就是：
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xx-large', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xx-large', textAlign: 'center', lineHeight: '150%'}}>
 
 全球第一博客---缠中说禅
 </div>

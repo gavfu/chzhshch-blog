@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/21 14:16:40
 
-<div style={{color: '#9900FF', fontWeight: 'bold', fontSize: '24px', lineHeight: '200%'}}>
+<div style={{color: '#9900FF', fontWeight: '500', fontSize: '24px', lineHeight: '200%'}}>
 
 世界经济最大的秘密之一就是共和党收割财富，烂摊子由民主党收拾。这次中美联手的最终命运取决于大选。反正用的纳税人的钱，小布才不心疼。
 

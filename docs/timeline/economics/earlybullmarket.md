@@ -36,7 +36,7 @@ hide_table_of_contents: true
 
 无论市场最终如何选择，都不过构成超级大牛市的一个小片段。该1/2线是新旧两种模式的分水岭，一旦有效突破这每年上涨180点、一直控制大盘十几年的压力线，就能把该线有效转化成其后行情发展最坚实的底部支持。突破是迟早的事，而基础打得越扎实，对行情发展越有利。
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 附录：
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/6 9:52:47
 
-<div style={{color: '#660099', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#660099', fontSize: '16px', fontWeight: '500'}}>
 
 请注意，以后解盘，没什么特别的，都放到当天文章里，免得像以前，打开博客满眼都是解盘，本ID不介意这里的人多少，草深三尺最好，但那些光知道股票，把本ID这里当成无聊的股票博客的，是走错地方了，光懂得股票的最终不过都是死路一条，来这里也是多余的。
 
@@ -20,20 +20,20 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontSize: '22px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '22px', fontWeight: '500', lineHeight: '180%'}}>
 
 教你股票的课程会继续的，不过要等本ID有那兴趣的时候，本ID暂时兴趣不在那，因为，到了21世纪的今天，还有中国人为本ID的言论觉得太自由而担心，这么可耻的事情竟然还存在，本ID确实没有说股票的兴趣。
 
 </div>
 
 
-<div style={{color: '#990000', fontSize: '32px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#990000', fontSize: '32px', fontWeight: '500', lineHeight: '180%'}}>
 
 如果现在的中国，还需要有人为思想与言论、特别是在博客正常的文章言论而成为所谓的政治犯，那么本ID愿意成为那最后把牢底坐穿甚至是上刑场的人！
 
 </div>
 
-<div style={{color: '#FF0000', fontSize: '22px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '22px', fontWeight: '500', lineHeight: '180%'}}>
 
 如果这种局面还能出现，那么这是整个中国的悲哀，是整个中国教育系统的悲哀，更是清华、北大永恒的耻辱！北大，一个以中国思想最活跃、开放为荣的地方；清华，一个以中国思想最理性、严谨为荣的地方。他们自己培养的学生竟然在21世纪的第八个年头依然如此中国一把，难道不是北大、清华永恒的耻辱？
 
@@ -41,13 +41,13 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#990000', fontSize: '32px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#990000', fontSize: '32px', fontWeight: '500', lineHeight: '180%'}}>
 
 本ID在中国只感到无比的清凉，海吃山喝，日日是好日，时时是花时，中国的豆腐，好香呀！
 
 </div>
 
-<div style={{color: '#FF0000', fontSize: '22px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '22px', fontWeight: '500', lineHeight: '180%'}}>
 
 至于那些海龟、乌龟、金钱龟，还有各类在高贵的地方进食过民主大饲料的鱼虾鳖蟹们，先把中国话说利落了。你们这些平仄、平水分不清，琴棋书画无一精，胸无点墨、腹尽大粪之辈，这样的你们如何能完成喂你们饲料的人给你们的任务呀？好可怜啊，被派到这恶毒的沙漠里执行任务，回去吧！不用去火星，星条旗下民主一把，直接回地下吧！
 

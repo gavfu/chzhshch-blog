@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/16 10:39:47
 
-<div style={{color: '#0000FF', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#0000FF', fontSize: '18px', fontWeight: '500'}}>
 
 先说两句闲话：
  
@@ -18,7 +18,7 @@ hide_table_of_contents: true
  
 </div><br/>
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 “你”、“你的” ，因命名而得名，当然，不同的语言系统，这两个玩意有不同的形态，但实质上是一样的。
 

@@ -8,12 +8,12 @@ hide_table_of_contents: true
 
 > 2007/12/20 15:15:02
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '20px'}}>
 
 因为晚上要出差，所以等一下就把晚上关于明年大盘走势的展望写了，4点左右贴出来。明天收盘尽量解盘，如果没时间，就在周六或周日补上。
 </div>
  
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天大盘攻克5032点，初步任务完成，大盘围绕5000点上下震荡的大格局依然保持。下一步，就是要站稳5032点，为攻击5209点颈线的进一步任务打好基础。因此，5032点能否站住，就是判断大盘超短线强弱的关键点位。
  

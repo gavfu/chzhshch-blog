@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/9/19 21:22:55
 
-<div style={{color: 'red', fontWeight: 'bold'}}>
+<div style={{color: 'red', fontWeight: '500'}}>
 对下午分析补充一句，今天日K线顶分型成立，因此下面的问题，就是该顶分型是否延伸为“笔”的问题了，关于该问题，有了上两周周K线顶分型的经验，如何去处理两种情况，应该不难了。
 </div><br/>
 

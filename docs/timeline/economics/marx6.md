@@ -19,7 +19,7 @@ hide_table_of_contents: true
 
 货币的虚幻构造了虚幻的货币现实，当你打破被货币所交易的虚幻是不足够的，那不过是幻影的第三重幻影，要捣毁的是那第一种的幻影，那资本主义现实社会关系的本身，不如此，一切都是瞎掰。
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 附录
 

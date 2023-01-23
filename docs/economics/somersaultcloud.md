@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/7 15:12:36
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 这题目不是紫霞仙子给那只没良心的死猴子写的情书，而是关于现实股市的现实记录。
  

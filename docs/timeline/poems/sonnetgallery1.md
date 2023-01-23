@@ -23,17 +23,17 @@ hide_table_of_contents: true
 为什么是十四行，这好歹是格律体，本ID鄙视所有只会写非格律体的垃圾，如此而已。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 爱之十四行
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 吾爱，弃我荒凉于繁华。<br/>
 丢了太阳的天空，喷血流霞。<br/>
@@ -54,17 +54,17 @@ hide_table_of_contents: true
 哺乳着所有的世界、所有的生存和死亡。
 </div>
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 自由十四行
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 我的无弦琴决不歌唱你，自由。<br/>
 一花世界，谁在花败之后畅游？<br/>
@@ -85,17 +85,17 @@ hide_table_of_contents: true
 走不出大地的大地，月色清凉。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 愤怒十四行
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 九万年闪电凝光剑削平九万座山峰，<br/>
 激扬四大洋狂澜惊涛舂打四季星空。<br/>
@@ -117,7 +117,7 @@ hide_table_of_contents: true
 </div>
  
  
-<div style={{fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%', marginTop: '50px'}}>
+<div style={{fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%', marginTop: '50px'}}>
 
 好了，今天到此，不能再写了，诗不能一次多写，多写有损阳寿，看看，诗人多短命，这不是开玩笑的。
 </div>

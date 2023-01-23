@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/9/19 15:42:03
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 今天算不算田亮一把，估计要看了明后两天才知道了。因为，好象田亮参加的项目，有1米板，还有10米台，这玩意，要对比着才知道的。本来，美国减息，全世界喝了一把水井坊，但中国就是中国，不和全世界玩，咱自己玩。
  
@@ -30,7 +30,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center'}}>
 
 注意
  

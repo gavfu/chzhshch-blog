@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/30 15:17:52
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 当然，题目成立的前提是3656点突破的有效，这必须是节后前三天的表现决定。节后越强势，大盘反而越不用担心，反之，大盘该强不强，就要小心陷阱了。
 

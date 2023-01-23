@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/7 8:56:27
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 其实，本ID重新发帖的那天也就重回医院了。不过这次又换了一家，没去地方上的医院，当然也是最好的，这方面，本ID是不会为难自己的。
 

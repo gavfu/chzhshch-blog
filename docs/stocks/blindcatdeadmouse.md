@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/5/9 8:46:29
 
-<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: '500'}}>
 
 大盘最近无须多说,就3656点的中枢震荡和第三买卖点问题，明白这一总格局，就一切随心了。
 

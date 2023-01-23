@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/21 15:09:38
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 显然，周五的逼宫兵临3000点，给管理层足够的压力。但现在的管理层，有点葛朗台的味道。把自己兜里那点货都当宝贝了，总想用最小的代价把市场给打发了。因此，一个最没实质内容但又用“半夜鸡叫”模式过度包装的闹剧就此上演。
  

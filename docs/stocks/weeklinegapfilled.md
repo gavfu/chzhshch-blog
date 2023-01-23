@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/11 15:22:15
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天，所有人都盯着那被多空双方惦记了N个月的4062点上的周线缺口，结果，抢跑的不少，造成还差1点没补完。当然，对于短线来说，这并不特别重要。技术上，那1分钟的下跌也形成了，目前唯一需要确定的是，第二个中枢是直接第三类买点反弹上去，还是把a+A+b+B+c的c给走出来再标准背弛上去。
  

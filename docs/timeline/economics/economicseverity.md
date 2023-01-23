@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2008/9/4 15:30:25
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 股市整天说也没意思，今天一个包含关系日K线，基本的分析和昨天是一样的。
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 说点别的，就有了下面的内容
 

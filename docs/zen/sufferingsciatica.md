@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/30 19:14:19
 
-<div style={{color: '#000066', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#000066', fontSize: '18px', fontWeight: '500'}}>
 
 这题目有点语无伦次，正好是昨晚到今天本ID的真实状态，比语无伦次还要惨语无伦次倍。还是那坐骨神经，昨晚本来让人过来按了打针就没事，结果太晚，又下大雨，本想少打一针难道就过不了一晚？结果，一针都不能少，少了就整晚一秒都睡不上了。
 

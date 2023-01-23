@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/12 15:21:43
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 大盘今天走得极为规范，如期出现昨天说的盘中反弹以构成2700点那中枢破位后的第二中枢反弹，后面请注意了，这里严格说将有两种演化可能：
 

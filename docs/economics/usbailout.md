@@ -8,12 +8,12 @@ hide_table_of_contents: true
 
 > 2008/3/12 15:20:52
 
-<div style={{fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{fontWeight: '500', fontSize: '18px'}}>
 
 美国救市，大盘自作多情地大幅高开，结果不仅被彻底打回原形，还再次挑战新低，一日闹剧就此结束。
 </div>
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 本ID已经多次反复说了，这次下跌的根源在于恶性圈钱问题。5500点，平安圈钱的消息小范围泄露后回头，5200点，该消息证实，然后开始大幅度破位下跌。在平安消息出来前，外围市场一直走得不好，结果中国市场根本没搭理，自己走自己的。而最终让市场转头的，就是这个恶性圈钱。
  

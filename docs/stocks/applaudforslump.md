@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/9/11 15:59:25
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 最近反复强调，企图和政策对着干的人，最终的结局就是消失，这已被中国资本市场18年的历史所反复证明。不管任何理由，今天的下跌值得热烈鼓掌。
  

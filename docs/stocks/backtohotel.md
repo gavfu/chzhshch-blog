@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/6/27 0:20:58
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 今天可是看盘了，但一收盘，马上被接去给N百人搞了一场演讲，然后轮番应酬，刚才回宾馆，解盘洗澡后附录上。
  

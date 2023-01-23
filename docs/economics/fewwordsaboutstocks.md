@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/29 7:13:02
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 大盘过急上攻没意义，上次毁掉大盘的55日线正加速下来，这时候上去不过碰出一个顶来。现在，不会看太精细的就看34、55日线，这基本决定短线的一切。
 

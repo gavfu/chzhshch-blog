@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/5/12 17:57:25
 
-<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold', marginBottom: '15px'}}>
+<div style={{color: '#FF0000', fontSize: '20px', fontWeight: '500', marginBottom: '15px'}}>
 今天,N的N次方的人通过各种渠道骚扰本ID,为的是证监会的警示,估计来这里的人也是六神无主的多,本ID趁着宴会前的N分钟,在深南路上某五星级宾馆为各位写两句.
 </div>
 

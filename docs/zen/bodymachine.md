@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/5/11 18:51:56
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 今天安排的水化因为凌晨的一次意外出血给暂停了。其实，目前的颈部硬块已经变颗粒状连接，血来自这些连接，每出一次污血，都使得硬块有所缩小，但医生不大关心此现象，只想快点化疗。
 

@@ -18,13 +18,13 @@ hide_table_of_contents: true
 
 今天为什么用这个题目？因为刚进来时发现一个传销广告，是这门户和某某联合推荐股票如何厉害如何收费之类的。好好去看看本ID前面关于这个问题的文章，本ID早知道这种垃圾活动会不断出现，绞肉机的货将足够新鲜。
 
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '5px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '5px', marginBottom: '10px'}}>
 记住：任何向你收费的，或部分收费的，都是垃圾。只要市场的垃圾才需要参与这种收费的垃圾活动。
 </div>
 
 市场里有金山银山，有本事有技术就去拿，否则，市场迟早让这些垃圾吐出来！
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '14px', marginTop: '5px', marginBottom: '5px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '14px', marginTop: '5px', marginBottom: '5px'}}>
 
 对不起，刚回来，很多腐败活动要补课，这两天各位就让本ID去补习一下腐败。今晚有三拨活动，最早的4点开始。
 

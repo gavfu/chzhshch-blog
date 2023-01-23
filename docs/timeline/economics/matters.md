@@ -14,15 +14,15 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '56px', textAlign: 'center', lineHeight: '200%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '56px', textAlign: 'center', lineHeight: '200%'}}>
 即事
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px', textAlign: 'center', lineHeight: '200%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '32px', textAlign: 'center', lineHeight: '200%'}}>
 缠中说禅
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '32px', textAlign: 'center', lineHeight: '150%'}}>
 无端生死入娑婆 <br/>
 八角磨盘自转磨 <br/>
 天局皆如人局幻 <br/>

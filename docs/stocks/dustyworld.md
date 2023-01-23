@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/4 15:26:00
 
-<div style={{color: '#336600', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#336600', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 本不想说股市，因为确实没什么可讲的，但这时候发帖子不说两句，好象也不好。不过，说了也白说，例如，周末本ID把之定义为搏消息，结果就很多人不乐意，你说能让本ID说什么好？
 
@@ -35,17 +35,17 @@ hide_table_of_contents: true
  
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 尘歌
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 傲骨天成难折腰
 

@@ -8,23 +8,23 @@ hide_table_of_contents: true
 
 > 2008/6/9 9:56:56
 
-<div style={{color: '#660099', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#660099', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 病前说过要用七律给世界上自古以来本ID看得上眼的诗人画像，组成一诗人的画廊。既然现在病情有所稳定，本ID也要继续履行诺言，画廊今天重新开张，刚过端午，那就从屈先生开始，顺带上太白老顽童。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 屈原
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 山鬼吟风歌紫烟
 
@@ -44,19 +44,19 @@ hide_table_of_contents: true
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 太白
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 地纵天横未帖腔
 

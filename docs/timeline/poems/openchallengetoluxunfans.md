@@ -8,11 +8,11 @@ hide_table_of_contents: true
 
 > 2006/10/20 16:33:35
 
-<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 擂  台
 </div>
 
-<div style={{color: '#009900', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginBottom: '20px'}}>
+<div style={{color: '#009900', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginBottom: '20px'}}>
 男人，看你了！
 </div>
 

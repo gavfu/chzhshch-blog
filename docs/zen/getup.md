@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/24 16:15:28
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 各位最近受刺激比较多，因此要多多关心身体。本ID就说说有关身体的问题，你会起床吗？
  

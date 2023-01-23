@@ -28,7 +28,7 @@ hide_table_of_contents: true
  
 对于散户，一定只能拿出空闲的钱来参与资本市场，任何有压力的钱，都不能也不应该来这个战场中。对于个人来说，资本市场不过是生活的一部分，没必要为此而付出所有的生活。如果你市场中的钱不符合以上要求，那么请等待一个好的机会，把该留的钱留好，绝对不能因为股票而影响正常的生活。而对于那些无压力的钱，也不能去当炮灰了，风险太大的活动是绝对不能参加的。而且，大兵团作战，其实你们也帮不上什么忙，一定要等到买点，特别是大级别的买点出现后才介入，市场是合力的结果，等大兵团作战打出结果来，大合力合力出方向来，才好介入，否则刀光剑影、飞机导弹，弄伤了就不好了。像本ID这种人，就算打败了，也是好吃好住，一生无忧，但散户就不同了，所以一定记住下面几点：
 
-<div style={{fontSize: '32px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%', marginBottom: '20px'}}>
+<div style={{fontSize: '32px', fontWeight: '500', textAlign: 'left', lineHeight: '180%', marginBottom: '20px'}}>
 散户三大纪律
 </div>
 
@@ -42,11 +42,11 @@ hide_table_of_contents: true
  
 最后，临屏赋《满江红》以告国人。
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 满江红
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '180%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '180%'}}>
 
 缠中说禅
  

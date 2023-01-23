@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/1 15:56:14
 
-<div style={{color: '#666600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#666600', fontWeight: '500', fontSize: '18px'}}>
 
 关于本ID坐骨神经的最新进展，后面有附录。来本ID这里，首先就要有最基本的科学精神，科学精神你都做不到，还如何能破科学而进入更高的境界？本ID这里一是一、二是二，只看实际效果。
 
@@ -38,7 +38,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#000066', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#000066', fontWeight: '500', fontSize: '18px'}}>
 
 好，关心本ID坐骨神经的朋友，请看过来。
 

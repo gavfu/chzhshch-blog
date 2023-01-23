@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/28 11:46:06
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%'}}>
 
 “摸着石头过河”，已经成为一些无聊人的口头禅，甚至是为自身愚昧而导致无聊行为的托词。但这话，从来不是放之四海而皆准的真理，对于现在，还特别有害。
  

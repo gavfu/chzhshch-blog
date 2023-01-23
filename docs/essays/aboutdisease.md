@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/27 16:40:23
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#990000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 昨天的帖子，引用旧帖子的时间上出了点差错，谢谢有人指出，现在已经修改。关于不到20%达到破6100点当天时值的话是在6124点出现前一天，也就是去年10月16日“6100点终破，无憾矣”的帖子里，特此说明一下，也顺便为本ID有点偷懒，引用前没切实核对时间道歉。
 
@@ -25,7 +25,7 @@ hide_table_of_contents: true
 所以本ID是不需要维护的，就如同本ID的股票理论，如欧几里德几何一样无须维护。那些囫囵吞枣的人，认为这理论如何如何，就如同他们面对一条几何题时，出现任何反应都是正常的。欧几里德几何的正确从来不保证任何人都能正确地证明任何一个几何问题，本ID的理论一样。如果你没能力去证明一条几何题，而怀疑欧几里德几何进而心生怨恨，那是你的业力，就自我承担吧，没人能替你的。
 </div>
  
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 至于股市，2945点破不了，继续中枢震荡，那是好事情，又给了一个短差的机会。你可能说，这短差你做不来，那做不来就小板凳，做不来还要做，什么后果，顺便找个医生问问就知道。
 
@@ -34,7 +34,7 @@ hide_table_of_contents: true
 再说一次，今年开的是短跑运动会。更再次强调的是，中枢震荡的操作原则是，向上出现次级别甚至次次级别的顶背驰或盘整背驰先出来，反之，向下就是再进去了。如果你一定要和这个原则背着来以显示对本ID理论的厌恶，那本ID一点意见都没有。按照这个原则，你去看看所有的中枢震荡包括这一次，有哪次是有意外的？
 </div>
  
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '20px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '20px', textAlign: 'left', lineHeight: '180%'}}>
 
 至于本ID的病情，这次化疗，下周一结束。现在剩下的病灶体积已不到原来的5%，这次颈部目前的缩小周长是7厘米，剩下的不到7厘米就完全消掉。当然，这还不是最终的结果，毕竟还有几天时间。不过看来，这次完全根治的可能性还是没有。
 

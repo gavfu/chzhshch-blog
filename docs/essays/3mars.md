@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/11 20:05:25
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px', textAlign: 'left', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '32px', textAlign: 'left', lineHeight: '150%'}}>
 
 明天收盘就要去机场，晚上到后天下午，都有忙不完的事，不能发帖子了，明天的解盘，可能要周六晚上或周日才能补上，抱歉。
 

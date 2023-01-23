@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/24 17:25:15
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '20px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '20px', lineHeight: '180%'}}>
 
 显然，这题目很蠢很无聊，如果还同时说今天本没什么可说的股市，就更蠢更无聊了。因此，还是让我们蠢得专一、无聊得专注，今天就好好八卦一下王先生。
 

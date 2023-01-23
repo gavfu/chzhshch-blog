@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/25 18:31:21
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 首先说一句，刚上来，发现系统警告好友数量已经到极限，所以请各位不要再申请本ID为好友，等新浪的数量限制扩大再说。
  

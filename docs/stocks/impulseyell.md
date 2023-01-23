@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/4 15:12:12
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天走势最大的意义是什么？站在本ID理论的角度，就是突破5336使得周线上（1，1）的状态延续，在周线的（1，0）出来之前，也就是周线顶分型出现之前，尽管持股睡大觉。
  

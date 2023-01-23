@@ -8,11 +8,11 @@ hide_table_of_contents: true
 
 > 2006/11/4 9:07:19
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: 'xx-large', lineHeight: '180%', textAlign: 'center'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: 'xx-large', lineHeight: '180%', textAlign: 'center'}}>
 让“老柴”同志腻死你！
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xx-large', lineHeight: '180%', marginBottom: '20px', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xx-large', lineHeight: '180%', marginBottom: '20px', textAlign: 'center'}}>
 柴迷，进来受死！
 </div>
 

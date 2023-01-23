@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/20 15:59:05
 
-<div style={{color: '#0000FF', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#0000FF', fontWeight: '500', fontSize: '18px'}}>
 
 年末，不可免俗地要对明年的行情展望一番。今年，无论是5月份的180个月时间周期、6100点的顶部以及调整的第一落脚点120天线，都被预先剧本了。不过，现在完全精确剧本明年走势，几乎是不可能的，因为明年市场上的可变分力太多，下面只从纯技术的角度进行一些界定性的分析。
  

@@ -26,7 +26,7 @@ hide_table_of_contents: true
  
 最后，为所有被市场所折腾的人五言一首：
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 尘心自波动
 

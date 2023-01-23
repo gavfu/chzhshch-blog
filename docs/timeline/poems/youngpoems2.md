@@ -16,7 +16,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <img src={useBaseUrl('/img/poems/youngpoems2/1.gif')} /><br/><br/>
 </div>
 
-<div style={{fontSize: '24px', fontWeight: 'bold', textAlign: 'left', lineHeight: '250%'}}>
+<div style={{fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '250%'}}>
 飯堂
 </div>
 
@@ -38,7 +38,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 淒然一笑，耀眼的陽光中，<br/>
 寫下了這一首黑色的詩篇。
  
-<div style={{fontSize: '24px', fontWeight: 'bold', textAlign: 'left', lineHeight: '250%'}}>
+<div style={{fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '250%'}}>
 寒鴉
 </div>
 
@@ -61,7 +61,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   在明媚春光下爲人類敲響不詳的鍾。”
  
          
-<div style={{fontSize: '24px', fontWeight: 'bold', textAlign: 'left', lineHeight: '250%'}}>
+<div style={{fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '250%'}}>
 太陽
 </div>
 

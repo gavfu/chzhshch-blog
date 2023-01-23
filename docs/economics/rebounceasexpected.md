@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/23 15:40:39
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天说得很清楚，1分钟下跌底背驰后，一轮反弹将展开。今天的技术走势十分标准，更重要的是，这里是3600点上来的上升通道下轨位置，又是缺口位置，因此技术上必须要有这次反弹。
  

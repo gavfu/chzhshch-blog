@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/12/12 9:38:38
 
-<div style={{fontSize: 'xx-large', fontWeight: 'bold', color: '#FF0000', textAlign: 'center'}}>
+<div style={{fontSize: 'xx-large', fontWeight: '500', color: '#FF0000', textAlign: 'center'}}>
 
 本ID如此精确地知道消息，
 

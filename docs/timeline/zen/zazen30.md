@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/16 9:45:07
 
-<div style={{color: '#660000', fontSize: '24px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#660000', fontSize: '24px', fontWeight: '500', lineHeight: '180%'}}>
 
 <span style={{fontSize: '56px'}}>注意，</span>补充一句，刚和奇人通上电话，真是好事多磨，原来当时别人转发的电话就搞错了一个数字，他说明早找人接本ID去他家，他家就在附近，所以明天肯定没帖子了，后面怎么安排，本ID也不清楚。
 
@@ -16,7 +16,7 @@ hide_table_of_contents: true
 
 </div><br/>
 
-<div style={{color: '#990000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#990000', fontSize: '18px', fontWeight: '500'}}>
 
 很感谢各位的留言，就算那些咒本ID快点死的，本ID也感谢，因为这样等于给本ID消业，而这是以这些人的增业为代价的，如此舍己救人如何不让本ID感激？可惜本ID一时间还死不了，现在精神头足着，所以请继续发扬，来点更狠的。
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/29 23:23:40
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '150%'}}>
 
 人，总是需要点血性的。
  

@@ -18,7 +18,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 股市是有规律的，本ID现在已经把这N年大牛市的最重要节奏告诉各位了，本ID已经把股市像面首一样扒个精光给各位了。等着吧，不久以后，这就会被人抄袭，接着被市场所抄袭。现在市场上流行的不少概念，就是在N年前从本ID这里流传开去的，这些陈年谷子就不说了。这里，还是重温一下G股成为G点的故事。G股已经过去，但G点依然需要，就像面首随着年龄的增加，G点会变化的，这和股市里G股以后，从成分股到成长股到重组股G点变化是一个原理，市场的原理本来就和性的原理一样，这也是本ID名言“像做爱一样做股票”其中一方面的含义。
 
-<div style={{fontSize: 'large', fontWeight: 'bold', color: '#0080FF'}}>『经济论坛』G股就是G点，市场的原理和性的原理是一样的</div>
+<div style={{fontSize: 'large', fontWeight: '500', color: '#0080FF'}}>『经济论坛』G股就是G点，市场的原理和性的原理是一样的</div>
 
 <div style={{fontSize: 'small', fontWeight: 'normal', color: 'green'}}>作者：喜欢数学的女孩 提交日期：2005-8-5 12:15:00</div><br/>
 

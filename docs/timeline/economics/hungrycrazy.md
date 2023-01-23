@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/11 15:10:16
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 世界上最疯狂的是什么？是饿。这对于资金，也是一样的。
  

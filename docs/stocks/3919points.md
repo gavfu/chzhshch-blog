@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/10 15:43:11
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 今天的调整如期而至，这点在昨天已经说了。这种调整，无论多头空头，都是需要的，所以可以说是众望所归。今天由于金融股的超好业绩，引发大盘瞬间突破3919点，这并没有改变该位置的强大压制作用。
  

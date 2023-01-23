@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/14 16:16:08
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 由于五四小子与六六痴儿的折腾，本来最基本的中华文化常识，在中国人里都全面缺乏了。像本ID这类后文革时代出生的人，如果还像我们这些父辈一样，中华文明就真是万劫不复了。
  

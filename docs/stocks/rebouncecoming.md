@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/22 15:12:04
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 看今天的帖子之前，如果没有看过下面的帖子的，请先看看“[<font style={{color:'#009900', textDecoration:'underline'}}>2008年行情展望</font>](2008forcast) 2007-12-20 15:59:05”
  

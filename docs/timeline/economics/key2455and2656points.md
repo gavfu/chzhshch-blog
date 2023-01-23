@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/20 15:11:18
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 今天大盘死皮赖脸地又教科书了一把，本ID这两周关于三级别反弹的分析，就此被大盘完美演绎。后面走势，其实前面已经分析过了，就是下面要站住今天构成日底分型上边沿2455点，上面要尽快攻破2656点以确认第三类卖点不成立。
 

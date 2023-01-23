@@ -18,7 +18,7 @@ hide_table_of_contents: true
  
 不能多说了，本ID要休息了，先下，再见。
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 附录：
  

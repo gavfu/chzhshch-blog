@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/7 18:23:48
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 其实，蒋光头根本没资格和毛大爷相比较。政治是什么？成王败寇。蒋光头在毛大爷面前输得连内裤都没有，只好打劫国宝、偷运黄金，靠着美国主子的庇护苟活，你说他有什么资格和毛大爷比？
  

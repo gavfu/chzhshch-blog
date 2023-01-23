@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/8 15:20:58
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 今早，有人企图用为什么深成指四次探底就破底而上海没破之类的烂问题刁难本ID，不知道今天的走势算不算一个回答？本ID也想问，为什么你就不会完成以下的填空：“既然深成指都已破罐破摔，那么    还远吗？”
 

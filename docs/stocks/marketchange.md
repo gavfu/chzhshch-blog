@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/3 15:26:04
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 上周向5000点的反抽，刚好碰到6004点下来的下降通道上轨回头，现在，那上轨已经到4950点附近了，各位打开15分钟图，会看得很清楚，而且10日线也会下移到该位置附近。也就是说，这变盘的时刻马上要到来。
  

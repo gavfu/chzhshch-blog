@@ -9,19 +9,19 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 # 酒酣聊赋《水调歌头》
 
 > 2007/6/29 0:30:22
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 应酬回来，酒酣聊赋《水调歌头》
 </div>
 
-<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 水调歌头
 </div>
 
-<div style={{ color: '#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '200%', marginBottom: '10px'}}>
+<div style={{ color: '#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '200%', marginBottom: '10px'}}>
 缠中说禅
 </div>
 
-<div style={{color: '#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginBottom: '30px'}}>
 
 劫火摧天柱，怒水卷乾坤。<br/>
 狂风恶雨犹把四海五洲吞。<br/>
@@ -34,7 +34,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 掷笔穹苍立，银汉泻金樽。
 </div>
 
-<div style={{color: '#FF0000', fontSize: 'x-large', fontWeight: 'bold', textAlign: 'left', lineHeight: '150%', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontSize: 'x-large', fontWeight: '500', textAlign: 'left', lineHeight: '150%', marginBottom: '30px'}}>
 
 附录：
  

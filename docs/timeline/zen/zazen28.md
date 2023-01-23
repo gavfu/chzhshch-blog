@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/22 8:25:33
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 在未最终成佛之前，本质上，一切众生都是无知的。即使是十地菩萨，可化生为大魔王，行各种不可思议之事，仍然有无知的地方。
 

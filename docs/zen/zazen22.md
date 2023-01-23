@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/27 10:15:10
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 最后毁掉佛教的，一定是佛门中人，所谓狮子虫。当然，真正的佛教，不去不来，不生不灭，无所谓毁掉。有生就有灭，能毁掉的，不过是一般人眼里的某种的所谓佛教形态。
 

@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2007/6/28 15:53:15
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 应酬前抓紧时间说两句。
  
@@ -31,7 +31,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <img src={useBaseUrl('/img/economics/deadhead/1.jpg')} /><br/><br/>
 </div>
 
-<div style={{color: '#FF0000', fontSize: 'x-large', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: 'x-large', fontWeight: '500'}}>
 
 附录：
  

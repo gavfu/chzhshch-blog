@@ -12,29 +12,29 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
-- <span style={{fontWeight: 'bold'}}>比特币 (Bitcoin) 钱包地址</span>
+- <span style={{fontWeight: '500'}}>比特币 (Bitcoin) 钱包地址</span>
 
   ```
   37n628HPUQucWwfhbZHchgBo6QKFE8kzct
   ```
 
-- <span style={{fontWeight: 'bold'}}>以太坊 (ETH / USDT / USDC / BUSD / ...) 钱包地址</span>
+- <span style={{fontWeight: '500'}}>以太坊 (ETH / USDT / USDC / BUSD / ...) 钱包地址</span>
 
   ```
   0xcd2CA42700abcdE0Ea5c86bbbEaD3f72d1Ae1ec0
   ```
 
-- <span style={{fontWeight: 'bold'}}>波场 (TRC20 USDT) 钱包地址</span>
+- <span style={{fontWeight: '500'}}>波场 (TRC20 USDT) 钱包地址</span>
 
   ```
   TYhD4v2GxUi5BBBNXaSppatq35DDFhDspt
   ```
 
-- <span style={{fontWeight: 'bold'}}>支付宝</span><br/>
+- <span style={{fontWeight: '500'}}>支付宝</span><br/>
 
   <img src={useBaseUrl('/img/donate/alipay.jpeg')} /><br/>
 
-- <span style={{fontWeight: 'bold'}}>微信</span><br/>
+- <span style={{fontWeight: '500'}}>微信</span><br/>
 
   <img src={useBaseUrl('/img/donate/wechatpay.jpeg')} style={{marginTop: '0px'}} /><br/><br/>
 

@@ -8,12 +8,12 @@ hide_table_of_contents: true
 
 > 2008/8/31 12:09:32
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '56px', textAlign: 'center', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '56px', textAlign: 'center', lineHeight: '180%'}}>
 
 严重公告
 </div>
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '20px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '20px', textAlign: 'left', lineHeight: '180%'}}>
 
 多谢各位关心本ID的坐骨神经，这事本想明天再说，因为本ID对实验最讲严谨性，但既然这么多人关心，还有怕是什么转移的，就先说了，万一明天有什么反复再说明。
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/16 15:15:02
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天，大盘全天和CPI震荡较劲，而震荡的中心就是昨天说的短线关键位置3311点。而最终得到的数据，多空双方都能从中找当适合的说辞，空方自不必说了，而多方看到CPI月环比的回落，当然也有了说道的地方。
  

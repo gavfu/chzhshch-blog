@@ -14,26 +14,26 @@ hide_table_of_contents: true
  
 <div style={{flineHeight: '180%', textAlign: 'center'}}>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginBottom: '10px'}}>
 门德尔松《仲夏夜之梦》序曲
 </div>
  
 十七岁的天才，一开始就写下了他最天才的作品，<br/>
 这大概也是一种悲哀。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '20px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '20px', marginBottom: '10px'}}>
 萧邦《即兴幻想曲》
 </div>
  
 幻想，也可以来自大地。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '20px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '20px', marginBottom: '10px'}}>
 舒曼《梦幻曲》
 </div>
  
 幻想有了温暖，就有了光。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', marginTop: '20px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginTop: '20px', marginBottom: '10px'}}>
 柏辽兹《幻想交响乐》
 </div>
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/19 8:11:01
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#990000', fontWeight: '500', fontSize: '18px'}}>
 
 昨晚已经报了平安，现在是守诺上来说说细节与股票。
 
@@ -26,7 +26,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#666600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#666600', fontWeight: '500', fontSize: '18px'}}>
 
 至于股票，没有任何可能昏头的地方，逼近2700点，加上小级别的区间套，一切都顺理成章的展开了第二中枢的反弹，只要站住2917并能继续满足笔的延伸条件，那么抄底进去的就可以继续保持。否则就要分批撤除。
 

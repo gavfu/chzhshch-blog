@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/17 10:10:03
 
-<div style={{color: '#990066', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#990066', fontWeight: '500', fontSize: '18px'}}>
 
 两个科正扯皮究竟让本ID化疗期间住什么地方，他们扯他们的，我们说我们的。
 

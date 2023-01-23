@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/4 20:49:39
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
 
 这两天心情大好，不妨和各位风花雪月一番，再谈谈歌唱的技术问题。顺便说一句，本ID原来那音乐播客所在地方估计是彻底倒闭了，原来上传的音乐全部被洗劫，本ID现在心情好，找时间把这音乐播客要投胎再来，究竟有什么投胎的好去处，各位请建议一下，本ID比较懒，最好是和原来那个一样，有专门的播放器，可以自动上传音乐的，并且能把音乐的播放转到这里来的。其实，新浪早该搞一个了，技术上应该不是太难的事情。
  

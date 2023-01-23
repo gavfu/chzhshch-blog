@@ -17,7 +17,7 @@ hide_table_of_contents: true
 同志、乱伦这点儿破事就不继续了。今天播放的是这位俄罗斯同志的三部作品，简介如下：
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%', marginBottom: '10px'}}>
 1812年序曲
 </div>
  
@@ -29,7 +29,7 @@ hide_table_of_contents: true
 </div>
  
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
 降B大调第一钢琴协奏曲
 </div>
  
@@ -43,7 +43,7 @@ hide_table_of_contents: true
 </div>
  
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}>
 f小调第四交响乐
 </div>
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/21 15:18:25
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 各位元宵好，晚上过节，就没帖子了，抱歉。
  

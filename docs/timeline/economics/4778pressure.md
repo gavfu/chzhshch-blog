@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/23 15:16:53
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天没什么可说的，该说的昨天就说了，关于这个反弹点，前两天的课程里已经预先说过，这就是本ID理论输出与实际走势的绝对一一对应性所决定的。
  

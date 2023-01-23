@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 <div style={{fontSize: 'x-large', fontWeight: 'normal', textAlign: 'center'}}>
 
-<div style={{fontSize: 'xx-large', textAlign:'center', fontWeight: 'bold', marginBottom: '36px'}}>
+<div style={{fontSize: 'xx-large', textAlign:'center', fontWeight: '500', marginBottom: '36px'}}>
 
 自嘲
 </div>
@@ -394,7 +394,7 @@ hide_table_of_contents: true
 
 <div style={{fontSize: 'x-large', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
-<div style={{fontSize: 'xx-large', fontWeight: 'bold', display: 'center', textAlign: 'center'}}>
+<div style={{fontSize: 'xx-large', fontWeight: '500', display: 'center', textAlign: 'center'}}>
 
 悟
 </div>

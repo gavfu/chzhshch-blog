@@ -12,7 +12,7 @@ hide_table_of_contents: true
 股市休五天，本ID也要外出腐败五天，博客只能跟着休市，各位也要好好休息、明年才能继续闹腾！本ID赶飞机去也。
 </div>
 
-<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center', marginTop: '30px', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center', marginTop: '30px', marginBottom: '30px'}}>
 元旦快乐
 </div>
 

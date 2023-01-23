@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/31 15:16:35
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 在上周都比较兴奋时，本ID已经明确说，一旦传闻不兑现，又是一轮回试。至于给出的3499点，更成为今天震荡的中心，尾盘最终也没站住。
  

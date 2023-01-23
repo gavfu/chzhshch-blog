@@ -8,12 +8,12 @@ hide_table_of_contents: true
 
 > 2008/9/11 16:14:14
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px'}}>
 
 终于回到广州，早上5点半到，一到酒店公寓，就知道英格兰队的喜讯，一天心情大好。
 </div>
 
-<div style={{color: '#333300', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#333300', fontWeight: '500', fontSize: '18px'}}>
 
 股市还是逃不掉5日线，这在昨天中午已经特别强调。这次反弹的技术性由此可见，昨天中午强调最恶劣情况下，最基本升幅已经达到，结果大盘无情选择最恶劣的情况，这是理论所允许，感情所必须接受的。
 
@@ -27,7 +27,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px'}}>
 
 好了，本ID要找录像或重播了，上次搞德国5比1看了现场，这次刚好错过，一定要补课。
 

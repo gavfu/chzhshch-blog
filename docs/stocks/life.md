@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/1 13:26:48
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 生之为人，本来就是一件残酷的事情。
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/24 15:33:03
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 最近，本ID写帖子的时候已经有点厌倦的感觉。并不是因为这世界上白眼狼众多，也不为了其他别的原因。只是本ID天生厌倦一切过于重复性的活动，例如上班。至于股票，唯一能让本ID忍受的是每天的行情都不同，这至少可以减轻厌倦感，但每周五都有放风的感觉。
  

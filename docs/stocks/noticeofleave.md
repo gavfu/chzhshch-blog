@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/5/11 15:26:45
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '16px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '16px', lineHeight: '180%'}}>
 
 本ID来深圳是有重要的生意上的事情，当然，本ID主要的生意就是股票，不是来玩的。很不幸，深圳后下周初还要去湖南某市，具体不说了，因为当地市里要接待，本ID暂时可不想以真面目示人。
  

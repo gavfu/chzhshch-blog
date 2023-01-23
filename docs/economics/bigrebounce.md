@@ -8,14 +8,14 @@ hide_table_of_contents: true
 
 > 2008/4/22 18:20:45
 
-<div style={{color: 'rgb(204, 0, 0)', fontWeight: 'bold', fontSize: '56px', lineHeight: '200%'}}>
+<div style={{color: 'rgb(204, 0, 0)', fontWeight: '500', fontSize: '56px', lineHeight: '200%'}}>
 
 注意，晚上本ID有重要公告，请留意。
 
 </div>
 
  
-<div style={{color: '#00CC00', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#00CC00', fontWeight: '500', fontSize: '18px'}}>
 
 今天，60分钟图上出现的小底分型顶出了一个大反弹，3085点的突破确认了分型的成立，后面就是回试能否站住最终形成向上笔的问题。
 

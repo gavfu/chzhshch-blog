@@ -32,7 +32,7 @@ hide_table_of_contents: true
  
 但本ID还是不得不提醒，股票都是废纸，如果你在股票中已经获得利益，那首先去改善自己的生活条件，去孝敬那些值得孝敬的人，本ID看到昨天帖子的有博友“白玉兰”说拿钱出来买房子给父母，那就是很好的事情。赚钱不花，当守财奴，脑子有水呀？先把自己以及家人的生活安置好，把本金拿出去，用股市挣的钱继续股市的游戏，这样无论那天空有多少黑云，多少风雨，你都可以毫无顾忌了。
 
-<div style={{color: '#FF0000', fontWeight: 'bold', marginBottom: '10px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', marginBottom: '10px'}}>
 但无论如何，中国大牛市的格局是不会因此改变的，而荒谬的东西，也是不可能真正实施的。
 </div>
 
@@ -46,12 +46,12 @@ hide_table_of_contents: true
 
 刚才看了看回帖，有人觉得本ID要逃跑，还看空。真不知道这些人的语文是怎么学的。本ID哪个字说了要逃跑了，本ID说如果那东西成真了，本ID就不玩了，但那东西现在成真了？关键在于，那东西是否成真，是合力的结果，本ID的意思很明显，就是要一起来让那东西给废了。本ID早上还担心有人理解错误，9点还专门上来加了红字的一句：“
 
-<div style={{color: '#FF0000', fontSize: '22px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '22px', fontWeight: '500'}}>
 
 但无论如何，中国大牛市的格局是不会因此改变的，而荒谬的东西，也是不可能真正实施的。”
 </div>
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 知道孔子为什么是孔子吗？有一条就是最重要的，明知不可为而为之，现在，根本不存在不可为的前提，为什么不一起努力？剧本写好了，也要人来演的。 
 </div>

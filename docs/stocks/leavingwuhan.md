@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/8 13:24:59
 
-<div style={{color: '#000099', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#000099', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 今早奇人过来，我们好好研究了一下，达成的共识先把化疗等弄砸的脏器功能给恢复过来。而这需要药物的调理和饮食配合才能有效果，所以决定本ID先回广州，在当地按方吃药和调理饮食，达到一定标准后再回来继续治疗，这样效果更好。
 

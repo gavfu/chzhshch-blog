@@ -14,7 +14,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{fontSize: '16px', fontWeight: 'bold', textAlign: 'center'}}> 
+<div style={{fontSize: '16px', fontWeight: '500', textAlign: 'center'}}> 
 华生：5000点之上预警A股虚胖
 </div>
 

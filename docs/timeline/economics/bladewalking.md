@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/8/31 16:04:19
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 目前的状况，已经反复说得很清楚。目前已经给出比较严重泡沫的定性，这可不是本ID说的，至于谁说的，当然也不可能在这里说。在这样一个明确定性的大背景下，任何的行走，都如同在刀锋上的游戏。
  

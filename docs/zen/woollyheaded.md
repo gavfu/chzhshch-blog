@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/3 12:13:16
 
-<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: '500'}}>
 
 脱离大部队开了一周小差，跑到到处美景美食的地方海饮山吃，确实要严重检讨。难得有这样一周，当然就难得糊涂地《糊涂歌》回归队伍了。
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/16 15:25:28
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 快速说两句，明天就回北京了，不知道雪下了没有？
  

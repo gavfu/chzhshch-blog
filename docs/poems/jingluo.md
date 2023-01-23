@@ -16,17 +16,17 @@ hide_table_of_contents: true
  
 当然，北京还有一天星月下的雪野温泉，让宇宙在冰与火间敞亮。不过，如今的北京，冬天已不爱下雪了。
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '120%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '120%'}}>
 
 京洛
 </div>
 
-<div style={{color:'#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '180%'}}>
+<div style={{color:'#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center', lineHeight: '180%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 京洛烟埃没马头<br/>
 听风看雨古神州<br/>

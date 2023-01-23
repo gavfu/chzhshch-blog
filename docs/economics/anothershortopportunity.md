@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/14 15:22:10
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 现在这种行情，本ID一早就给出两种唯一的策略供不同水平的人选择，一是小板凳，二是短跑运动。本ID之所以天天在这里给各位练习短跑，就是假设你有这水平。否则，小板凳的过来看看就可以。
  

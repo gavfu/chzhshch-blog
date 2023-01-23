@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/23 17:58:56
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px', lineHeight: '180%'}}>
 
 昨天分析给出3085点与3305点，结果今天走势就在这两点演绎。早上对3085点的回试确认极端教科书，下午，最后半小时一直在3305点关前徘徊。
 

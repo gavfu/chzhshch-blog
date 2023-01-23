@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/11 21:02:57
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 半夜，利物浦又要生死大战。今天就不写其他帖子了，闲话几句，然后休息。
  

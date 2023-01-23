@@ -22,12 +22,12 @@ hide_table_of_contents: true
  
 最后，各位如果还有兴趣，请再读读这首词。
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '56px', textAlign: 'center', marginTop: '50px', marginBottom: '50px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '56px', textAlign: 'center', marginTop: '50px', marginBottom: '50px'}}>
 
 满江红
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', textAlign: 'center', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', textAlign: 'center', lineHeight: '180%'}}>
 
 缠中说禅<br/>
  

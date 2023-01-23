@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/10 22:23:19
 
-<div style={{color: '#0000FF', fontSize: '20px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#0000FF', fontSize: '20px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 现在可能出现的情况，完全在本ID那N年前所写的《货币战争与人民币战略》中框定了，而且在去年的补充，本ID已经明确预言，因为我们自己战略的无聊低下，美国已经占据最有利的战略位置，美国将用前面惯用的招数来折腾中国，如上次对日本以及后面的亚洲金融风暴。
 
@@ -38,19 +38,19 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 晚望
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 落霞天散落花魂
 

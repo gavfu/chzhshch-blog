@@ -8,19 +8,19 @@ hide_table_of_contents: true
 
 > 2007/8/8 22:24:47
 
-<div style={{color:'#FF0000', fontSize: '16px', fontWeight: 'bold', textAlign: 'left', lineHeight: '150%', marginBottom: '30px'}}>
+<div style={{color:'#FF0000', fontSize: '16px', fontWeight: '500', textAlign: 'left', lineHeight: '150%', marginBottom: '30px'}}>
 从东方君悦法式腐败出来，刚碰上大型活动封路，车行缓慢，无聊间，忽忆矿难图景，闪映喧天霓虹影间，有感而赋七律一首以祭矿难冤魂。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 8月8日祭矿难冤魂
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 狂野倾风海倾杯<br/>
 怒云翻涌百万雷<br/>

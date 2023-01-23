@@ -8,14 +8,14 @@ hide_table_of_contents: true
 
 > 2006/11/14 0:59:57
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xx-large', lineHeight: '130%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xx-large', lineHeight: '130%', textAlign: 'center', marginBottom: '20px'}}>
 
 缠中说禅
  
 《第三钢琴奏鸣曲》录音
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '180%', textAlign: 'center', marginBottom: '20px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '180%', textAlign: 'center', marginBottom: '20px'}}> 
 中国人18岁前所写最佳钢琴奏鸣曲
 </div>
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/11 16:23:53
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 有了昨天的帖子，按照本ID的性格，一定要去究底穷源的。今天，我们就用最理性的分析，来说说这让人无话可说的管理层2007年以来的表现。
 

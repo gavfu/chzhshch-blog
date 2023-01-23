@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/29 15:02:13
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 在远离北京的过程中,无线上,只能快速说两句。北京对本ID的病是死地，算了算正向活地转移。3656点是大盘的抉择点位，其下的一切震荡本质上都没多大意义。
 

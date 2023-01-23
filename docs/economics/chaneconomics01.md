@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/7/20 21:19:25
 
-<div style={{fontSize: 'large', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{fontSize: 'large', fontWeight: '500', textAlign: 'center'}}>
 一
 </div><br/> 
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/12 8:42:17
 
-<div style={{color: '#CC0000', fontSize: '20px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontSize: '20px', fontWeight: '500', lineHeight: '180%'}}>
 
 世多不学之辈，以其萤火之光妄想照耀宇宙之大，终陷自我巢穴废其一生。能被科学、能被人类的，永远不过是宇宙之一尘，企图以科学、人类来宇宙宇宙，除了显示科学与人类的无知，别无意义。
 

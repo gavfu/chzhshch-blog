@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/14 15:25:29
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 先请个假，今天晚上有事，晚上的帖子，本ID就克扣了，抱歉。
  

@@ -10,20 +10,20 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2007/8/6 22:56:55
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '16px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '16px', lineHeight: '180%'}}>
 
 一酒一诗，人间乐事，酒无诗俗，诗无酒滞，三十载陈酿今宵尽，化作新诗四十言。
 </div>
 
-<div style={{color: '#FF0000', textAlign: 'center', fontWeight: 'bold', fontSize: '56px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', textAlign: 'center', fontWeight: '500', fontSize: '56px', lineHeight: '180%'}}>
 席间口占
 </div>
 
-<div style={{color: '#FF0000', textAlign: 'center', fontWeight: 'bold', fontSize: '32px', lineHeight: '180%', marginTop: '10px', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', textAlign: 'center', fontWeight: '500', fontSize: '32px', lineHeight: '180%', marginTop: '10px', marginBottom: '20px'}}>
 缠中说禅
 </div>
 
-<div style={{color: '#FF0000', textAlign: 'center', fontWeight: 'bold', fontSize: '32px', lineHeight: '150%', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', textAlign: 'center', fontWeight: '500', fontSize: '32px', lineHeight: '150%', marginBottom: '30px'}}>
 红尘多市易<br/>
 吾辈少经营<br/>
 偶得天真句<br/>
@@ -44,9 +44,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
  
 那么，这样的分歧，究竟有多细微的程度，各位可以看下图。关键是绿箭头指着的两个K线，第一根范围是[4594.91，4597.57],第二根范围是[4595.19，4597.44]，由于第一根是最高收的，而4597.57与4597.44相差极为细微，所以可能就是0.1秒的数据收集差异，就导致在同花顺中的包含关系，在别的软件中就是第二根的高点比第一根的高一点点，就不是包含关系了，第二根才是分型的顶，这样，笔自然就成立了。如果这里的笔成立，那么整个分段就有一定的变化了。不过，这并不实质影响整个走势的分析，由于各位也应该明白，为什么在实际的分类中，必须要从分型和笔开始，最后由线段构成最小级别的中枢，其中一个原因，就是这样，到了最小级别的中枢的层次，这种微小测量误差造成的差异就可以尽量地抹平了。而到了更大级别的中枢，这些就不再存在。当然，这不是分型、笔、线段的主要功用，但也是其中之一。
  
-这件事情，可以给出一个结论：本ID的理论是可以进行最精确的研究的，而且这种研究是绝对科学客观的，只和分析的具体图有关，只要是同一个软件的同一张图，就有绝对唯一的答案，在这个答案面前，无论是谁都一样平等。并不因为本ID研究出了这理论，本ID就有任何权威，在理论面前，人人一律平等，本ID也有出错的时候，但本ID的理论是不会错的，结论是唯一客观的，这叫<span style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px'}}>依法不依人</span>。
+这件事情，可以给出一个结论：本ID的理论是可以进行最精确的研究的，而且这种研究是绝对科学客观的，只和分析的具体图有关，只要是同一个软件的同一张图，就有绝对唯一的答案，在这个答案面前，无论是谁都一样平等。并不因为本ID研究出了这理论，本ID就有任何权威，在理论面前，人人一律平等，本ID也有出错的时候，但本ID的理论是不会错的，结论是唯一客观的，这叫<span style={{color: '#FF0000', fontWeight: '500', fontSize: '24px'}}>依法不依人</span>。
  
-对任何理论，必须有<span style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px'}}>依法不依人</span>的最基本前提，本ID的理论之所以客观准确，并不是因为本ID的原因，而是该理论是实际走势最可能客观的反映，无关任何人，不管他喜欢不喜欢本ID本人，但只要在市场中，就被本ID的理论所覆盖。就如同一个在欧得里德空间里的人，无论他对180如何厌恶，但任何一个他能测量的三角形，就永远用180去折磨他，无处可逃。本ID的理论也如此，只要你在市场中，无论你知道不知道，喜欢不喜欢，你都无处可逃。
+对任何理论，必须有<span style={{color: '#FF0000', fontWeight: '500', fontSize: '24px'}}>依法不依人</span>的最基本前提，本ID的理论之所以客观准确，并不是因为本ID的原因，而是该理论是实际走势最可能客观的反映，无关任何人，不管他喜欢不喜欢本ID本人，但只要在市场中，就被本ID的理论所覆盖。就如同一个在欧得里德空间里的人，无论他对180如何厌恶，但任何一个他能测量的三角形，就永远用180去折磨他，无处可逃。本ID的理论也如此，只要你在市场中，无论你知道不知道，喜欢不喜欢，你都无处可逃。
  
 有网友问图怎么才能看清楚，本ID的电脑水平基本在打字阶段，但这个问题还是能回答一下的。请对着图按右键，然后打开属性把地址复制下来在网上打开，就能看到清晰的大图。本ID说电脑，纯粹是胡闹，各位有更好的办法，请提供。
  

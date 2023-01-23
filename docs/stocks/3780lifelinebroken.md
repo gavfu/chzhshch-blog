@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/24 15:16:13
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 上周五已经超级明确地说了，3780点是短线生命线，站不住就再次探底。今天早上，跌破3780点后两次反抽上不去，确认跌破有效。然后下午2点那标准的第三类卖点成立后，跌幅明显加大。一切都极端技术化。
  

@@ -12,15 +12,15 @@ hide_table_of_contents: true
 恰逢七夕，不可无诗。九天织女，一地牛郎，鹊桥夜夜贯霓虹，月朦胧、鸟朦胧，过桥费只二三铜，诗曰：
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 七夕七律赠牛郎
 </div>
 
-<div style={{color:'#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 昨日风流今土巴<br/>
 新潮美草竞香花<br/>

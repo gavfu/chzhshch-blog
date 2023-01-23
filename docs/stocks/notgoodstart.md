@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/13 15:15:42
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 开门大红包，本ID可给足了，580989的两次启动，都给足提示，第一次，提示后在0.42下随便买到，这次，即使节前你自己没看明白，今天在0.5下随便买，而且还两次机会，操作好了，随便一天50%的利润。
  

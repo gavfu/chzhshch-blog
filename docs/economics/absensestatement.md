@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/12/19 21:45:00
 
-<div style={{fontSize: 'medium', fontWeight: 'bold', color: '#FF0000'}}>
+<div style={{fontSize: 'medium', fontWeight: '500', color: '#FF0000'}}>
 明后两天，本ID一个花了两年没变现的项目就要变现了，2001年时的投入不多，现在变现也就两三倍的利润，资本市场外的游戏真是不好玩，千万别玩。这批本来1年半前就要参加大部队的，现在才能归队，也算搞笑了。不过牛市也就刚开一个头，周五又多七、八亿斤的大米酿酒造药，为各位抬抬轿子，也值得本ID抛弃各位两天了，就别怪本ID狠心啦。
 </div>
 

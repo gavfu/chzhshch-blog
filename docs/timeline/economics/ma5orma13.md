@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/21 15:23:00
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 今天没消息，大盘回跌就是天经地义的，至于这回跌是否最终构成继续的探底，昨天已经给了一个基本点位：2455点，如果明天还站不住该位置，继续下探就是理所当然了。
 

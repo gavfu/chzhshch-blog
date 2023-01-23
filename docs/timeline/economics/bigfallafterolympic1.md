@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2008/8/3 21:23:54
 
-<div style={{color: '#660066', fontWeight: 'bold', fontSize: '22px'}}>
+<div style={{color: '#660066', fontWeight: '500', fontSize: '22px'}}>
 
 周日无事，来个长点的。
 </div>
 
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 宏观调控，这三十年来不断被提及，成为一个烂熟之词，但实际上，真正搞明白的又有几人？即使管理者本身，还不是经常言不及题、糊涂异常？何谓真正的宏观调控？归根结底，就是对人心的调控。如果在实体经济占绝对地位的经济体系中很难体会这一点，那么，随着虚拟经济的比重不断提高，这点将越发明显。
 
@@ -67,7 +67,7 @@ hide_table_of_contents: true
 调控最终看的是整体的中国经济趋势是否平稳，由于该经济结构从纯而又纯的一元计划经济而生，因此，经济结构所共有的领域的市场化情形在各领域的进展是完全不平衡的，而市场经济所特有的领域、特别是那些虚拟经济所特有的领域，更是直到今天依然多数未被有效建立，这样，可热点的领域又如何能足够多？经济一热去热、一冷全冷就是理所当然了。
 </div>
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: '24px'}}>
+<div style={{color: '#990000', fontWeight: '500', fontSize: '24px'}}>
 
 累了，有时间再写完，先下，再见。
 </div>

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/26 21:06:01
 
-<div style={{fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 刚看到[<font>洛阳烈士陵墓让位商业墓地被夷为平地</font>](../../references/luoyangmartyrsmausoleum)的新闻，什么都不想写，心里堵得慌。
  
@@ -25,16 +25,16 @@ hide_table_of_contents: true
 历史就是这么残酷，残酷的历史证明了，如果有类似的未来，这未来只会更加残酷。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 洛阳烈士墓被夷平
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 甲门华宅紫金街<br/>
 大府高衙白玉阶<br/>

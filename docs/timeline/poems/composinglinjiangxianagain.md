@@ -8,22 +8,22 @@ hide_table_of_contents: true
 
 > 2008/1/16 16:18:23
 
-<div style={{color: '#0000FF', fontSize: '24px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#0000FF', fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 晚上就走，先到汉口，然后才去深圳。看看今年和湖北有没有缘分，能不能搞点事情。临走前，再来一首《临江仙》，估计周日或周一才能晚上写帖子了，抱歉。
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 《临江仙》
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 大梦沉沉沉永夜<br/>
 几番雨煮风蒸<br/>

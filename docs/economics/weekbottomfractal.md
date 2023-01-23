@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/14 15:48:40
 
-<div style={{color: '#FF00FF', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF00FF', fontWeight: '500', fontSize: '18px'}}>
 
 上周给了本周一个任务，就是去构成周底分型，今天早上也特别强调这一点，现在任务算是完成了。下周的任务也先给出，就是去确认周底分型的确立，技术上十分简单，就是5周均线站住。
  

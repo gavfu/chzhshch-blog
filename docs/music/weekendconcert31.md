@@ -18,7 +18,7 @@ hide_table_of_contents: true
 
 <div style={{textAlign: 'center'}}>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '32px', lineHeight: '110%', textAlign: 'center', marginBottom: '20px'}}>
 
 《旅人之歌》
 </div>
@@ -26,7 +26,7 @@ hide_table_of_contents: true
 旅人，流浪者，<br/>
 永远，没有家园的游荡。
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px', lineHeight: '110%', textAlign: 'center', marginTop: '20px', marginBottom: '20px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '32px', lineHeight: '110%', textAlign: 'center', marginTop: '20px', marginBottom: '20px'}}>
 
 《巨人》
 </div>

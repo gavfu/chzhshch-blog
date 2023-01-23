@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/23 15:25:57
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 对不起，这两天确实太忙，没有新帖子，趁着收盘说两句。其实今天的走势，没什么可说的，周末，本ID在这里已经明确说了，要痛打落水狗。有些狗般的思维不是说要低开吗？不是说有回补的机会吗？当然，本ID尊重这种思维。但按本ID痛打落水狗的思维，就是没有低开，没有回补的机会。要回补可以，当轿夫吧！
  
@@ -20,7 +20,7 @@ hide_table_of_contents: true
 
 </div>
  
-<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', marginTop: '30px'}}>
+<div style={{color: '#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', marginTop: '30px'}}>
 
 本地风光本地游
 

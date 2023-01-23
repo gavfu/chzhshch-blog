@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/18 21:09:33
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '20px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '20px', textAlign: 'left', lineHeight: '180%'}}>
 
 有急事紧急出差，本来早要去的，推迟了，今天不得不去。最后一班，机型还是今天巴西毁掉那种，本ID受飞机煎熬，各位就继续收中国队的煎熬吧。
  

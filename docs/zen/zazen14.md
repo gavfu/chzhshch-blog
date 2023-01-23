@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/3 16:59:48
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px'}}>
 刚回家，写上一段，晚了，抱歉了。
 </div><br/>
 

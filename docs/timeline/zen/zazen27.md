@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/8 11:45:14
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 有这般痴汉，翳眼生华，称此地为污土，彼地为净土，行如基督教之苟且事，却不知此娑婆世界，何处非黄金为地、琉璃布天？以彼之漏眼，安可辩之？
 

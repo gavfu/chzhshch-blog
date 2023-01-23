@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2007/10/17 8:44:44
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '32px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '32px'}}>
 
 下午收盘要飞机回北京，解盘在晚上，抱歉。
 
 </div>
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天，二大报齐说泡沫的全面化问题，这是在会议期间，可能采取的最大提示之一了。显然，按照中国人的性格，面子比里子大，不是迫不得已，都不会撕破最后那张脸。所谓先礼后兵，中国人从来如此。因此，在530之前，N次的风险提示，已经是仁至义尽；530唯一不好的，就是发布的时间不对，如果是第二天早上发布，那发布应该是完美的。
  

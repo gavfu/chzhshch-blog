@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/18 23:20:32
 
-<div style={{fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{fontWeight: '500', fontSize: '18px'}}>
 
 对不起，刚回来。下午、晚上，分别二个关于商业的无聊会面，但今晚的意义不在这上，9点后赶了第三场，一个小聚会，一朋友明天要飞降南方某省去扑火，其事起因，简直比所有滑稽笑话还要笑话，笑话之后，骨头都冰凉，我的中国，哎。
  

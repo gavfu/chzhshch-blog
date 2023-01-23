@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/16 15:17:40
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天说“并不排除有一到两天让大家再次想起亮晶晶的机会”，结果，今天那花旗参大作广告，使得大盘又见亮晶晶，严重怀疑亮晶晶暗中代理了花旗参的销售。
  

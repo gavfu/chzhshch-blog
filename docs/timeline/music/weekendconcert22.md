@@ -8,16 +8,16 @@ hide_table_of_contents: true
 
 > 2006/12/23 15:15:15
 
-<div style={{color: '#0000FF', fontWeight: 'bold', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
+<div style={{color: '#0000FF', fontWeight: '500', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
 
 民族乐派
 </div>
 
-<div style={{color: '#0000FF', fontWeight: 'bold', fontSize: 'xx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
+<div style={{color: '#0000FF', fontWeight: '500', fontSize: 'xx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
 的
 </div>
 
-<div style={{color: '#0000FF', fontWeight: 'bold', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
+<div style={{color: '#0000FF', fontWeight: '500', fontSize: 'xxx-large', lineHeight: '110%', textAlign: 'center', marginBottom: '30px'}}>
 印度神油
 </div>
 

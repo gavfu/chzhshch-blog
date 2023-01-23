@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2008/7/7 15:48:09
 
-<div style={{color: '#339900', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
+<div style={{color: '#339900', fontWeight: '500', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
 
 短线股票没什么可说的，该说的，前面都说了，突破第一关，就看回试能否站稳，站稳了就继续第二关冲击，如此而已。至于中线更没什么可说，基本的判断已经多次明确给出，就看大盘如何按图演绎了。
 </div>
 
  
-<div style={{color: '#000066', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
+<div style={{color: '#000066', fontWeight: '500', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
 
 最近都在探讨如何放松所谓的宏观调控，这问题，现在说只能是亡羊补牢了，还是重温一下本ID今年一大早的文章吧：“2008年，谨防宏观调控过度 (2008-01-10 17:33:22)”。
 
@@ -24,7 +24,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', lineHeight: '180%', textAlign: 'left'}}>
 
 唱歌当然是很简单的事情，特别现在科技发展了，社会也娱乐化卡拉OK化了，只要是个人、喉咙还能挤压点声音，就能唱一把歌一把，再来点电子加工，是个人都可以出碟子了。不过，本ID今天说的唱歌，是究底穷源地探究人发出美妙声音的一些不可缺少的身体操作因素。
 

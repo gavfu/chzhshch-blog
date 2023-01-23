@@ -8,17 +8,17 @@ hide_table_of_contents: true
 
 > 2007/3/1 15:42:20
 
-<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center'}}>
 汉奸，
 </div>
-<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center', marginTop: '10px'}}>
+<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center', marginTop: '10px'}}>
 本ID就把你们像面首一样
 </div>
-<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center', marginTop: '10px'}}>
+<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center', marginTop: '10px'}}>
 玩弄！
 </div>
 
-<div style={{fontWeight: 'bold', textAlign: 'left', marginTop: '20px'}}>
+<div style={{fontWeight: '500', textAlign: 'left', marginTop: '20px'}}>
 
 百团大战以后是什么，熟悉中国历史的没有不知道的，除非他是汉奸或鬼佬并且脑子进满了水。显然，中国的金融市场的很重要部分，被汉奸与鬼佬把持着，这一点已多次指出。不承认这一点，不是别有用心就是瞎了眼。用最简单的板块论，例如金融板块显然就是汉奸与鬼佬围剿的重灾区。特别，由于金融股多数都同时在其他市场上交易，因此更容易成为他们企图控制中国金融市场的利器。
  

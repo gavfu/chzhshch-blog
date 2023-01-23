@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/10/9 8:03:06
 
-<div style={{color: '#0000CC', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#0000CC', fontSize: '18px', fontWeight: '500'}}>
 
 注意，昨晚，本ID只是表明自己的中期态度与操作。但就算本ID，也要遵循本ID的理论。本ID只是分力之一，分力如何最终引导出合力，这就是本ID要干的事情。但并不是说一定就一天就能干成。
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 # 缠中说禅文集 (市场学生整理)
 
-<div style={{fontSize: '18px', fontWeight: 'bold', display: 'inline-block', textAlign: 'left'}}>
+<div style={{fontSize: '18px', fontWeight: '500', display: 'inline-block', textAlign: 'left'}}>
 
 - [缠中说禅文集--教你炒股票系列.pdf](https://gw.crustapps.net/ipfs/QmXmvJnE2BBtrSttyPzc2p7H5ArcidFgMETDWkJmPkC1U6/marketstudent/%E7%BC%A0%E4%B8%AD%E8%AF%B4%E7%A6%85%E6%96%87%E9%9B%86--%E6%95%99%E4%BD%A0%E7%82%92%E8%82%A1%E7%A5%A8%E7%B3%BB%E5%88%97.pdf)
 - [缠中说禅文集--股市杂谈与每日解盘.pdf](https://gw.crustapps.net/ipfs/QmXmvJnE2BBtrSttyPzc2p7H5ArcidFgMETDWkJmPkC1U6/marketstudent/%E7%BC%A0%E4%B8%AD%E8%AF%B4%E7%A6%85%E6%96%87%E9%9B%86--%E8%82%A1%E5%B8%82%E6%9D%82%E8%B0%88%E4%B8%8E%E6%AF%8F%E6%97%A5%E8%A7%A3%E7%9B%98.pdf)

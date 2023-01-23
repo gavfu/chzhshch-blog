@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/6/18 8:04:09
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 昨天水疗第一天，后面还有2天，其中今天是两种最危险的化疗药，其中一种就是上次说曾一打就死人那种。上次本ID打的时候，都有全程监护，仪器挂在身上，一直等那药打完，这次换了医院，昨天已经提出一定要有仪器监控，因为现在不在肿瘤科，因此他们答应了今天去借回来。
 

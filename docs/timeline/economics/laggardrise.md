@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/14 15:10:28
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 到了目前这个位置和时间段，大盘进入敏感阶段。首先，对于多头来说，好不容易到了5600点上下这最重要的阻力跟前，绝对不想一个哆嗦就给震回去。但这个关口确实比较压力大，主要不是技术上的，而是心理与政策面上的。
  

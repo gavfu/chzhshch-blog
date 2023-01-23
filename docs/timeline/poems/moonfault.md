@@ -16,23 +16,23 @@ hide_table_of_contents: true
  
 现在的人都很奇怪，似乎全世界的人都欠了他的，你考不上北大，那一定是老师的错，老师欠了你的。你学不会几何，那几何肯定错了，就如同今晚的月亮，都是他的错。本ID对这套逻辑从来没兴趣搭理，本ID又不是卖月饼的，过了今晚，本ID的理论依然框架着所有的股票走势，就如同三角形之和180度框架着欧几里德平面上的图形。
  
-个股方面，<font style={{fontSize: '20px', fontWeight: 'bold'}}>说句梦话，千万别信：</font>可以开始关注两只股票600319、000822，这都是基本面上有可能出现重大变化的。<font style={{fontSize: '20px', fontWeight: 'bold'}}>不过必须声明：</font>由于目前大盘的位置十分危险，对个股的介入，一定要在大级别的买卖点。有些股票，如果技术好的，可以不断震荡减低成本去介入，例如600078。毕竟现在不是3000点，1000点，没有什么便宜的价位了，<font style={{fontSize: '20px', fontWeight: 'bold'}}>如果成本没本事降下来，最好就什么都别介入，</font>等大盘暴跌再说。如果有那本事，那就无所谓了。
+个股方面，<font style={{fontSize: '20px', fontWeight: '500'}}>说句梦话，千万别信：</font>可以开始关注两只股票600319、000822，这都是基本面上有可能出现重大变化的。<font style={{fontSize: '20px', fontWeight: '500'}}>不过必须声明：</font>由于目前大盘的位置十分危险，对个股的介入，一定要在大级别的买卖点。有些股票，如果技术好的，可以不断震荡减低成本去介入，例如600078。毕竟现在不是3000点，1000点，没有什么便宜的价位了，<font style={{fontSize: '20px', fontWeight: '500'}}>如果成本没本事降下来，最好就什么都别介入，</font>等大盘暴跌再说。如果有那本事，那就无所谓了。
  
 无聊的股票，就不说了，这里有本ID的七古旧作一首，祝各位中秋好。补充一句，如果连平水韵都没搞明白，就不要批评本ID的韵不对了，本ID的七古都从来不借邻韵，别说律诗了。
  
 </div>
 
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 中秋见月
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 一轮喷吐天海倾<br/>
 荡雾崩云万峰明<br/>
@@ -66,7 +66,7 @@ hide_table_of_contents: true
 光残露满窗前石
 </div>
 
-<div style={{color:'#FF0000', fontSize: '24px', fontWeight: 'bold', textAlign: 'left', lineHeight: '120%'}}>
+<div style={{color:'#FF0000', fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '120%'}}>
 
 晚上都好好陪父母家人，今晚就不写帖子了。
  

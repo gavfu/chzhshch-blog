@@ -8,15 +8,15 @@ hide_table_of_contents: true
 
 > 2007/5/7 12:41:16
 
-<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 安阳
 </div>
 
-<div style={{ color: '#FF0000', fontSize: 'x-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '200%', marginBottom: '20px'}}>
+<div style={{ color: '#FF0000', fontSize: 'x-large', fontWeight: '500', textAlign: 'center', lineHeight: '200%', marginBottom: '20px'}}>
 缠中说禅
 </div>
 
-<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center', lineHeight: '100%', marginBottom: '30px'}}>
 
 太行叠叠重重岭
 

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/8 8:23:58
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 昨天，一个包含性K线，构造出短线的第二类买点后回拉到5日线附近，大盘短线已到临界点。当然，最干脆的走势就是今天中长阳突破2762点确认笔走势，而反过来，若大盘依然在2762点下犹疑，那最晚下周初，大盘中继中枢扩展完成后向下延续新一段跌势就理所当然了。所以，今天开始三天内的走势是短线必须密切关注的。
 
@@ -22,7 +22,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%'}}>
+<div style={{color: '#990000', fontWeight: '500', fontSize: '24px', lineHeight: '180%'}}>
 
 本ID现在早对那些什么会审美大疲劳，快点完、别惹事就谢天谢地了。如果一定要让本ID说真话，那就让为资本全球化画眉贴金的末世大铺张见鬼去吧！中华民族的大复兴无须这种恶心的堕落背书！
 

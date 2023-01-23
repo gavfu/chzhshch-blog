@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/24 19:37:32
 
-<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: '500'}}>
 
 那是17岁刚上大学时的事情，当时，打坐刚把身体的能量开发出来，有时候坐在教室里，只要稍微一入定，里面的人就咳嗽不断，后来，他们都说，只要本ID坐到后面，墙上都就有光圈出现。但这都不是十分明确的实证，直到那一次。
 

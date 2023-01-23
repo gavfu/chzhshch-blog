@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/3/28 15:12:27
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 N周前的再展望，本ID给出了这轮下跌最可能的3424点的下跌结束位置，6124点下来的2700点，3600的3/4，而第一次4778点，刚好是3/8，今天这个位置初步显示其威力。
  

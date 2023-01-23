@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/17 20:16:00
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '180%'}}>
 
 现在这博客已经成为本ID最大的一个负担，本来想关闭一段时间，等把手头的事情忙完再重开。
  

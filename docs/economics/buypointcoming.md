@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/11 15:07:35
 
-<div style={{color: '#006600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#006600', fontWeight: '500', fontSize: '18px'}}>
 
 今早已经让各位看30或60分钟图判断力度，从那60分钟不断伸长的绿柱子，只要是人，都知道下跌的动能依然强大，因此，早上说的第一种情况成立的可能性越来越演化为必然性了。
 

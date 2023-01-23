@@ -8,17 +8,17 @@ hide_table_of_contents: true
 
 > 2007/2/26 15:50:13
 
-<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center'}}>
 汉奸
 </div>
-<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center', marginTop: '22px'}}>
+<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center', marginTop: '22px'}}>
 有本事拿几十亿股联通
 </div>
-<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: 'bold', textAlign: 'center', marginTop: '20px'}}>
+<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: '500', textAlign: 'center', marginTop: '20px'}}>
 把本ID砸死！
 </div>
 
-<div style={{fontSize: 'large', fontWeight: 'bold', textAlign: 'left', marginTop: '20px'}}>
+<div style={{fontSize: 'large', fontWeight: '500', textAlign: 'left', marginTop: '20px'}}>
 
 当本ID8号说要阻击联通，让联通春节前上5元，让大盘上3000点，估计汉奸们都在窃喜，盘算着这次怎么搞死本ID。结果，最后一天，看联通无法得手，尾市只好借泄露的消息偷袭，让大盘收在2998，以为这样就能让本ID丢脸。这种小肚鸡肠，也只有汉奸能干出来了。这种无聊的偷袭能改变什么？靠收买几个官员、知道点垃圾消息就想左右市场？脑子水太多了吧！
  

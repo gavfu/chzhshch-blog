@@ -17,17 +17,17 @@ hide_table_of_contents: true
 酒后，并不一定能真言。不能言，七步诗。苹果、苹果，我的苹果。
 </div>
 
-<div style={{fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 即事无言
 </div>
 
-<div style={{fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 缠中说禅
 </div>
  
-<div style={{fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '180%'}}>
+<div style={{fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '180%'}}>
 
 红尘有路尽迷途<br/>
 圣代无心作圣徒<br/>

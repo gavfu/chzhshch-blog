@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/12 15:38:28
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 看完今天的走势，各位重新去看N天前的 [<font style={{color:'#FF0000', fontSize:'24px', textDecoration:'underline'}}>凭空接坠石，依然开弓没有回头箭</font>](catchrockfall)，大概都有别样感觉了。今天，坠石化为星球大战中的光剑，挥舞出雄兵亿万，直指3919点颈线，关于这光剑的道具，前面的帖子里也提过了。
  

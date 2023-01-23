@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/26 15:12:23
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天一开盘就受到一个电话严重的嘲笑，什么内容，等一下再说。不过，收盘了，本ID也要先来一个超级简单的问题刁难一下各位，请问：今天的高低点和昨天说的中枢中间位置5210点有什么关系？
  

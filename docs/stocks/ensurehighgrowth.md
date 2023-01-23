@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/13 8:28:09
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 春节后写了[<font style={{color:'#FF0000', textDecoration:'underline'}}>要通胀还是要经济增长</font>](./inflationoreconomicgrowth.md) <font style={{fontSize:'x-small'}}>(2008-02-28 15:53:15)</font> ，当时就很尖锐地指出高通涨低增长死局的潜在可能与危害性，在错过了诸多有利时机后，很不幸地，现在这种风险正日益迫近。现在，已经别无选择，当时已经给出了当下最现实的模式，高增长高通涨，然后在此基础上逐步利用有利时机改变经济结构与利益分配机制，使得结构性通涨的压力消解。无论如何，确保经济高增长已刻不容缓，不想死得很难看，这是唯一实际的选择了。
 

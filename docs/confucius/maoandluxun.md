@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/2 19:58:17
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 本ID比较专一，就算419，也要把玩物给玩废了才收手。最近既然已经把周树人这垃圾股反复拉抬打压进行抽血性操作，那么最后，肯定要往退市的路上把这鸭子给挤兑了。
  

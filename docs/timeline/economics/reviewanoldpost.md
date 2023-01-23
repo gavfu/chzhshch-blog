@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/16 6:12:17
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 首先说一句狠话，虽然本ID这里不删帖子，本ID更不介意一些因贪婪而被骗的傻蛋因看某些广告中招，但那些整天上来骗散户入会的废物点心，还是最好自觉一点。
 

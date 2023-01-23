@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/22 21:30:42
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 本周关于以后内地大型股票上市应以A股为首发地的消息具有重大意义，同时回应了本ID前面反复强调的两个问题：一、A股蓝筹上市比例过低；二、优秀上市公司资源的保护与合理利用。
 

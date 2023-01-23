@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/7/11 15:41:38
 
-<div style={{color: '#FF0000', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontWeight: '500'}}>
 
 由于本ID身在此山中，因此评论难免有本方色彩，为了尽量客观点，所以以后的评论都换一种说法，这样就不至于干扰散户的自我判断。
  

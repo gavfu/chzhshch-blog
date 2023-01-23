@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/18 10:26:15
 
-<div style={{color: '#669900', fontWeight: 'bold', fontSize: '22px', lineHeight: '200%'}}>
+<div style={{color: '#669900', fontWeight: '500', fontSize: '22px', lineHeight: '200%'}}>
 
 身体没有完全调整过来，但这几天市场风雨飘摇，虽然和本ID没什么关系，正乐见其跌，但还是勉强写两句，让各位心里更明白点。
 
@@ -26,7 +26,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{fontWeight: 'bold', fontSize: '22px', lineHeight: '200%'}}>
+<div style={{fontWeight: '500', fontSize: '22px', lineHeight: '200%'}}>
 
 短跑好的，注意很快就有的反弹，抢一口就跑。另外，密切注意世界消息面的变化，看这次老美用尽气力能搞点什么？
 

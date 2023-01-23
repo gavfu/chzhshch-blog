@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/12/17 11:46:43
 
-<div style={{fontSize: 'xxx-large', fontWeight: 'bold', color: '#009900', textAlign: 'center', lineHeight: '120%'}}>
+<div style={{fontSize: 'xxx-large', fontWeight: '500', color: '#009900', textAlign: 'center', lineHeight: '120%'}}>
 
 面首店里
 

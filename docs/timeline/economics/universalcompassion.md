@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/5/15 16:28:10
 
-<div style={{color: '#0000FF', fontWeight: 'bold', fontSize: '20px'}}>
+<div style={{color: '#0000FF', fontWeight: '500', fontSize: '20px'}}>
 
 如果以前对菩萨的同体大悲无所感触，那么这几天如此遥远又恍如亲受的巨大灾难，也足以让我们有所领悟。
 

@@ -12,7 +12,7 @@ hide_table_of_contents: true
  
 缠中说禅
 
-<div style={{color:'#FF0000', fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%'}}>
+<div style={{color:'#FF0000', fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 南岭餐霞无处
  

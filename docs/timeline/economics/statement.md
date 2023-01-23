@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 ### 正文
 
-<div style={{fontSize: 'large', fontWeight: 'bold', color: '#FF0000'}}>
+<div style={{fontSize: 'large', fontWeight: '500', color: '#FF0000'}}>
 公告<br/><br/>
 
 以后本ID这里不准备对具体个股与大盘走势发表任何具体意见,免得各位狐疑.所有走势与本ID无关,别瞎闹了.

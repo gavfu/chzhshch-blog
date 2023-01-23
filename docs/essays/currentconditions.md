@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/23 16:55:35
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 到目前为止，其实只接受奇人两次治疗，不过反应之大，比20天的化疗还要厉害。所以，奇人把治疗时间隔开，确实是有道理的，否则身体肯定受不了。由于没有最后根治，所以现在谈效果没太大意义，毕竟开始有很好效果，结果反复后变更糟的例子太多，这就如同反弹后的继续下跌，目前马上预测反转，这不是本ID的风格。
 

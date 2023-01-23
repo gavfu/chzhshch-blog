@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/17 15:14:57
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 当然并不是本ID去深圳，所以就深深地把各位深圳了一把，千万别这样想，否则本ID肯定不能再去长沙了。
  

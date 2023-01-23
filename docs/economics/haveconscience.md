@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/9/19 12:57:06
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px', lineHeight: '200%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px', lineHeight: '200%'}}>
 
 本ID知道昨天冒着虚弱发帖子时，很多人在骂本ID，说本ID故意躲起来，本周说反弹结果大跌。上周难道没说2000点是可能跌破的，难道现在出现的不是更大级别的反弹。昨天，半条命的情况下，在早上告诉反弹很快出现，还故意用了黑字，好象还有人有意见？
 

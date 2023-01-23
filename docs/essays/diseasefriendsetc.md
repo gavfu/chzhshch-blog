@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/7/14 6:40:48
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '180%'}}>
 
 准备提早回医院，主要是看到很多人为本ID担心，而本ID又是一个一诺千金的人，熬夜16圈好与不好，本ID当然分得清楚，其实早几天，已和我弟说要通知不打了，结果阴错阳差没通知成。
 

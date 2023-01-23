@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/1/13 10:09:35
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 你，一虚妄添加的幻象，那么，“你的”是什么。所有面对的，都是“你的”，不是“你”，“你的”又是什么？
 

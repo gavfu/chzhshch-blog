@@ -10,29 +10,29 @@ hide_table_of_contents: true
 
 <div style={{textAlign: 'center', fontSize: 'large',}}>
 
-<div style={{color: '#0080FF', fontWeight: 'bold', fontSize: 'large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#0080FF', fontWeight: '500', fontSize: 'large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 今夜
 </div>
 
-<div style={{color: '#990099', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#990099', fontWeight: '500', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 继续用
 </div>
 
-<div style={{color: '#990000', fontWeight: 'bold', fontSize: 'xx-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#990000', fontWeight: '500', fontSize: 'xx-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 大提琴
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xxx-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xxx-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 勾引你
 </div>
  
 勾引，无须语言，今夜，让器官作主。
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '150%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '150%', marginTop: '20px',  marginBottom: '10px'}}> 
  
 a小调第一大提琴协奏曲
 </div>
@@ -42,7 +42,7 @@ a小调第一大提琴协奏曲
 淡得抹不去的岁月<br/>
 风在动
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '150%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '150%', marginTop: '20px',  marginBottom: '10px'}}> 
  
 D大调第五大提琴奏鸣曲
 </div>
@@ -51,7 +51,7 @@ D大调第五大提琴奏鸣曲
 心犹壮<br/>
 身已老
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '150%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '150%', marginTop: '20px',  marginBottom: '10px'}}> 
  
 e小调大提琴协奏曲
 </div>
@@ -64,7 +64,7 @@ e小调大提琴协奏曲
  
                   
                        
- <div style={{ fontWeight: 'bold', fontSize: '24px', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+ <div style={{ fontWeight: '500', fontSize: '24px', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 请关闭其他所有背景音乐
 </div>

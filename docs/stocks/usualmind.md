@@ -8,12 +8,12 @@ hide_table_of_contents: true
 
 > 2008/6/25 18:47:38
 
-<div style={{color: '#006600', fontSize: '18px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#006600', fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 股市没太多要说的，站在2700点上有所反弹，本就是最正常不过的事情。本周，纯技术上最大的任务就是高点能突破2945点以形成周的底分型形态，能高收当然是最好的，即使不行，只要本周不再破底，那这形态成立就是必然的。从时间上看，这可能性还是很大的，关键就是剩下两天，多头不要前功尽弃了。
 </div>
  
-<div style={{color: '#CC0000', fontSize: '20px', fontWeight: 'bold', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontSize: '20px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
 最近，在挨骂方面能赶超股市的，大概也只有北大历史系了。但即使是历史系，北大的鸟人比例也一定在水平线下，企图以一范一王就来摧毁北大，那是太天真了。至于有些人，借此压北大，捧清华，这种马屁花招最终也只会拍到马蹄子上。北大有鸟人，难道清华、哈工大就没鸟人？哪天本ID有心情，八卦一下清华、哈工大等等学校的鸟人，那些破事还不是一箩筐一箩筐的？
 
@@ -96,17 +96,17 @@ hide_table_of_contents: true
 </div>
 
  
-<div style={{color:'#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
+<div style={{color:'#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginTop: '50px'}}>
 
 步临济偈韵四首
 </div>
  
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '250%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '250%'}}>
 
 缠中说禅
 </div>
 
-<div style={{color:'#FF0000', fontSize: '32px', fontWeight: 'bold', textAlign: 'center', lineHeight: '100%'}}>
+<div style={{color:'#FF0000', fontSize: '32px', fontWeight: '500', textAlign: 'center', lineHeight: '100%'}}>
 
 <div style={{marginTop: '20px', marginBottom: '50px'}}>
 一
@@ -169,7 +169,7 @@ hide_table_of_contents: true
  
 
  
-<div style={{color:'#660066', fontSize: '24px', fontWeight: 'bold', textAlign: 'left', lineHeight: '100%', marginTop: '50px'}}>
+<div style={{color:'#660066', fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '100%', marginTop: '50px'}}>
 
 八卦一句，“他”，古字“佗”，押的是平水下平五歌韵 。
 </div>

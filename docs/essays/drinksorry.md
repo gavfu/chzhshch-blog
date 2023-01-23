@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/6 22:27:33
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px', textAlign: 'left', lineHeight: '150%'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px', textAlign: 'left', lineHeight: '150%'}}>
 
 又喝了老多，和几个某方面的老前辈在一起，边喝边聊，说些老皇历，越说越有气，本ID从来不会为自己的得失生气，但一想到某些地方，想到某些人的蠢行造成的后果，就火大。
  

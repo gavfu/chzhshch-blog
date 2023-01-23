@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/11 15:10:56
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 本周折腾，最后的结果还是把周底分型给折腾出来了，该分型的上边在3840点，因此，该分型是否最终有效，延伸为向上笔，或者最终失败，只构成中继型，3840点就成了周级别的关键位置了。 
  

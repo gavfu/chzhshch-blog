@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/28 15:06:21
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 很多一知半解的人，说什么技术分析没用，那么请问为什么本ID多次事先指出的位置都神奇地逆转了大盘？就象这次的3656点，事先给出，其神奇作用是在基本面强烈变动下发生的，结果怎么样？这两天的走势很无耻地很不给所有人面子地捍卫了技术分析的尊严。
 

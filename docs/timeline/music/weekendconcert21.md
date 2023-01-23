@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/12/16 11:57:26
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xxx-large', lineHeight: '130%', textAlign: 'center', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xxx-large', lineHeight: '130%', textAlign: 'center', marginBottom: '30px'}}>
 
 二十根
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/8 22:21:05
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 对不起，回来晚了，把解盘补上。
  

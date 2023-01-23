@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/9/8 15:24:51
 
-<div style={{color: '#FF0000', fontSize: '16px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '16px', fontWeight: '500'}}>
 
 自从上周关于现在参与市场就如同在刀锋在走的帖子被点了30几万后，那播放音乐的网站似乎也给点废掉了，总之，这一周来一直都不行，所以音乐会都开不了了，以前上传的也下不来了。
 

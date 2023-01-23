@@ -15,7 +15,7 @@ hide_table_of_contents: true
 他，一个聋子，道德的喧嚣喧嚣不了这最伟大的乱伦者。在每个清晨正午，他的笔，穿过年轻躯体的火烫，激发着宇宙最幽深的能量，化为一阵阵雷霆，音符与精子齐喷，绽出日月星辰，高山抽搐地生长，流水空灵地坠落，万古云霄一羽毛，世界从此绚烂。
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}> 
 《爱格蒙德》序曲
 </div>
  
@@ -24,7 +24,7 @@ hide_table_of_contents: true
 </div>
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px',  marginBottom: '10px'}}> 
 《月光》奏鸣曲
 </div>
  
@@ -33,7 +33,7 @@ hide_table_of_contents: true
 </div>
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}> 
 《春天》奏鸣曲
 </div>
  
@@ -42,7 +42,7 @@ hide_table_of_contents: true
 </div>
 
 <div style={{textAlign: 'center'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '180%', marginTop: '30px', marginBottom: '10px'}}> 
 《命运》交响乐
 </div>
  

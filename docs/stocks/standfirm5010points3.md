@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/7 15:22:50
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 奇怪，刚写的文章发出来怎么没有了？再写一遍太累了，简略说说。
  

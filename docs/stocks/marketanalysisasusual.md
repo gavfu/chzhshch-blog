@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/4/23 19:54:24
 
-<div style={{color: '#CC0000', fontWeight: 'bold', fontSize: '18px', lineHeight: '180%'}}>
+<div style={{color: '#CC0000', fontWeight: '500', fontSize: '18px', lineHeight: '180%'}}>
 
 十分感谢各位的关心，人非草木，本ID当然能感受到各位的感情，毕竟，喜欢诗歌、音乐的人，本来就感情容易泛滥的。
 

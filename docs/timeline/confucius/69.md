@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/9/9 18:34:12
 
-<div style={{color: 'red', fontWeight: 'bold'}}>
+<div style={{color: 'red', fontWeight: '500'}}>
 
 破例说两句股票，因为周五有事太匆忙，有些事情可能会有误解。
  

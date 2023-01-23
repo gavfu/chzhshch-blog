@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/2/3 10:03:47
 
-<div style={{color: '#FF0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '18px', fontWeight: '500'}}>
 
 其实，“任”病归根结底来自“你”自我设计的幻象，所有的“任”病模式，都出不了意识的范围，说得粗暴点，就是自渎。
 

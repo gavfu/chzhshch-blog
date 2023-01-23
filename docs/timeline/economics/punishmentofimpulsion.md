@@ -8,9 +8,9 @@ hide_table_of_contents: true
 
 > 2007/8/27 20:45:41
 
-<div style={{fontSize: '56px', fontWeight: 'bold', lineHeight: '100%', textAlign: 'center'}}>冲动的惩罚</div>
+<div style={{fontSize: '56px', fontWeight: '500', lineHeight: '100%', textAlign: 'center'}}>冲动的惩罚</div>
 
-<div style={{fontSize: '32px', fontWeight: 'bold', lineHeight: '200%', textAlign: 'center', marginBottom: '30px'}}>基金将成为毁掉市场的那只手</div>
+<div style={{fontSize: '32px', fontWeight: '500', lineHeight: '200%', textAlign: 'center', marginBottom: '30px'}}>基金将成为毁掉市场的那只手</div>
 
 <div>
 

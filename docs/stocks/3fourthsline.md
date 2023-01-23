@@ -28,7 +28,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
  
 要打跨资金，政策上可能有效的招数有：一、查基金黑幕；二、规定A股流通量不到10%的必须到10%。三、XXXX。
  
-<p><span style={{fontWeight: 'bold', fontSize: '24px'}}>政策必胜，这是无疑的。</span>但本ID对资金与政策都没兴趣，<span style={{fontWeight: 'bold', fontSize: '24px'}}>本ID唯一感兴趣的，就是利用他们两者斗法所制造的市场机会去多空皆杀。</span></p>
+<p><span style={{fontWeight: '500', fontSize: '24px'}}>政策必胜，这是无疑的。</span>但本ID对资金与政策都没兴趣，<span style={{fontWeight: '500', fontSize: '24px'}}>本ID唯一感兴趣的，就是利用他们两者斗法所制造的市场机会去多空皆杀。</span></p>
 
 个股方面，没什么可说的，中字头、题材股，两只蝴蝶继续忽悠着飞。只要掌握好节奏，就是操作的天堂。如果不明白什么叫节奏，请各位做一作业：从日分型到小的级别走势，好好分析一下000938，里面全部都是教科书。
 

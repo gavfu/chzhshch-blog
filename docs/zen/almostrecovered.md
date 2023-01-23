@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/5/24 8:09:16
 
-<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: '500'}}>
 
 化疗后的反应还是很大的,主要是白细胞下降太快,第一天时只有1000,正常是4000-10000,不过,这三天已经恢复过来。
 

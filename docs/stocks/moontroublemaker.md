@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/22 15:32:48
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 昨天说“月亮快圆了，大家都开始烦躁起来，是否又来一次天人合一的闹剧，很快就知道了”结果今天就应验了，看来大伙对全面小康真的充满了热情，虽然周六才是十五，但这热情已经要十三就闹剧一把，这也太热情了。
  

@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/13 15:06:24
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 快速说几句。
  

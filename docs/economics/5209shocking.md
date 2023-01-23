@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/25 15:16:24
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 今天没什么可说的，该说的昨天都说了。今天就是教科书式地在5209点上下折腾出一个1分钟中枢，就这么简单。而这中枢的中间位置在5210点，比5209点差了一点，这是唯一不完美的地方。
  

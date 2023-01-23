@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/12/23 22:36:10
 
-<div style={{fontWeight: 'bold', fontSize: '24px', textAlign: 'left', lineHeight: '180%'}}>
+<div style={{fontWeight: '500', fontSize: '24px', textAlign: 'left', lineHeight: '180%'}}>
 
 周树人，一只叫鲁迅的玩意，最近又被那些兔子兔孙所口淫。为什么是鸭头铡？因为这玩意上不了狗头铡，也上不了猪头铡，也就配上这鸭头铡。
  

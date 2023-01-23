@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2007/11/19 15:13:40
 
-<div style={{color: '#009900', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>
 
 本周被安排得满满的，明天解盘要在晚上，后面还要出一次差，所以，有什么照顾不到的，请原谅。
  
@@ -22,7 +22,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 和谐，从来都不会从天上掉下来，和谐，最终只能是阶级斗争的结果。阶级调和，是不会调和出和谐来的。
  
@@ -36,7 +36,7 @@ hide_table_of_contents: true
 
 </div>
 
-<div style={{fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{fontWeight: '500', fontSize: '18px'}}>
 
 上面是解盘与今晚帖子的混合，这样的文体如果不适应，对此产生不良反应，那请原谅，本ID不会写和谐文章。
  

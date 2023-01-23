@@ -16,7 +16,7 @@ hide_table_of_contents: true
 
 李泽厚：孔子说：古时的学者是为了改进自己，今天的学者是为了教训别人。
 
-<div style={{fontWeight: 'bold'}}>
+<div style={{fontWeight: '500'}}>
 
 详解：这是众说纷纭的一章，但所有的解释，都本于厚古薄今的路数，将“为己”、“为人”打成两橛，将“为人”贬义化，将“为己”神圣化，不过都是宋明腐儒“扬内圣、贬外王“的伎俩。宋明最终都被外族所灭，绝对不是历史的巧合，而要大大归功于他们这种误人误国的荒唐伎俩。
 
@@ -34,7 +34,7 @@ hide_table_of_contents: true
 
 （待续）
 
-<div style={{fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center'}}>
 严禁抄袭，违者必究
 </div>
 

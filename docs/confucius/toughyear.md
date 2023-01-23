@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2008/6/10 16:40:36
 
-<div style={{color: '#CC0000', fontSize: '20px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '20px', fontWeight: '500'}}>
 
 本ID一直等着股市大跌来写这篇文章，因为这样各位才印象深刻。特别在前面缺口位置，本ID指出要多考虑今年的特殊年份，一些看不出危险的时候，往往会有妖蛾子事潜伏其后，不少人贬本ID为迷信之类。本ID当时暂以世界比我们想象的要神秘作答，就等着这妖蛾子事出现来发这文章，说说这历史的神秘性。
 
 </div>
  
-<div style={{color: '#660066', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#660066', fontSize: '18px', fontWeight: '500'}}>
 
 这里首先把盘子解一下。在市场中，第一就要分清楚预测与操作的严重区别：预测是游戏，是茶余饭后的谈资；而操作是真刀真枪去干，是血与火的斗争。绝对的预测归根结底都是笑话，而非绝对的操作归根结底是死路一条。像这次，绝对的操作是怎么样，本ID早已反复说明：3656点站不住走，3300缺口位置不回补可以回补筹码再短差一把，否则就让大盘越南盾去。这里，整个操作的设计是没有任何不确定的地方，都是绝对性的，这才能股票股票而不是被股票股票，而任何预测都只能永远在被股票股票的死路上轮回。
 
@@ -26,7 +26,7 @@ hide_table_of_contents: true
 
 </div> 
 
-<div style={{color: '#FF0000', fontSize: '20px', fontWeight: 'bold', lineHeight: '180%'}}>
+<div style={{color: '#FF0000', fontSize: '20px', fontWeight: '500', lineHeight: '180%'}}>
 
 而世界的神秘性使得历史出现比上面这种沪深轮回更值得关注的循环现象，今年就是其中32年的循环点，历史的神秘性再次无情地呈现。
 

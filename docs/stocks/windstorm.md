@@ -14,7 +14,7 @@ hide_table_of_contents: true
  
 现在发现各位对那些古怪的分段还是有点乱，那些古怪的分段，经常是因为第一次笔破坏时，延伸不出线段来，例如，今天图里绿箭头所指的地方，顶和底分型经过包含处理后中间没有K线了，这就不能算一笔。
  
-本ID想了想，计算了一下能量力度，觉得以后可以把笔的成立条件略微放松一下，就是一笔必须满足以下两个条件：1、顶分型与底分型经过包含处理后，不允许共用K线，也就是不能有一K线分别属于顶分型与底分型，这条件和原来是一样的，<span style={{color: '#FF0000', fontWeight: 'bold'}}>这一点绝对不能放松</span>，因为这样，才能保证足够的能量力度；2、在满足1的前提下，顶分型中最高K线和底分型的最低K线之间（不包括这两K线），不考虑包含关系，至少有3根（包括3根）以上K线。显然，第二个条件，比原来分型间必须有独立K线的一条，要稍微放松了一点，这样，象今天绿箭头所指的地方，就是一笔了，相应那三笔下来就构成一段了，整个划分就不会出现比较古怪的线段。
+本ID想了想，计算了一下能量力度，觉得以后可以把笔的成立条件略微放松一下，就是一笔必须满足以下两个条件：1、顶分型与底分型经过包含处理后，不允许共用K线，也就是不能有一K线分别属于顶分型与底分型，这条件和原来是一样的，<span style={{color: '#FF0000', fontWeight: '500'}}>这一点绝对不能放松</span>，因为这样，才能保证足够的能量力度；2、在满足1的前提下，顶分型中最高K线和底分型的最低K线之间（不包括这两K线），不考虑包含关系，至少有3根（包括3根）以上K线。显然，第二个条件，比原来分型间必须有独立K线的一条，要稍微放松了一点，这样，象今天绿箭头所指的地方，就是一笔了，相应那三笔下来就构成一段了，整个划分就不会出现比较古怪的线段。
  
 对线段一直比较晕的人，这个新的条件大概容易处理一点，至少可以避开处理如106到107这样复杂的线段，而这，本ID刚计算过，也不会影响整个线段的动力学能量。但103-104这样的线段，是无法更改的，这类线段必须能够处理。
  
@@ -22,15 +22,15 @@ hide_table_of_contents: true
  
 不说了，本ID写的七律来也，上海的朋友，看看和外面的比怎么样？
 
-<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', lineHeight: '180%', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: '56px', fontWeight: '500', lineHeight: '180%', textAlign: 'center'}}>
 风灾
 </div>
 
-<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: 'bold', lineHeight: '250%', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: 'xx-large', fontWeight: '500', lineHeight: '250%', textAlign: 'center'}}>
 缠中说禅
 </div>
 
-<div style={{color: '#FF0000', fontSize: '32px', fontWeight: 'bold', lineHeight: '150%', textAlign: 'center'}}>
+<div style={{color: '#FF0000', fontSize: '32px', fontWeight: '500', lineHeight: '150%', textAlign: 'center'}}>
 层城飙卷万星帷<br/>
 昆柱倾摧折纆徽<br/>
 天海低昂惊叠错<br/>

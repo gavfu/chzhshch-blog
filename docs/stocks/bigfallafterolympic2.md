@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 > 2008/8/7 8:14:49
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '24px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '24px'}}>
 
 下午有事，早上把那文章写完，先下，再见。
 </div>
 
  
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: '18px'}}>
 
 （续一）
 

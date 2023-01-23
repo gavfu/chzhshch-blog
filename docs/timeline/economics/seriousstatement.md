@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2007/9/13 20:55:15
 
-<div style={{color: '#FF0000', fontSize: '56px', fontWeight: 'bold', textAlign: 'center', lineHeight: '150%', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%', marginBottom: '30px'}}>
 各位注意<br/>
 严重更正
 </div>
@@ -61,7 +61,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
  
 必须用最严谨的态度来对待划分，这样才能真正看清楚市场在干什么。
 
-<div style={{color: '#FF0000', fontSize: '22px', fontWeight: 'bold'}}>
+<div style={{color: '#FF0000', fontSize: '22px', fontWeight: '500'}}>
 
 补充一句，600078的基本面，在2个月前就有相关传闻，但那时候关于矿的量没有说法，目前有了新进展，不过最终能否实现对上市公司的装入，那是一个远没答案的问题。而且详勘资料本ID还没看到，所以一切都只是一个传闻，就算本ID最近看到了正式的详勘资料，也绝对不能保证这玩意就能放到上市公司里，所以一定不能以此为准。
 </div>

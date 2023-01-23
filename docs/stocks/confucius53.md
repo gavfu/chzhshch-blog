@@ -42,7 +42,7 @@ hide_table_of_contents: true
 
 （待续）
 
-<div style={{fontSize: 'xxx-large', fontWeight: 'bold', textAlign: 'center'}}>
+<div style={{fontSize: 'xxx-large', fontWeight: '500', textAlign: 'center'}}>
 严禁抄袭，违者必究
 </div>
 

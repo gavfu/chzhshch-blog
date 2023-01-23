@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/27 8:15:37
 
-<div style={{color: '#CC0000', fontSize: '18px', fontWeight: 'bold'}}>
+<div style={{color: '#CC0000', fontSize: '18px', fontWeight: '500'}}>
 
 下午有事，并不一定有时间写帖子，晚上没睡安稳，起早了，所以不妨闲话几句。
 

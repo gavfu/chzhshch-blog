@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2008/8/18 15:09:52
 
-<div style={{color: '#336600', fontWeight: 'bold', fontSize: '18px'}}>
+<div style={{color: '#336600', fontWeight: '500', fontSize: '18px'}}>
 
 十分感谢各位的关心，这边的问题，无论多难，本ID都会尽量处理好的，毕竟机会难得，是否最终如愿，就看是否有此善缘了。
 

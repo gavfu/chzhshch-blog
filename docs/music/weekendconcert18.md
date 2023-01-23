@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 > 2006/11/25 9:30:12
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'xxx-large', lineHeight: '130%', textAlign: 'center', marginBottom: '30px'}}>
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'xxx-large', lineHeight: '130%', textAlign: 'center', marginBottom: '30px'}}>
 
 今夜
  
@@ -20,7 +20,7 @@ hide_table_of_contents: true
 让大蹄禽尸影去，让超女抹布去，让历史芥末鸭掌去！今夜，只让大提琴迷死你！
 
 <div style={{textAlign: 'center', fontSize: 'large'}}>
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 a小调大提琴奏鸣曲
 </div>
  
@@ -28,7 +28,7 @@ a小调大提琴奏鸣曲
 只行走在<br/>
 心之间
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px'}}> 
 
 天鹅
 </div>
@@ -36,7 +36,7 @@ a小调大提琴奏鸣曲
 死神<br/>
 也曾如此歌唱
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 梦幻曲
 </div>
@@ -45,7 +45,7 @@ a小调大提琴奏鸣曲
 弯曲了<br/>
 今夜的星空
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 洛可可主题变奏曲
 </div>
@@ -53,7 +53,7 @@ a小调大提琴奏鸣曲
 杀死爱的<br/>
 只有爱
 
-<div style={{color: '#FF0000', fontWeight: 'bold', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+<div style={{color: '#FF0000', fontWeight: '500', fontSize: 'x-large', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
 
 b小调大提琴协奏曲
 </div>
@@ -62,7 +62,7 @@ b小调大提琴协奏曲
 那一抹夕阳<br/>
 比梦还轻
  
- <div style={{ fontWeight: 'bold', fontSize: '24px', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
+ <div style={{ fontWeight: '500', fontSize: '24px', lineHeight: '120%', marginTop: '20px',  marginBottom: '10px'}}> 
        
 请关闭其他所有背景音乐
 </div>
