@@ -192,6 +192,10 @@ LZ,大盘还会出现类似今年7、8月份的那种走势吗？
 ==<br/>
 
 明白就好。但一个中枢后的走势就是“盘整”，是错的，先把决定论的思维方式废掉才行。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius42/580991_30f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -402,6 +406,10 @@ LZ，这“两个以上依次同向的缠中说禅走势中枢”是否必须是
 当然要连续。
 
 是一个，但之前没有一个？加起来就是两个。一般人说下跌都是从最高价说起，本ID指那天开始就是顺着大家来。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius42/600497.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
