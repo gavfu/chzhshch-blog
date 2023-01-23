@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（42）
 
 > 2006/12/19 11:55:41
@@ -378,6 +380,10 @@ LZ,下午好!<br/>
  
 ===<br/>
 不是，8月2日
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius42/580991.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>

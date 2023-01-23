@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 本ID如此精确地知道消息，依然要抗议！
 
 > 2006/12/12 9:38:38
@@ -279,6 +281,10 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 最后，一个忠告，股票是一个快乐的游戏，别把自己搞得那么苦。坚持只选择第一类第二类买点进入，就是保持快乐的好方法。
 
 真正的高手是什么？就是庖丁解牛，选择难度最小的方向去，整天爱玩高难度的，成不了高手。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/protest/000768.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -354,6 +360,10 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 但对于MACD，单纯看柱子上的背驰还不行，还要看黄线DEA和白线DIFF的走势，特别对于通道式，一定要看。
 
 这个问题以后说技术指标时再说。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/protest/zggk.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -391,6 +401,14 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
  
 ============<br/>
 如果是30分钟，背离早发生了，所以才有这么多天的调整。而日线上并不存在。因为，一般最有效的背离是这样发生的：黄白线回到0轴附近再上去，股价新高而两线以及柱子都不新高，这时候出现的背离最有效。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/protest/600900_d.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/protest/600900_30f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>

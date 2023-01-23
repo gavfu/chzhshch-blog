@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《货币战争和人民币战略》续一
 
 > 2006/12/11 11:47:11
@@ -276,6 +278,10 @@ LZ,除权的位置该如何分析
 你的思路还是错的。如果弄短线，特别这种变动幅度大的，而自己资金又不大，可以看1分钟或5分钟图。买是要在跌的时候发现第一类买点。你看177，是不是在5分钟图上有一个很明显的第一类买点在6.3元附近？
 
 当然，站在本ID的立场上，是不建议全仓位地按1分钟或5分钟进出的，这对大资金根本无效。但可以利用这些图弄短差。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/currencywarssequel1/600177.png')} /><br/><br/>
+</div>
 
 </div>
 

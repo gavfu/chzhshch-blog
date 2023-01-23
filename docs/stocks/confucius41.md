@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（41）
 
 > 2006/12/15 12:10:06
@@ -406,6 +408,14 @@ hide_table_of_contents: true
 你那个是把1分钟图上的第二类买点给买了，所以很快就启动赢利了。但学习不能就此就完了，一定要深究下去。估计你买的时候，有不会清晰地知道自己究竟买在什么位置上了，但一定要继续努力，搞清楚。真明白了，市场的走势如自己的心跳一样清晰可辩。这样，你想不一路赢利都难。
 
 现在解决的是数学原则里三个独立系统的其中一个系统的问题，而真正成功的操作，一定要三个系统同时发挥作用，好好把数学原则那章搞清楚。而技术系统是比较麻烦的，所以要详细说。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius41/002069_30f.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius41/002069_5f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
