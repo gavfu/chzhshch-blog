@@ -10,9 +10,19 @@ exports.sidebar = [
     label: '摩诃般若波罗蜜多心经'
   },
   {
+    type: 'doc',
+    id: 'others/distantsavior',
+    label: '遥远的救世主（摘抄）'
+  },
+  {
+    type: 'doc',
+    id: 'others/reddust',
+    label: '天幕红尘（摘抄）'
+  },
+  {
     type: 'category',
     label: '重返兜率天：禅定坐禅实践概论',
-    collapsed: true,
+    collapsed: false,
     items: [
       {
         type: 'doc',
@@ -120,15 +130,5 @@ exports.sidebar = [
         label: '第二十节 永恒的涅盘（大结局）'
       },
     ]
-  },
-  {
-    type: 'doc',
-    id: 'others/distantsavior',
-    label: '遥远的救世主（摘抄）'
-  },
-  {
-    type: 'doc',
-    id: 'others/reddust',
-    label: '天幕红尘（摘抄）'
   },
 ];
