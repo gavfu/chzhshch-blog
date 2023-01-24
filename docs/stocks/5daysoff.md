@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 休博5天公告
 
 > 2006/12/29 15:05:47
@@ -45,6 +47,14 @@ hide_table_of_contents: true
 ===<br/>
 
 都是小级别的背弛，最多就是5分钟图上的。注意，以前说过了，要用MACD看背弛，关键首先要回抽0轴。关于背弛的问题，以后还会说的。等着吧。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/5daysoff/601398_30f.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/5daysoff/601398_5f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -120,9 +130,13 @@ hide_table_of_contents: true
  
 ===<br/>
 
-且不说其他判断方法，就算用最简单MACD，6月6日时，MACD的黄白线还创新低，就不可能背弛了，而7月27日是回抽0轴，然后价格创出8。14元新低而MACD都没有，这就是典型的背弛了。
+且不说其他判断方法，就算用最简单MACD，6月6日时，MACD的黄白线还创新低，就不可能背弛了，而7月27日是回抽0轴，然后价格创出8.14元新低而MACD都没有，这就是典型的背弛了。
 
 当然，现在各位只要表明如何用MACD看背弛就可以，更精确的分析，还需要学多点东西才能明白，以后都会说到的，请继续努力。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/5daysoff/600497.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -213,6 +227,14 @@ hide_table_of_contents: true
 对于宝钢，站在30分钟图上，一个典型的趋势延伸，就是2个中枢本来就可以完成趋势，但这个数量是可以一直延伸下去的，走出同级别的20个中枢也是可以的，这种走势是投资中最好的一种情况了，应该珍惜，至于如何判断其结束。就要首先至少形成一个日线级别的中枢才可能结束30分钟的这种上涨趋势延伸。
 
 更具体的分析，刚好在周五的新帖子会说到，到时候请好好研究一下。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/5daysoff/600019_30f_1.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/5daysoff/600019_30f_2.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -260,6 +282,10 @@ hide_table_of_contents: true
 要短线有油水，就要尽快摆脱这30分钟中枢的纠缠。
 
 注意，走势类型的形成和什么涨停没关系，关键是处的位置。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/5daysoff/002098.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -291,6 +317,10 @@ hide_table_of_contents: true
 ===<br/>
 
 那是除权的问题，如果你不习惯这样看，可以把他复权来看。但习惯了其实无所谓，例如，站在月线或季线图的角度，你可以认为该除权构成一次急促的下跌，刚好构成一个标准的背驰走势，因此由此可见，在月线上，该股至少要回抽月线的中枢，因此上涨空间就很明确了。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/5daysoff/600018.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>

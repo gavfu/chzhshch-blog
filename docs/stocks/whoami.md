@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 非问题之“我是谁？从哪里来？到哪里去？”
 
 > 2006/12/28 15:30:28
@@ -205,6 +207,14 @@ hide_table_of_contents: true
  
 ===<br/>
 把买点的情况反过来就可以了，两段相邻的同级别上涨趋势发生背驰。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/whoami/600050_30f_1.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/whoami/600050_30f_2.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -370,6 +380,14 @@ hide_table_of_contents: true
 不错，但用1分钟图看更清楚。
 
 不过，由于新股，有一个更实用的方法。就是把上市前看成一种上涨，开盘到低点的回试看成一个上涨中的30分钟中枢，昨天突破到今天的盘整开始形成第二个中枢，这个中枢的时间有点短，次级别的三个走势还没完全走出来，从纯技术上，还有从这里直接回头，也就是假突破的风险，所以还要等时间来确认中枢形成，相应就是确认突破的有效性。一旦确认，升势的延续就确认了。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/whoami/601333_5f.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/whoami/601333_1f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -470,6 +488,14 @@ iris
 回升、或上涨中的中枢从回落的高点算起。下落或下跌形成的中枢从回升的低点算起。
 
 中枢有点像钟摆，回升的高点，就像把钟摆拉高，然后放手，去回去三次确认。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/whoami/580991_d.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/whoami/580991_30f.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
