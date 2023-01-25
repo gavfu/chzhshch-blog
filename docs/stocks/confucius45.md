@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（45）
 
 > 2007/1/8 15:22:02
@@ -66,6 +68,10 @@ ding! 今天二线蓝酬很好,明天请缠妹继续!谢谢,哈哈
 你的理解错误，该股月线的中枢在哪里？根据中枢回抽的次级别原则，10。2元的中枢下沿应该被一个次级别的，也就是最多是周线的走势类型所回抽，由此，你自己也可以判断大概需要的时间。
 
 注意，我上次说的是回抽中枢，而不是补缺口，因为前者是理论所保证的，后者并没有什么必然性。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius45/600018.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -139,6 +145,10 @@ ding! 今天二线蓝酬很好,明天请缠妹继续!谢谢,哈哈
 ==宁沪上在那段时间根本就没有什么第三类买点，反而是一个第一类买点很清楚。
 
 并不是有中枢就有第三类买点的，因为中枢是可以延伸、还可以扩张的。必须符合第三类买点所必须满足的条件才有第三类买点、卖点也一样。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius45/600037.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>

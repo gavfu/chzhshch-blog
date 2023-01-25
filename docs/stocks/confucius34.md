@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（34）
 
 > 2006/11/23 12:00:00
@@ -655,6 +657,10 @@ PS：<br/>
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2006/11/24 10:07:17<br/>
 大盘如期调整，请自己密切关注逆市不跌的股票，下轮的黑马由此产生的可能性很大。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius34/1A0001.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
