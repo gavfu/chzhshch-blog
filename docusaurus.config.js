@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+// const remarkAdsense = require('./src/plugins/remark-adsense');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '全球第一博客 — 缠中说禅',
@@ -50,6 +52,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
+          // remarkPlugins: [remarkAdsense],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -255,6 +258,10 @@ const config = {
           hideable: true,
         },
       },
+      // tableOfContents: {
+      //   minHeadingLevel: 2,
+      //   maxHeadingLevel: 5,
+      // },
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
@@ -267,6 +274,29 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
+      // footer: {
+      //   // copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
+      //   links: [
+      //     {
+      //       html: `
+      //         <div>
+      //           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5686832782200002" crossorigin="anonymous"></script>
+      //           <!-- 我的展示广告-横向 -->
+      //           <ins class="adsbygoogle"
+      //             style="display:block"
+      //             data-ad-client="ca-pub-5686832782200002"
+      //             data-ad-slot="1204145775"
+      //             data-ad-format="auto"
+      //             data-full-width-responsive="true">
+      //             </ins>
+      //           <script>
+      //             (adsbygoogle = window.adsbygoogle || []).push({});
+      //           </script>
+      //         </div>
+      //         `,
+      //     },
+      //   ],
+      // }
       // googleAdsense: {
       //   dataAdClient: 'ca-pub-5686832782200002',
       // },
@@ -300,6 +330,14 @@ const config = {
     //   },
     // ],
   ],
+
+  // scripts: [
+  //   {
+  //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5686832782200002",
+  //     crossorigin: "anonymous",
+  //     async: true
+  //   }
+  // ]
 };
 
 module.exports = config;

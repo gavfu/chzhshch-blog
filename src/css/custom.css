@@ -77,23 +77,34 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --ifm-table-stripe-background: none !important;
-  --ifm-table-border-width: 0px;
-  --ifm-h1-font-size: 2rem;
+  /* --ifm-table-border-width: 0px;
+  --ifm-h1-font-size: 2rem; */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  line-height: 200%;
-  font-size: 18px;
+  /* line-height: 200%;
+  font-size: 18px; */
   /* font-weight: 400; */
 }
 
 .col {
-  --ifm-col-width: 100%;
+  /* --ifm-col-width: 100%; */
   --ifm-spacing-horizontal: 3%;
+}
+
+.footer {
+  padding: 0;
+}
+.footer__links {
+  margin-bottom: 0;
 }
 
 .markdown h1:first-child {
   --ifm-h1-font-size: 2rem;
   margin-bottom: calc( var(--ifm-h1-vertical-rhythm-bottom) * var(--ifm-leading) );
 }
+
+/* .markdown h2 {
+  --ifm-h2-font-size: 1.6rem;
+} */
 
 .blog-comment {
   border: 1px solid var(--ifm-color-emphasis-300);
