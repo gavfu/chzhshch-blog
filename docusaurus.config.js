@@ -111,12 +111,6 @@ const config = {
             position: 'left',
             label: '教你炒股票相关',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'timelineSidebar',
-            position: 'left',
-            label: '全部博文 (时间线)',
-          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'byCategorySidebar',
@@ -181,6 +175,12 @@ const config = {
                 label: '那一夜，他的体液喷了我一身',
               },
             ]
+          },
+          {
+            type: 'doc',
+            docId: 'timeline',
+            position: 'left',
+            label: '全部博文 (时间线)',
           },
           {
             type: 'dropdown',
@@ -320,7 +320,7 @@ const config = {
           language: ["en", "zh"],
           // ```
           docsRouteBasePath: '/',
-          ignoreFiles: [/^stocks\/*/, /^economics\/*/, /^essays\/*/, /^math\/*/, /^music\/*/, /^entertainment\/*/, /^confucius\/*/, /^zen\/*/, /^poems\/*/, /^fluid\/*/],
+          // ignoreFiles: [/^stocks\/*/, /^economics\/*/, /^essays\/*/, /^math\/*/, /^music\/*/, /^entertainment\/*/, /^confucius\/*/, /^zen\/*/, /^poems\/*/, /^fluid\/*/],
           searchBarPosition: 'right',
         },
       ],

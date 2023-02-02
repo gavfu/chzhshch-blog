@@ -26,7 +26,7 @@ hide_table_of_contents: true
 
 - [教你炒股票相关](./stocks/wolves.md)
 
-- [新浪博客全部博文及回复 (1134全)](./timeline/poems/linjiangxian.md)
+- [新浪博客全部博文及回复 (1134全)](./timeline.md)
 
 - [缠师其人](./identity/simujianghu.md)
 
