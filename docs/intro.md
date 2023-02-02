@@ -15,16 +15,14 @@ hide_table_of_contents: true
 
 世人皆苦，希望“永远只愿意站立”，而且“希望探索、展示人的所有潜能、可能”的“缠中说禅”，能通过本站的存在，照亮一方天地，给越来越多的世人以智慧、财富和勇气。
 
-本站将在本人力所能及的前提下长期存在。当然，个人能力毕竟有限，欢迎天下万方的“有朋”们不吝 <span style={{fontWeight: 'bold', fontSize: '24px'}}>[捐赠](./donate.md)</span> 以助力。
-
-> 如果您发现本站有任何错误或者疏漏，欢迎提交 **[Issue](https://github.com/gavfu/chzhshch-blog-site/issues)** 反馈。
+> 本站将在本人力所能及的前提下长期存在。如果您发现本站有任何错误或者疏漏，欢迎提交 **[Issue](https://github.com/gavfu/chzhshch-blog-site/issues)** 反馈。
 
 <div style={{marginTop: '30px'}}>
 
 # 链接
 </div>
 
-- [教你炒股票相关](./stocks/wolves.md)
+- [教你炒股票相关](./stocks/stockschat.md)
 
 - [新浪博客全部博文及回复 (1134全)](./timeline.md)
 

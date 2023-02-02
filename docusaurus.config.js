@@ -106,8 +106,8 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'stocksExtendedSidebar',
+            type: 'doc',
+            docId: 'stocks/stockschat',
             position: 'left',
             label: '教你炒股票相关',
           },
