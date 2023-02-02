@@ -52,6 +52,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
+          breadcrumbs: false,
           // remarkPlugins: [remarkAdsense],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -241,15 +242,19 @@ const config = {
             position: 'right',
             label: '捐赠',
           },
+          // {
+          //   href: 'https://t.me/chzhshchblog',
+          //   label: '反馈',
+          //   position: 'right',
+          //   // className: 'header-telegram-link',
+          //   // 'aria-label': 'Telegram'
+          // },
           {
-            href: 'https://t.me/chzhshchblog',
-            label: '反馈',
+            href: 'https://github.com/gavfu/chzhshch-blog-site',
+            // label: 'GitHub',
             position: 'right',
-          },
-          {
-            href: 'https://github.com/gavfu/chzhshch-blog',
-            label: 'GitHub',
-            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub Repository'
           },
         ],
       },
