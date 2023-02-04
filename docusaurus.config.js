@@ -180,7 +180,7 @@ const config = {
             type: 'doc',
             docId: 'timeline',
             position: 'left',
-            label: '全部博文 (时间线)',
+            label: '博文列表',
           },
           {
             type: 'dropdown',

@@ -58,6 +58,7 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --ifm-table-stripe-background: none !important;
+  --ifm-navbar-item-padding-horizontal: 0.6rem;
   --ifm-table-border-width: 0px;
   --ifm-h1-font-size: 2rem;
   --ifm-font-family-base: NotoSansSC;
