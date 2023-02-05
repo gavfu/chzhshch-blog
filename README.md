@@ -4,4 +4,4 @@
 
 世人皆苦，希望“永远只愿意站立”，而且“希望探索、展示人的所有潜能、可能”的“缠中说禅”，能通过本站的存在，照亮一方天地，给越来越多的世人以智慧、财富和勇气。
 
-如果您发现本站有任何错误或者疏漏，欢迎提交 **[Issue](https://github.com/gavfu/chzhshch-blog-site/issues)** 反馈。
+如果您发现本站有任何错误或者疏漏，欢迎提交 **[Issue](https://github.com/gavfu/chzhshch-blog-site/issues)** 或者通过 **[TG群](https://t.me/chzhshchblog)** 反馈。

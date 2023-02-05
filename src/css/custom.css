@@ -91,6 +91,10 @@
   --ifm-spacing-horizontal: 3%;
 }
 
+/* .navbar__logo {
+  margin-right: 0.3rem;
+} */
+
 .footer {
   padding: 0;
 }

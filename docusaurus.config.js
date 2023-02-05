@@ -184,7 +184,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: '缠博以外作品',
+            label: '其他作品',
             position: 'right',
             items: [
               {
@@ -242,13 +242,13 @@ const config = {
             position: 'right',
             label: '捐赠',
           },
-          // {
-          //   href: 'https://t.me/chzhshchblog',
-          //   label: '反馈',
-          //   position: 'right',
-          //   // className: 'header-telegram-link',
-          //   // 'aria-label': 'Telegram'
-          // },
+          {
+            href: 'https://t.me/chzhshchblog',
+            label: '反馈',
+            position: 'right',
+            // className: 'header-telegram-link',
+            // 'aria-label': 'Telegram'
+          },
           {
             href: 'https://github.com/gavfu/chzhshch-blog-site',
             // label: 'GitHub',
