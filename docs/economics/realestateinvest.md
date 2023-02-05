@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/6/26 19:06:42
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/economics/realestateinvest/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/realestateinvest/1.jpeg')} /><br/><br/>
 </div>
 
 曾不止一次说明，本ID在国内几个大城市都买过房子，但从来不炒房子，只是为了各地跑时不要整天住酒店，想干点动静大点的事都不方便。正因为如此，当本ID说“投资中国房地产，脑子进水的表现！”时，没有任何的利益，只是就事论事。否则，如果按照有房族的利益，当然要鼓励大家买房子，然而，本ID还是要说，只有脑子进水的才投资中国房地产。 

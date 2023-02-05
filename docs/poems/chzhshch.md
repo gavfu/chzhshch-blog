@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/11 0:57:54
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/poems/chzhshch/1.gif')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/chzhshch/1.gif')} /><br/><br/>
 </div>
 
 <div style={{fontSize: 'x-large', fontWeight: 'normal', textAlign: 'center'}}>

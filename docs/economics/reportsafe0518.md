@@ -20,5 +20,5 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2008/5/19 12:18:02<br/>
-谁说本ID捐了5000万人民币啊,本ID也就捐了6000万大米而已,你们信吗?<img src={useBaseUrl('/img/economics/reportsafe0518/smile.gif')} title="大笑"/><img src={useBaseUrl('/img/economics/reportsafe0518/smile.gif')} title="大笑"/><img src={useBaseUrl('/img/economics/reportsafe0518/smile.gif')} title="大笑"/>
+谁说本ID捐了5000万人民币啊,本ID也就捐了6000万大米而已,你们信吗?<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/reportsafe0518/smile.gif')} title="大笑"/><img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/reportsafe0518/smile.gif')} title="大笑"/><img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/reportsafe0518/smile.gif')} title="大笑"/>
 </div>

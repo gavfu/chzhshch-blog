@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/4/1 18:34:30
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/entertainment/taiwanalme/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/taiwanalme/1.jpeg')} /><br/><br/>
 </div>
 
 前段时间一个充满台湾军政背景的邓姓歌女十年忌日引来媒体一阵逐臭，夸张者甚至有什么全体华人、全亚洲去祭祀的叫嚷。最近，为了这个台湾政治性歌女，以鼓噪为食的流行界又大肆鼓噪起来。即使媒体的堕落已经与时俱进地与世界全面接轨，难道一个充满台湾军政背景的歌女就真值得全体华人、全亚洲去祭祀？ 凭什么为一个台湾政治性歌女浪费资源？

@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2009年03月21日 02:49  东方早报
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/identity/dfdaily2/cover.jpeg')} /><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/identity/dfdaily2/cover.jpeg')} /><br/>
 本期《东方早报》封面<br/><br/>
 </div>
 

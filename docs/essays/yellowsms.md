@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/5 15:06:24
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/essays/yellowsms/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/yellowsms/1.jpeg')} /><br/><br/>
 </div>
 
 今天看到这样一条消息“治安处罚行为增165种，发黄色短信3次可被拘。”里面写到：“《治安管理处罚法》第42条规定，有多次发送淫秽、侮辱、恐吓信息，干扰他人正常生活等行为的，可处以5日以下拘留或者500元以下罚款；情节较重的，处5日以上10日以下拘留，可以并处500元以下罚款。”

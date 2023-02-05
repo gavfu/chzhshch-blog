@@ -24,7 +24,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <div style={{fontSize: '14px'}}>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/economics/simplestockshardlife/chzhshch.jpeg')} /><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/simplestockshardlife/chzhshch.jpeg')} /><br/>
 </div>
 
 [<font style={{color: '#843A21', textDecoration: 'underline'}}>博主</font>](http://blog.sina.com.cn/chzhshch)<br/>
@@ -35,7 +35,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 (2008-08-04 15:47:10) [删除]
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/economics/simplestockshardlife/chzhshch.jpeg')} /><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/simplestockshardlife/chzhshch.jpeg')} /><br/>
 </div>
 
 [<font style={{color: '#843A21', textDecoration: 'underline'}}>博主</font>](http://blog.sina.com.cn/chzhshch)<br/>

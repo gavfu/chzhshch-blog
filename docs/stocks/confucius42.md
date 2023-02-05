@@ -194,7 +194,7 @@ LZ,大盘还会出现类似今年7、8月份的那种走势吗？
 明白就好。但一个中枢后的走势就是“盘整”，是错的，先把决定论的思维方式废掉才行。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius42/580991_30f.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius42/580991_30f.png')} /><br/><br/>
 </div>
 </div>
 
@@ -386,7 +386,7 @@ LZ,下午好!<br/>
 不是，8月2日
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius42/580991.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius42/580991.png')} /><br/><br/>
 </div>
 </div>
 
@@ -408,7 +408,7 @@ LZ，这“两个以上依次同向的缠中说禅走势中枢”是否必须是
 是一个，但之前没有一个？加起来就是两个。一般人说下跌都是从最高价说起，本ID指那天开始就是顺着大家来。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius42/600497.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius42/600497.png')} /><br/><br/>
 </div>
 </div>
 

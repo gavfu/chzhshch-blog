@@ -27,11 +27,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ### 上证走势
 
 <div style={{textAlign: 'left'}}><br/>
-<img src={useBaseUrl('/img/stocks/stockschat/1.png')} /> <br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/stockschat/1.png')} /> <br/><br/>
 </div>
 
 ### 五粮液
 
 <div style={{textAlign: 'left'}}><br/>
-<img src={useBaseUrl('/img/stocks/stockschat/2.png')}/> <br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/stockschat/2.png')}/> <br/><br/>
 </div>

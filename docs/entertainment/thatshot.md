@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/6/23 16:09:29
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/entertainment/thatshot/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/thatshot/1.jpeg')} /><br/><br/>
 </div>
 
 风情，并不一定很女人，男人也可以很风情。在这特殊的月份、特殊的场合，男人的风情总和某一射相关。即使又胖又丑，能射的男人总是很风情。在这样一个个躁热的夜晚，在那一群群躁动的男人凌乱的腿脚间，一道道清凉的弧线，美丽了所有的星空，那一射的风情！

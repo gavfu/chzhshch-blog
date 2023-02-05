@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/3 18:11:19
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/economics/yunguzi/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/yunguzi/1.jpeg')} /><br/><br/>
 </div>
 
 本ID最近在写“顶翻东西经济学”，则一切经济学都在本ID顶翻之列。但这世上有些可笑的人，自己连反对的东西都没搞懂，先自己编造出一个东西，然后自渎一下来表示自己打倒谁谁谁，这种自渎的游戏如此的常见，已经超出了一般可笑的范围。最近有一叫云谷子的，天天在干这种自渎的游戏，而无能的左派自己也是脑子一团浆，竟然可以任由这种人当众行如此委琐之事，左派真是无药可治了。

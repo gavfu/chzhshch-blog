@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/4 18:06:37
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/music/weekendconcert03/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/music/weekendconcert03/1.jpeg')} /><br/><br/>
 </div>
 
 古典主义在舒伯特之后，基本就没有了。当然如勃拉姆斯，依然不合时宜地怀着对古典主义的憧憬，但也只是一个梦了。第四交响乐，勃拉姆斯最好的交响乐，是向古典主义一个深深的致敬！勃拉姆斯在他的第一交响乐中，甚至在第四乐章用上欢乐颂类似的音调来表示对古典主义的缅怀，但那里，勃拉姆斯自己有着被缚的感觉，他的第一交响乐是绝好的作品，但不能算是伟大的。其后的第二、三，没有了太大的野心，反而伟大了。当然，最牛的还是他的第四交响乐，这里有点重新回到第一中的缅怀，然而这次，他是如此的自由，如同站在古典主义殿堂的穹顶下，反射着自己的光芒，两相交映着，人神合一去了。

@@ -410,11 +410,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 现在解决的是数学原则里三个独立系统的其中一个系统的问题，而真正成功的操作，一定要三个系统同时发挥作用，好好把数学原则那章搞清楚。而技术系统是比较麻烦的，所以要详细说。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius41/002069_30f.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius41/002069_30f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius41/002069_5f.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius41/002069_5f.png')} /><br/><br/>
 </div>
 </div>
 

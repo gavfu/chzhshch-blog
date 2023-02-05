@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/1 13:04:15
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/essays/ccav/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/ccav/1.jpeg')} /><br/><br/>
 </div>
 
 最近某人正在注册避孕套商标为“中央一套”，这事引起争论，更值得引起争论的还不是“中央一套”是否可以成为避孕套商标，因为“中央一套”当然可以成为避孕套商标！只要在法律上没问题，这种可以就是必然的；更值得引起争论的却是，这争论为什么仍被争论？

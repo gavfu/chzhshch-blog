@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/6/20 21:59:02
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/essays/jpwczs/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/jpwczs/1.jpeg')} /><br/><br/>
 </div>
 
 市场经济，总是有很多争先恐后的买卖，任何可买卖的买卖，都毫无例外被争先恐后地特殊行业化。因此“就算卖字也不能太特殊行业了！”这样的句子确实有点不近市场经济的情理。但当这句子前加上“贾平凹、陈忠实”后，即使没理可理，也有情可情了。

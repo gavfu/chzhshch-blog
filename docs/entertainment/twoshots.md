@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/5 5:50:47
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/entertainment/twoshots/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/twoshots/1.jpeg')} /><br/><br/>
 </div>
 
 即使把足球当成消费男人的一种方式，也要毫无选择地消费意大利这样的：120分钟后连射两次的意大利、帅哥云集的意大利、威尔第的意大利、带着金色翅膀飞翔的意大利、划出美丽的蓝色弧线的意大利。

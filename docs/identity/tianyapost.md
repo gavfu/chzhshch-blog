@@ -129,7 +129,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
  短跑好的，注意很快就有的反弹，抢一口就跑。另外，密切注意世界消息面的变化，看这次老美用尽气力能搞点什么？
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/identity/tianyapost/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/identity/tianyapost/1.jpeg')} /><br/><br/>
 </div>
 </div>
 

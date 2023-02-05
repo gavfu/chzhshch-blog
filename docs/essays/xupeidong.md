@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/5/29 0:52:25
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/essays/xupeidong/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/xupeidong/1.jpeg')} /><br/><br/>
 </div>
 
 “沙家浜”是什么玩意，其实并不重要，唯一值得说的就是，“沙家浜”不是一个可以用拼音直接打出的词语。当然，这个结论和今天无关，今天因为一个叫徐沛东的东北男人，沙家浜不再沙家浜，而主流就更主流了。

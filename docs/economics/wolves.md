@@ -12,7 +12,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{textAlign: 'center'}}>
 （写于两年前，曾被广泛转载，包括一些很特别的地方）<br/><br/>
-<img src={useBaseUrl('/img/economics/wolves/wolves.jpeg')} /> <br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/wolves/wolves.jpeg')} /> <br/><br/>
 </div>
 
 无论隐或显，用尽各种手段对国有资产进行蚕食和瓜分，构成了近20年各利益集团的基本指向。最终，这种蚕食和瓜分已经从实物大规模向资本升级，一如经济的发展。前期的股份化游戏有意无意为此铺好了道路，其中的奥妙就不用多说了。而目前有关国有股流通问题的争吵，其实质背景就在于此。至于什么国有资产保值增殖之类的废话，纯粹是瞎掰。试想，如果最终这堆东西都要给分掉的，保它增它又有什么意义呢？至于什么防止国家股一股独大、保证中小投资者利益之类的，就更是骗小孩的玩意。 

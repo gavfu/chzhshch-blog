@@ -205,13 +205,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 1、不复权图：
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/identity/3meets/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/identity/3meets/1.jpeg')} /><br/><br/>
 </div>
 
 2、前复权图：
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/identity/3meets/2.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/identity/3meets/2.jpeg')} /><br/><br/>
 </div>
 
 李彪他们从深赛格8～9元开始起庄，到32元将货全部倒出，虽然获利只有1～2倍，但这个钱赚的实在是太轻松。深赛格的成功，是巧妙利用了规则的漏洞，利用了人性的弱点，当然，最重要的是，非常敏锐地抓住了市场提供的机会。

@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/6/25 14:15:34
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/essays/maleprostitutes/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/maleprostitutes/1.jpeg')} /><br/><br/>
 </div>
 
 这样一个题目，也可以用这样的语气表述：“既然可以叫床，凭什么不能叫鸭？”确实，凭什么呀？既然都是叫后面带一个物体，虽然叫床的并不一定叫鸭，但叫鸭的也并不一定叫床，凭什么床就比鸭更特殊？就可以用叫这样并不特殊的动词来特殊地修饰？

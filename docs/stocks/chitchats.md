@@ -28,7 +28,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <div style={{fontSize: '14px'}}>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/economics/chitchats/1481810090.jpeg')} /><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/chitchats/1481810090.jpeg')} /><br/>
 </div>
 
 [雪夜冰河](http://blog.sina.com.cn/u/1481810090)<br/>

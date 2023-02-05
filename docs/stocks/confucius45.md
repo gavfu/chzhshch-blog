@@ -70,7 +70,7 @@ ding! 今天二线蓝酬很好,明天请缠妹继续!谢谢,哈哈
 注意，我上次说的是回抽中枢，而不是补缺口，因为前者是理论所保证的，后者并没有什么必然性。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius45/600018.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius45/600018.png')} /><br/><br/>
 </div>
 </div>
 
@@ -147,7 +147,7 @@ ding! 今天二线蓝酬很好,明天请缠妹继续!谢谢,哈哈
 并不是有中枢就有第三类买点的，因为中枢是可以延伸、还可以扩张的。必须符合第三类买点所必须满足的条件才有第三类买点、卖点也一样。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius45/600037.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius45/600037.png')} /><br/><br/>
 </div>
 </div>
 

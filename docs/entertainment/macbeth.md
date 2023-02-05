@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/2 2:39:34
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/entertainment/macbeth/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/macbeth/1.jpeg')} /><br/><br/>
 </div>
 
 英格兰的死亡，从来都很莎士比亚，就像那麦克白，从一开始就注定了宿命的结局。“东道主，出来混，都要还！”里并不神奇地说了最无聊的话：“神奇的乌鸦已经宣布“英巴将相遇半决赛 ”，没有了最无耻的政治，乌鸦仍会神奇。”但最终的结局显然不单单为了那乌鸦，当一个已被淘汰的阿根廷人执法英格兰的生死之战，宿命的结局就有了双重的黑色。

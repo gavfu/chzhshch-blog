@@ -142,7 +142,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2008/6/14 18:55:43<br/>
 
-<img src={useBaseUrl('/img/poems/poetgallery4/kiss.gif')}/>石猴同学以前回帖，我病后补的回帖，回我现在的帖
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/poetgallery4/kiss.gif')}/>石猴同学以前回帖，我病后补的回帖，回我现在的帖
 
 我从来没有发现他有异议和微词，客观吗？
 
@@ -150,6 +150,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
                                  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-----------------祝你进步，缠<br/>
 ------------------------------------------------------------------<br/>
-石头不自我检讨，我鄙视你，学问高水平这么低！<img src={useBaseUrl('/img/poems/poetgallery4/kiss.gif')}/><img src={useBaseUrl('/img/poems/poetgallery4/smile.gif')}/>
+石头不自我检讨，我鄙视你，学问高水平这么低！<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/poetgallery4/kiss.gif')}/><img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/poetgallery4/smile.gif')}/>
 
 </div>

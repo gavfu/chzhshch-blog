@@ -12,7 +12,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/references/luzhouoldcellar/1.jpeg')} /><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luzhouoldcellar/1.jpeg')} /><br/>
 </div>
 <div style={{fontSize: '14px', fontWeight: 'normal', textAlign: 'center', lineHeight: '100%'}}>
 泸州老窖发给员工的辞职书。本报实习生 吴家翔 摄

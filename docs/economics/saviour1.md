@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/4/21 16:40:39
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/economics/saviour1/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/saviour1/1.jpeg')} /><br/><br/>
 </div>
 
 左派惯于信口雌黄，这一点早被历史了。信口雌黄当然意味着胡说八道，然而胡说八道不一定就是信口雌黄。像右派，也一样的胡说八道，但右派是幼派、是傻子，而信口雌黄却不是傻子能干的，即使是因为脑子进水而信口雌黄了，也是因为心里的坏水更多。

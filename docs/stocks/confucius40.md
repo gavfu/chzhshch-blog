@@ -54,23 +54,23 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 关于038004的作业，回答比较正确的是下面这位。但还是有点出入。10月23到25日是本ID的见仓期，第一波上去后，11月8日减了一半，后来在60天线附近一路回补，加仓是在12月6日、7日两天，比第一次买的，加了1/2的仓位。这里的理由除了第二类买点，还有一个现在没说到的，就是三角形整理的第五波末段。该走势十分标准，自己去研究一下。昨天根据5分钟线的背弛出了大半，把剩下的成本是0了。本ID作权证，特别是认沽，第一轮上去都会这样减仓操作，只持有成本是0的仓位等待第二波，第二波是否有，这已经问题不大了，这样就绝对立于不败之地了。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_1.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_1.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_2.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_2.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_3.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_3.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_4.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_4.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_5.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_5.png')} /><br/><br/>
 </div>
 
 [匿名] 在路上 
@@ -267,15 +267,15 @@ LZ,这个缠绕是否一定得是湿吻,飞吻和唇吻算不算?
 这个并不需要，在变动快速的图上，不出现湿吻也是很正常的，但其基础往往令人怀疑。好好研究一下038004日线的第二类买点构成，这是一个用三角形构造第二类买点的完美例子。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_d1.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_d1.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_d2.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_d2.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_30f.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_30f.png')} /><br/><br/>
 </div>
 </div>
 
@@ -342,11 +342,11 @@ LZ,这个缠绕是否一定得是湿吻,飞吻和唇吻算不算?
 这不是三角形，而是一个典型的平台式调整。而且恰好相反，他的周线走得还可以，不过下面关键是250周线的支持，该位置不能有效跌破。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/000928_d.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/000928_d.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/000928_w.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/000928_w.png')} /><br/><br/>
 </div>
 </div>
 
@@ -368,7 +368,7 @@ C: 10月19号到10月31形成的面积
 你好好理解这句话，没有趋势就没有背驰，背驰是趋势和趋势比，和盘整无关，在好好研究，你会真明白的。不是所有的绿柱子都要去比的，盘整里的绿柱子是没有意义的。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/stocks/confucius40/038004_area.png')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius40/038004_area.png')} /><br/><br/>
 </div>
 </div>
 

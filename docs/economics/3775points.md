@@ -17,7 +17,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/economics/3775points/20080319.jpg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/3775points/20080319.jpg')} /><br/><br/>
 </div>
 
 <div style={{color: '#009900', fontWeight: '500', fontSize: '18px'}}>

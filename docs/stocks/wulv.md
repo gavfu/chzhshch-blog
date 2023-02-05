@@ -55,5 +55,5 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 先下，再见。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('/img/wulv/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/wulv/1.jpeg')} /><br/><br/>
 </div>

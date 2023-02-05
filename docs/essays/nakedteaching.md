@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/9/27 20:19:16
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('/img/essays/nakedteaching/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/nakedteaching/1.jpeg')} /><br/><br/>
 </div>
 
 这两天，陈高官的落马使得一切新闻都很难新闻，不过还是有一个新闻被新闻了，就是56岁的“人体艺术与人性文化研究”国家级研究课题主要负责人莫小新教授当众“裸体教学”一小时，引用如下：
