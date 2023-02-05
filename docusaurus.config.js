@@ -263,10 +263,10 @@ const config = {
           hideable: true,
         },
       },
-      // tableOfContents: {
-      //   minHeadingLevel: 2,
-      //   maxHeadingLevel: 5,
-      // },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 5,
+      },
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,

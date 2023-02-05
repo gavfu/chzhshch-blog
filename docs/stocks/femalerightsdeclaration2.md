@@ -22,20 +22,20 @@ hide_table_of_contents: true
 
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2006/7/7 6:30:46<br/>
-猿人脑袋, 你呻吟的声这么小, 能满足本ID么？
+猿人脑袋，你呻吟的声这么小，能满足本ID么？
 </div>
 
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2006/7/7 14:16:33<br/>
-猿人脑袋,本ID两次就把你搞残了？ 果然没种！
+猿人脑袋，本ID两次就把你搞残了？果然没种！
 </div>
 
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2006/7/15 18:05:54<br/>
 
 [匿名] 缠中说禅<br/>
-猿人脑袋, 你呻吟的声这么小, 能满足本ID么？<br/>
-????!!!!
+猿人脑袋，你呻吟的声这么小，能满足本ID么？<br/>
+？？？？！！！！
 </div>
 
 <div class='blog-comment'>

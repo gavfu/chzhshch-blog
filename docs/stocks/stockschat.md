@@ -1,7 +1,7 @@
 ---
 id: stockschat
 title: ''
-hide_table_of_contents: false
+hide_table_of_contents: true
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
@@ -10,28 +10,22 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > 2006/5/12 19:02:25
 
+<div style={{textAlign: 'left'}}><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/stockschat/1.png')} /> <br/><br/>
+</div>
+
 能和本ID聊股市的，如果有，最多就处在精子或卵子状态，连受精卵都算不上。而且股市游戏是靠干出来而不是说出来的，因此一般都不说。但看到有些人被这股市折腾得厉害，出于同情，又周末了，也就说两句。
 
 一年前股市跌到1000点最腥风血雨时，当时看到很多人在网上很可怜，就用老ID给了一个明确的说法，叫“G股是G点”，越腥风血雨就机会越大了。现在这个G点已经弄得让很多人受不了，绝大多数在市场中的人都是很犯贱的，跌也怕，涨也怕，真是可怜。为此，今天再给一句话，叫“大牛不用套”。
 
 这个不用套，最关键的意思就是不要用老思路来套用走势，特别是那些对市场了解不多的。例如那天看到有人说什么五粮液的权证疯了，都3、4元了，这些人就是对市场了解不多。知道以前宝安权证给干到多少吗？知道深圳市场受香港影响一直都有玩权证的传统吗？知道在香港比这疯多的权证遍地都是吗？市场总是要超越一般人想象的，3、4元就贵？为什么股价就不能比酒价贵？哪一天，按复权算，一瓶茅台、五粮液买不来一股相应股票又有什么可奇怪的？
 
+<div style={{textAlign: 'left'}}><br/>
+<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/stockschat/2.png')}/> <br/><br/>
+</div>
+
 当然，对于极少数的人来说，市场就是一个提款机，想提就提，这怎么才能办到？就是要对市场充分地了解，真了解市场的人，就知道市场都是一样的，就像穿着各种衣服的人，扒光了都一样。真明白市场的，就无所谓牛熊，市场永远都是提款机。当然，如果市场只能是单边的，那么唯一的区别就是在熊市中，投入的资金以及摆动频率要小。
 
 不过，即使在牛市中，高手和低手之间的赢利程度也是区别很大的。一个股票如果上涨1倍，低手最终落袋的最多就是1倍，而高手搞出3、4倍来是一个很简单的事情。其实，股票投资十分简单，最关键的就是成本，而时机其实就是成本，如果你有本事能比市场的平均成本要低，就永远立于不败之地。既然波动是市场风险所在，那么相应地就提供了利用市场的风险，利用一切值得利用的波动把持有成本往0甚至负数干下去的机会，这样，无论牛熊，都无所谓了。有波动就有风险，相应就有利润，对于一个高手来说，只要有足够的时间，一个下跌股票弄出来的利润一定比一个低手在一个上涨股票弄出来的大，当然这只是举例，真正的高手当然不会故意逆着趋势干。
 
 投资是一门艺术，而投资的艺术归根结底是资金管理的艺术，这就像歌唱的艺术，归根结底是呼吸的艺术一样。而市场的波动，归根结底是在前后两个高低点关系构成的一个完全分类中展开的，明白了这一点，市场就如同自己的掌纹一样举手可见了。以上这些，不但对于散户，对于庄家其实也是一样的，能明白这一点的，就可以在市场中游刃有余了。当然，这个境界还有向上一路，这就不是能对一般人说的，而且说了也白说，就不说了。
-
-## 注释
-
-### 上证走势
-
-<div style={{textAlign: 'left'}}><br/>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/stockschat/1.png')} /> <br/><br/>
-</div>
-
-### 五粮液
-
-<div style={{textAlign: 'left'}}><br/>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/stockschat/2.png')}/> <br/><br/>
-</div>
