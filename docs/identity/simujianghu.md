@@ -1,7 +1,7 @@
 ---
 id: simujianghu
 title: ''
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
@@ -10,12 +10,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <img src={useBaseUrl('/img/identity/simujianghu/cover.jpeg')} /><br/><br/>
 </div>
 
-第四章 1999 ~ 2001年 黑金时代 （节选）
+# 第四章 1999 ~ 2001年 黑金时代 （节选）
 
 ## 私募人物八
 
 李彪 (已故) ：自创交易体系的通才操盘手
-
 
 
 **职务：** 原青岛木子创业投资中心合伙人
@@ -125,8 +124,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 他的技术理论还处处散发了中性策略理念的光辉，诸如“没有庄家，有的只是赢家与输家”；他还会进行理念上的指导，诸如“有些人是不适合参与市场的”；他还会时不时地穿插一些生动的案例，诸如“逗庄家玩的一些杂史”系列。不管怎么看，在实战分析中，跌停板洗盘法仍是令人印象最为深刻的战法。
 
 
-
-### 点评：无庄不欢催生第一批操盘手
+## 点评：无庄不欢催生第一批操盘手
 
 “无庄不欢，无股不庄”，是这个资本时代最逼真的写照。一切故事都从1999年的“5.19”行情展开。可以说，“5.19”行情在中国资本市场上的地位无法磨灭。
 
