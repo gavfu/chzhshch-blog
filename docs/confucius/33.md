@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/11/21 12:00:00
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/confucius/33/1.gif')} /><br/><br/>
+<img src={useBaseUrl('/img/confucius/33/1.gif')} /><br/><br/>
 </div>
 
 **子曰：人无远虑，必有近忧。**

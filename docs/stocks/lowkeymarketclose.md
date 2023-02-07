@@ -37,5 +37,5 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/lowkeymarketclose/20071228.jpg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/lowkeymarketclose/20071228.jpg')} /><br/><br/>
 </div>

@@ -14,11 +14,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 - <span style={{fontWeight: '500'}}>微信</span><br/>
 
-  <img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/donate/wechatpay.jpeg')} style={{marginTop: '0px'}} /><br/><br/>
+  <img src={useBaseUrl('/img/donate/wechatpay.jpeg')} style={{marginTop: '0px'}} /><br/><br/>
 
 - <span style={{fontWeight: '500'}}>支付宝</span><br/>
 
-  <img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/donate/alipay.jpeg')} /><br/>
+  <img src={useBaseUrl('/img/donate/alipay.jpeg')} /><br/>
 
 
 - <span style={{fontWeight: '500'}}>比特币 (Bitcoin) 钱包地址</span>

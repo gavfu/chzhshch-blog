@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/4/9 22:49:42
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/bush/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/bush/1.jpeg')} /><br/><br/>
 </div>
 
 当然，准确地说，这个题目有一个可能的缺点，就是布什前面应该有一个“小”字，但现在连世界足球先生了的小罗都被强烈要求不再小罗了，两届总统了的布什当然也可以布什了。

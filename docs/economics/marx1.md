@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/31 21:26:46
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/marx1/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/marx1/1.jpeg')} /><br/><br/>
 </div>
 
 马克思的理论是最彻底的现实批判，在马克思那里，任何现实的范畴都是历史的，最终都要灭亡。而最大的现实范畴又是什么？就是资本主义社会本身！所有历史范畴，在资本主义社会这个历史范畴下，都表现出具体的形态，而所有资本主义的卫道士都会叫嚣，这些范畴是永恒的。

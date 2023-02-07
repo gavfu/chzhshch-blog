@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/13 16:30:33
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/zidane/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/entertainment/zidane/1.jpeg')} /><br/><br/>
 </div>
 
 一个职业生涯基本都是因为报复性犯规而得了十几张红牌的人，被称为足球痞子绝不为过！一个足球痞子，无论其球技如何，首先还是一个痞子，这样的人，怎么可能被称为球王？而齐达内，恰好就是这样一个职业生涯基本都是因为报复性犯规而得到十几张红牌的足球痞子！

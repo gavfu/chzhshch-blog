@@ -48,7 +48,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/sdgt/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/poems/sdgt/1.jpeg')} /><br/><br/>
 </div>
 
 ### 回复

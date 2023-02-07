@@ -420,7 +420,7 @@ LZ,帮忙看看600376,<br/>
 当然,如果按照短线,在30分钟图可以找到精确的卖点在1日13点30分,然后今天下午MACD回抽0轴时可以回补.不过这都太短了,但对资金少的完全可以按照这样去操作.
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius38/600519.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius38/600519.png')} /><br/><br/>
 </div>
 </div>
 
@@ -468,7 +468,7 @@ LZ,看来,600376我要短线变中线了,希望尽快解套,这可能就是学�
 短线最多就看30分钟图,你看1日1030分,是不是一个典型的第一类卖点,好好研究一下图.
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius38/600376.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius38/600376.png')} /><br/><br/>
 </div>
 </div>
 
@@ -519,11 +519,11 @@ LZ,看来,600376我要短线变中线了,希望尽快解套,这可能就是学�
 一定短线能有这样的效果,大概不会有任何其他的系统有如此高效了.
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius38/000503_30f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius38/000503_30f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius38/000503_5f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius38/000503_5f.png')} /><br/><br/>
 </div>
 </div>
 
@@ -549,11 +549,11 @@ LZ,请看600050的周线,2005/10/21周与2005/6/3周构成背驰,其后的走势
 好好分析,如果按照本ID的原则,即使用30分钟图,该股也应该在11月14日13点30,2.68元出现后买入,到今天为止,该股在30分钟图上也没出现第一类卖点,所以即使看30分钟图,也应该持有.
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius38/600050_d.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius38/600050_d.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius38/600050_30f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius38/600050_30f.png')} /><br/><br/>
 </div>
 </div>
 

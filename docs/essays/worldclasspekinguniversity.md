@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/24 14:08:07
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/worldclasspekinguniversity/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/essays/worldclasspekinguniversity/1.jpeg')} /><br/><br/>
 </div>
 
 今天网上，突然看到又有人在暴炒北大的“一流、N流”问题，这世界不缺无聊的人，更不缺争先恐后成为无聊的人的人。所以，相信北大的“一流、N流”问题仍会继续被问题，一个能让那些口里缺乏葡萄、眼里太多葡萄、手里只有葡萄皮的人的脑电波多颤抖几次的问题。

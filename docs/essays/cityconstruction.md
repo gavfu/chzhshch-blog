@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/25 15:19:32
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/cityconstruction/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/essays/cityconstruction/1.jpeg')} /><br/><br/>
 </div>
 
 北京的交通是一个已经不能问题的问题，因为永远问题着，所以就无所谓问题，也不能问题了。但交通，全世界都那样，至少还有点借口，反正咱也不是最差的，大伙将就点，能过就过了。然而，北京管城建的，一定是全世界最差的，也是最该下岗的！

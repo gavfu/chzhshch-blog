@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/1 12:23:15
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/thehost/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/entertainment/thehost/1.jpeg')} /><br/><br/>
 </div>
 
 当政治战胜艺术；当东道主依然东道主般神奇；当那忧郁的蓝宿命地被那冷酷的白吞没；当最牛的乌鸦、最牛的嘴，那比霸王枪、碧玉刀、长生剑、多情环、离别钩、拳头、孔雀翎还要有效的武器史无前例地失效；这一晚，就这样被历史地耻辱着。

@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/10/7 14:20:16
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/music/weekendconcert12/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/music/weekendconcert12/1.jpeg')} /><br/><br/>
 </div>
 
 舒伯特给人的感觉总是有点阴郁，看看他17岁就写出来的艺术歌曲《魔王》等，完全是一个久经风霜的人才能表现的。过于的早熟，使得他的音乐一开始就显示出大师级别的水准。大师总倾向于严肃，阳光，这个很年轻莫扎特的词语，对于生命后期的莫扎特都已不太适用，当然就更不舒伯特了。

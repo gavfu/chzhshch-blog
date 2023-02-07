@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/4/12 20:51:40
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/dreaminredmansions/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/essays/dreaminredmansions/1.jpeg')} /><br/><br/>
 </div>
 
 显然，“红楼梦”与“相对论”都有一个共同的来源，就是一大串乱七八糟的脑电波；“红楼梦”之所以红楼梦，“相对论”之所以相对论，也都是来源于一大堆成分复杂的肾上腺。但“相对论”的结果与肾上腺无关，这就是两者最大的区别。

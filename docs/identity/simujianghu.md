@@ -7,7 +7,7 @@ hide_table_of_contents: true
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/identity/simujianghu/cover.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/identity/simujianghu/cover.jpeg')} /><br/><br/>
 </div>
 
 第四章 1999 ~ 2001年 黑金时代 （节选）

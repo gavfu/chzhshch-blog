@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/5/27 16:50:08
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/chinathreat/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/chinathreat/1.jpeg')} /><br/><br/>
 </div>
 
 现在世界上有一种很搞笑的理论，叫“中国威胁论”，而国内有一种更搞笑的行为，就是千方百计去解释“中国威胁”的不存在。如果“中国威胁论”无聊，解释“中国威胁”的不存在就无极了，中国不是馒头，就不要再馒头啦！

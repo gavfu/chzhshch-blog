@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/21 21:47:03
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/greenism/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/greenism/1.jpeg')} /><br/><br/>
 </div>
 
 人，永远在制造上帝。尼采说上帝死了，但其实是更多的上帝被制造。而环保主义，就是这个时代新的上帝，一切在环保的名义下神圣。但就像上帝是一个谎言，环保主义也只不过是资本全球化意识形态制造的彻头彻尾的谎言。

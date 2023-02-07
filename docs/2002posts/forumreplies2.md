@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 引用:此文由碰壁斋主发表。小人兄年纪多大？
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/2002posts/forumreplies2/1.png')} /><br/><br/>
+<img src={useBaseUrl('/img/2002posts/forumreplies2/1.png')} /><br/><br/>
 </div>
 
 从你的那个签名看来<br/>

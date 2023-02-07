@@ -11,8 +11,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/10 0:47:02
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/july7th/1.jpeg')} style={{marginRight: '10px'}} />
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/july7th/2.jpeg')} style={{marginLeft: '10px'}} />
+<img src={useBaseUrl('/img/economics/july7th/1.jpeg')} style={{marginRight: '10px'}} />
+<img src={useBaseUrl('/img/economics/july7th/2.jpeg')} style={{marginLeft: '10px'}} />
  <br/><br/>
 </div>
 

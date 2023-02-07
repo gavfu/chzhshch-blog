@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/9/27 11:46:11
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/rapingequality/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/essays/rapingequality/1.jpeg')} /><br/><br/>
 </div>
 
 不管本ID是否有强奸男人的兴趣，但男人也是可以被强奸的事实总是事实。站在这角度，男人也是需要保护的。这里说的保护，最重要是指法律上的保护。这种法律保护的实施，从一个侧面引证着男女平等的深入，至少在法律层面确认了男人和女人都有被强奸的可能。在这一点上，男女平等的法律确认是极端必要的。一个只保护女人的法律是无耻的法律，因为这种法律是以男女不平等为前提的，其无耻性由此而决定。

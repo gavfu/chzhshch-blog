@@ -29,7 +29,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/trustinthemoon/20070926.jpg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/trustinthemoon/20070926.jpg')} /><br/><br/>
 </div>
 
 ### 回复

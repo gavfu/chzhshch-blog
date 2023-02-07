@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/4/3 19:48:05
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/genderequality/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/essays/genderequality/1.jpeg')} /><br/><br/>
 </div>
 
 男女平等，一切社会存在前提的前提，没有这个前提，一切话题都是瞎掰。对于色情这个话题来说，显然也不存在例外。

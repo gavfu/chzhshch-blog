@@ -22,7 +22,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 先来一个作者本身的字，客观评价，字比诗要好一点。
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/music/takennanjing/1.gif')} /><br/><br/>
+<img src={useBaseUrl('/img/music/takennanjing/1.gif')} /><br/><br/>
 </div>
 
 至于用这诗谱曲，下面三个版本在艺术上都至少配得上，甚至比诗要好！

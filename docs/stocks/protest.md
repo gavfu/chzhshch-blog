@@ -283,7 +283,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 真正的高手是什么？就是庖丁解牛，选择难度最小的方向去，整天爱玩高难度的，成不了高手。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/protest/000768.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/protest/000768.png')} /><br/><br/>
 </div>
 </div>
 
@@ -362,7 +362,7 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 这个问题以后说技术指标时再说。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/protest/zggk.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/protest/zggk.png')} /><br/><br/>
 </div>
 </div>
 
@@ -403,11 +403,11 @@ MACD是辅助的办法，最简单的还是看均线的上涨力度。对于MACD
 如果是30分钟，背离早发生了，所以才有这么多天的调整。而日线上并不存在。因为，一般最有效的背离是这样发生的：黄白线回到0轴附近再上去，股价新高而两线以及柱子都不新高，这时候出现的背离最有效。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/protest/600900_d.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/protest/600900_d.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/protest/600900_30f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/protest/600900_30f.png')} /><br/><br/>
 </div>
 </div>
 

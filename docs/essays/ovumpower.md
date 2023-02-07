@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/6/18 17:29:50
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/ovumpower/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/essays/ovumpower/1.jpeg')} /><br/><br/>
 </div>
 
 当ED男正充斥着这小小的星球，以球为球的雄性物体，却在制造着所谓精力充沛的弥天大谎。特别在这个月里，全世界的男权舆论正制造着有关男人和球的神话，在这只能通过不断被球而才能球的男权世界中，男人也只能球样地世界性ED了。

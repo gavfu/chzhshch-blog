@@ -21,5 +21,5 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 好了，本ID要休息了，各位有时间就回答问题吧，再见。
 
 <div style={{textAlign: 'left', marginTop: '30px'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/quiz/20070717.jpg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/quiz/20070717.jpg')} /><br/><br/>
 </div>

@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/26 21:07:09
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/chaneconomics05/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/economics/chaneconomics05/1.jpeg')} /><br/><br/>
 </div>
 
 <div style={{fontSize: 'large', fontWeight: '500', textAlign: 'center'}}>

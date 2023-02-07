@@ -64,7 +64,7 @@ G股当然是G点，这次是为证监会能对市场G点的充分摸索后加�
 另外，如果不是强力突破的走势，一般最好别早上买股票，因为没有T+0，经常下午可以有很好的选择。当然，如果是中线着眼，逐步建仓，那是另一回事
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/gstocks/000004.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/gstocks/000004.png')} /><br/><br/>
 </div>
 </div>
 
@@ -228,7 +228,7 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 11月14日回试年线的最佳买点过了，现在介入要承受一定短线震荡风险，但中线问题不大。
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/gstocks/000042.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/gstocks/000042.png')} /><br/><br/>
 </div>
 </div>
 
@@ -277,13 +277,13 @@ LZ,美国通过对日圆先先升再跌实现了对日本经济成果的转移,�
 000407, 均线没完全走好，箱型整理蓄势。
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/gstocks/000407.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/gstocks/000407.png')} /><br/><br/>
 </div>
 
 000503, 年线蓄势，中线有潜力。
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/gstocks/000503.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/gstocks/000503.png')} /><br/><br/>
 </div>
 
 本ID没有什么是主要看的，只要均线现成，不要按其它键，回答问题比较方便。
@@ -510,7 +510,7 @@ LZ,请问600036调到位了吗 <br/>
 大涨后的三角形整理，短线要突破需补量。
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/gstocks/000897.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/gstocks/000897.png')} /><br/><br/>
 </div>
 </div>
 

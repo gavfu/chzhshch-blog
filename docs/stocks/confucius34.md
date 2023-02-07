@@ -659,7 +659,7 @@ PS：<br/>
 大盘如期调整，请自己密切关注逆市不跌的股票，下轮的黑马由此产生的可能性很大。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius34/1A0001.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius34/1A0001.png')} /><br/><br/>
 </div>
 </div>
 

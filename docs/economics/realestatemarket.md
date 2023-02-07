@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/29 11:01:52
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/realestatemarket/1.jpeg')} /> <br/><br/>
+<img src={useBaseUrl('/img/economics/realestatemarket/1.jpeg')} /> <br/><br/>
 </div>
 
 中国的经济发展有其内在的必然性，这种必然性主要就是一种惯性，在这种经济惯性下，只要不是太大的笨蛋，想把中国经济搞跨也有点难。最近楼市又有点折腾，其实都没什么大不了的。按目前中国的经济管理水平，楼市的股市化是其必然的趋势。现在股市不也走得很好，除了一些别有用心的多头在乱叫嚷，一切都很好。

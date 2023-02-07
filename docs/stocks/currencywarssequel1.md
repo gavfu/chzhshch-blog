@@ -280,7 +280,7 @@ LZ,除权的位置该如何分析
 当然，站在本ID的立场上，是不建议全仓位地按1分钟或5分钟进出的，这对大资金根本无效。但可以利用这些图弄短差。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/currencywarssequel1/600177.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/currencywarssequel1/600177.png')} /><br/><br/>
 </div>
 
 </div>

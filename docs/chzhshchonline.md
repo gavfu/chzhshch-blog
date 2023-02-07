@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/13 21:48:34
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/chzhshchonline/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/chzhshchonline/1.jpeg')} /><br/><br/>
 </div>
 
 本女用过很多ID，例如弄日本对联那个“日日日日日日日本”、写“货币战争与人民币战略”的“乾坤一张纸，一字一星辰”，还有写“中华民族面临的重大机遇”的“打喷嚏打喷嚏”，但闹得最凶的还是本来只用来吵架用的ID “喜欢数学的女孩”。

@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/13 17:48:00
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/2vernacularpoetry/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('/img/poems/2vernacularpoetry/1.jpeg')} /><br/><br/>
 </div>
 
 <div style={{fontSize: 'x-large', fontWeight: '500', textAlign: 'left', lineHeight: '250%'}}>
