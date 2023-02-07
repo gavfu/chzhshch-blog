@@ -15,7 +15,8 @@ hide_table_of_contents: true
 
 世人皆苦，希望“永远只愿意站立”，而且“希望探索、展示人的所有潜能、可能”的“缠中说禅”，能通过本站的存在，照亮一方天地，给越来越多的世人以智慧、财富和勇气。
 
-> 本站将在本人力所能及的前提下长期存在。如果您发现本站有任何错误或者疏漏，欢迎提交 **[Github Issue](https://github.com/gavfu/chzhshch-blog-site/issues)** 或者通过 **[TG群](https://t.me/chzhshchblog)** 反馈。
+> 本站将在本人力所能及的前提下长期存在，也欢迎天下万方的“有朋” **[捐赠](./donate.md)** 以助力。<br/>
+> 如果您发现本站有任何错误或者疏漏，欢迎提交 **[Github Issue](https://github.com/gavfu/chzhshch-blog-site/issues)** 或者通过 **[TG群](https://t.me/chzhshchblog)** 反馈。
 
 <div style={{marginTop: '30px'}}>
 
