@@ -7,42 +7,42 @@
  @font-face {
   font-family: NotoSansSC;
   font-weight: 100;
-  src: url('/static/font/NotoSansSC/NotoSansSC-Thin.otf') format("opentype");
+  src: url('https://gateway.ipfscdn.io/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Thin.otf') format("opentype");
   font-display: swap;
 }
 
 @font-face {
   font-family: NotoSansSC;
   font-weight: 300;
-  src: url('/static/font/NotoSansSC/NotoSansSC-Light.otf') format("opentype");
+  src: url('https://gateway.ipfscdn.io/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Light.otf') format("opentype");
   font-display: swap;
 }
 
 @font-face {
   font-family: NotoSansSC;
   font-weight: 400;
-  src: url('/static/font/NotoSansSC/NotoSansSC-Regular.otf') format("opentype");
+  src: url('https://gateway.ipfscdn.io/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Regular.otf') format("opentype");
   font-display: swap;
 }
 
 @font-face {
   font-family: NotoSansSC;
   font-weight: 500;
-  src: url('/static/font/NotoSansSC/NotoSansSC-Medium.otf') format("opentype");
+  src: url('https://gateway.ipfscdn.io/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Medium.otf') format("opentype");
   font-display: swap;
 }
 
 @font-face {
   font-family: NotoSansSC;
   font-weight: 700;
-  src: url('/static/font/NotoSansSC/NotoSansSC-Bold.otf') format("opentype");
+  src: url('https://gateway.ipfscdn.io/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Bold.otf') format("opentype");
   font-display: swap;
 }
 
 @font-face {
   font-family: NotoSansSC;
   font-weight: 900;
-  src: url('/static/font/NotoSansSC/NotoSansSC-Black.otf') format("opentype");
+  src: url('https://gateway.ipfscdn.io/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Black.otf') format("opentype");
   font-display: swap;
 }
 

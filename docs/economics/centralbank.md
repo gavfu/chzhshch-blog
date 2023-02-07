@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/4/27 22:24:28
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/centralbank/1.gif')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/centralbank/1.gif')} /><br/><br/>
 </div>
 
 格老子，至少在美联储里不是骂人的话。虽然格老子已经离开，但格老子的时代还在延续。一个时代的延续与光大，归根结底是要靠人的。这一点，问问孔二先生就知道了。

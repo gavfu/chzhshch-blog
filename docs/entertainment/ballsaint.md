@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/31 17:25:12
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/ballsaint/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/entertainment/ballsaint/1.jpeg')} /><br/><br/>
 </div>
 
 快世界杯了，也说说足球吧。奇怪，足球上的天才，大多是胖子，例如马胖、加胖、鲁胖，连大罗都要往胖子天才堆里挤。但还有一个，远远高于以上的，一个唯一的胖子，连马胖都球王，那他，只能球圣了！对此，他自己很明白，因此就有了那句只有他配说的话：“我比马拉多纳强，贝利有张臭嘴！”

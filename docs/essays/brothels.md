@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/9 10:00:26
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/brothels/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/brothels/1.jpeg')} /><br/><br/>
 </div>
 
 今天无意间看到一帖子，大致是说现在中国电影青楼化了，所以就堕落了。但青楼怎么了，中华文化的精华都出自青楼，青楼是中华文化之源！现在中国的垃圾电影怎么配得上青楼？不要以为中国最伟大的小说和红楼有关就小看青楼，写红楼的人一定和青楼相关，没有青楼，一定没有红楼。

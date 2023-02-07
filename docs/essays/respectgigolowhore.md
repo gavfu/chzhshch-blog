@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/31 21:38:52
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/respectgigolowhore/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/respectgigolowhore/1.jpeg')} /><br/><br/>
 </div>
 
 舞男妓女，世界上最古老的职业，超越一切哲学、科学、宗教，即使从历史的角度，一种职业能历久弥新，万古不磨，这已经足够让一切人尊敬。即使站在所谓高雅的角度，请问现在中国有哪个男人的文学修养可以赶得上妓女柳如是？！

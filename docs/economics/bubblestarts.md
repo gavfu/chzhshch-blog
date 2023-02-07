@@ -31,7 +31,7 @@ GDP，就是整个股市市值波动的中枢，前面是恢复性上涨，恢�
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/bubblestarts/20070806.jpg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/bubblestarts/20070806.jpg')} /><br/><br/>
 </div>
 
 ### 回复

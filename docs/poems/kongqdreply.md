@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/9/24 9:55:02
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/kongqdreply/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/kongqdreply/1.jpeg')} /><br/><br/>
 </div>
 
 本ID一帖子：“孔庆东，别给北大丢脸，让本ID教你写诗！”，孔庆东气急败坏给了两回复，引用如下：

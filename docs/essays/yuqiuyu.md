@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/5/10 21:52:45
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/yuqiuyu/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/yuqiuyu/1.jpeg')} /><br/><br/>
 </div>
 
 余秋雨，大概就是那每到23点，无论有月亮没月亮，都会在某电视频道中对着空气空气一番的好为人师者。这位，这两天却为几个发音问题被网络的大锅热煮了一番。而这位好为人师的余秋雨，鸭子煮熟了还要嘴硬，企图用“这有多大事”来蒙混过关。

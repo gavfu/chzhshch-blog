@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/5/30 16:54:30
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/chenjingrun/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/chenjingrun/1.jpeg')} /><br/><br/>
 </div>
 
 刚看到有关陈景润十年祭的文章，简单说说这陈景润现象。当然，必须声明的是，陈景润现象其实和陈景润本人无关，陈景润不过是干了一件自己喜欢干的事，绝对正常；而陈景润现象，却是把一个本来的学术问题在一种不健康的氛围下搞出来的怪胎。

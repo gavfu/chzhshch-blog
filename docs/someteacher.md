@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/25 12:25:56
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/someteacher/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/someteacher/1.jpeg')} /><br/><br/>
 </div>
 
 不管对谁，暴力当然是不好的，但学生对老师的暴力并不能因为是学生对老师的就有了特别应该谴责的理由。除了法律的理由，其他任何的理由都是可笑无聊的。而历史上老师对学生的暴力就从来不是一个特别被关注的问题，这种暴力一直在延续。站在公平的立场上，学生也可以说，你们打了我们几千年，我们反击一下有什么大不了的？

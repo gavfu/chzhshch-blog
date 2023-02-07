@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/6 23:44:22
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/oscar/oscar.jpeg')} /> <br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/oscar/oscar.jpeg')} /> <br/><br/>
 </div>
 
 今天，又奥斯卡了；今天，又被奥斯卡了。被奥斯卡了的世界，在今天，奥斯卡地，在资本全球化帝国的神圣祭坛上，奥斯卡着资本血腥而温柔的祭祀。资本全球化，世界唯一的宗教，一切都在资本的一神论中灵肉合一。神圣的帝国，资本的牺牲，萃取了十二次月经的鲜红，向世界喧嚣着唯一的喧嚣。

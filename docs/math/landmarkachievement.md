@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/6/4 19:23:04
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/math/landmarkachievement/1.gif')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/math/landmarkachievement/1.gif')} /><br/><br/>
 </div>
 
 中国科学当然曾取得过一些成就，但从未取得过划时代的成就，这一点，今已被彻底改变。所谓划时代的成就，举一个很简单的例子，像所有中国人都知道的陈景润，他在哥德巴赫猜想中取得的成就，在编写有关哥德巴赫猜想研究史时，当然会被大幅提及；而在编写20世纪解析数论史时，被提及的次数就会相应减少；在编写20世纪数论史时，基本被提及的话不会超过一句；可以很肯定地说，除非是编写中国自己的20世纪数学史，否则该成就在20世纪数学史的编写中被提及的可能基本没有；至于对20世纪的科学史，这种可能性就是零了。而科学中的划时代成就，就是当编写一个世纪的世界科学史时必须提及的成就，今天，中国科学第一次取得了这种级别的成就。

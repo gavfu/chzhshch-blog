@@ -9,7 +9,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 # 3.官民之别。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/2002posts/forumreplies3/1.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/2002posts/forumreplies3/1.png')} /><br/><br/>
 </div>
 
 首先小人没有自夸自赞，上面已经说过对此没有兴趣；第二，有没有人理小人更不在乎。只不过小人现在探讨的东西熟悉的人少，想多人聊不如说王菲。第三，小人在说古典诗歌的一个突破可能，并不是说音乐，应该没有违规，请看清楚。

@@ -164,15 +164,15 @@ wy1499
 工行中线问题不大，短线人寿上市前后出现调整是很正常的，这个调整的规模决定于是否能快速重回今天的5分钟中枢。能，就是一个30分钟级别的调整，不能，就至少是日线级别的调整。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601398_1f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601398_1f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601398_5f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601398_5f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601398_d.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601398_d.png')} /><br/><br/>
 </div>
 </div>
 
@@ -192,7 +192,7 @@ wy1499
 注意，一定要按买点的要求买，不能随便乱买股票。该股中线问题不大，短线就看7。3元上下的中枢能否站闻，站稳，很快就解套，否则就熬一个日线级别的调整吧。吸取教训，来这里学了那么久还不能养成只在买点买的习惯，那是很不好的，需要严重补课。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601333.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601333.png')} /><br/><br/>
 </div>
 </div>
 
@@ -262,11 +262,11 @@ wy1499
 即使中MACD看，如果懂得更深的MACD看法，就知道该股当时的MACD走出标准的扩张三角走势，这是一个标准的V字反转MACD。关于MACD一些特别的判断方法，以后说到指标的时候会讲到。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601588_30f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601588_30f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601588_5f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601588_5f.png')} /><br/><br/>
 </div>
 </div>
 
@@ -394,11 +394,11 @@ wy1499
 类似可以看北辰最近一次的反弹，为什么一突破7.7就马上回头，明白走势必完美的定理，这个问题是很简单的，这些短线位置都是可以精确把握的。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/002098_15f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/002098_15f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601588_30f_2.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/601588_30f_2.png')} /><br/><br/>
 </div>
 </div>
 
@@ -439,7 +439,7 @@ wy1499
 第三类买点的问题明天会说到，这个买点可以明天才找。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600719.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600719.png')} /><br/><br/>
 </div>
 </div>
 
@@ -610,11 +610,11 @@ LZ能不能评判一下对错,好有所领悟
 在30分钟图上，并没形成中枢的离开，因为有重叠。站在5分钟图的角度，11。58元是一个关键位置，该位置不能触及，这样就能形成一个5分钟的上涨，进而逐步带出30分钟走势的变化。否则，就要玩盘整转上涨的游戏，这样，至少在5分钟图上又开始盘整，等待下一个突破契机了。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600832_5f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600832_5f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600832_30f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600832_30f.png')} /><br/><br/>
 </div>
 </div>
 
@@ -648,7 +648,7 @@ LZ能不能评判一下对错,好有所领悟
 这个MACD是最好那种，从0轴很低的位置回到0轴上然后一个双回试，典型的启动形态。关于MACD的问题，以后会详细说，真会看MACD的人，本ID没见过。MACD可不是光看看红绿柱，0轴就完了。技巧多着了。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600704.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/600704.png')} /><br/><br/>
 </div>
 </div>
 
@@ -688,7 +688,7 @@ LZ能不能评判一下对错,好有所领悟
 还没有形成。对于趋势来说，如果真不形成中枢是好事情，证明上涨有动力。大盘从8月到现在，就没形成过日线上的中枢，所以才这么强。当然，该股要不形成，就必须从明天开始，不能回跌了，马上突破，否则就形成日线的中枢。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/000767.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/confucius44/000767.png')} /><br/><br/>
 </div>
 </div>
 

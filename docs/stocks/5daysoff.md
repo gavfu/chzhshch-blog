@@ -49,11 +49,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 都是小级别的背弛，最多就是5分钟图上的。注意，以前说过了，要用MACD看背弛，关键首先要回抽0轴。关于背弛的问题，以后还会说的。等着吧。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/601398_30f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/601398_30f.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/601398_5f.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/601398_5f.png')} /><br/><br/>
 </div>
 </div>
 
@@ -135,7 +135,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 当然，现在各位只要表明如何用MACD看背弛就可以，更精确的分析，还需要学多点东西才能明白，以后都会说到的，请继续努力。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600497.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600497.png')} /><br/><br/>
 </div>
 </div>
 
@@ -229,11 +229,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 更具体的分析，刚好在周五的新帖子会说到，到时候请好好研究一下。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600019_30f_1.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600019_30f_1.png')} /><br/><br/>
 </div>
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600019_30f_2.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600019_30f_2.png')} /><br/><br/>
 </div>
 </div>
 
@@ -284,7 +284,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 注意，走势类型的形成和什么涨停没关系，关键是处的位置。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/002098.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/002098.png')} /><br/><br/>
 </div>
 </div>
 
@@ -319,7 +319,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 那是除权的问题，如果你不习惯这样看，可以把他复权来看。但习惯了其实无所谓，例如，站在月线或季线图的角度，你可以认为该除权构成一次急促的下跌，刚好构成一个标准的背驰走势，因此由此可见，在月线上，该股至少要回抽月线的中枢，因此上涨空间就很明确了。
 
 <div style={{textAlign: 'left'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600018.png')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/stocks/5daysoff/600018.png')} /><br/><br/>
 </div>
 </div>
 

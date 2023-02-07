@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/9/10 18:26:25
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/ducks/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/ducks/1.jpeg')} /><br/><br/>
 </div>
 
 这样的题目当然会让很多人不爽，而不像地球的引力，会让诸如飞机失事的人连表达不爽的机会都没有，资本的引力确实很仁慈，至少在这个资本所构建的现实和虚拟世界中，不爽的表达绝对被允许。当然，在无处逃避的资本引力下，这种表达也就只能都带着些“鸭子”般的气味了。

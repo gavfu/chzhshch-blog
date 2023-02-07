@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/30 17:05:48
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/she/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/she/1.jpeg')} /><br/><br/>
 </div>
 
 她，一个女人，在罪恶的男权社会里，并没有屈服于所谓的天命。特别在中国，这样一个男权传统至高无上的国度，她需要面对的局面是如此的险恶。如果说武媚娘走过的道路是艰难的，她首先在性上征服了中国男人的最高典范之一李世民，然后又在权力的斗争中击败了她的儿子，但毕竟其难度还是相对小一点，对阿斗般的高宗这样的对手，真有点胜之不武。

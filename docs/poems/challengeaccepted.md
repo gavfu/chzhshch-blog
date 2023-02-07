@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/17 12:29:01
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/challengeaccepted/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/challengeaccepted/1.jpeg')} /><br/><br/>
 </div>
 
 这唐粉有点意思，他对本ID“唐粉，你对马克思劳动价值论的解释有很大问题”没辙，却又写了“缠女士，礼尚往来，我要挑战你！”要挑战本ID。本ID觉得这种东西太幼稚，你唐粉觉得自己对马克思劳动价值论说得不够透彻，要认错就认错，还故意找茬子来下台，是不是有点太无聊了？

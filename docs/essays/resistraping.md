@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/7/22 15:13:53
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/sexindustry/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/sexindustry/1.jpeg')} /><br/><br/>
 </div>
 
 “女性是否应该冒死反抗强奸”这样的话题之所以被热炒，只不过继续证明这样一个事实：一个污浊的男权世界依然污浊地存在着。当然，没有任何问题有着无条件的先验必然性，在人类曾历史的历史中，绝大多数时间只存在着这样的问题：男人是否应该冒死反抗强奸？只不过在最近的几千年中，这个问题才被无耻肮脏地改变了。

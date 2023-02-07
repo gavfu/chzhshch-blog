@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/3/5 23:16:54
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/leftismrightism/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/leftismrightism/1.jpeg')} /><br/><br/>
 </div>
 
 本ID反左反右反中间反男人反反对一切，当然要得罪一大批人，绝对不招人待见，这就构成了左右两派经常在本ID面前一起语无伦次、文字白花花地喷发的基本前提。但最绝的是，经常打架的左右两派，面对本ID时竟然可以突然历史性地统一起来，甚至同穿一条内裤，这说明了什么？

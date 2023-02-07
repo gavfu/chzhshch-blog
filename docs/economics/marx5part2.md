@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/9/22 11:49:42
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/marx5part2/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/marx5part2/1.jpeg')} /><br/><br/>
 </div>
 
 东土旧学，归根于易。易之观照，以被观照者为依。如此观照，巫教所源；天人合一，巫教所流。巫教，世间共有之原始宗教，国人所好之祖先崇拜，亦源于此。由此而有儒家之“克己复礼”、道家之“人法地，地法天，天法道，道法自然。”。道、儒，不离易。易之范式，即巫教以被观照者为依之观照模式也。

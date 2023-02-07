@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 无论是13岁的脑子还是83岁的脑子，进了水就有所谓的热恋，缺了水就有所谓的失恋，下面继续的是一个13岁左右的脑子缺水后幻化出的情景。
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/youngpoems4/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/youngpoems4/1.jpeg')} /><br/><br/>
 </div>
 
 一

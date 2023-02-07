@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/30 20:44:04
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/whytraitorsfromtheleft/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/essays/whytraitorsfromtheleft/1.jpeg')} /><br/><br/>
 </div>
 
 昨天有人谈到汉奸走红的问题，其实这不是问题。走红并不是说一定是好的，走红只不过说明关注多，按这种意思，希特勒一直都走红，研究不断。但问题的关键不是汉奸能否走红，而是为什么汉奸几乎都是从左派蜕变出来的。

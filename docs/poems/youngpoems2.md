@@ -13,7 +13,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 再次说明一下，这些白话诗的准确写作时间记不大清了，但肯定不超过初中二年级，因为其后除了偶尔情况下，基本不写白话诗，只写古体的，而且初二到高中间，主要写了很多艺术歌曲以及一些钢琴奏鸣曲还有一些最早的交响乐草稿，更没时间写白话诗了。今天再抄写三首上来，保持原貌，没有改动。
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/youngpoems2/1.gif')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/poems/youngpoems2/1.gif')} /><br/><br/>
 </div>
 
 <div style={{fontSize: '24px', fontWeight: '500', textAlign: 'left', lineHeight: '250%'}}>

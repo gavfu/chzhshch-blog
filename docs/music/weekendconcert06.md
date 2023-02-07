@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/8/25 17:17:47
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/music/weekendconcert06/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/music/weekendconcert06/1.jpeg')} /><br/><br/>
 </div>
 
 从来没有什么天使，但人们更愿意相信，如果真有天使，那么天使下来时奏的音乐一定是莫扎特式的。今年是莫扎特一个重要的周年纪念，全世界都为他忙碌着。我们也不能没有任何表示。

@@ -11,28 +11,28 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > http://www.sina.com.cn 2007年12月26日07:33 [大河网-大河报](http://epaper.dahe.cn/dhb/)
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/1.jpeg')} /><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/1.jpeg')} /><br/>
 </div>
 <div style={{fontSize: '14px', fontWeight: 'normal', textAlign: 'center', lineHeight: '100%'}}>
 烈士墓碑和墓体正在被拆毁
 </div><br/>
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/2.jpeg')} /><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/2.jpeg')} /><br/>
 </div>
 <div style={{fontSize: '14px', fontWeight: 'normal', textAlign: 'center', lineHeight: '100%'}}>
 烈士墓已被夷为平地
 </div><br/>
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/3.jpeg')} /><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/3.jpeg')} /><br/>
 </div>
 <div style={{fontSize: '14px', fontWeight: 'normal', textAlign: 'center', lineHeight: '100%'}}>
 刘德胜烈士的半块墓碑
 </div><br/>
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/4.jpeg')} /><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/references/luoyangmartyrsmausoleum/4.jpeg')} /><br/>
 </div>
 <div style={{fontSize: '14px', fontWeight: 'normal', textAlign: 'center', lineHeight: '100%'}}>
 仅存的第二保护区中的烈士墓

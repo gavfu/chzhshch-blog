@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/5/13 18:30:03
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/houseslave/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/houseslave/1.jpeg')} /><br/><br/>
 </div>
 
 这两天，所有的媒体大概都在开“赛傻大会”，一会儿是读错字的所谓大师，一会儿是再次被女人抛弃后撒野的摇滚老男人，但说得最多的，可能还是那所谓的房奴了。究竟什么是房奴，也没什么经典的定义，大概就是炒股炒成股东之类的傻人。这种人，根本不值得同情。自己傻还出来现眼，丢人不？！

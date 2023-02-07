@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/4/4 16:46:41
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/music/modelopera/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/music/modelopera/1.jpeg')} /><br/><br/>
 </div>
 
 面对“样板戏，五四后中国文艺唯一真正开创意义的成就！”这样的题目，肯定很多人不服。因为这样一来，鲁迅、雷雨、黄河之类的文化符号就有了被侵犯的可能。鲁迅、雷雨、黄河等等无疑是有价值的，但站在前无古人，后无来者的角度，他们的开创意义依然是有限的。在这一点上，样板戏是五四后中国文艺唯一真正开创意义成就的说法，并不是完全没有意义的。

@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 > 2006/5/28 12:34:55
 
 <div style={{textAlign: 'center'}}>
-<img src={useBaseUrl('https://crustipfs.info/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/gaspriceup/1.jpeg')} /><br/><br/>
+<img src={useBaseUrl('https://gateway.ipfscdn.io/ipfs/QmXSnds2BF97yuZwYAMLwrpjQcuPcm22WGsFmBJfWFTEUM/economics/gaspriceup/1.jpeg')} /><br/><br/>
 </div>
 
 网络，绝对不是什么穷人聚集的地方，真的穷人，根本就没钱上网，而现在中国一亿多上网的人中，绝大多数都不过是所谓的小资，还有一些酸馊文人，网络上的大众意见，只不过是反映了这些小资和文人的酸馊意见。如果套用以前的所谓阶级分析，现在的网络，只不过是小资产阶级和被收买的工人阶级贵族的垃圾场。
