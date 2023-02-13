@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（46）
 
 > 2007/1/12 15:12:51
@@ -252,19 +254,27 @@ hide_table_of_contents: true
 ===<br/>
 看不出，就去看看第二类、第三类的定义，必须自己找，本ID可以告诉你对错，但不要光想要现成的答案，这样不是你自己的本事。
 
-
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius46/600059_w.png')} /><br/><br/>
+</div>
 
 1，请问昨天你说的工商银行下来的第一波级别太低，是5分钟线吗？但是30分钟线上不是也形成中枢了吗？<br/>
 ==<br/>
 现在已经是日线的。30分钟是后来的形成的，开始的只是5分钟。中枢的级别是逐步加大的，这在调整中十分常见。这就是中枢扩张的意思。从一个5分钟的，慢慢扩张成一个日线的，甚至变成周线的。对于工行来说，如果这次下来后，必然有一个日线级别的盘整或上涨，但再上去如果不能突破该中枢，那肯定还有一波日线级别的盘整或下跌，这样就把该中枢进一步扩展成周线的了。
 
-
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius46/601398.png')} /><br/><br/>
+</div>
 
 2，还有北辰，30分钟线是说中枢扩张了吗？所以要产生日线上的中枢，但是日线上这个中枢已经形成了啊，现在还是围绕中枢在走，对不对啊，缠姐？
  
 ===<br/>
 
 这和第二是同类性质的，研究好第二，这个自然知道。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius46/601588.png')} /><br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
@@ -373,6 +383,11 @@ hide_table_of_contents: true
 另外，最精确的判断应该依据趋势间的比较，如果你觉得日线级别上产生背驰，那至少是两个日线级别的趋势可以比较，而连接这两个上涨趋势的，一定是至少周线上的中枢，那么，现在000002的图上有吗？
 
 所以，要等日线上的大背驰，还要等。但并不意味着它一定不下跌，因为小级别的背驰，意味着小级别上出现第一类卖点，这个卖点也会发挥压力的。所以对于短线来说，这就是打短差的机会。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius46/000002.png')} /><br/><br/>
+</div>
+
 </div>
 
 <div class='blog-comment'>
@@ -421,6 +436,11 @@ hide_table_of_contents: true
 刚才又看了一下，缠姐说的600059日线上的第三类买点是20060927吗？周线上的第二类买点是20050204吗？我怎么觉得是第一买点啊，之前在下跌+盘整+下跌，第二次下跌有背驰，不是第一类买点吗？ <br/>
 ==<br/>
 8月是月线上的标准第二类买点，周线上的在6月9日那一周
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius46/600059_w.png')} /><br/><br/>
+</div>
+
 </div>
 
 <div class='blog-comment'>
