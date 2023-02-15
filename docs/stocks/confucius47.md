@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（47）
 
 > 2007/1/17 15:12:00
@@ -90,6 +92,15 @@ LZ，今天大盘在30分钟里算背弛吗？
 各位
 
 如果对背弛没有什么直观感觉的，好好看看今天的上海大盘以及人寿的5分钟图，标准图形，这里本ID还要对人寿的庄家说声对不起，本ID也弄了他的短差，虽然本ID中线是看好他，但本ID见到背弛就要发狠，没办法，对不起了。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius47/1A0001.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius47/601628.png')} /><br/><br/>
+</div>
+
 </div>
 
 <div class='blog-comment'>
@@ -130,7 +141,7 @@ LZ，今天大盘在30分钟里算背弛吗？
 
  
 2007-01-17 15:18:23 <br/>
-缠姐.这次调整是会以时间换空间,还是以空间换时间? 
+缠姐，这次调整是会以时间换空间，还是以空间换时间？
  
 ===<br/>
 
@@ -229,10 +240,14 @@ LZ，今天大盘在30分钟里算背弛吗？
 
 上下一点都无所谓。关键是分明的两个趋势之间的比较。
 
-
 注意，背弛了并不是说就跌个没完了，只要次级别再出现买点，就又涨回去，现在关心的就是次级别的下一个买点了。
 
 好好看看万科的15分钟，4日那次也背弛过一次，然后下跌，然后在1分钟出现买点，再次上涨，然后到昨天再次15分钟背弛出现卖点，太教科书了。好好去研究。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/confucius47/000002_15f.png')} /><br/><br/>
+</div>
+
 </div>
 
 <div class='blog-comment'>

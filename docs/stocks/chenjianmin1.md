@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 陈建民《小大乘修空及密乘大手印、大圆满、禅宗辨微》之辨微（上）
 
 > 2007/1/16 15:09:50
@@ -123,6 +125,39 @@ hide_table_of_contents: true
 600608、600555、600784、600684、600300、600829、600587、600820、600884、
 
 各位好好研究一下，就用第三类买点，目前就可以找到足够多的饭吃。自己找到的才是真本事。关键是把这技术练好。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600555.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600784.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600684.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600300.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600829.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600587.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600820.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600884.png')} /><br/><br/>
+</div>
+
 </div>
 
 <div class='blog-comment'>
@@ -250,6 +285,19 @@ hide_table_of_contents: true
 中线该股问题不大，但站在短线角度，最快速的就是30分钟回抽所对应的日线上的第三类买点。例如对该股，1月5日的第三类买点介入后，在5分钟发现背驰后离开，然后就去换另外的日线第三类买点的股票，这样资金利用率的高了。当然，如果没有这种快速切换的熟练，就慢慢来，把操作的级别放大点。
 
 一般按日线第三类买点进入的，只要你资金不太大，而且判断不出问题，离开也及时，而且够勤奋，每天都选好下一个可介入的品种，那么，一月内至少可以操作7、8次，一月翻倍并不是太难的事情，当然，前提是你的资金不能太大。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600021_d.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600021_30f.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600021_5f.png')} /><br/><br/>
+</div>
+
 </div>
 
 <div class='blog-comment'>
@@ -493,6 +541,14 @@ hide_table_of_contents: true
 
 1分钟图上在上午收盘前是一个第一类买点，其他图上倒没有。他的走势，基本就是工行的一个翻版，比工行滞后点。
 
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600028_5f.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/600028_1f.png')} /><br/><br/>
+</div>
+
 2：您说药是去年的酒，钢铁是去年的有色，我觉得石油是去年的银行。因为他有战略意义。我是瞎猜的，所以今天本来要割肉的。没有割，在我觉得像是5分钟的买点上补了一点。
 我是菜鸟，但我希望通过这里的学习，看能不能变成个大鹏鸟，呵呵，大家别笑，帮帮我哦<br/>
 ====<br/>
@@ -683,6 +739,15 @@ lz,对“ccy”的增收计划看得很吸引人，但给个大致的期限好�
  
 ==<br/>
 000767在12月26日是一个标准的第三类买点，没什么奔走的。000800是12月22日，也没有什么奔走。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/000767.png')} /><br/><br/>
+</div>
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/chenjianmin1/000800.png')} /><br/><br/>
+</div>
+
 </div>
 
 <div class='blog-comment'>
