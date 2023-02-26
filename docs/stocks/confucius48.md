@@ -1,8 +1,10 @@
 ---
 id: confucius48
 title: ''
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # 《论语》详解：给所有曲解孔子的人（48）
 
@@ -152,6 +154,8 @@ hide_table_of_contents: true
 最强的走势，就是快速突破或接近3000点后出现震荡，在2870点上支持住，然后站上3000点，这是最有力的走势了，能否出现，没必要预测，只要看着就可以。如果出现30分钟或60分钟背驰还突破不了3000点，那调整的时间、幅度就要有一定的延长。
 </div>
 
+#### ST秦岭（600217）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/22 16:06:30<br/>
 
@@ -170,7 +174,12 @@ hide_table_of_contents: true
 老大帮我看看 5分图有没有背驰啊？ <br/>
 ====<br/>
 
-6000217，5分钟黄白线大幅新高，怎么会有背驰？要背驰，首先要黄白线再回抽一次0轴，然后黄白线不创新高，且柱子面积又小了。
+600217，5分钟黄白线大幅新高，怎么会有背驰？要背驰，首先要黄白线再回抽一次0轴，然后黄白线不创新高，且柱子面积又小了。
+
+<img src={useBaseUrl('/img/stocks/confucius48/600217_5f_1.png')} /><br/><br/>
+
+<img src={useBaseUrl('/img/stocks/confucius48/600217_5f_2.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>
@@ -347,6 +356,7 @@ hide_table_of_contents: true
 后面那个问题也是同样道理，如果搞不明白中枢的概念，那就用吻或者MACD也可以，但在理论上就不是可以被纯数学的严格性所保证了。
 </div>
 
+#### 福建高速（600033）
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/22 20:48:49<br/>
 
@@ -359,6 +369,9 @@ hide_table_of_contents: true
 ==<br/>
 
 日线级别的第三类买点怎么可能是一天完成的？必须有30分钟上明确的三段走势，这不会一天就能完成，你说的那天根本不是第三类买点，只是突破的第一段的中途休整。
+
+<img src={useBaseUrl('/img/stocks/confucius48/600033_d.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>
@@ -376,6 +389,7 @@ hide_table_of_contents: true
 一个月线的中枢怎么可能一个月就完成？好好把中枢的概念搞清楚。
 </div>
 
+#### 云南铜业（000878）
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/22 20:56:39<br/>
 
@@ -401,6 +415,8 @@ hide_table_of_contents: true
 ===<br/>
 
 第三类买点只能在中枢之外，三角型最后的买点，只能是次级别的买点。对三角形的操作，只是能高位走了以后低位回补，这样来回弄，一旦接近或突破上沿次级别背弛，就要走，回来下沿次次级别或次级别背弛，就买回来。一旦过上沿没有背驰，就是真突破了，这样就可以不走，等大图形的背驰出现。整个操作很有节奏的，短差也弄了，突破也不耽误，这才是正确的操作方法。
+
+<img src={useBaseUrl('/img/stocks/confucius48/000878_d.png')} /><br/><br/>
 </div>
 
 <div class='blog-comment'>
@@ -486,6 +502,8 @@ hide_table_of_contents: true
 有走势才有均线，看MACD和看均线可以配合起来，均线更直观点。
 </div>
 
+#### 鄂尔多斯（600295）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/22 21:47:13<br/>
 
@@ -498,7 +516,10 @@ hide_table_of_contents: true
 ==<br/>
 为什么前两天的阴线时不买？买股票，特别在牛市里，要敢于在阴线时买，特别结合次级别走势有买点的，无论哪类买点，都是在下跌或回试中形成的，一定要养成好习惯。不要回调不敢买，反而追高买。
 
-其次，该股中线没有问题，5。7是中线关键位置，只要回试站稳，中线空间就打开了。上面关键的压力在250周线，这是该股最终能走多高的最后一个考验。如果能有效突破，最终把周线上那个巨大缺口给补了，也是很正常的事情。
+其次，该股中线没有问题，5.7是中线关键位置，只要回试站稳，中线空间就打开了。上面关键的压力在250周线，这是该股最终能走多高的最后一个考验。如果能有效突破，最终把周线上那个巨大缺口给补了，也是很正常的事情。
+
+<img src={useBaseUrl('/img/stocks/confucius48/600295_d.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>
@@ -519,6 +540,8 @@ hide_table_of_contents: true
 这些问题以后都会说到的，一展开就长了去了。第一个问题可以简单回答，下跌中枢对后面的上涨，当然会有影响，所以股市经常会出现所谓的对称性上涨，怎么跌下来的就怎么涨上去，这主要就是因为前面下跌中枢的影响。但在观察时，看上涨，还是只看上涨本身的中枢，前面下跌的中枢只是一个可能阻力的参考。至于底部下跌与上涨的连接部分，比较复杂，以后再说。
 </div>
 
+#### 振华重工（600320）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/22 21:54:29<br/>
 
@@ -532,7 +555,11 @@ hide_table_of_contents: true
 ==<br/>
 
 上周没有背驰，首先要搞清楚是哪段和哪段比，你不能把段里面的自己比，这样制造的只是小级别的背驰 ，不是30分钟的。对背驰还要下爹工夫。
+
+<img src={useBaseUrl('/img/stocks/confucius48/600320_30f.png')} /><br/><br/>
 </div>
+
+#### 广深铁路（601333）
 
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/22 22:09:19<br/>
@@ -562,6 +589,8 @@ hide_table_of_contents: true
 从1171430开始，就是开始对日线中枢的摆脱，能否成功，目前还不能下结论，但这不影响操作，如果不成功就可以出来打短差，否则就继续持有。
 
 该30分钟图有点意思，三段的各自中枢的位置都不是在通常的中间位置，这一点都不奇怪，没有人规定中枢一定在图形的中间位置的。
+
+<img src={useBaseUrl('/img/stocks/confucius48/601333_30f.png')} /><br/><br/>
 </div>
 
 <div class='blog-comment'>

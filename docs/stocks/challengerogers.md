@@ -1,8 +1,10 @@
 ---
 id: challengerogers 
 title: ''
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # 罗杰斯，有种的和本ID来个PK
 
@@ -57,18 +59,22 @@ DING!缠妹辛苦!谢谢您!今天作了个波段,呵呵.
 强硬是要靠正确的操作的，来回折腾，谁与争锋？
 </div>
 
+#### 航天通信（600677）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/26 15:22:50<br/>
 [匿名] 新年好 <br/><br/>
 
  
 2007-01-26 15:20:40 <br/>
-缠姐，昨天买的600677,买得太失败了，今天连30日均线都跌破了，昨天买的时候以为日线是三类买点，没等到5分钟线背驰，本来看着有背驰的迹象，这次操作失误完全是自己的胡乱猜测，没遵照缠姐的理论等背驰出现了再说。<br/>
+缠姐，昨天买的600677，买得太失败了，今天连30日均线都跌破了，昨天买的时候以为日线是三类买点，没等到5分钟线背驰，本来看着有背驰的迹象，这次操作失误完全是自己的胡乱猜测，没遵照缠姐的理论等背驰出现了再说。<br/>
 缠接我现在该怎么办啊？ 
  
 ===<br/>
 
 好好总结，第三类买点一定要等到次次级别的背驰或双次回拉确认，该股是军工里的三线，等二线把空间打开了，自然有机会。
+
+<img src={useBaseUrl('/img/stocks/challengerogers/600677_5f.png')} /><br/><br/>
 </div>
 
 <div class='blog-comment'>
@@ -183,6 +189,8 @@ DING!缠妹辛苦!谢谢您!今天作了个波段,呵呵.
 在10点17分黄白线回抽0轴，然后再破位，在10点56达到2720点，但MACD没创新低，标准的背驰。
 </div>
 
+#### 山大华特（000915）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/26 15:56:49<br/>
 [匿名] 小鸟 <br/><br/>
@@ -201,6 +209,8 @@ DING!缠妹辛苦!谢谢您!今天作了个波段,呵呵.
 000915今天之所以不能突破，就是现在环境还很动荡，贸然突破，有些潜伏的汉奸突然发难，就给敌人以先手了
 
 打击汉奸，要比汉奸更狡猾！看到技术，按技术走就行了。
+
+<img src={useBaseUrl('/img/stocks/challengerogers/000915_5f.png')} /><br/><br/>
 </div>
 
 <div class='blog-comment'>
@@ -256,6 +266,8 @@ DING!缠妹辛苦!谢谢您!今天作了个波段,呵呵.
 各股就按照个股的走势来，有些个股早点，有些晚一点，这很正常。像600432，你根本就不能按大盘的来看，要看具体的个股。
 </div>
 
+#### 上证指数（1A0001）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/26 16:17:20<br/>
 [匿名] 小鸟 <br/><br/>
@@ -284,6 +296,9 @@ DING!缠妹辛苦!谢谢您!今天作了个波段,呵呵.
 大家注意了，让大家知道今天大盘上来的第二类买点在哪里，第一类买点就是10点57分的2720，第二类买点就是1330的2771，MACD对应双回抽0轴站稳。第三类买点在1分钟里是很难有的，因为1分钟就是最低的，第三类很难找到。
 
 第一类买点当然比第二类低，二比三低，卖点反过来。
+
+<img src={useBaseUrl('/img/stocks/challengerogers/1A0001_1f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/challengerogers/1A0001_1f_2.png')} /><br/><br/>
 </div>
 
 <div class='blog-comment'>

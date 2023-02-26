@@ -1,8 +1,10 @@
 ---
 id: biggestbubble 
 title: ''
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # 最大的泡沫就是某些国人！
 
@@ -283,19 +285,24 @@ hide_table_of_contents: true
 临近业绩，最好就买有业绩支持的股票，这是最安全的选择。当然，如果投入不大，而且又有技术上的支持，没业绩也不怕，特别大盘调整，有些亏损股票也会乱奔一下的。
 </div>
 
+#### 中国人寿（601628）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/25 22:04:10<br/>
 [匿名] 潜水很久 <br/><br/>
 
  
 2007-01-25 21:53:01 <br/>
-大姐,39买的人寿,明天怎么操作,边看边学习中!~! 
+大姐，39买的人寿，明天怎么操作，边看边学习中！~！ 
  
 ==<br/>
 
 49那天不是背驰，这里很多人都出了。后面的走势很标准，其实没有美国人，也要调到40的，为什么？走势必完美，因此123那天是必须走的，必然有一波下来，如果不清楚这个的，请好好看看本ID有关股票的文章。至于后面，将继续寻找支持，然后有一个相应级别的反弹，压力位置45的中枢位置。
 
 目前该股最强的走势，就是围绕45的中枢震荡，弱的就要回到38原来的中枢震荡，但站在中长线的角度，该股有绝对的潜力，但必须等待下一轮一线股票的集体启动，否则依然以围绕某个中枢的震荡为主，短差机会少不了。
+
+<img src={useBaseUrl('/img/stocks/biggestbubble/601628_30f.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>

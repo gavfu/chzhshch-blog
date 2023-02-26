@@ -1,8 +1,10 @@
 ---
 id: whipsawing 
 title: ''
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # 就算是摇头丸也该洗洗盘了。
 
@@ -117,6 +119,8 @@ hide_table_of_contents: true
 大盘震荡的回试，应该在2870上站稳，这也是很重要的。
 </div>
 
+#### 江苏舜天（600287）
+
 <div class='blog-comment'>
 <span class='blog-comment-chan'>缠中说禅</span> 2007/1/24 16:05:00<br/>
 [匿名] wjy885 <br/><br/>
@@ -129,6 +133,8 @@ hide_table_of_contents: true
 ===<br/>
 
 好好看看5分钟图，怎么没背驰了？
+
+<img src={useBaseUrl('/img/stocks/whipsawing/600287_5f.png')} /><br/><br/>
 </div>
 
 <div class='blog-comment'>
