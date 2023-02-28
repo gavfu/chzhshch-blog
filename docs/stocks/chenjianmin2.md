@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 陈建民《小大乘修空及密乘大手印、大圆满、禅宗辨微》之辨微（中）
 
 > 2007/2/14 15:10:08
@@ -287,6 +289,9 @@ hide_table_of_contents: true
 其实各位看本ID这十几个股票构成的盘子每天的运动，就会学到资金管理了，现在本ID的大多数都在高位，只要有资金压力，兑现都很简单，本ID保证的是整个大组合的安全，而不是单个个股。
 
 所以，对于小资金来说，全跟本ID的股票并不是效率最高的，应该按本ID的理论去自己找吃。
+
+<img src={useBaseUrl('/img/stocks/chenjianmin2/000416.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>
