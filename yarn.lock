@@ -6258,6 +6258,11 @@ rc@1.2.8, rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-audio-player-pro@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/react-audio-player-pro/-/react-audio-player-pro-1.3.1.tgz#b918b24bad7d5c162173d92c570a02d4c3f2e065"
+  integrity sha512-tBcOC8nxomuYPow7kdcBu58XzVGq53lHiRDF86IHQuuMEw9r71uHZssdmCRhgQJJenDZZhi3r1osN6c7zdto6g==
+
 react-base16-styling@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/react-base16-styling/-/react-base16-styling-0.6.0.tgz#ef2156d66cf4139695c8a167886cb69ea660792c"

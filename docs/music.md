@@ -4,6 +4,67 @@ title: ''
 hide_table_of_contents: false
 ---
 
+import {AudioPlayerControlSprite, AudioPlayer, TrackType} from 'react-audio-player-pro';
+import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
+
+export const audioTrackList = [
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/2.%E9%92%A2%E7%90%B4%E5%B0%8F%E5%9B%9E%E6%97%8B%E6%9B%B2%EF%BC%88%E7%BC%A0%E4%B8%AD%E8%AF%B4%E7%A6%85%E4%BD%9C%E6%9B%B2%EF%BC%89.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '钢琴小回旋曲',
+      artist: '缠中说禅'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/1.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9A%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特A大调第五小提琴协奏曲1',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/3.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9A%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特A大调第五小提琴协奏曲2',
+      artist: '莫扎特'
+    },
+  },
+    {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/4.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9A%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特A大调第五小提琴协奏曲3',
+      artist: '莫扎特'
+    },
+  },
+];
+
+export function ExampleAudioPlayer() {
+  return (
+    <>
+      <AudioPlayerControlSprite/>
+      <AudioPlayer
+        trackList={audioTrackList}
+        className="my-class-name"
+        defaultState={{
+          isMuted: false,
+          activeIndex: 0,
+          isShuffleOn: false,
+          isTrackListOpen: true,
+          repeatingState: 'none',
+        }}
+      />
+    </>
+  );
+}
+
+### 播放列表（全部音乐）
+
+<ExampleAudioPlayer />
+
 ### 钢琴小回旋曲（缠中说禅作曲）
 
 <audio controls>

@@ -18,7 +18,11 @@ hide_table_of_contents: true
 
 连接地址如下：
 
-[钢琴小回旋曲（缠中说禅作曲）](http://mm.blogcn.com/musicdata/2006/3/20/chzhshch,2006320212456562.mp3)
+[钢琴小回旋曲（缠中说禅作曲）](https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/2.%E9%92%A2%E7%90%B4%E5%B0%8F%E5%9B%9E%E6%97%8B%E6%9B%B2%EF%BC%88%E7%BC%A0%E4%B8%AD%E8%AF%B4%E7%A6%85%E4%BD%9C%E6%9B%B2%EF%BC%89.mp3)
+
+<audio controls>
+  <source src="https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/2.%E9%92%A2%E7%90%B4%E5%B0%8F%E5%9B%9E%E6%97%8B%E6%9B%B2%EF%BC%88%E7%BC%A0%E4%B8%AD%E8%AF%B4%E7%A6%85%E4%BD%9C%E6%9B%B2%EF%BC%89.mp3"/>
+</audio>
 
 ### 回复
 
