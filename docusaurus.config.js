@@ -180,11 +180,17 @@ const config = {
             type: 'doc',
             docId: 'timeline',
             position: 'left',
-            label: '博文列表',
+            label: '全部博文列表',
           },
+          // {
+          //   type: 'doc',
+          //   docId: 'weekendconcert',
+          //   position: 'left',
+          //   label: '周末音乐会',
+          // },
           {
             type: 'dropdown',
-            label: '其他作品',
+            label: '缠博以外其他作品',
             position: 'right',
             items: [
               {
@@ -265,7 +271,7 @@ const config = {
       },
       tableOfContents: {
         minHeadingLevel: 2,
-        maxHeadingLevel: 5,
+        maxHeadingLevel: 3,
       },
       colorMode: {
         defaultMode: 'light',
