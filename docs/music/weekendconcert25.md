@@ -42,7 +42,7 @@ import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
 
 export const audioTrackList = [
  {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/67.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%ABc%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/67.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%ABc%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会25：拉赫玛尼诺夫c小调第二钢琴协奏曲1',
@@ -50,7 +50,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/68.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%ABc%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/68.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%ABc%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会25：拉赫玛尼诺夫c小调第二钢琴协奏曲2',
@@ -58,7 +58,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/69.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%ABc%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    src: 'https://resources.chzhshch.blog/music/69.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%ABc%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会25：拉赫玛尼诺夫c小调第二钢琴协奏曲3',
@@ -66,7 +66,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/70.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCb%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/70.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCb%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会25：帕格尼尼b小调第二小提琴协奏曲1',
@@ -74,7 +74,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/71.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCb%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/71.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCb%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会25：帕格尼尼b小调第二小提琴协奏曲2',
@@ -82,7 +82,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/72.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCb%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    src: 'https://resources.chzhshch.blog/music/72.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A25%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCb%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%BA%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会25：帕格尼尼b小调第二小提琴协奏曲3',

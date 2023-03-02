@@ -25,7 +25,7 @@ import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
 
 export const audioTrackList = [
  {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/125.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9C%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/125.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9C%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会39：舒伯特C大调钢琴奏鸣曲1',
@@ -33,7 +33,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/126.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9C%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/126.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9C%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会39：舒伯特C大调钢琴奏鸣曲2',
@@ -41,7 +41,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/127.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9c%E5%B0%8F%E8%B0%83%E5%9B%9B%E9%87%8D%E5%A5%8F%E4%B9%90%E7%AB%A0.mp3',
+    src: 'https://resources.chzhshch.blog/music/127.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9c%E5%B0%8F%E8%B0%83%E5%9B%9B%E9%87%8D%E5%A5%8F%E4%B9%90%E7%AB%A0.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会39：舒伯特c小调四重奏乐章',
@@ -49,7 +49,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/128.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F1.mp3',
+    src: 'https://resources.chzhshch.blog/music/128.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F1.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会39：舒伯特g小调第15弦乐四重奏1',
@@ -57,7 +57,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/129.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F2.mp3',
+    src: 'https://resources.chzhshch.blog/music/129.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F2.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会39：舒伯特g小调第15弦乐四重奏2',
@@ -65,7 +65,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/130.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F3.mp3',
+    src: 'https://resources.chzhshch.blog/music/130.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F3.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会39：舒伯特g小调第15弦乐四重奏3',
@@ -73,7 +73,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/131.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F4.mp3',
+    src: 'https://resources.chzhshch.blog/music/131.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A39%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9g%E5%B0%8F%E8%B0%83%E7%AC%AC15%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F4.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会39：舒伯特g小调第15弦乐四重奏4',

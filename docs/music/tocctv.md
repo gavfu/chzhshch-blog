@@ -20,8 +20,8 @@ hide_table_of_contents: true
 
 听听这一首上世纪30年代的艺术歌曲，上世纪的最后20年，包括交响乐在内，没有一首音乐作品能超过！CCTV，不要把无耻当有趣！
 
-[嘉陵江上](https://ipfsgw.live/ipfs/QmQ5oaxo2JGrHCbciHNpfY99zUcTKrwXzHEdJCjv9xU8zn?filename=%E5%98%89%E9%99%B5%E6%B1%9F%E4%B8%8A.mp3)  
+[嘉陵江上](https://resources.chzhshch.blog/music/嘉陵江上.mp3)  
 
 <audio controls>
-  <source src="https://ipfsgw.live/ipfs/QmQ5oaxo2JGrHCbciHNpfY99zUcTKrwXzHEdJCjv9xU8zn?filename=%E5%98%89%E9%99%B5%E6%B1%9F%E4%B8%8A.mp3"/>
+  <source src="https://resources.chzhshch.blog/music/嘉陵江上.mp3"/>
 </audio>

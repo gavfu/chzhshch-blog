@@ -24,7 +24,7 @@ hide_table_of_contents: true
 二、俄文版本：
 
 <audio controls>
-  <source src="https://ipfsgw.live/ipfs/QmYDtBiKBCovgVrEfgfayqHpY1LSXqBeQk6HujV4HPDQrJ?filename=%E5%9B%BD%E9%99%85%E6%AD%8C%20%E4%BF%84%E6%96%87%E7%89%88.mp3"/>
+  <source src="https://resources.chzhshch.blog/music/国际歌%20俄文版.mp3"/>
 </audio>
 
 三、英语版本：
