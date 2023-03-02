@@ -4,6 +4,9 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import {AudioPlayerControlSprite, AudioPlayer, TrackType} from 'react-audio-player-pro';
+import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
+
 # 周末音乐会28：幻想
 
 > 2007/2/11 12:55:45
@@ -40,6 +43,94 @@ hide_table_of_contents: true
 爱恨情仇，鲜血和死亡竟然可以如此幻想
 
 </div>
+
+export const audioTrackList = [
+ {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/73.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B1.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：柏辽兹《幻想交响乐》1',
+      artist: '柏辽兹'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/74.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：柏辽兹《幻想交响乐》2',
+      artist: '柏辽兹'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/75.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B3.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：柏辽兹《幻想交响乐》3',
+      artist: '柏辽兹'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/76.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B4.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：柏辽兹《幻想交响乐》4',
+      artist: '柏辽兹'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/77.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B5.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：柏辽兹《幻想交响乐》5',
+      artist: '柏辽兹'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/78.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E9%97%A8%E5%BE%B7%E5%B0%94%E6%9D%BE%E3%80%8A%E4%BB%B2%E5%A4%8F%E5%A4%9C%E4%B9%8B%E6%A2%A6%E3%80%8B%E5%BA%8F%E6%9B%B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：门德尔松《仲夏夜之梦》序曲',
+      artist: '门德尔松'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/79.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E8%88%92%E6%9B%BC%E3%80%8A%E6%A2%A6%E5%B9%BB%E6%9B%B2%E3%80%8B.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：舒曼《梦幻曲》',
+      artist: '舒曼'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/80.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E8%90%A7%E9%82%A6%E3%80%8A%E5%8D%B3%E5%85%B4%E5%B9%BB%E6%83%B3%E6%9B%B2%E3%80%8B.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会28：萧邦《即兴幻想曲》',
+      artist: '萧邦'
+    },
+  },
+];
+
+export function AudioPlayerComponent() {
+  return (
+    <>
+      <AudioPlayerControlSprite/>
+      <AudioPlayer
+        trackList={audioTrackList}
+        className="my-class-name"
+        defaultState={{
+          isMuted: false,
+          activeIndex: 0,
+          isShuffleOn: false,
+          isTrackListOpen: true,
+          repeatingState: "none"
+        }}
+      />
+    </>
+  );
+}
+
+<AudioPlayerComponent />
 
 ### 回复
 

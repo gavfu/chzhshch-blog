@@ -6,6 +6,143 @@ hide_table_of_contents: true
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+import {AudioPlayerControlSprite, AudioPlayer, TrackType} from 'react-audio-player-pro';
+import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
+
+export const audioTrackList = [
+{
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/1.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9A%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特A大调第五小提琴协奏曲1',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/3.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9A%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特A大调第五小提琴协奏曲2',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/4.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9A%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特A大调第五小提琴协奏曲3',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/5.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9C%E5%A4%A7%E8%B0%83%E7%AC%AC41%E4%BA%A4%E5%93%8D%E4%B9%90%201.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特C大调第41交响乐1',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/6.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9C%E5%A4%A7%E8%B0%83%E7%AC%AC41%E4%BA%A4%E5%93%8D%E4%B9%90%202.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特C大调第41交响乐2',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/7.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9C%E5%A4%A7%E8%B0%83%E7%AC%AC41%E4%BA%A4%E5%93%8D%E4%B9%90%203.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特C大调第41交响乐3',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/8.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9C%E5%A4%A7%E8%B0%83%E7%AC%AC41%E4%BA%A4%E5%93%8D%E4%B9%90%204.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特C大调第41交响乐4',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/9.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9D%E5%A4%A7%E8%B0%8326%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特D大调26钢琴协奏曲1',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/10.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9D%E5%A4%A7%E8%B0%8326%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特D大调26钢琴协奏曲2',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/11.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9D%E5%A4%A7%E8%B0%8326%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特D大调26钢琴协奏曲3',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/12.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9G%E5%A4%A7%E8%B0%83%E5%BC%A6%E4%B9%90%E5%B0%8F%E5%A4%9C%E6%9B%B2%201.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特G大调弦乐小夜曲1',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/13.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9G%E5%A4%A7%E8%B0%83%E5%BC%A6%E4%B9%90%E5%B0%8F%E5%A4%9C%E6%9B%B2%202.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特G大调弦乐小夜曲2',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/14.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9G%E5%A4%A7%E8%B0%83%E5%BC%A6%E4%B9%90%E5%B0%8F%E5%A4%9C%E6%9B%B2%203.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特G大调弦乐小夜曲3',
+      artist: '莫扎特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/15.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A6%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9G%E5%A4%A7%E8%B0%83%E5%BC%A6%E4%B9%90%E5%B0%8F%E5%A4%9C%E6%9B%B2%204.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会6：莫扎特G大调弦乐小夜曲4',
+      artist: '莫扎特'
+    },
+  },
+];
+
+export function AudioPlayerComponent() {
+  return (
+    <>
+      <AudioPlayerControlSprite/>
+      <AudioPlayer
+        trackList={audioTrackList}
+        className="my-class-name"
+        defaultState={{
+          isMuted: false,
+          activeIndex: 0,
+          isShuffleOn: false,
+          isTrackListOpen: true,
+          repeatingState: "none"
+        }}
+      />
+    </>
+  );
+}
+
 # 周末音乐会6：天使莫扎特
 
 > 2006/8/25 17:17:47
@@ -25,6 +162,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 莫扎特写的东西太多了，我这里有他的全集，还有一套精选，而他的所谓名曲也太多，这里选择了四部最莫扎特的作品，都是大调，包括：大概所有人都听过的G大调弦乐小夜曲、D大调26钢琴协奏曲、A大调第五小提琴协奏曲、C大调41交响曲（突然发现拼音输入的设计者大概是一个乐盲，竟然交响乐不是一个词语，还有莫扎特也不是，贝多芬是，简直毛病！）
 
 请把所有背景音乐关闭
+
+<AudioPlayerComponent />
 
 ### 回复
 

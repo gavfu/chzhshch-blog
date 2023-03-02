@@ -4,6 +4,9 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import {AudioPlayerControlSprite, AudioPlayer, TrackType} from 'react-audio-player-pro';
+import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
+
 # 周末音乐会19：今夜，继续用大提琴勾引你！
 
 > 2006/12/2 11:53:00
@@ -71,6 +74,94 @@ e小调大提琴协奏曲
 </div>
  
 （待续）
+
+export const audioTrackList = [
+ {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/40.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E8%89%BE%E5%B0%94%E5%8A%A0%E3%80%8Ae%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B1.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：艾尔加《e小调大提琴协奏曲》1',
+      artist: '艾尔加'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/41.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E8%89%BE%E5%B0%94%E5%8A%A0%E3%80%8Ae%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：艾尔加《e小调大提琴协奏曲》2',
+      artist: '艾尔加'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/42.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E8%89%BE%E5%B0%94%E5%8A%A0%E3%80%8Ae%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B3.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：艾尔加《e小调大提琴协奏曲》3',
+      artist: '艾尔加'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/43.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E8%89%BE%E5%B0%94%E5%8A%A0%E3%80%8Ae%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B4.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：艾尔加《e小调大提琴协奏曲》4',
+      artist: '艾尔加'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/44.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E8%B4%9D%E5%A4%9A%E8%8A%AC%E3%80%8AD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E3%80%8B1.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：贝多芬《D大调第五大提琴奏鸣曲》1',
+      artist: '贝多芬'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/45.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E8%B4%9D%E5%A4%9A%E8%8A%AC%E3%80%8AD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E3%80%8B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：贝多芬《D大调第五大提琴奏鸣曲》2',
+      artist: '贝多芬'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/46.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E8%B4%9D%E5%A4%9A%E8%8A%AC%E3%80%8AD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E3%80%8B3.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：贝多芬《D大调第五大提琴奏鸣曲》3',
+      artist: '贝多芬'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/47.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A19%EF%BC%9A%E5%9C%A3%E6%A1%91%E3%80%8Aa%E5%B0%8F%E8%B0%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会19：圣桑《a小调第一大提琴协奏曲》',
+      artist: '圣桑'
+    },
+  },
+];
+
+export function AudioPlayerComponent() {
+  return (
+    <>
+      <AudioPlayerControlSprite/>
+      <AudioPlayer
+        trackList={audioTrackList}
+        className="my-class-name"
+        defaultState={{
+          isMuted: false,
+          activeIndex: 0,
+          isShuffleOn: false,
+          isTrackListOpen: true,
+          repeatingState: "none"
+        }}
+      />
+    </>
+  );
+}
+
+<AudioPlayerComponent />
 
 ### 回复
 

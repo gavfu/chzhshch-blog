@@ -1050,7 +1050,7 @@ export const audioTrackList = [
   }
 ];
 
-export function ExampleAudioPlayer() {
+export function AudioPlayerComponent() {
   return (
     <>
       <AudioPlayerControlSprite/>
@@ -1062,7 +1062,7 @@ export function ExampleAudioPlayer() {
           activeIndex: 0,
           isShuffleOn: false,
           isTrackListOpen: true,
-          repeatingState: 'none',
+          repeatingState: "none"
         }}
       />
     </>
@@ -1071,7 +1071,7 @@ export function ExampleAudioPlayer() {
 
 ### 播放列表（全部音乐）
 
-<ExampleAudioPlayer />
+<AudioPlayerComponent />
 
 ### 钢琴小回旋曲（缠中说禅作曲）
 

@@ -4,6 +4,9 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import {AudioPlayerControlSprite, AudioPlayer, TrackType} from 'react-audio-player-pro';
+import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
+
 # 周末音乐会31：孤魂的世纪游荡
 
 > 2007/3/25 13:50:10
@@ -35,6 +38,94 @@ hide_table_of_contents: true
 没有巨人的巨人时代，<br/>
 思想，二十世纪的瘟疫
 </div>
+
+export const audioTrackList = [
+ {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/81.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E3%80%8A%E6%97%85%E4%BA%BA%E4%B9%8B%E6%AD%8C%E3%80%8B1.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒《旅人之歌》1',
+      artist: '马勒'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/82.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E3%80%8A%E6%97%85%E4%BA%BA%E4%B9%8B%E6%AD%8C%E3%80%8B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒《旅人之歌》2',
+      artist: '马勒'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/83.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E3%80%8A%E6%97%85%E4%BA%BA%E4%B9%8B%E6%AD%8C%E3%80%8B3.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒《旅人之歌》3',
+      artist: '马勒'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/84.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E3%80%8A%E6%97%85%E4%BA%BA%E4%B9%8B%E6%AD%8C%E3%80%8B4.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒《旅人之歌》4',
+      artist: '马勒'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/85.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8A%E5%B7%A8%E4%BA%BA%E3%80%8B1.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒第一交响乐《巨人》1',
+      artist: '马勒'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/86.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8A%E5%B7%A8%E4%BA%BA%E3%80%8B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒第一交响乐《巨人》2',
+      artist: '马勒'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/87.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8A%E5%B7%A8%E4%BA%BA%E3%80%8B3.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒第一交响乐《巨人》3',
+      artist: '马勒'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/88.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A31%EF%BC%9A%E9%A9%AC%E5%8B%92%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8A%E5%B7%A8%E4%BA%BA%E3%80%8B4.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会31：马勒第一交响乐《巨人》4',
+      artist: '马勒'
+    },
+  },
+];
+
+export function AudioPlayerComponent() {
+  return (
+    <>
+      <AudioPlayerControlSprite/>
+      <AudioPlayer
+        trackList={audioTrackList}
+        className="my-class-name"
+        defaultState={{
+          isMuted: false,
+          activeIndex: 0,
+          isShuffleOn: false,
+          isTrackListOpen: true,
+          repeatingState: "none"
+        }}
+      />
+    </>
+  );
+}
+
+<AudioPlayerComponent />
 
 ### 回复
 

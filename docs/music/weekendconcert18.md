@@ -4,6 +4,9 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import {AudioPlayerControlSprite, AudioPlayer, TrackType} from 'react-audio-player-pro';
+import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
+
 # 周末音乐会18：今夜，只让大提琴迷死你！
 
 > 2006/11/25 9:30:12
@@ -69,6 +72,102 @@ b小调大提琴协奏曲
 </div>
  
 （待续）
+
+export const audioTrackList = [
+ {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/31.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA%E3%80%8A%E6%B4%9B%E5%8F%AF%E5%8F%AF%E5%8F%98%E5%A5%8F%E6%9B%B2%E3%80%8B.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：柴可夫斯基《洛可可变奏曲》',
+      artist: '柴可夫斯基'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/32.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B%E3%80%8Ab%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B1.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：德沃夏克《b小调大提琴协奏曲》1',
+      artist: '德沃夏克'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/33.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B%E3%80%8Ab%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：德沃夏克《b小调大提琴协奏曲》2',
+      artist: '德沃夏克'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/34.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B%E3%80%8Ab%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8B3.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：德沃夏克《b小调大提琴协奏曲》3',
+      artist: '德沃夏克'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/35.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E5%9C%A3%E6%A1%91%E3%80%8A%E5%A4%A9%E9%B9%85%E3%80%8B.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：圣桑《天鹅》',
+      artist: '圣桑'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/36.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9%E3%80%8Aa%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E3%80%8B1.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：舒伯特《a小调大提琴奏鸣曲》1',
+      artist: '舒伯特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/37.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9%E3%80%8Aa%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E3%80%8B2.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：舒伯特《a小调大提琴奏鸣曲》2',
+      artist: '舒伯特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/38.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E8%88%92%E4%BC%AF%E7%89%B9%E3%80%8Aa%E5%B0%8F%E8%B0%83%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E3%80%8B3.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：舒伯特《a小调大提琴奏鸣曲》3',
+      artist: '舒伯特'
+    },
+  },
+  {
+    src: 'https://ipfsgw.live/ipfs/QmYJjan7uQcBrSNddnEL5C19wEXdY8tg2Sk8eYWmkYY4QY/39.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A18%EF%BC%9A%E8%88%92%E6%9B%BC%E3%80%8A%E6%A2%A6%E5%B9%BB%E6%9B%B2%E3%80%8B.mp3',
+    preload: 'auto',
+    mediaMetadata: {
+      title: '周末音乐会18：舒曼《梦幻曲》',
+      artist: '舒曼'
+    },
+  }
+];
+
+export function AudioPlayerComponent() {
+  return (
+    <>
+      <AudioPlayerControlSprite/>
+      <AudioPlayer
+        trackList={audioTrackList}
+        className="my-class-name"
+        defaultState={{
+          isMuted: false,
+          activeIndex: 0,
+          isShuffleOn: false,
+          isTrackListOpen: true,
+          repeatingState: "none"
+        }}
+      />
+    </>
+  );
+}
+
+<AudioPlayerComponent />
 
 ### 回复
 
