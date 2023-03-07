@@ -4,48 +4,7 @@
  * work well for content-centric websites.
  */
 
- @font-face {
-  font-family: NotoSansSC;
-  font-weight: 100;
-  src: url('https://crustipfs.info/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Thin.otf') format("opentype");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: NotoSansSC;
-  font-weight: 300;
-  src: url('https://crustipfs.info/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Light.otf') format("opentype");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: NotoSansSC;
-  font-weight: 400;
-  src: url('https://crustipfs.info/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Regular.otf') format("opentype");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: NotoSansSC;
-  font-weight: 500;
-  src: url('https://crustipfs.info/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Medium.otf') format("opentype");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: NotoSansSC;
-  font-weight: 700;
-  src: url('https://crustipfs.info/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Bold.otf') format("opentype");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: NotoSansSC;
-  font-weight: 900;
-  src: url('https://crustipfs.info/ipfs/QmPbs4GcTCaoARa3NiKiKrtUdJQczr9Y2Bhkg3gyQzqDdX/NotoSansSC/NotoSansSC-Black.otf') format("opentype");
-  font-display: swap;
-}
-
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -61,7 +20,7 @@
   --ifm-navbar-item-padding-horizontal: 0.6rem;
   --ifm-table-border-width: 0px;
   --ifm-h1-font-size: 2rem;
-  --ifm-font-family-base: NotoSansSC;
+  --ifm-font-family-base: 'Noto Sans SC', sans-serif;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   line-height: 200%;
   font-size: 18px;
