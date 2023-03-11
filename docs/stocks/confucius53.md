@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（53）
 
 > 2007/2/27 15:29:57
@@ -210,6 +212,9 @@ hide_table_of_contents: true
 ==<br/>
 
 之前之后，都属于另外的走势类型，不能混在一起。
+
+<img src={useBaseUrl('/img/stocks/confucius53/600497_d.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>
@@ -358,6 +363,9 @@ hide_table_of_contents: true
  
 ==<br/>
 没有背弛，有也是1分钟以下级别的。而且也不是第二中枢，前面还有。
+
+<img src={useBaseUrl('/img/stocks/confucius53/580007_1f.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>
@@ -568,6 +576,9 @@ hide_table_of_contents: true
  
 ==<br/>
 要等真背弛才回补。你买的位置不对，如果1分钟的下跌已经引发5分钟的主跌，这时候就算有背弛也不能用，为什么？根据区间套，要等5分钟进入背弛段。 你那位置问题不大，就当弄了一个短差，把成本降低了。
+
+<img src={useBaseUrl('/img/stocks/confucius53/000099_5f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius53/000099_1f.png')} /><br/><br/>
 </div>
 
 <div class='blog-comment'>

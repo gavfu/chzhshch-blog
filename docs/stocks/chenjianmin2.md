@@ -180,6 +180,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ==<br/>
 下跌的中枢是上下上方向的。
 
+<img src={useBaseUrl('/img/stocks/chenjianmin2/1A0001_30f.png')} /><br/><br/>
 
 5 第三类卖点回抽的必须是次级别走势型吗？次级别以下级别回抽不行吗？比如5分走势向上离开30分中枢，必须是以5分走势回抽确认吗？如果是1分走势回抽能不能构成第三类卖点？ <br/>
 =<br/>
