@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 <div style={{fontSize: '18px', fontWeight: '500', textAlign: 'left', lineHeight: '180%'}}>
 
-刚看到[<font>洛阳烈士陵墓让位商业墓地被夷为平地</font>](../references/luoyangmartyrsmausoleum)的新闻，什么都不想写，心里堵得慌。
+刚看到[<font>洛阳烈士陵墓让位商业墓地被夷为平地</font>](../../references/luoyangmartyrsmausoleum)的新闻，什么都不想写，心里堵得慌。
  
 按道理，现在出什么新鲜事都不会觉得奇怪，你说现在什么事不敢整出来？但还是堵得慌。
  
