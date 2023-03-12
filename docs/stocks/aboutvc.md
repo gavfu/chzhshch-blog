@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 刚回北京再说私人股权投资
 
 > 2007/6/11 20:50:14
@@ -17,6 +19,10 @@ hide_table_of_contents: true
 至于私人股权投资，和传统的VC不同，只投那些马上可以上市的，更重要的是，可以在大的产业结构上进行大布局，目前的中国，正走向一个产业大综合的阶段，这里的机会大锝惊人。具体有时间再说，一般投资者没有参与这大机会的机会，现在私人股权投资基金也没有被发展起来，所以一般投资者只能在二级市场上受累了。
  
 不能多说了，本ID要休息了，先下，再见。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/aboutvc/1A0001_1f.png')} /> <br/><br/>
+</div>
 
 <div style={{color: '#FF0000', fontWeight: '500'}}>
 

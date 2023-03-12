@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 2007，人民币私人股权投资基金元年
 
 > 2007/6/20 8:13:50
@@ -91,6 +93,10 @@ hide_table_of_contents: true
 你看看569的60分钟图，请说说10.78那天是什么？一个这么大级别的背驰，怎么可能1、2天就调整过来？本ID当天已经说得很清楚，剧本改了，要买要等待买点出现。
 
 再说一次，就算本ID没有专门提醒剧本改了，也应该看图作业，如果不明白，看看像569这样的背驰，一般是怎么调整的。569是本ID的股票，难道000999、000777、600635、600777、000778、600432、000915等等就不是？本ID对任何股票都只是按图作业。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/vcera/600569_60f.png')} /> <br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>

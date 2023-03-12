@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 3850点，残酷的多空无量鏖战
 
 > 2007/7/11 15:41:38
@@ -132,6 +134,10 @@ hide_table_of_contents: true
  
 =<br/>
 必须至少三笔，如果没有，那一笔肯定是归于前面一段，后者后面一段没完成。至于，在盘整中，三笔之间的高低点是可以有奔走型或扩张型等形态，这在以后再说。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/3850points/600505_1f.png')} /> <br/><br/>
+</div>
 </div>
 
 <div class='blog-comment'>
