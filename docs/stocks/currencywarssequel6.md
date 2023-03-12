@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《货币战争和人民币战略》续六：央行，脑子别进水。
 
 > 2007/4/25 9:03:08
@@ -268,6 +270,9 @@ hide_table_of_contents: true
 002129，您给个操作建议吧，帮忙分析一下。 <br/>
 ==<br/>
 这是一个典型的中枢震荡，和大盘目前的情况是一样的，就是先出第三买点还是卖点的问题。中枢震荡的节奏是任何离开中枢的，只要力度不足以摆脱中枢引力，就会拉回中枢里，但这相应操作就可以。关于具体的，可以看前面中枢震荡的课程。
+
+<img src={useBaseUrl('/img/stocks/currencywarssequel6/002129_5f.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>

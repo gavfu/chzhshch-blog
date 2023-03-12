@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 从容面对突发事件是投资的基本素质
 
 > 2007/5/30 6:53:34
@@ -26,6 +28,10 @@ hide_table_of_contents: true
  
 最后，把昨天的话重申并延伸一下，这也是本ID的一贯态度：<span style={{color: '#FF0000', fontSize: '24px', fontWeight: '500'}}>但无论如何，中国大牛市的格局是不会因此改变的，震荡级别越大，不过提供降低成增加筹码的机会越大。至于本ID一直设计的剧本，依然没有任何放弃和修改的理由，因为3之3已经走出来，这一段已经比上一段的1500点要长了，符合最严格的理论条件，至于能否走得更长，那并不重要。更重要的是，这个剧本已经给在2000多点开始的参与者带来巨大的回报，这个回报已经锁定，成本已经为0，谁都抢不走，而这，又是展开新一轮行情的能量储备，该来的，必将要来，现在需要的，只是等待买点的出现。</span>
 
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/emergencyhandling/1A0001_m.png')} /> <br/><br/>
+</div>
+
 <div style={{color: '#FF0000', fontSize: '24px', fontWeight: '500'}}>附录：</div>
 
 <div style={{color: '#0000CC', fontSize: '20px', fontWeight: '500', marginTop: '20px'}}>
@@ -39,6 +45,11 @@ hide_table_of_contents: true
 从中枢的角度，一个30分钟顶背驰，按理论的要求，重新拉回5月8日到5月21日构成的30分钟中枢，因此，可以继续参照该中枢来考察今后的中枢，可以中枢震荡的观点进行。
 
 对于短线有能力的，可以参照短线指标回补第二卖点卖掉的股票，然后进行中枢震荡操作。本ID的所有观点，没有任何变化，就不多说了。另外，一旦大盘稳定下来，个股机会将很多，下面与中报业绩好相关的个股会逐步走强，技术上注意那些在这里大跌中形成日线第三类买点的个股。
+
+<div style={{textAlign: 'left'}}>
+<img src={useBaseUrl('/img/stocks/emergencyhandling/1A0001_30f.png')} /> <br/><br/>
+</div>
+
 </div>
 
 ### 回复

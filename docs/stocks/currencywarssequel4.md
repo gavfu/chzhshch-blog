@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《货币战争和人民币战略》续四：中国崛起的真正秘密
 
 > 2007/3/6 15:20:07
@@ -323,6 +325,9 @@ hide_table_of_contents: true
 一般来说，最重要的是黄白线，柱子面积之和一般在复杂走势里重要。当其实这都不是最关键的，最关键是要各级别配套地看，才能知道哪个背驰的力度大，否则，每一个1分钟以下的背驰都要动，那就会累死。但如果中枢就是5、30分钟的，每次离开都是1分钟的，那1分钟以下的背驰当然就很重要，因为根据中枢的回拉力，1分钟以下背驰就引发大的回拉，这几天大盘的高低点都是由1分钟以下背驰构成的，原因就在这里。
 
 如何判断背驰只是最基础的，关键是如何明确地根据综合的情况来利用背驰，这才是需要不断实践、提高的。
+
+<img src={useBaseUrl('/img/stocks/currencywarssequel4/600598_5f.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>

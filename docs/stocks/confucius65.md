@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（65）
 
 > 2007/5/22 8:48:56
@@ -564,6 +566,10 @@ lz,真是用心良苦，大家应深知其好意。近期福尔摩斯的好友�
 --<br/>
 
 对
+
+<img src={useBaseUrl('/img/stocks/confucius65/600216_30f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/confucius65/600216_5f.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>

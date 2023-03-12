@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 从净资产到市值，大牛市的核变动力
 
 > 2007/4/16 15:23:54
@@ -278,6 +280,10 @@ JJ， 1345是不是在5分钟图上也是三分钟买点啊。
  
 ==<br/>
 有5分钟背驰不错，那不意味着就要跌个没停，1345在1分钟图上是什么？至于其他，本ID就不方便回答了。又当裁判又当运动员的事情没意思。
+
+<img src={useBaseUrl('/img/stocks/nuclearpower/600855_5f.png')} /><br/><br/>
+<img src={useBaseUrl('/img/stocks/nuclearpower/600855_1f.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>

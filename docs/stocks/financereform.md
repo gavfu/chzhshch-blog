@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 相对流动性过剩与经济转型及金融重构
 
 > 2007/4/2 15:12:44
@@ -298,6 +300,9 @@ hide_table_of_contents: true
  
 ==<br/>
 日线的第三类买点至少是一个30分钟的回拉，不可能是一天完成的。这股票的30分钟级别第三类买点在30分钟图上不难发现，只是比29日要早点，不妨去研究一下。
+
+<img src={useBaseUrl('/img/stocks/financereform/601991_30f.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>

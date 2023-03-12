@@ -4,6 +4,8 @@ title: ''
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # 《论语》详解：给所有曲解孔子的人（58）
 
 > 2007/3/20 15:23:18
@@ -503,6 +505,9 @@ Anytime
  
 ==<br/>
 卖点要看小级别的。此外，5月15日，价位实质更高，那位置就可以用日线中枢震荡的力度来判断卖出。
+
+<img src={useBaseUrl('/img/stocks/confucius58/600328_d.png')} /><br/><br/>
+
 </div>
 
 <div class='blog-comment'>
