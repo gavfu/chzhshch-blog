@@ -177,10 +177,10 @@ const config = {
             ]
           },
           {
-            type: 'doc',
-            docId: 'timeline',
+            type: 'docSidebar',
+            sidebarId: 'timelineSidebar',
             position: 'left',
-            label: '全部博文列表',
+            label: '全部博文（时间线）',
           },
           // {
           //   type: 'doc',
@@ -326,7 +326,7 @@ const config = {
           language: ["en", "zh"],
           // ```
           docsRouteBasePath: '/',
-          // ignoreFiles: [/^stocks\/*/, /^economics\/*/, /^essays\/*/, /^math\/*/, /^music\/*/, /^entertainment\/*/, /^confucius\/*/, /^zen\/*/, /^poems\/*/, /^fluid\/*/],
+          ignoreFiles: [/^stocks\/*/, /^economics\/*/, /^essays\/*/, /^math\/*/, /^music\/*/, /^entertainment\/*/, /^confucius\/*/, /^zen\/*/, /^poems\/*/, /^fluid\/*/],
           searchBarPosition: 'right',
         },
       ],
