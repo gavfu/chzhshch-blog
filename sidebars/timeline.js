@@ -5391,6 +5391,11 @@ exports.sidebar = [
   },
   {
     type: 'doc',
+    id: 'timeline/confucius/claimforcompensation',
+    label: '任何对开幕式不满的纳税人都应有索赔的权力 (2008/8/9 15:35:49)'
+  },
+  {
+    type: 'doc',
     id: 'timeline/confucius/shamelessopeningceremony',
     label: '为何既得利益者一致热捧如此无耻堕落的开幕式? (2008/8/10 7:50:26)'
   },

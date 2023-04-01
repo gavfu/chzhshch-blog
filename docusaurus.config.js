@@ -180,7 +180,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'timelineSidebar',
             position: 'left',
-            label: '全部博文（时间线）',
+            label: '全部博文（1135篇）',
           },
           // {
           //   type: 'doc',
