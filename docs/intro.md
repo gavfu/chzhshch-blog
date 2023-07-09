@@ -18,7 +18,15 @@ hide_table_of_contents: true
 <!-- > 本站将在本人力所能及的前提下长期存在，也欢迎天下万方的“有朋” **[捐赠](./donate.md)** 以助力。<br/> -->
 <!-- > 本站使用 [docusaurus](https://docusaurus.io/) 搭建，目前开源的是编译出来的静态网站文件，可以直接部署运行。鉴于网站还未建设到心中理想的完善程度，源文件暂时不打算公开。未来是否公开，且行且看吧。<br/>
 > -->
-> 如果您发现本站有任何错误或者疏漏，欢迎提交 **[Github Issue](https://github.com/gavfu/chzhshch-blog-site/issues)** 或者通过 **[TG群](https://t.me/chzhshchblog)** 反馈。
+
+<div style={{fontSize: '16px', color: 'gray' }}>
+
+> 如果您发现本站有任何错误或者疏漏，欢迎通过 **[TG群](https://t.me/chzhshchblog)** 反馈。<br/>
+> 本站网址 https://chzhshch.xyz<br/>
+> 备用网址 https://chzhshchblog.github.io<br/>
+> 原网址 ~~https://chzhshch.blog~~
+
+</div>
 
 最后，致无尽虚空中那些我理解或者无法理解的存在：如果本站的建立及维系能称得上是某种“善因”而对应着些许“善果”的话，那么本人唯一希望的“善果”就是“世间法”意义上的 <span style={{fontWeight: 'bold', fontSize: '18px', color: '#2e8555'}}>阖家安康，却病延年</span>。
 

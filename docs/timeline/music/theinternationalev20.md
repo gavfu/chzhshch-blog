@@ -24,7 +24,7 @@ hide_table_of_contents: true
 二、俄文版本：
 
 <audio controls>
-  <source src="https://resources.chzhshch.blog/music/国际歌%20俄文版.mp3"/>
+  <source src="https://resources.chzhshch.xyz/music/国际歌%20俄文版.mp3"/>
 </audio>
 
 三、英语版本：
