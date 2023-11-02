@@ -9,10 +9,7 @@
 ## 本站地址
 
 **主网址**
-https://chzhshch.xyz
+https://chzhshch.blog
 
 **备用网址**
 https://chzhshchblog.github.io
-
-**原网址**
-~~https://chzhshch.blog~~

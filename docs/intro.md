@@ -15,16 +15,11 @@ hide_table_of_contents: true
 
 世人皆苦，希望“永远只愿意站立”，而且“希望探索、展示人的所有潜能、可能”的“缠中说禅”，能通过本站的存在，照亮一方天地，给越来越多的世人以智慧、财富和勇气。
 
-<!-- > 本站将在本人力所能及的前提下长期存在，也欢迎天下万方的“有朋” **[捐赠](./donate.md)** 以助力。<br/> -->
-<!-- > 本站使用 [docusaurus](https://docusaurus.io/) 搭建，目前开源的是编译出来的静态网站文件，可以直接部署运行。鉴于网站还未建设到心中理想的完善程度，源文件暂时不打算公开。未来是否公开，且行且看吧。<br/>
-> -->
-
 <div style={{fontSize: '16px', color: 'gray' }}>
 
 > 如果您发现本站有任何错误或者疏漏，欢迎通过 **[TG群](https://t.me/chzhshchblog)** 反馈。<br/>
-> 本站网址 https://chzhshch.xyz<br/>
+> 本站网址 https://chzhshch.blog<br/>
 > 备用网址 https://chzhshchblog.github.io<br/>
-> 原网址 ~~https://chzhshch.blog~~
 
 </div>
 

@@ -46,7 +46,7 @@ import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
 
 export const audioTrackList = [
  {
-    src: 'https://resources.chzhshch.xyz/music/73.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B1.mp3',
+    src: 'https://resources.chzhshch.blog/music/73.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B1.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：柏辽兹《幻想交响乐》1',
@@ -54,7 +54,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/74.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B2.mp3',
+    src: 'https://resources.chzhshch.blog/music/74.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B2.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：柏辽兹《幻想交响乐》2',
@@ -62,7 +62,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/75.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B3.mp3',
+    src: 'https://resources.chzhshch.blog/music/75.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B3.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：柏辽兹《幻想交响乐》3',
@@ -70,7 +70,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/76.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B4.mp3',
+    src: 'https://resources.chzhshch.blog/music/76.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B4.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：柏辽兹《幻想交响乐》4',
@@ -78,7 +78,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/77.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B5.mp3',
+    src: 'https://resources.chzhshch.blog/music/77.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E6%9F%8F%E8%BE%BD%E5%85%B9%E3%80%8A%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E4%B9%90%E3%80%8B5.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：柏辽兹《幻想交响乐》5',
@@ -86,7 +86,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/78.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E9%97%A8%E5%BE%B7%E5%B0%94%E6%9D%BE%E3%80%8A%E4%BB%B2%E5%A4%8F%E5%A4%9C%E4%B9%8B%E6%A2%A6%E3%80%8B%E5%BA%8F%E6%9B%B2.mp3',
+    src: 'https://resources.chzhshch.blog/music/78.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E9%97%A8%E5%BE%B7%E5%B0%94%E6%9D%BE%E3%80%8A%E4%BB%B2%E5%A4%8F%E5%A4%9C%E4%B9%8B%E6%A2%A6%E3%80%8B%E5%BA%8F%E6%9B%B2.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：门德尔松《仲夏夜之梦》序曲',
@@ -94,7 +94,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/79.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E8%88%92%E6%9B%BC%E3%80%8A%E6%A2%A6%E5%B9%BB%E6%9B%B2%E3%80%8B.mp3',
+    src: 'https://resources.chzhshch.blog/music/79.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E8%88%92%E6%9B%BC%E3%80%8A%E6%A2%A6%E5%B9%BB%E6%9B%B2%E3%80%8B.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：舒曼《梦幻曲》',
@@ -102,7 +102,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/80.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E8%90%A7%E9%82%A6%E3%80%8A%E5%8D%B3%E5%85%B4%E5%B9%BB%E6%83%B3%E6%9B%B2%E3%80%8B.mp3',
+    src: 'https://resources.chzhshch.blog/music/80.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A28%EF%BC%9A%E8%90%A7%E9%82%A6%E3%80%8A%E5%8D%B3%E5%85%B4%E5%B9%BB%E6%83%B3%E6%9B%B2%E3%80%8B.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会28：萧邦《即兴幻想曲》',

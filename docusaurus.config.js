@@ -10,8 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '全球第一博客 — 缠中说禅',
   tagline: 'Dinosaurs are cool',
-  // url: 'https://chzhshch.blog',
-  url: 'https://chzhshch.xyz',
+  url: 'https://chzhshch.blog',
   // url: 'https://chzhshchblog.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -243,12 +242,6 @@ const config = {
             docId: 'download',
             position: 'right',
             label: '下载',
-          },
-          {
-            type: 'doc',
-            docId: 'donate',
-            position: 'right',
-            label: '捐赠',
           },
           {
             href: 'https://t.me/chzhshchblog',

@@ -28,7 +28,7 @@ import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
 
 export const audioTrackList = [
  {
-    src: 'https://resources.chzhshch.xyz/music/60.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/60.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会23：李斯特降E大调钢琴协奏曲1',
@@ -36,7 +36,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/61.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/61.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会23：李斯特降E大调钢琴协奏曲2',
@@ -44,7 +44,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/62.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    src: 'https://resources.chzhshch.blog/music/62.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会23：李斯特降E大调钢琴协奏曲3',
@@ -52,7 +52,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/63.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B24.mp3',
+    src: 'https://resources.chzhshch.blog/music/63.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E6%9D%8E%E6%96%AF%E7%89%B9%E9%99%8DE%E5%A4%A7%E8%B0%83%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B24.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会23：李斯特降E大调钢琴协奏曲4',
@@ -60,7 +60,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/64.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%B8%80%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/64.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%B8%80%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会23：帕格尼尼D大调第一小提琴协奏曲1',
@@ -68,7 +68,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/65.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%B8%80%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/65.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%B8%80%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会23：帕格尼尼D大调第一小提琴协奏曲2',
@@ -76,7 +76,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/66.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%B8%80%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    src: 'https://resources.chzhshch.blog/music/66.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A23%EF%BC%9A%E5%B8%95%E6%A0%BC%E5%B0%BC%E5%B0%BCD%E5%A4%A7%E8%B0%83%E7%AC%AC%E4%B8%80%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会23：帕格尼尼D大调第一小提琴协奏曲3',

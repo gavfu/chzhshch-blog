@@ -21,7 +21,7 @@ import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
 
 export const audioTrackList = [
  {
-    src: 'https://resources.chzhshch.xyz/music/16.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%20%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%901.mp3',
+    src: 'https://resources.chzhshch.blog/music/16.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%20%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%901.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调40交响乐1',
@@ -29,7 +29,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/17.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%20%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%902.mp3',
+    src: 'https://resources.chzhshch.blog/music/17.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%20%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%902.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调40交响乐2',
@@ -37,7 +37,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/18.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9c%E5%B0%8F%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/18.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9c%E5%B0%8F%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特c小调钢琴奏鸣曲1',
@@ -45,7 +45,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/19.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9c%E5%B0%8F%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/19.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9c%E5%B0%8F%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特c小调钢琴奏鸣曲2',
@@ -53,7 +53,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/20.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9c%E5%B0%8F%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B23.mp3',
+    src: 'https://resources.chzhshch.blog/music/20.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9c%E5%B0%8F%E8%B0%83%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B23.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特c小调钢琴奏鸣曲3',
@@ -61,7 +61,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/21.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9d%E5%B0%8F%E8%B0%8320%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/21.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9d%E5%B0%8F%E8%B0%8320%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特d小调20钢琴协奏曲1',
@@ -69,7 +69,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/22.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9d%E5%B0%8F%E8%B0%8320%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/22.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9d%E5%B0%8F%E8%B0%8320%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特d小调20钢琴协奏曲2',
@@ -77,7 +77,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/23.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9d%E5%B0%8F%E8%B0%8320%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
+    src: 'https://resources.chzhshch.blog/music/23.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9d%E5%B0%8F%E8%B0%8320%E9%92%A2%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B23.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特d小调20钢琴协奏曲3',
@@ -85,7 +85,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/24.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%903.mp3',
+    src: 'https://resources.chzhshch.blog/music/24.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%903.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调40交响乐3',
@@ -93,7 +93,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/25.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%904.mp3',
+    src: 'https://resources.chzhshch.blog/music/25.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%8340%E4%BA%A4%E5%93%8D%E4%B9%904.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调40交响乐4',
@@ -101,7 +101,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/26.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F1.mp3',
+    src: 'https://resources.chzhshch.blog/music/26.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F1.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调弦乐五重奏1',
@@ -109,7 +109,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/27.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F2.mp3',
+    src: 'https://resources.chzhshch.blog/music/27.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F2.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调弦乐五重奏2',
@@ -117,7 +117,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/28.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F3.mp3',
+    src: 'https://resources.chzhshch.blog/music/28.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F3.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调弦乐五重奏3',
@@ -125,7 +125,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/29.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F4.mp3',
+    src: 'https://resources.chzhshch.blog/music/29.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A7%EF%BC%9A%E8%8E%AB%E6%89%8E%E7%89%B9g%E5%B0%8F%E8%B0%83%E5%BC%A6%E4%B9%90%E4%BA%94%E9%87%8D%E5%A5%8F4.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会7：莫扎特g小调弦乐五重奏4',

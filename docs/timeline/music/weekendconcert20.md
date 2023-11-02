@@ -33,7 +33,7 @@ import reactAudioPlayerProStyle from 'react-audio-player-pro/dist/style.css';
 
 export const audioTrackList = [
  {
-    src: 'https://resources.chzhshch.xyz/music/48.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%80%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B21.mp3',
+    src: 'https://resources.chzhshch.blog/music/48.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%80%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B21.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：莫扎特第一钢琴奏鸣曲1',
@@ -41,7 +41,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/49.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%80%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B22.mp3',
+    src: 'https://resources.chzhshch.blog/music/49.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%80%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B22.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：莫扎特第一钢琴奏鸣曲2',
@@ -49,7 +49,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/50.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%80%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B23.mp3',
+    src: 'https://resources.chzhshch.blog/music/50.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%80%E9%92%A2%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B23.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：莫扎特第一钢琴奏鸣曲3',
@@ -57,7 +57,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/51.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%901.mp3',
+    src: 'https://resources.chzhshch.blog/music/51.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%901.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一交响乐1',
@@ -65,7 +65,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/52.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%902.mp3',
+    src: 'https://resources.chzhshch.blog/music/52.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%902.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一交响乐2',
@@ -73,7 +73,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/53.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%903.mp3',
+    src: 'https://resources.chzhshch.blog/music/53.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%903.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一交响乐3',
@@ -81,7 +81,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/54.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%904.mp3',
+    src: 'https://resources.chzhshch.blog/music/54.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E4%BA%A4%E5%93%8D%E4%B9%904.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一交响乐4',
@@ -89,7 +89,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/55.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E9%A6%96%E8%89%BA%E6%9C%AF%E6%AD%8C%E6%9B%B2.mp3',
+    src: 'https://resources.chzhshch.blog/music/55.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E9%A6%96%E8%89%BA%E6%9C%AF%E6%AD%8C%E6%9B%B2.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一首艺术歌曲',
@@ -97,7 +97,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/56.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F1.mp3',
+    src: 'https://resources.chzhshch.blog/music/56.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F1.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一弦乐四重奏1',
@@ -105,7 +105,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/57.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F2.mp3',
+    src: 'https://resources.chzhshch.blog/music/57.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F2.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一弦乐四重奏2',
@@ -113,7 +113,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/58.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F3.mp3',
+    src: 'https://resources.chzhshch.blog/music/58.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F3.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一弦乐四重奏3',
@@ -121,7 +121,7 @@ export const audioTrackList = [
     },
   },
   {
-    src: 'https://resources.chzhshch.xyz/music/59.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F4.mp3',
+    src: 'https://resources.chzhshch.blog/music/59.%E5%91%A8%E6%9C%AB%E9%9F%B3%E4%B9%90%E4%BC%9A20_%E8%88%92%E4%BC%AF%E7%89%B9%E7%AC%AC%E4%B8%80%E5%BC%A6%E4%B9%90%E5%9B%9B%E9%87%8D%E5%A5%8F4.mp3',
     preload: 'auto',
     mediaMetadata: {
       title: '周末音乐会20：舒伯特第一弦乐四重奏4',
