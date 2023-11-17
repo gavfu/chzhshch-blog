@@ -17,7 +17,7 @@ hide_table_of_contents: true
 
 <div style={{fontSize: '16px', color: 'gray' }}>
 
-> 如果您发现本站有任何错误或者疏漏，欢迎通过 **[TG群](https://t.me/chzhshchblog)** 反馈。<br/>
+> 如果您发现本站有任何错误或者疏漏，欢迎通过 **[TG群](https://t.me/chzhshchblog)** 反馈。另外本人偶尔会在 **[Twitter](https://twitter.com/chzhshch_eth)** 分享一些投资心得，亦欢迎关注。<br/>
 > 本站网址 https://chzhshch.blog<br/>
 > 备用网址 https://chzhshchblog.github.io<br/>
 

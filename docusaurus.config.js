@@ -244,18 +244,25 @@ const config = {
             label: '下载',
           },
           {
-            href: 'https://t.me/chzhshchblog',
-            label: '反馈',
-            position: 'right',
-            // className: 'header-telegram-link',
-            // 'aria-label': 'Telegram'
-          },
-          {
             href: 'https://github.com/gavfu/chzhshch-blog-site',
             // label: 'GitHub',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub Repository'
+          },
+          {
+            href: 'https://t.me/chzhshchblog',
+            // label: '反馈',
+            position: 'right',
+            className: 'header-telegram-link',
+            'aria-label': 'Telegram'
+          },
+          {
+            href: 'https://twitter.com/chzhshch_eth',
+            // label: 'Twitter',
+            position: 'right',
+            className: 'header-twitter-link',
+            'aria-label': 'Twitter'
           },
         ],
       },
