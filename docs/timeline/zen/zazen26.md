@@ -36,21 +36,24 @@ hide_table_of_contents: true
       <td>鼻</td>
       <td>舌</td>
       <td>身</td>
-      <td>意</td></tr>
+      <td>意</td>
+    </tr>
     <tr>
       <td>色</td>
       <td>声</td>
       <td>香</td>
       <td>味</td>
       <td>触</td>
-      <td>法</td></tr>
+      <td>法</td>
+    </tr>
     <tr>
       <td>眼识</td>
       <td>耳识</td>
       <td>鼻识</td>
       <td>舌识</td>
       <td>身识</td>
-      <td>意识</td></tr>
+      <td>意识</td>
+    </tr>
   </tbody>
 </table>
 

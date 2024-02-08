@@ -29,7 +29,8 @@ hide_table_of_contents: true
 犹道郦山肉犹暖
 
 顷间灰散漫天黄
-</div>　
+
+</div>
 
 <div style={{fontSize: 'xxx-large', fontWeight: 'normal', textAlign: 'center', lineHeight: '250%'}}>
 秀全
