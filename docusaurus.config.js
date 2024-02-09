@@ -245,6 +245,12 @@ const config = {
             label: '下载',
           },
           {
+            type: 'doc',
+            docId: 'donate',
+            position: 'right',
+            label: '捐赠',
+          },
+          {
             href: 'https://github.com/gavfu/chzhshch-blog-site',
             // label: 'GitHub',
             position: 'right',
