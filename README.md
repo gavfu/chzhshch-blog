@@ -13,3 +13,12 @@ https://chzhshch.blog
 
 **备用网址**
 https://chzhshchblog.github.io
+
+### 本地运行
+
+本站为使用 [docusaurus](https://docusaurus.io) 构建的静态网站，如需本地运行，可以使用 live-server：
+
+```sh
+$ npm install -g live-server
+$ npx live-server
+```
