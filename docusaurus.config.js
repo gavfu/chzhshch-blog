@@ -251,7 +251,7 @@ const config = {
             label: '捐赠',
           },
           {
-            href: 'https://github.com/gavfu/chzhshch-blog-site',
+            href: 'https://github.com/gavfu/chzhshch-blog',
             // label: 'GitHub',
             position: 'right',
             className: 'header-github-link',
