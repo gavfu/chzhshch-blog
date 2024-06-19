@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '全球第一博客 — 缠中说禅',
-  tagline: 'Dinosaurs are cool',
+  tagline: '全球第一博客 — 缠中说禅',
   url: 'https://chzhshch.blog',
   // url: 'https://chzhshchblog.github.io',
   baseUrl: '/',
@@ -358,6 +358,10 @@ const config = {
   //     async: true
   //   }
   // ]
+
+  // future: {
+  //   experimental_router: 'hash',
+  // },
 };
 
 module.exports = config;
