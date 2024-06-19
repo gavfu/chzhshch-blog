@@ -4,7 +4,14 @@
 
 世人皆苦，希望“永远只愿意站立”，而且“希望探索、展示人的所有潜能、可能”的“缠中说禅”，能通过本站的存在，照亮一方天地，给越来越多的世人以智慧、财富和勇气。
 
-如果您发现本站有任何错误或者疏漏，欢迎通过 **[TG群](https://t.me/chzhshchblog)** 反馈。另外本人偶尔会在 **[Twitter](https://twitter.com/chzhshch_eth)** 分享一些投资心得，亦欢迎关注。
+# 支持本站
+
+本站将在本人力所能及的前提下长期开源和存在，您也可以通过以下方式表达支持：
+
+- 通过 [Telegram](https://t.me/chzhshchblog) 反馈相关文档错误或疏漏
+- 加星收藏 [Github 源码库](https://github.com/gavfu/chzhshch-blog)
+- 关注 [Twitter](https://twitter.com/chzhshch_eth)
+- [捐赠](https://chzhshch.blog/donate)
 
 ## 本站地址
 
