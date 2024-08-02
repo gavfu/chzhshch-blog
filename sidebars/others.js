@@ -19,4 +19,9 @@ exports.sidebar = [
     id: 'others/reddust',
     label: '天幕红尘（摘抄）'
   },
+  {
+    type: 'doc',
+    id: 'others/doudou',
+    label: '关于豆豆'
+  },
 ];
