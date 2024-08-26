@@ -12,6 +12,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
 
+## Wechat
+
+<img src={useBaseUrl('/img/donate/wechat.jpg')} style={{marginTop: '50', width: 360}} /><br/><br/>
+
+## Alipay
+
+<img src={useBaseUrl('/img/donate/alipay.jpg')} style={{marginTop: '50', width: 360}} /><br/><br/>
+
 ## Binance Pay
 
 ```
