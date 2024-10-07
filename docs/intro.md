@@ -5,6 +5,8 @@ slug: /
 hide_table_of_contents: true
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 <div style={{textAlign:'center', marginTop: '36px', marginLeft: '6%', marginRight: '6%'}}>
 
 <div style={{fontSize: '18px', fontWeight: 'normal', display: 'inline-block', textAlign: 'left'}}>
@@ -33,6 +35,8 @@ hide_table_of_contents: true
 - 通过 [Telegram](https://t.me/chzhshchblog) 反馈相关文档错误或疏漏
 - 加星收藏 [Github 源码库](https://github.com/gavfu/chzhshch-blog)
 - 关注 [Twitter](https://twitter.com/chzhshch_eth)
+- 关注微信公众号<br/>
+  <img src={useBaseUrl('/img/chanxishe.png')} style={{marginTop: '50', width: 360}} /><br/>
 - [捐赠](./donate.md)
 
 # 链接
@@ -61,6 +65,9 @@ hide_table_of_contents: true
 
 # 本站 Timeline
 </div>
+
+- 2024.10.07
+  - 开始将部分博文逐步迁移到微信公众号。
 
 - 2023.04.01
   - 补充被新浪删除之博文[“任何对开幕式不满的纳税人都应有索赔的权力”](./timeline/confucius/claimforcompensation.md)，暂时归入“时政经济（缠中说禅经济学）”分类。感谢缠友“噢 头”反馈。

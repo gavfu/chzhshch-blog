@@ -11,6 +11,8 @@
 - 通过 [Telegram](https://t.me/chzhshchblog) 反馈相关文档错误或疏漏
 - 加星收藏 [Github 源码库](https://github.com/gavfu/chzhshch-blog)
 - 关注 [Twitter](https://twitter.com/chzhshch_eth)
+- 关注微信公众号<br/>
+  <img src={useBaseUrl('/img/chanxishe.png')} style={{marginTop: '50', width: 360}} /><br/>
 - [捐赠](https://chzhshch.blog/donate)
 
 ## 本站地址
