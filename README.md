@@ -12,7 +12,7 @@
 - 加星收藏 [Github 源码库](https://github.com/gavfu/chzhshch-blog)
 - 关注 [Twitter](https://twitter.com/chzhshch_eth)
 - 关注微信公众号<br/>
-  <img src="/gavfu/chzhshch-blog/raw/main/static/img/chanxishe.png" width="360" /><br/>
+  <img src="/static/img/chanxishe.png" width="360" /><br/>
 - [捐赠](https://chzhshch.blog/donate)
 
 ## 本站地址
