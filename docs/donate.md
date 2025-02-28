@@ -46,6 +46,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <img src={useBaseUrl('/img/donate/eth.jpg')} style={{marginTop: '10px', width: 360}} /><br/><br/>
 
 
+## Solana
+
+```
+GqEzZrH2ZLRSHiFBUgDpTmphS2gjNJHmPtyq3cBkDGdm
+```
+
+<img src={useBaseUrl('/img/donate/solana.png')} style={{marginTop: '10px', width: 360}} /><br/><br/>
+
 </div>
 
 </div>

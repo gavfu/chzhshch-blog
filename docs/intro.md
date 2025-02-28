@@ -37,7 +37,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 - 关注 [Twitter](https://twitter.com/chzhshch_eth)
 - 关注微信公众号<br/>
   <img src={useBaseUrl('/img/chanxishe.png')} style={{marginTop: '50', width: 360}} /><br/>
-- [捐赠](./donate.md)
+- <img src={useBaseUrl('/img/fire.png')} style={{marginTop: 10, width: 25, height: 25}} />[捐赠](./donate.md)
 
 # 链接
 </div>

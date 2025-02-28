@@ -13,7 +13,7 @@
 - 关注 [Twitter](https://twitter.com/chzhshch_eth)
 - 关注微信公众号<br/>
   <img src="/static/img/chanxishe.png" width="360" /><br/>
-- [捐赠](https://chzhshch.blog/donate)
+- <img src="/static/img/fire.png" width="25" height="25" />[捐赠](https://chzhshch.blog/donate)
 
 ## 本站地址
 
