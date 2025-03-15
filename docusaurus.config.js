@@ -351,13 +351,13 @@ const config = {
     // ],
   ],
 
-  // scripts: [
-  //   {
-  //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5686832782200002",
-  //     crossorigin: "anonymous",
-  //     async: true
-  //   }
-  // ]
+  scripts: [
+    {
+      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5686832782200002",
+      crossorigin: "anonymous",
+      async: true
+    }
+  ],
 
   // future: {
   //   experimental_router: 'hash',
