@@ -9,8 +9,8 @@ export default function ConditionalAdsense() {
   
   const shouldShowAdsense = adsenseConfig.shouldShowAdsense(currentPath);
   
-  console.log('Current path:', currentPath);
-  console.log('Should show ads:', shouldShowAdsense);
+  // console.log('Current path:', currentPath);
+  // console.log('Should show ads:', shouldShowAdsense);
   
   return shouldShowAdsense ? <GoogleAdsense /> : null;
 }
