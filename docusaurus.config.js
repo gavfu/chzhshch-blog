@@ -294,34 +294,30 @@ const config = {
       metadata: [
         {name: 'description', content: '缠中说禅, 缠论, 全球第一博客'}
       ],
-      // footer: {
-      //   // copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
-      //   links: [
-      //     {
-      //       html: `
-      //         <div>
-      //           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5686832782200002" crossorigin="anonymous"></script>
-      //           <!-- 我的展示广告-横向 -->
-      //           <ins class="adsbygoogle"
-      //             style="display:block"
-      //             data-ad-client="ca-pub-5686832782200002"
-      //             data-ad-slot="1204145775"
-      //             data-ad-format="auto"
-      //             data-full-width-responsive="true">
-      //             </ins>
-      //           <script>
-      //             (adsbygoogle = window.adsbygoogle || []).push({});
-      //           </script>
-      //         </div>
-      //         `,
-      //     },
-      //   ],
-      // }
-      // googleAdsense: {
-      //   dataAdClient: 'ca-pub-5686832782200002',
-      // },
+      footer: {
+        // copyright: `Copyright © ${new Date().getFullYear()}，缠中说禅`,
+        links: [
+          {
+            html: `
+              <div class="footer-adsense">
+                <!-- 我的展示广告-横向 -->
+                <ins class="adsbygoogle"
+                  style="display:block"
+                  data-ad-client="ca-pub-5686832782200002"
+                  data-ad-slot="1204145775"
+                  data-ad-format="auto"
+                  data-full-width-responsive="true">
+                </ins>
+                <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+              </div>
+              `,
+          },
+        ],
+      }
     }),
-  
+
     themes: [
       // ... Your other themes.
       [
